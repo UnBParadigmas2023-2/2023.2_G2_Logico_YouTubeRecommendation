@@ -24,8 +24,14 @@ Paradigmas:
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0013181 | Adne Moretti Moreira |
+| 20/0057227 | Caio Vitor Carneiro de Oliveira |
+| 19/0085819 | Cícero Barrozo Fernandes Filho |
+| 19/0045817 | Gabriel Costa de Oliveira |
+| 20/0018205 | Gabriel Moretti de Souza |
+| 20/0019015 | Guilherme Puida Moreira |
+| 20/0067923 | João Henrique Marques Calzavara |
+| 20/2023903 | Lucas Lopes Rocha |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
