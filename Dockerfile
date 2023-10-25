@@ -1,9 +1,9 @@
 FROM ubuntu:latest
 
-COPY .
+COPY . recommendation
 
 RUN apt-get update -y
 RUN apt-get install -y swi-prolog
 
-WORKDIR /src
+WORKDIR /recommendation/src
 ENTRYPOINT ["swipl", "main.pl"]
