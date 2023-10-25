@@ -1,9 +1,10 @@
 FROM ubuntu:latest
 
-COPY .
+COPY . recommendation
 
 RUN apt-get update -y
 RUN apt-get install -y swi-prolog
+RUN apt-get install -y xauth
 
-WORKDIR /src
+WORKDIR /recommendation/src
 ENTRYPOINT ["swipl", "main.pl"]
