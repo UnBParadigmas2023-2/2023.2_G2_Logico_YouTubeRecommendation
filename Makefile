@@ -1,3 +1,6 @@
+XORG_CONFIG = --net=host --env="DISPLAY" --volume="${HOME}/.Xauthority:/root/.Xauthority:rw"
+
+
 VENV_DIR = .venv
 VENV = $(VENV_DIR)/bin/activate
 
@@ -21,3 +24,9 @@ tmp/data.pl: tmp/videos.csv tmp/categories.json $(VENV)
 clean:
 	rm -rf $(VENV)
 	rm -rf tmp
+
+build:
+	docker build . -t recommendation
+
+run:
+	docker run -it ${XORG_CONFIG} --rm --name recommendation recommendation
