@@ -2,7 +2,6 @@
 :- use_module(library(format)).
 :- use_module(library(system)).
 
-% Exemplo de base de dados de vídeos (substitua pelos seus próprios dados)
 video("video1", "Título 1", "Descrição 1", "2023-10-23T14:30:00Z", "Categoria 1", 1000).
 video("video2", "Título 2", "Descrição 2", "2023-10-22T15:45:00Z", "Categoria 2", 1500).
 video("video3", "Título 3", "Descrição 3", "2023-10-15T12:15:00Z", "Categoria 1", 2000).
@@ -36,22 +35,22 @@ recomendar_videos(Opcao, VideosRecomendados) :-
 % Regras para recomendar vídeos com base na opção escolhida
 recomendar_videos_por_opcao("Última hora", DataAtual, VideosRecomendados) :-
     subtrair_horas(DataAtual, 1, DataAnterior),
-    findall(Video, (video(_, _, _, Data, _, _), Data >= DataAnterior), VideosRecomendados).
+    findall(Video, (video(_, _, Data, _, _, _, _, _, _, _), Data >= DataAnterior), VideosRecomendados).
 
 recomendar_videos_por_opcao("Hoje", DataAtual, VideosRecomendados) :-
-    findall(Video, (video(_, _, _, Data, _, _), Data = DataAtual), VideosRecomendados).
+    findall(Video, (video(_, _, Data, _, _, _, _, _, _, _), Data = DataAtual), VideosRecomendados).
 
 recomendar_videos_por_opcao("Esta semana", DataAtual, VideosRecomendados) :-
     subtrair_dias(DataAtual, 7, DataAnterior),
-    findall(Video, (video(_, _, _, Data, _, _), Data >= DataAnterior, Data =< DataAtual), VideosRecomendados).
+    findall(Video, (video(_, _, Data, _, _, _, _, _, _, _), Data >= DataAnterior, Data =< DataAtual), VideosRecomendados).
 
 recomendar_videos_por_opcao("Este mês", DataAtual, VideosRecomendados) :-
     subtrair_dias(DataAtual, 30, DataAnterior),
-    findall(Video, (video(_, _, _, Data, _, _), Data >= DataAnterior, Data =< DataAtual), VideosRecomendados).
+    findall(Video, (video(_, _, Data, _, _, _, _, _, _, _), Data >= DataAnterior, Data =< DataAtual), VideosRecomendados).
 
 recomendar_videos_por_opcao("Este ano", DataAtual, VideosRecomendados) :-
     subtrair_dias(DataAtual, 365, DataAnterior),
-    findall(Video, (video(_, _, _, Data, _, _), Data >= DataAnterior, Data =< DataAtual), VideosRecomendados).
+    findall(Video, (video(_, _, Data, _, _, _, _, _, _, _), Data >= DataAnterior, Data =< DataAtual), VideosRecomendados).
 
 
 
