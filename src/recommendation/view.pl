@@ -14,10 +14,8 @@ print_category([Category | T]) :-
 
 menu_general_recommend :-
     new(Dialog, dialog('Recomendacao Geral')),
-    send_list(Dialog,
-              append,
-              [new(Lpv, menu(genero, cycle))]),
-    forall(video(G), send_list(Lpv, append, G)),
+    send(Dialog,
+            new(Titulo, video(_, _, Title, _, Q)),
     send(Dialog, open).
 
 views_per_like(X) :-
@@ -28,4 +26,4 @@ views_per_like(X) :-
     send(Dialog, open).
 
 views():-
-    views_per_like(0.3).
+    menu_general_recommend().
