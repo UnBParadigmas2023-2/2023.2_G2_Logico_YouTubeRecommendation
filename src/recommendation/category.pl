@@ -1,10 +1,12 @@
-use_module(library(readutil)).
-:- [src/tmp/data].
+:- use_module(library(pce)).
+:- use_module(library(readutil)).
+:- [tmp/data].
 :- (dynamic category/1, video/5).
 :- debug.
 
 menu_general_recommend :-
     new(Dialog, dialog('Recomendacao Geral')),
+    send(Dialog, size, size(400, 200)), 
     send(Dialog, append, new(Titulo, text('Recomendação por categoria'))), 
      send_list(Dialog,
               append,
@@ -21,12 +23,12 @@ menu_general_recommend :-
     send(Dialog, open).
 
 filter_by_category(Categoria) :-
-     new(D, dialog('Vídeos Recomendados')),
-    findall(Video,
-            video(category,
+    new(D, dialog('Vídeos Recomendados')),
+    send(D, size, size(800, 800)), 
+     findall(Video,
+            video(Categoria,
                   _,
-                  _,
-                  _,
+                  Video,
                   _,
                   _),
             Titles),
