@@ -84,3 +84,20 @@ opcoes(5, "Este ano").
 
 % Defina as opções do menu
 opcoes_menu(["Última hora", "Hoje", "Esta semana", "Este mês", "Este ano"]).
+
+% Lista os vídeos recomendados
+listar_videos_dialogo(VideosRecomendados) :-
+    new(Dlg, dialog('Vídeos Recomendados')),
+    send(Dlg, append, new(Text, text)),
+    exibir_videos_recomendados(Text, VideosRecomendados),
+    send(Dlg, append, button(fechar, message(Dlg, destroy))),
+    send(Dlg, open).
+
+% Exibe os vídeos recomendados no componente de texto da caixa de diálogo
+exibir_videos_recomendados(Text, []) :-
+    send(Text, append, 'Nenhum vídeo recomendado no momento.').
+exibir_videos_recomendados(Text, [Video|Resto]) :-
+    video(Video, Titulo, _, Data, Categoria, Visualizacoes),
+    atomic_list_concat(['ID: ', Video, '\n', 'Título: ', Titulo, '\n', 'Data de Publicação: ', Data, '\n', 'Categoria: ', Categoria, '\n', 'Visualizações: ', Visualizacoes, '\n\n'], Descricao),
+    send(Text, append, Descricao),
+    exibir_videos_recomendados(Text, Resto).
