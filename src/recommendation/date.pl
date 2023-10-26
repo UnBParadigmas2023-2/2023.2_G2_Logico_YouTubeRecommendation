@@ -1,27 +1,27 @@
 :- use_module(library(pce)).
 :- use_module(library(dcg/basics)).
-:- use_module(library(format)).
+% :- use_module(library(format)).
 :- use_module(library(system)).
 
 % Obtém a data e hora atuais no formato desejado
 get_current_date(DataAtual) :-
     get_time(TimeStamp),
     stamp_date_time(TimeStamp, DateTime, 'UTC'),
-    format_time(atom(DataAtual, '%FT%T%z', DateTime)).
+    format_time(atom(DataAtual), '%FT%TZ', DateTime).
 
 % Subtrai uma quantidade específica de horas de uma data e hora no formato desejado
 subtrair_horas(DataHora, HorasASubtrair, NovaDataHora) :-
     parse_time(DataHora, DataTime),
     SegundosASubtrair is HorasASubtrair * 3600, % Converte horas em segundos
     DataTime - SegundosASubtrair,
-    format_time(atom(NovaDataHora, '%FT%T%z', DataTime)).
+    format_time(atom(NovaDataHora), '%FT%TZ', DataTime).
 
 % Subtrai uma quantidade específica de dias de uma data e hora no formato desejado
 subtrair_dias(DataHora, DiasASubtrair, NovaDataHora) :-
     parse_time(DataHora, DataTime),
     SegundosASubtrair is DiasASubtrair * 86400, % Converte dias em segundos
     DataTime - SegundosASubtrair,
-    format_time(atom(NovaDataHora, '%FT%T%z', DataTime)).
+    format_time(atom(NovaDataHora), '%FT%TZ', DataTime).
 
 % Regra para recomendar vídeos com base na data de upload
 recomendar_videos(Opcao, VideosRecomendados) :-
