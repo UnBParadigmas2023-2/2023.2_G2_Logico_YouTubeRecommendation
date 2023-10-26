@@ -15,7 +15,7 @@ print_category([Category | T]) :-
 menu_general_recommend :-
     new(Dialog, dialog('Recomendacao Geral')),
     send(Dialog,
-            new(Titulo, video(_, _, Title, _, Q)),
+            new(Titulo, video(_, _, Title, _, Q))),
     send(Dialog, open).
 
 views_per_like(X) :-

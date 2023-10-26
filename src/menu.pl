@@ -4,23 +4,58 @@ question_age(D) :-
 	% Define question
 	show_question(D).
 
-show_question(D) :-
-	send(D, clear),
-	new(T, text('EAI')),
-	new(F, font(screen, bold, 20)),
-	send(T, font(F)),
-	send(T, colour('#000000')),
-	send(D, gap, size(10,10)),
-	send(D, append, T),
-	send(D, layout). 
-
 show_menu :-
 	new(Dialog, dialog('Youtube Recommendation')),
-   	send(Dialog, size, size(800, 800)), 
-	send(Dialog, background, '#e23e1a'), 
-	new(End, button('End', and(message(Dialog, destroy)))),
-	new(Begin, button('Begin', and(message(@prolog, show_question, Dialog)))), 
-	send_list([Begin, End], size(size(400, 50))), 
-	send(Dialog, append(Begin)), 
-	send(Dialog, append(End)),
-	send(Dialog, open_centered). 
+  send(Dialog, size, size(800, 800)), 
+	send(Dialog, background, '#DEF1ED'), 
+  send(Dialog, open),
+  
+  voce_gosta_de_aventura(Dialog), !.
+
+voce_gosta_de_aventura(Dialog) :- 
+  nb_setval(pergunta, "Você gota de aventura"),
+  fazer_pergunta(Dialog),
+  voce_gosta_de_anime(Dialog),
+  !.
+
+voce_gosta_de_anime(Dialog) :-
+  nb_setval(pergunta, "Você gota de anime"),
+  fazer_pergunta(Dialog), !.
+
+
+fazer_pergunta(Dialog) :- 
+
+  send(Dialog, clear),
+
+  % Criando o texto da pergunto
+  nb_getval(pergunta, TextoDaPergunta),
+  new(Texto, text(TextoDaPergunta)),
+  send(Texto, font, font(default, bold, 40)),
+  send(Dialog, append, Texto),
+
+  %
+
+  send(Dialog, append, new(BTS, dialog_group(buttons, group))),
+
+  % Criando o botão "Sim" e defina seu tamanho
+  new(B2, button('Sim')),
+  send(B2, size, size(200, 200)),
+  send(B2, message, message(@prolog, tratar_resposta, TextoDaPergunta, 1)),
+  send(BTS, append, B2, right),
+
+  % Criando o botão "Não" e defina seu tamanho
+  new(B1, button('Não')),
+  send(B1, size, size(200, 200)),
+  send(B1, message, message(@prolog, tratar_resposta, TextoDaPergunta, 2)),
+  send(BTS, append, B1, below),
+
+  send(B2, font, font(default, bold)),
+
+  send(BTS, layout_dialog),
+  send(Dialog, layout).
+
+
+tratar_resposta(Pergunta, Resposta) :-
+  write('Pergunta: '), write(Pergunta), nl,
+  write('Resposta: '), write(Resposta).
+

@@ -1,5 +1,4 @@
-    :-[menu]. 
-    
-   main :-
-	write("aqui"), 
+:- [menu].
+
+ main :-
    	show_menu. 
