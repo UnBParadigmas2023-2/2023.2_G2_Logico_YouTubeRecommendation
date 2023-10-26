@@ -19,18 +19,21 @@ categories = (
 videos = (
     videos_df
     .unique(subset=["title", "channelTitle"])
+    .filter(
+        pl.col("publishedAt").dt.year() == 2023,
+    )
     .select(
         pl.col("categoryId"),
         pl.col("title").str.replace_all("'", "\\'").str.strip_chars(),
         pl.col("channelTitle").str.replace_all("'", "\\'").str.strip_chars(),
-        (pl.col("publishedAt").dt.date() - datetime(2020, 8, 6)).dt.days(),
+        pl.col("publishedAt"),
         (pl.col("likes") / pl.col("view_count")).alias("lpv"),
     )
 )
 
 videos_with_categories = (
     videos
-    .join(categories, left_on="categoryId", right_on="id", how="inner")
+    .join(categories, left_on="categoryId", right_on="id")
     .select(
         pl.all().exclude("categoryId", "title_right"),
         pl.col("title_right").alias("category"),
@@ -56,8 +59,10 @@ channels_pl = [
     )
 ]
 
+format_datetime = lambda x: x.strftime("%Y-%m-%dT%H:%M:%SZ")
+
 videos_pl = [
-    f"video('{cat}', '{chan}', '{title}', {off}, {lpv})."
+    f"video('{cat}', '{chan}', '{title}', '{format_datetime(off)}', {lpv})."
     for (cat, chan, title, off, lpv)
     in (
         videos_with_categories

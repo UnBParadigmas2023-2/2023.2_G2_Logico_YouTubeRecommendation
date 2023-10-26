@@ -16,7 +16,7 @@ tmp/categories.json:
 	mkdir -p $(@D)
 	curl -fsSL --compressed https://files.puida.xyz/paradigmas/categories.json -o $@
 
-tmp/data.pl: tmp/videos.csv tmp/categories.json $(VENV)
+tmp/data.pl: generate-db.py tmp/videos.csv tmp/categories.json $(VENV)
 	mkdir -p $(@D)
 	. $(VENV) && python3 generate-db.py > $@
 
