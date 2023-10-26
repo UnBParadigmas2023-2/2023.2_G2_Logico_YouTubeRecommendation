@@ -33,7 +33,7 @@ videos = (
 
 videos_with_categories = (
     videos
-    .join(categories, left_on="categoryId", right_on="id", how="inner")
+    .join(categories, left_on="categoryId", right_on="id")
     .select(
         pl.all().exclude("categoryId", "title_right"),
         pl.col("title_right").alias("category"),
