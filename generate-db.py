@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timezone
 import polars as pl
 
 categories_df = pl.read_json("tmp/categories.json")
@@ -59,7 +59,8 @@ channels_pl = [
     )
 ]
 
-format_datetime = lambda x: x.strftime("%Y-%m-%dT%H:%M:%SZ")
+epoch = datetime(1970, 1, 1, tzinfo=timezone.utc)
+format_datetime = lambda x: (x - epoch).total_seconds()
 
 videos_pl = [
     f"video('{cat}', '{chan}', '{title}', '{format_datetime(off)}', {lpv})."
