@@ -1,10 +1,6 @@
 XORG_CONFIG = --net=host --env="DISPLAY" --volume="${HOME}/.Xauthority:/root/.Xauthority:rw"
 
 
-<<<<<<< HEAD
-run:
-	docker run -it ${XORG_CONFIG} --rm --name chess chess
-=======
 VENV_DIR = .venv
 VENV = $(VENV_DIR)/bin/activate
 
@@ -20,7 +16,7 @@ tmp/categories.json:
 	mkdir -p $(@D)
 	curl -fsSL --compressed https://files.puida.xyz/paradigmas/categories.json -o $@
 
-tmp/data.pl: tmp/videos.csv tmp/categories.json $(VENV)
+tmp/data.pl: generate-db.py tmp/videos.csv tmp/categories.json $(VENV)
 	mkdir -p $(@D)
 	. $(VENV) && python3 generate-db.py > $@
 
@@ -34,4 +30,3 @@ build:
 
 run:
 	docker run -it ${XORG_CONFIG} --rm --name recommendation recommendation
->>>>>>> 0800fa74f6fde6c38595399c7d52e97fcfad93d5

@@ -1,20 +1,7 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-
-**!! *Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(Paradigma)_(NomeDoProjeto)*. !!** 
-
-Paradigmas:
- - Funcional
- - Logico
- - SMA
- 
- (Apague esses comentários)
-
-# NomeDoProjeto
+# YouTube Recommendation
 
 **Disciplina**: FGA0210 - PARADIGMAS DE PROGRAMAÇÃO - T01 <br>
-**Nro do Grupo (de acordo com a Planilha de Divisão dos Grupos)**: XX<br>
+**Nro do Grupo**: 02<br>
 **Paradigma**: Lógico<br>
 
 ## Alunos
@@ -37,10 +24,13 @@ Capriche nessa seção, pois ela é a primeira a ser lida pelos interessados no 
 
 ## Screenshots
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+![]()
+![]()
+![]()
 
 ## Instalação 
 **Linguagens**: Prolog<br>
-**Tecnologias**: xxxxxx<br>
+**Tecnologias**: SWI-Prolog<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 Insira um manual ou um script para auxiliar ainda mais.
 Gifs animados e outras ilustrações são bem-vindos!
@@ -71,18 +61,27 @@ OBS: TODOS DEVEM PARTICIPAR, CONFERINDO PONTOS DE VISTA.
 TEMPO: +/- 15min
 
 ## Participações
-Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 |Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 | -- | -- | -- |
-| Fulano  |  Programação dos Fatos da Base de Conhecimento Lógica | Boa |
+| Adne Moretti Moreira | --- | Excelente |
+| Caio Vitor Carneiro de Oliveira | --- | Excelente |
+| Cícero Barrozo Fernandes Filho | --- | Excelente |
+| Gabriel Costa de Oliveira | --- | Excelente |
+| Gabriel Moretti de Souza | --- | Excelente |
+| Guilherme Puida Moreira | --- | Excelente |
+| João Henrique Marques Calzavara | --- | Excelente |
+| Lucas Lopes Rocha | --- | Excelente |
 
-## Outros 
-Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não esqueça, entretanto, de informar sobre:
-(i) Lições Aprendidas;
-(ii) Percepções;
-(iii) Contribuições e Fragilidades, e
-(iV) Trabalhos Futuros.
+## Outros
+
+### Lições Aprendidas
+
+### Contribuições
+
+### Fragilidades
+
+### Melhorias Futuras ao Trabalho
+
 
 ## Fontes
-Referencie, adequadamente, as referências utilizadas.
-Indique ainda sobre fontes de leitura complementares.
+- Inspirado em: https://github.com/UnBParadigmas2022-1/2022.1_G5_Logico_SpotifyRecommendation;
