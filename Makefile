@@ -20,6 +20,9 @@ tmp/data.pl: generate-db.py tmp/videos.csv tmp/categories.json $(VENV)
 	mkdir -p $(@D)
 	. $(VENV) && python3 generate-db.py > $@
 
+src/data.pl: tmp/data.pl
+	cp $< $@
+
 .PHONY: clean
 clean:
 	rm -rf $(VENV)
