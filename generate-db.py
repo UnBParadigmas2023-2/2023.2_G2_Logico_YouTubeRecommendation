@@ -59,8 +59,10 @@ channels_pl = [
     )
 ]
 
+format_datetime = lambda x: x.strftime("%Y-%m-%dT%H:%M:%SZ")
+
 videos_pl = [
-    f"video('{cat}', '{chan}', '{title}', {off}, {lpv})."
+    f"video('{cat}', '{chan}', '{title}', '{format_datetime(off)}', {lpv})."
     for (cat, chan, title, off, lpv)
     in (
         videos_with_categories
