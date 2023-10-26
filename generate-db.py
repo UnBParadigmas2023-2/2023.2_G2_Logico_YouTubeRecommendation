@@ -19,6 +19,9 @@ categories = (
 videos = (
     videos_df
     .unique(subset=["title", "channelTitle"])
+    .filter(
+        pl.col("publishedAt").dt.year() == 2023,
+    )
     .select(
         pl.col("categoryId"),
         pl.col("title").str.replace_all("'", "\\'").str.strip_chars(),
