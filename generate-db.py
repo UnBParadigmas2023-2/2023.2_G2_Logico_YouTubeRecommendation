@@ -26,7 +26,7 @@ videos = (
         pl.col("categoryId"),
         pl.col("title").str.replace_all("'", "\\'").str.strip_chars(),
         pl.col("channelTitle").str.replace_all("'", "\\'").str.strip_chars(),
-        (pl.col("publishedAt").dt.date() - datetime(2020, 8, 6)).dt.days(),
+        pl.col("publishedAt"),
         (pl.col("likes") / pl.col("view_count")).alias("lpv"),
     )
 )
