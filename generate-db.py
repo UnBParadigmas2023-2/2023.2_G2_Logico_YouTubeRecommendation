@@ -59,11 +59,10 @@ channels_pl = [
     )
 ]
 
-epoch = datetime(1970, 1, 1, tzinfo=timezone.utc)
-format_datetime = lambda x: (x - epoch).total_seconds()
+format_datetime = lambda x: x.timestamp()
 
 videos_pl = [
-    f"video('{cat}', '{chan}', '{title}', '{format_datetime(off)}', {lpv})."
+    f"video('{cat}', '{chan}', '{title}', {format_datetime(off)}, {lpv})."
     for (cat, chan, title, off, lpv)
     in (
         videos_with_categories
