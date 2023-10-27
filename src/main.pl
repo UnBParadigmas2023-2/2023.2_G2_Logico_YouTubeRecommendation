@@ -1,5 +1,5 @@
-:- [mainmenu].
-:- [recommendation].
+:- [src/filter].
+:- [src/recommendation].
 
 initial_menu :-
 	new(Dialog, dialog('Youtube Recommendation')),
@@ -11,15 +11,16 @@ initial_menu :-
 	send(Dialog, size, size(800, 800)),
 	send(Dialog, background, '#e23e1a'),
 	new(End, button('End', and(message(Dialog, destroy)))),
-	new(Recommendation, button('Recommendation', and(message(@prolog, recomendar)))),
+	new(Recommendation, button('Recommendation', and(message(@prolog, mostra_recomendacao, Dialog)))),
 	new(Filter, button('Filter', and(message(@prolog, filtrar)))),
 	send(Dialog, append(Recommendation)),
 	send(Dialog, append(Filter)),
 	send(Dialog, append(End)),
 	send(Dialog, open_centered).
 
-% mostra_r(Dialog) :-
-%   send (Dialog, destroy, recomendar.
+mostra_recomendacao(Dialog) :-
+  send(Dialog, destroy),
+  recomendar.
 
 main :-
   initial_menu.
