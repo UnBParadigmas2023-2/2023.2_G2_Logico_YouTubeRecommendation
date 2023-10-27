@@ -45,12 +45,11 @@ opcoes_proporcao(R) :-
 
 format_video(Category, Channel, Name, Result) :-
   format(atom(Result), '~w | ~w | ~w', [Category, Channel, Name]).
-  
+
 filtrar(Dialog) :-
   send(Dialog, clear),
-  send(Dialog, size, size(900, 900)),
-  send(Dialog, background, '#e23e1a'), 
-  send_list(Dialog, append,
+  send(Dialog, append, new(Group, dialog_group(buttons, group))),
+  send_list(Group, append,
             [ new(D, menu(data, cycle)),
               new(C, menu(categoria, cycle)),
               new(P, menu(proporcao_de_likes, cycle)),
@@ -67,8 +66,9 @@ filtrar(Dialog) :-
   send_list(P, append, OPP),
   send(C, append, todas),
   forall(category(CC), send(C, append, CC)),
-  send(Dialog, default_button, pesquisar),
-  send(Dialog, open).
+  send(Dialog, layout_dialog),
+  send(Dialog, layout)
+  .
 
 filtrar_recomendacoes(D, C, P, R) :-
   data_por_opcao(D, DataLimite),
