@@ -10,6 +10,11 @@ meses_em_segundos(Meses, Segundos) :-
 data_por_opcao(sempre, Resultado) :-
   Resultado is 0.
 
+data_por_opcao(ano, Data) :-
+  get_time(DataAtual),
+  meses_em_segundos(12, Segundos),
+  Data is (DataAtual - Segundos).
+
 data_por_opcao(semestre, Data) :-
   get_time(DataAtual),
   meses_em_segundos(6, Segundos),
@@ -67,8 +72,7 @@ filtrar(Dialog) :-
   send(C, append, todas),
   forall(category(CC), send(C, append, CC)),
   send(Dialog, layout_dialog),
-  send(Dialog, layout)
-  .
+  send(Dialog, layout).
 
 filtrar_recomendacoes(D, C, P, R) :-
   data_por_opcao(D, DataLimite),
