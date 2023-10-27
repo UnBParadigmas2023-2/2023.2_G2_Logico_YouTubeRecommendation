@@ -61,6 +61,21 @@ recomendar :-
   send(Dialog, default_button, pesquisar),
   send(Dialog, open).
 
+filtrar_recomendacoes(D, C, P, R) :-
+  data_por_opcao(D, DataLimite),
+  proporcao_por_opcao(P, Low, High),
+  findall(
+    Out,
+    (
+      video(Cat, Chan, Nome, Data, Lpv),
+      Data >= DataLimite,
+      (C = todas ; Cat = C),
+      Lpv >= Low, Lpv =< High,
+      format_video(Cat, Chan, Nome, Out)
+    ),
+    R
+  ).
+
 mostrar_recomendacoes(D, C, P) :-
   new(Dialog, dialog('Recomendações')),
   send(Dialog, size, size(1000, 900)),
@@ -68,19 +83,8 @@ mostrar_recomendacoes(D, C, P) :-
             [ button(fechar, message(Dialog, destroy)),
               new(LB, list_browser)
             ]),
-  data_por_opcao(D, DataLimite),
-  proporcao_por_opcao(P, Low, High),
   send(LB, size, size(150, 50)),
-  forall(
-    (
-      video(Cat, Chan, Nome, Data, Lpv),
-      Data >= DataLimite,
-      (C = todas; Cat = C),
-      Lpv >= Low,
-      Lpv =< High,
-      format_video(Cat, Chan, Nome, R)
-    ),
-    send(LB, append, R)
-  ),
+  filtrar_recomendacoes(D, C, P, R),
+  send_list(LB, append, R),
   send(Dialog, default_button, fechar),
   send(Dialog, open).
