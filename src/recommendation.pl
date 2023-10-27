@@ -1,21 +1,18 @@
 :- use_module(library(pce)). 
 
-
 recomendar(Dialog) :-
-  voce_gosta_de_aventura(Dialog), !.
+	voce_gosta_de_aventura(Dialog), !.
 
-voce_gosta_de_aventura(Dialog) :- 
+voce_gosta_de_aventura(Dialog) :-
   nb_setval(pergunta, "Você gosta de aventura?"),
   fazer_pergunta(Dialog),
-  voce_gosta_de_anime(Dialog),
-  !.
+  voce_gosta_de_anime(Dialog).
 
 voce_gosta_de_anime(Dialog) :-
-  nb_setval(pergunta, "Você gosta de anime?"),
+  nb_setval(pergunta, ""),
   fazer_pergunta(Dialog), !.
 
 fazer_pergunta(Dialog) :- 
-
   send(Dialog, clear),
 
   % Criando o texto da pergunto

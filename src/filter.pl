@@ -1,5 +1,5 @@
 :- use_module(library(pce)).
-:- [src/data].
+:- [data].
 
 dias_em_segundos(Dias, Segundos) :-
   Segundos is (Dias * 24 * 3600).
@@ -45,30 +45,6 @@ opcoes_proporcao(R) :-
 
 format_video(Category, Channel, Name, Result) :-
   format(atom(Result), '~w | ~w | ~w', [Category, Channel, Name]).
-
-filtrar(Dialog) :-
-  send(Dialog, clear),
-  send(Dialog, append, new(Group, dialog_group(buttons, group))),
-  send_list(Group, append,
-            [ new(D, menu(data, cycle)),
-              new(C, menu(categoria, cycle)),
-              new(P, menu(proporcao_de_likes, cycle)),
-              button(fechar, message(Dialog, destroy)),
-              button(pesquisar, and(message(@prolog,
-                                            mostrar_recomendacoes,
-                                            D?selection,
-                                            C?selection,
-                                            P?selection)))
-            ]),
-  opcoes_data(OP),
-  send_list(D, append, OP),
-  opcoes_proporcao(OPP),
-  send_list(P, append, OPP),
-  send(C, append, todas),
-  forall(category(CC), send(C, append, CC)),
-  send(Dialog, layout_dialog),
-  send(Dialog, layout)
-  .
 
 filtrar_recomendacoes(D, C, P, R) :-
   data_por_opcao(D, DataLimite),
