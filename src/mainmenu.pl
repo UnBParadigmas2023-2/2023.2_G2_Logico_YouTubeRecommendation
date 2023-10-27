@@ -1,3 +1,4 @@
+:- use_module(library(pce)).
 :- [src/data].
 
 dias_em_segundos(Dias, Segundos) :-
@@ -39,7 +40,7 @@ proporcao_por_opcao(alta, Low, High) :-
 format_video(Category, Channel, Name, Result) :-
   format(atom(Result), '~w | ~w | ~w', [Category, Channel, Name]).
 
-recomendar_por_data :-
+recomendar :-
   new(Dialog, dialog('Recomendar por data')),
   send(Dialog, size, size(900, 900)),
   send_list(Dialog, append,

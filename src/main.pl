@@ -1,4 +1,4 @@
-:- [menu].
+:- [src/mainmenu].
 
- main :-
-   	show_menu. 
+main :-
+  recomendar.
