@@ -71,17 +71,19 @@ format_total(T, R) :-
 
 mostrar_recomendacoes(D, C, P) :-
   new(Dialog, dialog('Recomendacoes')),
+  new(F, font(screen, bold, 12)),
   send(Dialog, background, '#e23e1a'),
-  send(Dialog, size, size(1000, 900)),
-  send_list(Dialog, append,
-            [ new(LB, list_browser),
-              button(fechar, message(Dialog, destroy))
-            ]),
+  send(Dialog, size, size(1100, 900)),
+  send(Dialog, append, new(LB, list_browser)),
   send(LB, size, size(150, 50)),
+  send(LB, font, F),
+
   filtrar_recomendacoes(D, C, P, R),
   send_list(LB, append, R),
   length(R, L),
   format_total(L, T),
-  send(Dialog, append, text(T)),
+  send(Dialog, append, text(T, center, F)),
+
+  send(Dialog, append, button(fechar, message(Dialog, destroy))),
   send(Dialog, default_button, fechar),
   send(Dialog, open_centered).
