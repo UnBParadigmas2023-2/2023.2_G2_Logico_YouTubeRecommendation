@@ -1,4 +1,4 @@
 :- [src/mainmenu].
 
 main :-
-  recomendar.
+  initial_menu.

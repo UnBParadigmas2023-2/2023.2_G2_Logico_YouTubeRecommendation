@@ -4,10 +4,11 @@ question_age(D) :-
 	% Define question
 	show_question(D).
 
+
 show_menu :-
 	new(Dialog, dialog('Youtube Recommendation')),
   send(Dialog, size, size(800, 800)), 
-	send(Dialog, background, '#DEF1ED'), 
+	send(Dialog, background, '#e23e1a'), 
   send(Dialog, open),
   
   voce_gosta_de_aventura(Dialog), !.

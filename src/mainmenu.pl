@@ -39,10 +39,12 @@ proporcao_por_opcao(alta, Low, High) :-
 
 format_video(Category, Channel, Name, Result) :-
   format(atom(Result), '~w | ~w | ~w', [Category, Channel, Name]).
-
+  
 recomendar :-
+  send(Dialog, clear),
   new(Dialog, dialog('Recomendar por data')),
   send(Dialog, size, size(900, 900)),
+  send(Dialog, background, '#e23e1a'), 
   send_list(Dialog, append,
             [ new(D, menu(data, cycle)),
               new(C, menu(categoria, cycle)),
@@ -60,6 +62,34 @@ recomendar :-
   forall(category(CC), send(C, append, CC)),
   send(Dialog, default_button, pesquisar),
   send(Dialog, open).
+
+initial_menu :-
+	new(Dialog, dialog('Youtube Recommendation')),
+  new(Title, text('Welcome to Youtube Recommendation')),
+	new(Mode_text, text('Choose the recommendation mode')),
+	new(F, font(screen, bold, 20)),
+  send(Title, font(F)), 
+  send(Mode_text, font(F)), 
+  send(Dialog, size, size(800, 800)), 
+	send(Dialog, background, '#e23e1a'), 
+	new(End, button('End', and(message(Dialog, destroy)))),
+	new(Recommendation, button('Recommendation', and(message(@prolog, show_question, Dialog)))),
+  new(Filter, button('Filter', and(message(recomendar)))), 
+	send(Dialog, append(Recommendation)), 
+  send(Dialog, append(Filter)), 
+	send(Dialog, append(End)),
+	send(Dialog, open_centered). 
+
+
+show_question(D) :-
+	send(D, clear),
+	new(T, text('EAI')),
+	new(F, font(screen, bold, 20)),
+	send(T, font(F)),
+	send(T, colour('#000000')),
+	send(D, gap, size(10,10)),
+	send(D, append, T),
+	send(D, layout). 
 
 mostrar_recomendacoes(D, C, P) :-
   new(Dialog, dialog('Recomendações')),
