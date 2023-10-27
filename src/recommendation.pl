@@ -1,7 +1,9 @@
 :- use_module(library(pce)). 
 
 recomendar(Dialog) :-
-	voce_gosta_de_aventura(Dialog), !.
+  List = [],
+  fazer_perguntas(Dialog, List).
+	% voce_gosta_de_aventura(Dialog, List), !.
 
 voce_gosta_de_aventura(Dialog) :-
   nb_setval(pergunta, "Você gosta de aventura?"),
