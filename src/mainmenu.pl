@@ -84,15 +84,21 @@ filtrar_recomendacoes(D, C, P, R) :-
     R
   ).
 
+format_total(T, R) :-
+  format(atom(R), 'Total de Items: ~d', [T]).
+
 mostrar_recomendacoes(D, C, P) :-
   new(Dialog, dialog('Recomendações')),
   send(Dialog, size, size(1000, 900)),
   send_list(Dialog, append,
-            [ button(fechar, message(Dialog, destroy)),
-              new(LB, list_browser)
+            [ new(LB, list_browser),
+              button(fechar, message(Dialog, destroy))
             ]),
   send(LB, size, size(150, 50)),
   filtrar_recomendacoes(D, C, P, R),
   send_list(LB, append, R),
+  length(R, L),
+  format_total(L, T),
+  send(Dialog, append, text(T)),
   send(Dialog, default_button, fechar),
   send(Dialog, open).
