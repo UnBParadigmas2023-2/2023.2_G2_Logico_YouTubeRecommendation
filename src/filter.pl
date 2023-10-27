@@ -10,6 +10,11 @@ meses_em_segundos(Meses, Segundos) :-
 data_por_opcao(sempre, Resultado) :-
   Resultado is 0.
 
+data_por_opcao(ano, Data) :-
+  get_time(DataAtual),
+  meses_em_segundos(12, Segundos),
+  Data is (DataAtual - Segundos).
+
 data_por_opcao(semestre, Data) :-
   get_time(DataAtual),
   meses_em_segundos(6, Segundos),
@@ -66,6 +71,7 @@ format_total(T, R) :-
 
 mostrar_recomendacoes(D, C, P) :-
   new(Dialog, dialog('Recomendacoes')),
+  send(Dialog, background, '#e23e1a'),
   send(Dialog, size, size(1000, 900)),
   send_list(Dialog, append,
             [ new(LB, list_browser),

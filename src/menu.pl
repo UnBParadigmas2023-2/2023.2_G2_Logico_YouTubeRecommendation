@@ -23,25 +23,25 @@ menu_inicial(Dialog) :-
 	send(Dialog, open_centered).
 
 filtrar(Dialog) :-
-	send(Dialog, clear),
-	send(Dialog, append, new(Group, dialog_group(buttons, group))),
-	send_list(Group, append,
-				[ new(D, menu(data, cycle)),
-				new(C, menu(categoria, cycle)),
-				new(P, menu(proporcao_de_likes, cycle)),
-				button(voltar, message(@prolog, menu_inicial, Dialog)),
-				button(pesquisar, and(message(@prolog,
-												mostrar_recomendacoes,
-												D?selection,
-												C?selection,
-												P?selection)))
-				]),
-	opcoes_data(OP),
-	send_list(D, append, OP),
-	opcoes_proporcao(OPP),
-	send_list(P, append, OPP),
-	send(C, append, todas),
-	forall(category(CC), send(C, append, CC)),
-	send(Dialog, layout_dialog),
-	send(Dialog, layout).
+  send(Dialog, clear),
+  send(Dialog, append, new(Group, dialog_group(buttons, group))),
+  send_list(Group, append,
+            [ new(D, menu(data, cycle)),
+              new(C, menu(categoria, cycle)),
+              new(P, menu(proporcao_de_likes, cycle)),
+              button(fechar, message(Dialog, destroy)),
+              button(pesquisar, and(message(@prolog,
+                                            mostrar_recomendacoes,
+                                            D?selection,
+                                            C?selection,
+                                            P?selection)))
+            ]),
+  opcoes_data(OP),
+  send_list(D, append, OP),
+  opcoes_proporcao(OPP),
+  send_list(P, append, OPP),
+  send(C, append, todas),
+  forall(category(CC), send(C, append, CC)),
+  send(Dialog, layout_dialog),
+  send(Dialog, layout).
 

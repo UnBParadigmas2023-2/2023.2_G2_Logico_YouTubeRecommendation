@@ -20,7 +20,7 @@ videos = (
     videos_df
     .unique(subset=["title", "channelTitle"])
     .filter(
-        pl.col("publishedAt").dt.year() == 2023,
+        pl.col("publishedAt").dt.year() >= 2022
     )
     .select(
         pl.col("categoryId"),
@@ -42,16 +42,17 @@ videos_with_categories = (
 
 categories_pl = [
     f"category('{c}')." for (c,) in (
-        categories
-        .select("title")
-        .sort("title")
+        videos_with_categories
+        .select("category")
+        .unique()
+        .sort("category")
         .iter_rows()
     )
 ]
 
 channels_pl = [
     f"channel('{c}')." for (c,) in (
-        videos
+        videos_with_categories
         .select("channelTitle")
         .unique()
         .sort("channelTitle")
