@@ -1,12 +1,7 @@
 :- use_module(library(pce)). 
 
 
-recomendar :-
-	new(Dialog, dialog('Youtube Recommendation')),
-  send(Dialog, size, size(800, 800)),
-	send(Dialog, background, '#e23e1a'),
-  send(Dialog, open),
-  
+recomendar(Dialog) :-
   voce_gosta_de_aventura(Dialog), !.
 
 voce_gosta_de_aventura(Dialog) :- 
@@ -26,7 +21,7 @@ fazer_pergunta(Dialog) :-
   % Criando o texto da pergunto
   nb_getval(pergunta, TextoDaPergunta),
   new(Texto, text(TextoDaPergunta)),
-  send(Texto, font, font(default, bold, 40)),
+  send(Texto, font, font(default, bold, 30)),
   send(Dialog, append, Texto),
 
   %
