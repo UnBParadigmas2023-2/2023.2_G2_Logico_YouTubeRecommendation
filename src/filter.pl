@@ -67,7 +67,7 @@ filtrar_recomendacoes(D, C, P, R) :-
   ).
 
 format_total(T, R) :-
-  format(atom(R), 'Total de Items: ~d', [T]).
+  format(atom(R), 'Total de Vídeos: ~d', [T]).
 
 mostrar_recomendacoes(D, C, P) :-
   new(Dialog, dialog('Recomendacoes')),
