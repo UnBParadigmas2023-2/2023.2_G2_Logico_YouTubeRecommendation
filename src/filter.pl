@@ -90,6 +90,7 @@ format_total(T, R) :-
 
 mostrar_recomendacoes(D, C, P) :-
   new(Dialog, dialog('Recomendacoes')),
+  send(Dialog, background, '#e23e1a'),
   send(Dialog, size, size(1000, 900)),
   send_list(Dialog, append,
             [ new(LB, list_browser),
