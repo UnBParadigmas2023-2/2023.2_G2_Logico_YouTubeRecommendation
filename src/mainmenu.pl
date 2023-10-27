@@ -7,9 +7,12 @@ dias_em_segundos(Dias, Segundos) :-
 meses_em_segundos(Meses, Segundos) :-
   dias_em_segundos(Meses * 30, Segundos).
 
-data_por_opcao(duas_semanas, Data) :-
+data_por_opcao(sempre, Resultado) :-
+  Resultado is 0.
+
+data_por_opcao(semestre, Data) :-
   get_time(DataAtual),
-  dias_em_segundos(14, Segundos),
+  meses_em_segundos(6, Segundos),
   Data is (DataAtual - Segundos).
 
 data_por_opcao(mes, Data) :-
@@ -17,13 +20,13 @@ data_por_opcao(mes, Data) :-
   meses_em_segundos(1, Segundos),
   Data is (DataAtual - Segundos).
 
-data_por_opcao(semestre, Data) :-
+data_por_opcao(duas_semanas, Data) :-
   get_time(DataAtual),
-  meses_em_segundos(6, Segundos),
+  dias_em_segundos(14, Segundos),
   Data is (DataAtual - Segundos).
 
-data_por_opcao(sempre, Resultado) :-
-  Resultado is 0.
+opcoes_data(R) :-
+  findall(N, data_por_opcao(N, _), R).
 
 proporcao_por_opcao(todos, Low, High) :-
   Low is 0, High is 1.
@@ -36,6 +39,9 @@ proporcao_por_opcao(media, Low, High) :-
 
 proporcao_por_opcao(alta, Low, High) :-
   Low is 0.2, High is 0.3.
+
+opcoes_proporcao(R) :-
+  findall(N, proporcao_por_opcao(N, _, _), R).
 
 format_video(Category, Channel, Name, Result) :-
   format(atom(Result), '~w | ~w | ~w', [Category, Channel, Name]).
@@ -54,8 +60,10 @@ recomendar :-
                                             C?selection,
                                             P?selection)))
             ]),
-  send_list(D, append, [sempre, duas_semanas, mes, semestre]),
-  send_list(P, append, [todos, baixa, media, alta]),
+  opcoes_data(OP),
+  send_list(D, append, OP),
+  opcoes_proporcao(OPP),
+  send_list(P, append, OPP),
   send(C, append, todas),
   forall(category(CC), send(C, append, CC)),
   send(Dialog, default_button, pesquisar),
