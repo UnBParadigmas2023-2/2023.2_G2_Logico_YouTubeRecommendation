@@ -14,11 +14,11 @@ category('Science & Technology').
 category('Sports').
 category('Travel & Events').
 
-preference('Culture', ['People & Blogs', 'Travel & Events', 'Howto & Style', 'News & Politics']).
-preference('Study', ['Education', 'Science & Technology']).
-preference('Adrenaline', ['Sports', 'Gaming', 'Autos & Vehicles']).
-preference('Series', ['Music', 'Entertainment', 'Film & Animation', 'Comedy']).
-preference('Science', ['Entertainment', 'Science & Technology']).
+preference(1, ['People & Blogs', 'Travel & Events', 'Howto & Style', 'News & Politics']).
+preference(2, ['Education', 'Science & Technology']).
+preference(3, ['Sports', 'Gaming', 'Autos & Vehicles']).
+preference(4, ['Music', 'Entertainment', 'Film & Animation', 'Comedy']).
+preference(5, ['Entertainment', 'Science & Technology']).
 
 % canais
 channel('(G)I-DLE (여자)아이들 (Official YouTube Channel)').

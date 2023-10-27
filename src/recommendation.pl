@@ -1,20 +1,35 @@
 :- use_module(library(pce)). 
 
+# idade
+
+# gosta de cultura externa?
+# 1 a 5
+# gosta de estudar?
+# 1 a 5
+# gosta de adrenalina?
+# 1 a 5
+# gosta de series?
+# 1 a 5
+# gosta do ciência?
+# 1 a 5
+
+# voce_gosta_de_aventura(Dialog, List).
+
 recomendar(Dialog) :-
   List = [],
-  fazer_perguntas(Dialog, List).
-	% voce_gosta_de_aventura(Dialog, List), !.
+  fazer_perguntas(
+    Dialog,
+    List,
+    [
+      'Voce gosta de cultura externa?',
+      'Voce gosta de estudar?',
+      'Voce gosta de adrenalina?'
+      'Voce gosta de ciencia?'
+      'Voce gosta de series?'
+    ],
+    ).
 
-voce_gosta_de_aventura(Dialog) :-
-  nb_setval(pergunta, "Você gosta de aventura?"),
-  fazer_pergunta(Dialog),
-  voce_gosta_de_anime(Dialog).
-
-voce_gosta_de_anime(Dialog) :-
-  nb_setval(pergunta, ""),
-  fazer_pergunta(Dialog), !.
-
-fazer_pergunta(Dialog) :- 
+fazer_pergunta(Dialog, List) :- 
   send(Dialog, clear),
 
   % Criando o texto da pergunto
@@ -45,7 +60,7 @@ fazer_pergunta(Dialog) :-
   send(Dialog, layout).
 
 
-tratar_resposta(Pergunta, Resposta) :-
+tratar_resposta(Dialog, List) :-
   write('Pergunta: '), write(Pergunta), nl,
   write('Resposta: '), write(Resposta).
 
