@@ -17,7 +17,7 @@
 | 20/2023903 | Lucas Lopes Rocha |
 
 ## Sobre 
-O projeto se trata de uma ferramenta que usa uma base de dados do Kaggle ([YouTube Trending Video Dataset](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset?select=BR_youtube_trending_data.csv)) para oferecer recomendações personalizadas de vídeos do YouTube. Você pode refinar suas recomendações por categoria, popularidade (likes por view) e data de publicação. Nossa missão é ajudá-lo a descobrir conteúdo relevante e emocionante de acordo com suas preferências utilizando o paradigma lógico. Este projeto foi inspirado no próprio sistema de filtragem e recomendação do YouTube e no projeto [SpotifyRecommendation](https://github.com/UnBParadigmas2022-1/2022.1_G5_Logico_SpotifyRecommendation).
+&emsp;&emsp;O projeto se trata de uma ferramenta que usa uma base de dados do Kaggle ([YouTube Trending Video Dataset](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset?select=BR_youtube_trending_data.csv)) para oferecer recomendações personalizadas de vídeos do YouTube. Você pode refinar suas recomendações por categoria, popularidade (likes por view) e data de publicação. Nossa missão é ajudá-lo a descobrir conteúdo relevante e emocionante de acordo com suas preferências utilizando o paradigma lógico. Este projeto foi inspirado no próprio sistema de filtragem e recomendação do YouTube e no projeto [SpotifyRecommendation](https://github.com/UnBParadigmas2022-1/2022.1_G5_Logico_SpotifyRecommendation).
 
 ## Screenshots
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
@@ -39,21 +39,16 @@ sudo apt-get update
 sudo apt-get install swi-prolog
 ```
 
-
 ## Uso 
-
-Para criar os arquivos com os fatos, execute o seguinte comando em Markdown:
+&emsp;&emsp; Para rodar nosso arquivo main.pl, você deve fazer os seguintes passos, contando que já tenha feito a instalação citada acima do prolog:
 
 ``` bash
-make tmp/data.pl
+swi-prolog -s src/main.pl
 ```
 
-
-
-
-Explique como usar seu projeto.
-Procure ilustrar em passos, com apoio de telas do software, seja com base na interface gráfica, seja com base no terminal.
-Nessa seção, deve-se revelar de forma clara sobre o funcionamento do software.
+``` bash
+main.
+```
 
 ## Vídeo
 Adicione 1 ou mais vídeos com a execução do projeto.
@@ -68,14 +63,14 @@ TEMPO: +/- 15min
 ## Participações
 |Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 | -- | -- | -- |
-| Adne Moretti Moreira | --- | Excelente |
-| Caio Vitor Carneiro de Oliveira | --- | Excelente |
-| Cícero Barrozo Fernandes Filho | --- | Excelente |
-| Gabriel Costa de Oliveira | --- | Excelente |
-| Gabriel Moretti de Souza | --- | Excelente |
-| Guilherme Puida Moreira | --- | Excelente |
-| João Henrique Marques Calzavara | --- | Excelente |
-| Lucas Lopes Rocha | --- | Excelente |
+| Adne Moretti Moreira | Criar filtro de views/likes, integrações finais | Excelente |
+| Caio Vitor Carneiro de Oliveira | Criar filtro de views/likes , integrações finais| Excelente |
+| Cícero Barrozo Fernandes Filho | Criar filtro de categoria , integrações finais| Excelente |
+| Gabriel Costa de Oliveira | Criar filtro de data , Separação do menu e separação, integrações finais| Excelente |
+| Gabriel Moretti de Souza | Separação do menu e separação, integrações finais | Excelente |
+| Guilherme Puida Moreira | Criar banco de dados, e ajuda na criação dos filtros, integrações finais | Excelente |
+| João Henrique Marques Calzavara | Criar filtro de categoria, integrações finais | Excelente |
+| Lucas Lopes Rocha | Criar filtro de data, integrações finais | Excelente |
 
 ## Outros
 
