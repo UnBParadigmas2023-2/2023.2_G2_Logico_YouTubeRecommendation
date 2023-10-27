@@ -45,10 +45,11 @@ opcoes_proporcao(R) :-
 
 format_video(Category, Channel, Name, Result) :-
   format(atom(Result), '~w | ~w | ~w', [Category, Channel, Name]).
-
-recomendar :-
+  
+filtrar :-
   new(Dialog, dialog('Recomendar por data')),
   send(Dialog, size, size(900, 900)),
+  send(Dialog, background, '#e23e1a'), 
   send_list(Dialog, append,
             [ new(D, menu(data, cycle)),
               new(C, menu(categoria, cycle)),
@@ -86,6 +87,16 @@ filtrar_recomendacoes(D, C, P, R) :-
 
 format_total(T, R) :-
   format(atom(R), 'Total de Items: ~d', [T]).
+
+show_question(D) :-
+	new(Dialog, dialog('Recomendar por data')),
+	new(T, text('EAI')),
+	new(F, font(screen, bold, 20)),
+	send(T, font(F)),
+	send(T, colour('#000000')),
+	send(D, gap, size(10,10)),
+	send(D, append, T),
+	send(D, layout). 
 
 mostrar_recomendacoes(D, C, P) :-
   new(Dialog, dialog('Recomendações')),

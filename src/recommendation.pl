@@ -1,27 +1,23 @@
 :- use_module(library(pce)). 
 
-question_age(D) :-
-	% Define question
-	show_question(D).
 
-show_menu :-
+recomendar :-
 	new(Dialog, dialog('Youtube Recommendation')),
-  send(Dialog, size, size(800, 800)), 
-	send(Dialog, background, '#DEF1ED'), 
+  send(Dialog, size, size(800, 800)),
+	send(Dialog, background, '#e23e1a'),
   send(Dialog, open),
   
   voce_gosta_de_aventura(Dialog), !.
 
 voce_gosta_de_aventura(Dialog) :- 
-  nb_setval(pergunta, "Você gota de aventura"),
+  nb_setval(pergunta, "Você gosta de aventura?"),
   fazer_pergunta(Dialog),
   voce_gosta_de_anime(Dialog),
   !.
 
 voce_gosta_de_anime(Dialog) :-
-  nb_setval(pergunta, "Você gota de anime"),
+  nb_setval(pergunta, "Você gosta de anime?"),
   fazer_pergunta(Dialog), !.
-
 
 fazer_pergunta(Dialog) :- 
 
