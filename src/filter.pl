@@ -49,9 +49,9 @@ opcoes_proporcao(R) :-
   findall(N, proporcao_por_opcao(N, _, _), R).
 
 format_video(Category, Channel, Name, Result) :-
-  format(atom(Result), '~w | ~w | ~w', [Category, Channel, Name]).
+  format(atom(Result), 'Categoria: ~w | Canal: ~w | Título: ~w', [Category, Channel, Name]).
 
-filtrar_recomendacoes(D, C, P, R) :-
+filtrar_recomendacoes(D, C, P) :-
   data_por_opcao(D, DataLimite),
   proporcao_por_opcao(P, Low, High),
   findall(
@@ -64,21 +64,21 @@ filtrar_recomendacoes(D, C, P, R) :-
       format_video(Cat, Chan, Nome, Out)
     ),
     R
-  ).
+  ),
+  mostrar_recomendacoes(R).
 
 format_total(T, R) :-
   format(atom(R), 'Total de Vídeos: ~d', [T]).
 
-mostrar_recomendacoes(D, C, P) :-
+mostrar_recomendacoes(R) :-
   new(Dialog, dialog('Recomendacoes')),
   new(F, font(screen, bold, 12)),
-  send(Dialog, background, '#e23e1a'),
-  send(Dialog, size, size(1100, 900)),
+  send(Dialog, background, '#ff0000'),
+  send(Dialog, size, size(1100, 800)),
   send(Dialog, append, new(LB, list_browser)),
-  send(LB, size, size(150, 50)),
+  send(LB, size, size(150, 40)),
   send(LB, font, F),
 
-  filtrar_recomendacoes(D, C, P, R),
   send_list(LB, append, R),
   length(R, L),
   format_total(L, T),

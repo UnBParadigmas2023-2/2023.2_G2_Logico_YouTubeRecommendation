@@ -1,66 +1,30 @@
 :- use_module(library(pce)). 
+:- use_module(library(dcg/basics)). 
 
-# idade
+inserir_pergunta(Dialog, Pergunta, Menu) :-
+  new(Menu, menu(Pergunta)),
+  send_list(Menu, append, ['sim', 'nao']),
+  send(Dialog, append, Menu).
 
-# gosta de cultura externa?
-# 1 a 5
-# gosta de estudar?
-# 1 a 5
-# gosta de adrenalina?
-# 1 a 5
-# gosta de series?
-# 1 a 5
-# gosta do ciência?
-# 1 a 5
+build_filter(L, N, sim, R) :- append(L, [N], R).
+build_filter(L, _, nao, R) :- append(L, [], R).
 
-# voce_gosta_de_aventura(Dialog, List).
+format_teste(A, B, C, D, E) :-
+  build_filter([], 1, A, L1),
+  build_filter(L1, 2, B, L2),
+  build_filter(L2, 3, C, L3),
+  build_filter(L3, 4, D, L4),
+  build_filter(L4, 5, E, L5),
 
-recomendar(Dialog) :-
-  List = [],
-  fazer_perguntas(
-    Dialog,
-    List,
-    [
-      'Voce gosta de cultura externa?',
-      'Voce gosta de estudar?',
-      'Voce gosta de adrenalina?'
-      'Voce gosta de ciencia?'
-      'Voce gosta de series?'
-    ],
-    ).
-
-fazer_pergunta(Dialog, List) :- 
-  send(Dialog, clear),
-
-  % Criando o texto da pergunto
-  nb_getval(pergunta, TextoDaPergunta),
-  new(Texto, text(TextoDaPergunta)),
-  send(Texto, font, font(default, bold, 30)),
-  send(Dialog, append, Texto),
-
-  %
-
-  send(Dialog, append, new(BTS, dialog_group(buttons, group))),
-
-  % Criando o botão "Sim" e defina seu tamanho
-  new(B2, button('Sim')),
-  send(B2, size, size(200, 200)),
-  send(B2, message, message(@prolog, tratar_resposta, TextoDaPergunta, 1)),
-  send(BTS, append, B2, right),
-
-  % Criando o botão "Não" e defina seu tamanho
-  new(B1, button('Não')),
-  send(B1, size, size(200, 200)),
-  send(B1, message, message(@prolog, tratar_resposta, TextoDaPergunta, 2)),
-  send(BTS, append, B1, below),
-
-  send(B2, font, font(default, bold)),
-
-  send(BTS, layout_dialog),
-  send(Dialog, layout).
-
-
-tratar_resposta(Dialog, List) :-
-  write('Pergunta: '), write(Pergunta), nl,
-  write('Resposta: '), write(Resposta).
-
+  findall(Cat, (preference(Num, Cat), member(Num, L5)), R),
+  flatten(R, RR),
+  findall(
+    Out,
+    (
+      video(CCat, Chan, Nome, _, _),
+      member(CCat, RR),
+      format_video(CCat, Chan, Nome, Out)
+    ),
+    RRR
+  ),
+  mostrar_recomendacoes(RRR).
