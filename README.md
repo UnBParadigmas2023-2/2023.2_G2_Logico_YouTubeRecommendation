@@ -20,10 +20,11 @@
 &emsp;&emsp;O projeto se trata de uma ferramenta que usa uma base de dados do Kaggle ([YouTube Trending Video Dataset](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset?select=BR_youtube_trending_data.csv)) para oferecer recomendações personalizadas de vídeos do YouTube. Você pode refinar suas recomendações por categoria, popularidade (likes por view) e data de publicação. Nossa missão é ajudá-lo a descobrir conteúdo relevante e emocionante de acordo com suas preferências utilizando o paradigma lógico. Este projeto foi inspirado no próprio sistema de filtragem e recomendação do YouTube e no projeto [SpotifyRecommendation](https://github.com/UnBParadigmas2022-1/2022.1_G5_Logico_SpotifyRecommendation).
 
 ## Screenshots
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
-![]()
-![]()
-![]()
+
+![](assets/img1.png)
+![](assets/img2.png)
+![](assets/img3.png)
+![](assets/img4.png)
 
 ## Instalação 
 **Linguagens**: Prolog<br>
@@ -40,35 +41,44 @@ sudo apt-get install swi-prolog
 ```
 
 ## Uso 
-&emsp;&emsp; Para rodar nosso arquivo main.pl, você deve fazer os seguintes passos, contando que já tenha feito a instalação citada acima do prolog:
+&emsp;&emsp; Para rodar nosso arquivo main.pl, você deve fazer os seguintes passos, contando que já tenha feito a instalação citada acima do Prolog:
 
-``` bash
-swi-prolog -s src/main.pl
+```bash
+swipl -s src/main.pl
 ```
 
-``` bash
+```bash
 main.
 ```
 
+Também é possível executar o projeto com o docker, utilizando o X11Forwarding. Segue comandos de execução com docker: 
+```bash 
+make build 
+```
+
+```bash
+make run
+```
+
+```bash
+main. 
+```
+
 ## Vídeo
-Adicione 1 ou mais vídeos com a execução do projeto.
-Procure: 
-(i) Introduzir o projeto;
-(ii) Mostrar passo a passo o código, explicando-o, e deixando claro o que é de terceiros, e o que é contribuição real da equipe;
-(iii) Apresentar particularidades do Paradigma, da Linguagem, e das Tecnologias, e
-(iV) Apresentar lições aprendidas, contribuições, pendências, e ideias para trabalhos futuros.
-OBS: TODOS DEVEM PARTICIPAR, CONFERINDO PONTOS DE VISTA.
-TEMPO: +/- 15min
+O vídeo de apresentação está disponível em:
+
+- Youtube: [ACESSO]()
+- GitHub: [ACESSO]()
 
 ## Participações
 |Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 | -- | -- | -- |
 | Adne Moretti Moreira | Criar filtro de views/likes, integrações finais | Excelente |
-| Caio Vitor Carneiro de Oliveira | Criar filtro de views/likes , integrações finais| Excelente |
-| Cícero Barrozo Fernandes Filho | Criar filtro de categoria , integrações finais| Excelente |
-| Gabriel Costa de Oliveira | Criar filtro de data , Separação do menu e separação, integrações finais| Excelente |
-| Gabriel Moretti de Souza | Separação do menu e separação, integrações finais | Excelente |
-| Guilherme Puida Moreira | Criar banco de dados, e ajuda na criação dos filtros, integrações finais | Excelente |
+| Caio Vitor Carneiro de Oliveira | Criar filtro de views/likes, integrações finais| Excelente |
+| Cícero Barrozo Fernandes Filho | Criar filtro de categoria, integrações finais| Excelente |
+| Gabriel Costa de Oliveira | Criar filtro de data, separação do menu, integrações finais| Excelente |
+| Gabriel Moretti de Souza | Separação do menu, integrações finais | Excelente |
+| Guilherme Puida Moreira | Criar banco de dados, ajuda na criação dos filtros, integrações finais | Excelente |
 | João Henrique Marques Calzavara | Criar filtro de categoria, integrações finais | Excelente |
 | Lucas Lopes Rocha | Criar filtro de data, integrações finais | Excelente |
 
@@ -96,3 +106,5 @@ TEMPO: +/- 15min
 
 ## Fontes
 - Inspirado em: https://github.com/UnBParadigmas2022-1/2022.1_G5_Logico_SpotifyRecommendation;
+- Interface gráfica(XPCE): https://eu.swi-prolog.org/packages/xpce/UserGuide/sec-A.1.html;
+- Marca uma ação para todas as ligações alternativas: https://www.swi-prolog.org/pldoc/man?predicate=forall/2
