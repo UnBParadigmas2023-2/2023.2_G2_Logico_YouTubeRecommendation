@@ -14,12 +14,6 @@ category('Science & Technology').
 category('Sports').
 category('Travel & Events').
 
-preference(1, ['People & Blogs', 'Travel & Events', 'Howto & Style', 'News & Politics']).
-preference(2, ['Education', 'Science & Technology']).
-preference(3, ['Sports', 'Gaming', 'Autos & Vehicles']).
-preference(4, ['Music', 'Entertainment', 'Film & Animation', 'Comedy']).
-preference(5, ['Entertainment', 'Science & Technology']).
-
 % canais
 channel('(G)I-DLE (여자)아이들 (Official YouTube Channel)').
 channel('01 DO FUNK').
@@ -67,6 +61,7 @@ channel('AM3NlC').
 channel('AMUSIK').
 channel('AMÉM').
 channel('ANAVITÓRIA').
+channel('ARK: Survival Ascended').
 channel('ATAQUE DEFESA').
 channel('AXN Brasil').
 channel('Abbot').
@@ -129,6 +124,7 @@ channel('Amazon Prime Video Brasil').
 channel('Ameizim').
 channel('America\'s Got Talent').
 channel('Americanas').
+channel('Amo Pão Caseiro').
 channel('Amo Receitas').
 channel('Amor Pela Comida').
 channel('Amorinha ChowChow').
@@ -404,6 +400,7 @@ channel('Bruno Correa').
 channel('Bruno Duarte').
 channel('Bruno Faccio').
 channel('Bruno Formiga').
+channel('Bruno Gadiol').
 channel('Bruno Garcia').
 channel('Bruno Miranda').
 channel('Bruno OM').
@@ -427,6 +424,7 @@ channel('CANAL DO DARICO').
 channel('CANAL DO FACINCANI').
 channel('CANAL DO JF TRICOLOR').
 channel('CANAL DO MARIDÃO').
+channel('CANAL DO NILSON CESAR [Rádio De Pai pra Filho]').
 channel('CANAL DO TOM').
 channel('CANAL SABRINA SATO').
 channel('CANHOTINHA 70').
@@ -503,6 +501,7 @@ channel('Camisa 21').
 channel('Canal  Do Tiago Oreia').
 channel('Canal Ana Bochi').
 channel('Canal Ana Hickmann').
+channel('Canal Aves').
 channel('Canal Bahêa').
 channel('Canal Brasil').
 channel('Canal BrauneFogo').
@@ -601,6 +600,7 @@ channel('Casal Rivalidade').
 channel('Casal Torcedor React').
 channel('Casal Tóxico').
 channel('Casal WK').
+channel('Casal da Lavanda').
 channel('Casal2m').
 channel('Caseirices').
 channel('Casimiro').
@@ -627,6 +627,7 @@ channel('Charli XCX').
 channel('Charlie Puth').
 channel('Charlles Junior').
 channel('Chaves Games').
+channel('ChefTaico').
 channel('CheffOtto').
 channel('Chefin Oficial - Topic').
 channel('Chefão, Chefona e Chefinho').
@@ -639,6 +640,7 @@ channel('Chitãozinho & Xororó').
 channel('ChloeBaileyVEVO').
 channel('Chlöe').
 channel('Choque-me').
+channel('ChratosGameplay').
 channel('Chris Brown').
 channel('Chris Gringo').
 channel('ChrisBrownVEVO').
@@ -727,6 +729,7 @@ channel('Cortes do Guto [OFICIAL]').
 channel('Cortes do Inteligência [OFICIAL]').
 channel('Cortes do Luisinho [OFICIAL]').
 channel('Cortes do Manual do Mundo').
+channel('Cortes do Mylon').
 channel('Cortes do Nicola').
 channel('Cortes do Taspio [OFICIAL]').
 channel('Corujinha Vlog').
@@ -745,6 +748,7 @@ channel('Crunchyroll Brasil').
 channel('Crunchyroll Collection').
 channel('Crush').
 channel('Cruzeiro Esporte Clube').
+channel('Cruzeiro Sports').
 channel('Cryzin').
 channel('Culinária em Casa').
 channel('Curta').
@@ -786,6 +790,8 @@ channel('Da Terra').
 channel('DaFuq!?Boom!').
 channel('DaftPunkVEVO').
 channel('Daiane Pimenta').
+channel('DailyWire+').
+channel('Daishikawa').
 channel('Dale Porco').
 channel('Dalenogare Críticas').
 channel('DamaresVEVO').
@@ -826,6 +832,7 @@ channel('De Sola').
 channel('Dead Space').
 channel('Dead by Daylight').
 channel('Dearo e Manu').
+channel('Debate Raiz').
 channel('Deboche Astral').
 channel('Debyianreceitas').
 channel('Debyreceitas').
@@ -920,6 +927,7 @@ channel('Dra. Ana Beatriz Barbosa').
 channel('Draex').
 channel('Drake').
 channel('DrakeVEVO').
+channel('Drauzio Varella').
 channel('Drawn Mask').
 channel('Dream Perfect Regime').
 channel('Dreamcatcher official').
@@ -942,11 +950,13 @@ channel('Débora Aladim').
 channel('Décimo 14').
 channel('EA SPORTS F1').
 channel('EA SPORTS FC').
+channel('EA SPORTS FC MOBILE Brasil').
 channel('EA SPORTS FIFA').
 channel('EA Star Wars').
 channel('EAE CLA').
 channel('EDUARDO PÁDUA').
 channel('EGol7').
+channel('EHXIS').
 channel('EI MINE').
 channel('EL7Z UP').
 channel('EM OFF').
@@ -1025,6 +1035,7 @@ channel('Estevam Pelo Mundo').
 channel('Esther Melo').
 channel('Estrelando').
 channel('Eu Hipe').
+channel('Eu Joguei - Cross').
 channel('Eu Sou João Oficial').
 channel('Eu Vim de Santos').
 channel('Eu sou o Douglas').
@@ -1227,6 +1238,7 @@ channel('GEMEAS VIVI').
 channel('GEM鄧紫棋').
 channel('GG GAMEPLAYS').
 channel('GG Games').
+channel('GH0Ks').
 channel('GIGI FLIX').
 channel('GIOH').
 channel('GIRLS\' GENERATION').
@@ -1336,6 +1348,7 @@ channel('Gorillaz').
 channel('Goten').
 channel('Goularte').
 channel('Graziele Canuto').
+channel('Green Day').
 channel('Greg Ferreira').
 channel('GrimesVEVO').
 channel('Groselha Talk - Cortes [OFICIAL]').
@@ -1391,6 +1404,7 @@ channel('HaileeSteinfeldVEVO').
 channel('Hailey Rhode Bieber').
 channel('HalleVEVO').
 channel('HalseyVEVO').
+channel('Hamlet ARL').
 channel('Hariston').
 channel('Harper\'s Bazaar UK').
 channel('Harry Styles').
@@ -1411,6 +1425,7 @@ channel('Henrique Tury').
 channel('Henrique e Juliano').
 channel('Henriqueta Vai').
 channel('Hero Base').
+channel('Heverton Guimarães').
 channel('Hey Investidor').
 channel('HeyDavi').
 channel('HeyKroni').
@@ -1529,6 +1544,7 @@ channel('JISOO - Topic').
 channel('JL eSPORTS').
 channel('JOAO_PSX').
 channel('JOELMA BARROS').
+channel('JOTAPÊ').
 channel('JOYCE PALMEIRENSE JP').
 channel('JP Plays').
 channel('JR ELENKO DO FUNK').
@@ -1638,6 +1654,7 @@ channel('Jovem Pan Esportes').
 channel('Jovem Pan News').
 channel('Joyce Kitamura').
 channel('Joza Novalis').
+channel('João Bosco & Vinícius').
 channel('João Bosco e Gabriel').
 channel('João Caetano').
 channel('João Gomes Cantor').
@@ -1951,6 +1968,7 @@ channel('Luiz Do som').
 channel('Luiz Phellipe').
 channel('Luiz do Som e Cachorrada').
 channel('Luiza Martins 🎤').
+channel('Luiza Martins 🫶').
 channel('Luks').
 channel('Lukskk').
 channel('Lukszin').
@@ -2080,6 +2098,7 @@ channel('Marcelodrv').
 channel('Marcia Regina').
 channel('Marcinha De jesus').
 channel('Marcio Guerra Canto').
+channel('Marcos Baroni').
 channel('Marcos FLA React').
 channel('Marcos Freire').
 channel('Marcos Freire - Topic').
@@ -2515,6 +2534,7 @@ channel('Pati Moreira').
 channel('Pato Papão').
 channel('Patricia Elias').
 channel('Patricio Carvalho').
+channel('Patricio Games').
 channel('Patriota').
 channel('Paty').
 channel('Paul Cabannes').
@@ -2821,6 +2841,7 @@ channel('SIAN SPORTS').
 channel('SMTOWN').
 channel('SNK OFFICIAL').
 channel('SOM DOS STATUS').
+channel('SOOJIN').
 channel('SRZD').
 channel('STAYC').
 channel('STAYC Japan Official').
@@ -2831,6 +2852,7 @@ channel('SZA').
 channel('SZA - Topic').
 channel('SZAVEVO').
 channel('Saab do Brasil').
+channel('Saadhak').
 channel('Sabor e Festas').
 channel('SabrinaCarpenterVEVO').
 channel('Saiko joga').
@@ -2845,6 +2867,7 @@ channel('Samara Silva').
 channel('Samsung').
 channel('Samsung Brasil').
 channel('Samuel Dantas').
+channel('SanInPlay').
 channel('Sandra Dias - Cake Designer').
 channel('Sandra Jang').
 channel('Sandy').
@@ -3043,6 +3066,7 @@ channel('TazerCraft').
 channel('Te Conto! É Eita Atrás De Eita!').
 channel('TecMundo').
 channel('Teclas Daniel').
+channel('TecnoArt').
 channel('Teen House').
 channel('Teiga').
 channel('Tekashi 6ix9ine').
@@ -3070,6 +3094,7 @@ channel('Thayna Thalita').
 channel('Thayná Tarcilla').
 channel('Thaís Carla').
 channel('Thaís Chagas').
+channel('The Beatles').
 channel('The CHOOM (더 춤)').
 channel('The Chosen Brasil').
 channel('The Emirates FA Cup').
@@ -3095,6 +3120,7 @@ channel('The Walker Center').
 channel('The Walking Dead').
 channel('The Weeknd').
 channel('The Witcher').
+channel('TheKidLAROIVEVO').
 channel('TheMFW').
 channel('TheWeekndVEVO').
 channel('Theo Affini').
@@ -3153,6 +3179,7 @@ channel('Top! Tech').
 channel('Toque Dez Oficial').
 channel('Torcedor Davy Jones').
 channel('Torcida Gamers').
+channel('Tour da Beleza').
 channel('Tove Lo').
 channel('TrakaMusicGrp').
 channel('Traveleiros').
@@ -3200,6 +3227,7 @@ channel('Um Palmeirense').
 channel('Umberto Mannarino').
 channel('Unha Pintada Oficial').
 channel('Uniduni T').
+channel('United Sz').
 channel('Universa').
 channel('Universal Music Brasil').
 channel('Universal Pictures').
@@ -3250,6 +3278,7 @@ channel('VascoTV').
 channel('VcseLembra').
 channel('Veigh - Topic').
 channel('Velberan').
+channel('Vem a mim língua russa').
 channel('Venequiz').
 channel('Veneto Studio').
 channel('Venus Podcast').
@@ -3266,6 +3295,7 @@ channel('Victor Karv').
 channel('Victor Lelis').
 channel('Victor Ludgero').
 channel('Victor Melo').
+channel('Victor e Leo').
 channel('Victoria Monét').
 channel('VictoriaMonétVEVO').
 channel('Vida a Dois').
@@ -3384,6 +3414,7 @@ channel('YasminSantosVEVO').
 channel('Yazzie ASMR').
 channel('Ycro').
 channel('Yoda SL').
+channel('YoshiGamer').
 channel('YouTube Brasil').
 channel('YoungBoy Never Broke Again').
 channel('Yunk Vino').
@@ -3571,6 +3602,7 @@ video('Autos & Vehicles', 'Acelerados', 'SUPRA STAGE 2 DO @DiegoFaustino68 NA VO
 video('Autos & Vehicles', 'Acelerados', 'MERCEDES SLK DO IGOR 3K NA VOLTA RÁPIDA! Rubinho acelera o carro do ​@FlowPodcast no Velocitta!', 1694466010.0, 0.09221375748409086).
 video('Autos & Vehicles', 'Acelerados', 'CIVIC TYPE R X GR COROLLA NA VOLTA RÁPIDA! Rubinho acelera os dois hot hatches no duelo do ano!', 1695070808.0, 0.11908995932158178).
 video('Autos & Vehicles', 'Acelerados', 'QUANTO O PORSCHE 911 GT3 RS VIRA NA VOLTA RÁPIDA? Rubinho manda ver no carro com DRS de Fórmula 1!', 1696281310.0, 0.16167968163387897).
+video('Autos & Vehicles', 'Acelerados', 'GOLF R É MAIS RÁPIDO QUE CIVIC TYPE R NA VOLTA RÁPIDA? Rubinho acelera o Golf mais insano do Brasil', 1698094807.0, 0.11468334224453898).
 video('Autos & Vehicles', 'Auto Super', 'CUPIM BATEU FEIO A PASSAT VARIANT TURBO!😱 PT? Saiba tudo o que aconteceu em detalhes', 1654635616.0, 0.1316801396200723).
 video('Autos & Vehicles', 'Auto Super', 'NOVO PROJECT CAR SONHO DO LUCAS! O MELHOR CARRO DA AS HOJE!? MAIS DE 300 MIL REAIS!?😱', 1673902806.0, 0.13988124367883592).
 video('Autos & Vehicles', 'Auto Super', 'ROUBARAM MINHA MOTO!🤬 ESSA É A REALIDADE DE QUEM VIVE EM SP! Aparecemos no Datena', 1677445200.0, 0.1250311974172564).
@@ -3679,6 +3711,7 @@ video('Autos & Vehicles', 'Motorede', 'TESTE ZONTES T310 ADV NO BRASIL: É BOA? 
 video('Autos & Vehicles', 'Opinião Sincera', 'Conheça o nosso NOVO CARRO! Como comprar carro USADO? Qual o mais econômico e BARATO? Não estraga!', 1691787300.0, 0.11137482486429376).
 video('Autos & Vehicles', 'Opinião Sincera', 'Conheça o NOVO CARRO do Felipe! ÓTIMO CUSTO BENEFÍCIO! Barato, completo, luxuoso e esportivo!', 1693429235.0, 0.12649109526275948).
 video('Autos & Vehicles', 'Opinião Sincera', 'Carros BONS que são FRACASSOS de vendas! OPORTUNIDADE para comprar CARRO BOM, BARATO e ser feliz!', 1696280100.0, 0.08638422869083404).
+video('Autos & Vehicles', 'Opinião Sincera', 'Decisão DIFÍCIL: Isso muda NOSSAS VIDAS e pode AFETAR o CANAL. Será que AGIMOS errado ou ACERTAMOS?', 1697374848.0, 0.12414822875870753).
 video('Autos & Vehicles', 'PetrolHead', 'ESSE É MEU NOVO CIVIC TYPE R!!🔥🚀UNICO NO YOUTUBE!', 1643286611.0, 0.12640487474610698).
 video('Autos & Vehicles', 'PetrolHead', 'DEIXEI O @Piloto Diego Higa DIRIGIR O MEU CORVETTE PROCHARGER 600CV!!🔥🚀', 1656688167.0, 0.08658650414539065).
 video('Autos & Vehicles', 'PetrolHead', 'ESSE É MEU VERDADEIRO CARRO NOVO!!🔥🚀 MOSTREI TUDO', 1668697233.0, 0.11091237093616858).
@@ -3728,8 +3761,8 @@ video('Comedy', '5 Alguma Coisa', '5 VEZES QUE MENTIMOS PRA MÃE NA ADOLESCÊNCI
 video('Comedy', '5 Alguma Coisa', '5 Coisas Que Devem Estar No Manual Do Homem', 1657892265.0, 0.16881999853597834).
 video('Comedy', 'Abner Henrique', 'vc gostava do seu n° na chamada? #shorts', 1646859619.0, 0.11500694387713423).
 video('Comedy', 'Alexandre Porpetone', 'COLETIVA ABEL EXPLICANDO FINAL MUNDIAL PALMEIRAS', 1645543797.0, 0.11157890866303868).
-video('Comedy', 'Alexandre Porpetone', 'COLETIVA VITOR PEREIRA ABRE O JOGO SOBRE FLAMENGO', 1677788211.0, 0.07497272220608668).
 video('Comedy', 'Alexandre Porpetone', 'COLETIVA FLAMENGO VITOR PEREIRA CONTA O PORQUE DE TUDO', 1677788211.0, 0.0627436508837667).
+video('Comedy', 'Alexandre Porpetone', 'COLETIVA VITOR PEREIRA ABRE O JOGO SOBRE FLAMENGO', 1677788211.0, 0.07497272220608668).
 video('Comedy', 'Alisson Nobre', 'TODA FAMÍLIA TEM 2', 1649430010.0, 0.07588402998114682).
 video('Comedy', 'Ana Moura', 'PARÓDIA | FAKE AMOR - MELODY', 1642543218.0, 0.007581702502686192).
 video('Comedy', 'Ana Moura', 'PARÓDIA | MALVADA - ZÉ FELIPE - FIM', 1656104410.0, 0.006727092788539091).
@@ -3865,8 +3898,8 @@ video('Comedy', 'Coisas do GP', 'Sinais que um Menino gosta de vc! 😂 #Shorts'
 video('Comedy', 'DIDINHO E DANY MEL OFICIAL', 'ACABARAM COM A CASA DE DIDINHO | DIDINHO E DANY MEL', 1676059206.0, 0.13191504416429828).
 video('Comedy', 'DIDINHO E DANY MEL OFICIAL', 'DIDINHO DESCEU NO TOBOGÃ DE CRIANÇA NO MEIO DA FESTA E SEU PAI VIU TUDO | DIDINHO E DANY MEL', 1695506425.0, 0.15225187739008103).
 video('Comedy', 'DIOGO DEFANTE', 'REPÓRTER DOIDÃO | FUI NA CASA DE VIDRO DO #bbb23', 1673656526.0, 0.13660719585437056).
-video('Comedy', 'DIOGO DEFANTE', 'Diogo Defante - JERRY [Official Music Video]', 1686866437.0, 0.2102968165257628).
 video('Comedy', 'DIOGO DEFANTE', 'Diogo Defante - Jerry', 1686866437.0, 0.2811748099194764).
+video('Comedy', 'DIOGO DEFANTE', 'Diogo Defante - JERRY [Official Music Video]', 1686866437.0, 0.2102968165257628).
 video('Comedy', 'DIOGO DEFANTE', 'REPORTE DOIDÃO | CALÇADÃO DE CAMPO GRANDE', 1695687625.0, 0.11232967901645483).
 video('Comedy', 'DIOGO DEFANTE', 'REPÓRTER DOIDÃO | JOGO NO MARACA', 1696604442.0, 0.10915546898936403).
 video('Comedy', 'Dave Natu', 'QUANDO VOCE LANÇA O GRANDE DESAFIO (PT02)', 1647374460.0, 0.14878787241647567).
@@ -4070,6 +4103,7 @@ video('Comedy', 'Luiz Do som', 'CHARLLES DISSE A LUIZ DO SOM QUE CRIAVA DINOSSAU
 video('Comedy', 'Luiz Do som', 'CHARLLES LEVOU LUIZ DO SOM PRA PASSEAR DE JETSKI | LUIZ DO SOM', 1643036400.0, 0.11259978946419867).
 video('Comedy', 'Luiz do Som e Cachorrada', 'O DONO DA LANCHA É O LUIZ DO SOM *o cabeça branca *', 1642290606.0, 0.08569879112807452).
 video('Comedy', 'Luiz do Som e Cachorrada', 'LUIZ DO SOM TÁ DE VOLTA NO SÍTIO *Olha a alegria de Pitoco*', 1643148031.0, 0.11144888601611894).
+video('Comedy', 'Luiz do Som e Cachorrada', 'DONA ZAZÁ DESCOBRIU MAS UMA TRAIÇÃO DE LUIZ DO SOM', 1698192016.0, 0.13707259851414172).
 video('Comedy', 'Léo Lins', 'Léo Lins - resposta ao the noite, SBT e o público', 1658441981.0, 0.13484655304449839).
 video('Comedy', 'Léo Léo', 'Rery Burro e a Erva Mágica', 1642718449.0, 0.08698545337512431).
 video('Comedy', 'Léo Léo', 'Rery Burro e o Rodo Voador', 1643666860.0, 0.09886629142271217).
@@ -4112,6 +4146,7 @@ video('Comedy', 'Pililiu da Resenha', 'PILILIU COLOCA PIMENTA NO PÃO DE BIRÓ |
 video('Comedy', 'Planeta Da Leuris', 'CHÁ DE AMOR - LEURISCLEIA (Clipe Oficial)', 1668180608.0, 0.14625163220732987).
 video('Comedy', 'Rao TV', 'Girls In The House tá voltando 🔥', 1667233484.0, 0.33938736131210806).
 video('Comedy', 'Rao TV', 'Girls In The House - NOVO Episódio - 5.06 - Opening Day Goes Wrr...ong? -', 1668401811.0, 0.18253760832976154).
+video('Comedy', 'Rao TV', 'DISK DUNY MYSTERIES - ESTREIA - Episódio 1: Alien Superstar', 1697680812.0, 0.1946142395641984).
 video('Comedy', 'Rato Borrachudo', 'ESSE PLAYSTATION É UMA OBRA DE ARTE, E VAMOS ABRIR ELE! Feat. TANTUS GAMES', 1670944588.0, 0.10240963855421686).
 video('Comedy', 'Rato Borrachudo', 'NASCE CHIBATA, O ROBÔ QUE VAI AMASSAR GERAL EM NOVA YORK!', 1682693580.0, 0.1407943464818401).
 video('Comedy', 'Reclamação do Dia', 'A melhor análise da estréia do Faustão na Band! #Faustão', 1642518088.0, 0.14298434782608696).
@@ -4142,6 +4177,7 @@ video('Comedy', 'Reclamação do Dia', 'Plantão do Brasileirão 2023 - Rodada 1
 video('Comedy', 'Reclamação do Dia', 'Apagão no Brasil, todo mundo acordou no escuro!', 1692108696.0, 0.18855042016806722).
 video('Comedy', 'Reclamação do Dia', 'O Brasileiro Fugitivo nos Estados Unidos  (HUMOR)', 1694611685.0, 0.04891351211520221).
 video('Comedy', 'Reclamação do Dia', 'Quem trabalha não viaja no feriado, só os desempregados!', 1697216818.0, 0.028729522060600202).
+video('Comedy', 'Reclamação do Dia', 'Eclipse Solar 2023, eu não vi nada!', 1697468355.0, 0.10785155263822267).
 video('Comedy', 'Renato Albani', 'RENATO ALBANI - A PIADA QUE MUDOU A MINHA VIDA', 1643917840.0, 0.06433414774754989).
 video('Comedy', 'Renato Albani', 'Renato Albani - O golpista do Tinder', 1645398011.0, 0.09663797464352335).
 video('Comedy', 'Renato Albani', 'RENATO ALBANI - Conheci um oceanólogo e um vereador de MS', 1660524384.0, 0.1091692988725705).
@@ -4192,6 +4228,7 @@ video('Comedy', 'The Noite com Danilo Gentili', 'Entrevista com Now United | The
 video('Comedy', 'The Noite com Danilo Gentili', 'Entrevista com Ronaldo Fenômeno | The Noite (13/03/23)', 1678805890.0, 0.06792261582286224).
 video('Comedy', 'The Noite com Danilo Gentili', 'Entrevista com Keanu Reeves | The Noite (14/03/23)', 1678897811.0, 0.07432848030323372).
 video('Comedy', 'The Noite com Danilo Gentili', 'Danilo Gentili e Roger Moreira mostram confiança na recuperação de Mingau | The Noite (04/09/23)', 1693925310.0, 0.08241745424791448).
+video('Comedy', 'The Noite com Danilo Gentili', 'Entrevista com Khaby Lame, o maior influenciador do mundo | The Noite (19/10/23)', 1697818703.0, 0.08507349929458881).
 video('Comedy', 'The Tonight Show Starring Jimmy Fallon', 'Anitta Doesn’t Cry Over Boys (Extended) | The Tonight Show Starring Jimmy Fallon', 1643693237.0, 0.11639816751045565).
 video('Comedy', 'The Tonight Show Starring Jimmy Fallon', 'Anitta: Boys Don’t Cry | The Tonight Show Starring Jimmy Fallon', 1643693650.0, 0.12819088842263648).
 video('Comedy', 'The Tonight Show Starring Jimmy Fallon', 'Normani: Fair | The Tonight Show Starring Jimmy Fallon', 1647577811.0, 0.09190821186978573).
@@ -4272,8 +4309,8 @@ video('Comedy', 'Wiris Viana', 'ARMARIA MÃE 37 / SE EU FOSSE VOCÊ 2', 16708584
 video('Comedy', 'Wiris Viana', 'FILHO DE RICO vs FILHO DE POBRE 3', 1674050410.0, 0.03841283834433423).
 video('Comedy', 'Wiris Viana', 'A CHATA DA MINHA IRMÃ 52 / WANDINHA', 1674749652.0, 0.03892130714455618).
 video('Comedy', 'Wiris Viana', 'ARMARIA MÃE 39 /  A NAMORADA PERFEITA', 1676559879.0, 0.03888965005693012).
-video('Comedy', 'Wiris Viana', 'A CHATA DA MINHA IRMÃ 53 / JHENYFER ADDAMS', 1679410851.0, 0.05140748504027438).
 video('Comedy', 'Wiris Viana', 'A CHATA DA MINHA IRMÃ 53 / WANDINHA 2', 1679410851.0, 0.03621534856572458).
+video('Comedy', 'Wiris Viana', 'A CHATA DA MINHA IRMÃ 53 / JHENYFER ADDAMS', 1679410851.0, 0.05140748504027438).
 video('Comedy', 'Wiris Viana', 'ARMARIA MÃE 40 / O AMOR É CEGO', 1680186303.0, 0.037892514420933804).
 video('Comedy', 'Wiris Viana', 'O QUE VOCÊ NÃO VIU 2', 1681566632.0, 0.030132750481676667).
 video('Comedy', 'Wiris Viana', 'ARMARIA MÃE 41 / GLOW UP DA VITÓRIA', 1682090037.0, 0.0254086603113887).
@@ -4287,6 +4324,7 @@ video('Comedy', 'Wiris Viana', 'A CHATA DA MINHA IRMÃ / FILME 2', 1690550251.0,
 video('Comedy', 'Wiris Viana', 'ARMARIA MÃE 45  / TÔ SURDO', 1692372560.0, 0.030432494050098655).
 video('Comedy', 'Wiris Viana', 'ARMARIA MÃE 46 / A VOZ DO AMOR', 1693673756.0, 0.03003782595638131).
 video('Comedy', 'Wiris Viana', 'ARMARIA MÃE / FILME 2', 1694640894.0, 0.02293563364894392).
+video('Comedy', 'Wiris Viana', 'ARMARIA MÃE 47 /  DEPOIS DA REFORMA', 1698272501.0, 0.03137455161418892).
 video('Comedy', 'Yuri Marçal', 'YURI MARÇAL - JENIFFER FOFOQUEIRA', 1651702414.0, 0.14668723906335088).
 video('Comedy', 'Yuri Marçal', 'YURI MARÇAL - PRIMEIRO ENCONTRO (CAIO CASTRO) - STAND UP COMEDY', 1659650419.0, 0.12365861281859425).
 video('Comedy', 'ZÉ DA ROÇA E SUA TURMA', 'ZÉ DA ROÇA E LÉO BRINGANDO PRA VER QUEM VAI NA JUMENTA PRIMEIRO', 1649246430.0, 0.043144843402852434).
@@ -4307,8 +4345,8 @@ video('Comedy', 'whinderssonnunes', 'MAIS UM DOC BOXE (TRAILER)', 1641160804.0, 
 video('Comedy', 'whinderssonnunes', 'COMO ACHAR UM NORDESTINO EM SÃO PAULO? #Shorts', 1642027000.0, 0.11050714161799573).
 video('Comedy', 'whinderssonnunes', 'WHIND DANCE - CARIBE (Lil Whind)', 1642284017.0, 0.16999694387516628).
 video('Comedy', 'whinderssonnunes', 'O DIA QUE EU CONHECI O FANTASTICO MUNDO DA LUTA', 1643333868.0, 0.3845364965310827).
-video('Comedy', 'whinderssonnunes', 'É HOJE 💪🏻 #Shorts', 1643559802.0, 0.08455658445105957).
 video('Comedy', 'whinderssonnunes', 'VALEU, POPÓ 💪🏻 #Shorts', 1643559802.0, 0.08077167126629013).
+video('Comedy', 'whinderssonnunes', 'É HOJE 💪🏻 #Shorts', 1643559802.0, 0.08455658445105957).
 video('Comedy', 'whinderssonnunes', 'BALANÇA, MAS NÃO CAI #Shorts', 1643676574.0, 0.09307564301161025).
 video('Comedy', 'whinderssonnunes', 'VEDA # 01 - MINHA CASA EM FORTAL', 1648882325.0, 0.2572047861618488).
 video('Comedy', 'whinderssonnunes', 'VEDA # 02 - BASTIDORES E ESTREIA EM FORTAL', 1648965176.0, 0.24571260504928613).
@@ -4338,6 +4376,7 @@ video('Education', 'Bruno & Marrone', 'Bruno & Marrone - Saudade Véia (Clipe Of
 video('Education', 'Bruno & Marrone', 'Bruno & Marrone - Um Sonhador (Clipe Oficial)', 1690553104.0, 0.009571276465164607).
 video('Education', 'Bruno OM', 'ANUNCIADA NOVA REFORMA DA PREVIDÊNCIA EM 2027, FAÇA ALGUMA COISA ANTES QUE SEJA TARDE!', 1693260017.0, 0.14051242535157002).
 video('Education', 'Caio Mesquita', 'GABRIEL HENRIQUE ENCERRA SUA PARTICIPAÇÃO NO AGT...', 1695304825.0, 0.04251629684338974).
+video('Education', 'ChefTaico', 'A MELHOR RECEITA DE SOBRECOXA DE FRANGO COM MEL E MOSTARDA DO CHEF TAICO', 1697895004.0, 0.007924882414199558).
 video('Education', 'Cozinha de Gente Moderna', 'AULA #3 | MASTERCLASS COZINHA SEM STRESS [Junho 23]', 1687345209.0, 0.0881407225269529).
 video('Education', 'Davi Louback', 'COMO VENDER A CANETA | LOBO DE WALL STREET #shorts', 1641576294.0, 0.09017437277072433).
 video('Education', 'Davi Louback', 'ESSE É O MAIOR ERRO NA HORA DE NEGOCIAR | COMO VENDER MAIS #shorts', 1649357799.0, 0.08621085033383608).
@@ -4376,6 +4415,9 @@ video('Education', 'Isamara Amâncio', 'A SOBREMESA DE LIQUIDIFICADOR QUE NÃO P
 video('Education', 'Isamara Amâncio', 'FIZ A TORTA ASSIM PARA MINHA MÃE E NÃO PARAM DE ME PEDIR ESSA RECEITA! FÁCIL! RÁPIDA-Isamara Amâncio', 1681841462.0, 0.05266644960512467).
 video('Education', 'Isamara Amâncio', 'SÓ 2 INGREDIENTES! SEM OVOS! SEM CREME DE LEITE! PUDIM FEITO EM 30 MINUTOS NA PANELA-Isamara Amâncio', 1685829080.0, 0.03011420338939279).
 video('Education', 'Isamara Amâncio', 'MEXEU TÁ PRONTO! A RECEITA DA TORTA SALGADA MAIS FAMOSA DA MINHA FAMÍLIA - Isamara Amâncio', 1693336609.0, 0.1162127929069031).
+video('Education', 'Isamara Amâncio', 'ESTOU DE VOLTA! COM O MELHOR BOLO DE CHOCOLATE DOS ÚLTIMOS TEMPOS! O QUE ACONTECEU? -Isamara Amâncio', 1697403622.0, 0.12995710408824301).
+video('Education', 'Isamara Amâncio', 'RECEITA QUE FEZ O MAIOR SUCESSO NOS ANOS 80 E 90! CARNE LOUCA DA MINHA FAMÍLIA! - Isamara Amâncio', 1697496672.0, 0.06528511254720232).
+video('Education', 'Isamara Amâncio', 'MINHA VERSÃO DO BOLO QUE ESTÁ VIRALIZANDO NA INTERNET! BOLO ALAGADO TRÊS LEITES! - Isamara Amâncio', 1697571200.0, 0.11246601794945298).
 video('Education', 'Luana Carolina', 'de adolescente desleixada para business woman - GLOW UP - meu processo.', 1642258815.0, 0.19385398501201867).
 video('Education', 'Manual do Trânsito', '🚨EXTRA: MOTORISTAS COM EAR NÃO SABEM DISSO', 1691618208.0, 0.028423483393616646).
 video('Education', 'Marcelino Colatino', 'MEU POÇO ESTOUROU', 1656872573.0, 0.11131153092927716).
@@ -4413,8 +4455,8 @@ video('Education', 'O Primo Rico', 'RÚSSIA X UCRÂNIA | COMO A CRISE PODE AFETA
 video('Education', 'O Primo Rico', 'A MANSÃO DE R$15 MILHÕES DO PRIMO RICO | Conhecendo a nova casa de Thiago Nigro', 1650036143.0, 0.06811610401349007).
 video('Education', 'O Primo Rico', 'NOVO RENDIMENTO DA NUCONTA (Nubank) | Saiba como isso IMPACTA O SEU DINHEIRO!', 1657749620.0, 0.11171271407127477).
 video('Education', 'O Primo Rico', 'URGENTE! TAXA SELIC SUBIU PARA 13,75% | Grande oportunidade na RENDA FIXA? Bolsa está barata?', 1659563212.0, 0.13673015087806084).
-video('Education', 'O Primo Rico', '4 FORMAS DE GANHAR MAIS DE 20 MIL REAIS NO MÊS', 1667858415.0, 0.11083269082498072).
 video('Education', 'O Primo Rico', '4 FORMAS DE GANHAR 20 MIL REAIS NO MÊS', 1667858415.0, 0.11921766204685602).
+video('Education', 'O Primo Rico', '4 FORMAS DE GANHAR MAIS DE 20 MIL REAIS NO MÊS', 1667858415.0, 0.11083269082498072).
 video('Education', 'O Primo Rico', 'LOJAS AMERICANAS FALIU? (AMER3) | R$20BI DE DÍVIDA', 1673548213.0, 0.08121114984668854).
 video('Education', 'O Primo Rico', 'BANCOS ESTÃO COLAPSANDO? (SVB) | BANCOS DIGITAIS CORREM PERIGO?', 1678734908.0, 0.1310947083896455).
 video('Education', 'O Primo Rico', 'MONTANDO UMA CARTEIRA PARA RECEBER DIVIDENDOS (RENDA PASSIVA) | Rumo ao Bilhão 49', 1685545216.0, 0.12233894090482353).
@@ -4436,9 +4478,10 @@ video('Education', 'Oda', 'RECRIEI A FRUTA DRAGON NO MEU BLOX FRUITS!', 16930617
 video('Education', 'Odisseia Mundana', 'Ucrânia x Rússia - 3ª Guerra Mundial ? Entenda o Conflito', 1645650013.0, 0.07954340859169637).
 video('Education', 'Olá, Ciência!', 'POR QUE A ÔMICRON É A VARIANTE MAIS PERIGOSA', 1642537365.0, 0.11726521929550147).
 video('Education', 'Olá, Ciência!', 'O PERIGO do TIPO SANGUÍNEO que a CIÊNCIA começou a ENTENDER', 1648310434.0, 0.0988879407635773).
+video('Education', 'Olá, Ciência!', 'REFRIGERANTE OU CERVEJA: Qual Faz MAIS MAL?', 1698179402.0, 0.08579501204426494).
 video('Education', 'Orochi', 'Orochi SEREIA 🧜🏼‍♀️ feat.  Ryan SP, Xamã, Oruam ( prod. NeoBeats, Kizzy )', 1666908009.0, 0.09656706370074503).
-video('Education', 'Orochi', 'Orochi “Gelo no copo remix” 🧊 ft. Hyperanhas', 1668217783.0, 0.12067368092806534).
 video('Education', 'Orochi', 'Orochi “Gelo no copo remix” 🧊 ft. Hyperanhas (prod. Caio Passos)', 1668217783.0, 0.07605134079360884).
+video('Education', 'Orochi', 'Orochi “Gelo no copo remix” 🧊 ft. Hyperanhas', 1668217783.0, 0.12067368092806534).
 video('Education', 'Orochi', 'Orochi JOGADOR (prod. RUXN)', 1671037208.0, 0.116959087102993).
 video('Education', 'Orochi', 'Orochi BALÃO 2  (prod. TkN, Kizzy, Luchinha)', 1673298011.0, 0.14514186187586917).
 video('Education', 'Orochi', 'Orochi BALÃO 2 🎈 (prod. TkN, Kizzy, Luchinha)', 1677880807.0, 0.10451405141990332).
@@ -4647,12 +4690,18 @@ video('Entertainment', 'A Fazenda', 'Retorno triunfal: peões vibram com volta d
 video('Entertainment', 'A Fazenda', 'Simioni, Cariúcha e Shayan discutem com Márcia e sugerem: Você está na mira | A Fazenda 15', 1696635351.0, 0.02731211199276405).
 video('Entertainment', 'A Fazenda', 'Cariúcha é a terceira eliminada de A Fazenda 15, e Márcia Fu garante permanência no jogo', 1697169702.0, 0.02011775367755178).
 video('Entertainment', 'A Fazenda', 'Márcia Fu volta à sede e comemora ao lado de aliados: Eu fiquei | A Fazenda 15', 1697170040.0, 0.01906501058168444).
+video('Entertainment', 'A Fazenda', 'Rachel e Jenny brigam durante distribuição de tarefas | A Fazenda 15', 1697713806.0, 0.015705808833552586).
+video('Entertainment', 'A Fazenda', '“Fui a primeira a te enfrentar”, diz Rachel para Jenny | A Fazenda 15', 1697719624.0, 0.01321432606485143).
+video('Entertainment', 'A Fazenda', 'Assista ao momento em que Rachel Sheherazade infringiu regra, gerando sua expulsão | A Fazenda 15', 1697772318.0, 0.019937974027315782).
+video('Entertainment', 'A Fazenda', 'Simioni sobra no Resta Um e ocupa a última vaga na quinta Roça de A Fazenda 15', 1698205910.0, 0.01570664994475798).
+video('Entertainment', 'A Fazenda', 'Dono do chapéu, Lucas delega funções como Fazendeiro | A Fazenda 15', 1698315906.0, 0.027460449869019916).
 video('Entertainment', 'A Grande Conquista', 'Você não respeita ninguém!, dispara Lary para Cavallo | A Grande Conquista', 1683816205.0, 0.03643226062773142).
 video('Entertainment', 'A Tarde é Sua', 'Arthur Aguiar manda recado para Sonia Abrão: “Obrigado pelo apoio”', 1651180054.0, 0.07634978930991537).
 video('Entertainment', 'A Tarde é Sua', 'Sonia Abrão opina sobre participação de Susana Vieira no ‘Encontro’: “Ela inverteu o jogo”', 1685396283.0, 0.016418361759682257).
 video('Entertainment', 'ABC', 'Anitta Accepts the 2022 AMA for Favorite Female Latin Artist - The American Music Awards', 1668997262.0, 0.11192690112318174).
 video('Entertainment', 'ANAVITÓRIA', 'ANAVITÓRIA, Lagum - universo de coisas que eu desconheço (1/2)', 1668175860.0, 0.1537069847528261).
 video('Entertainment', 'AXN Brasil', 'S.W.A.T. | CUCHILLO | COMPLETO e DUBLADO', 1644616812.0, 0.03340655516648905).
+video('Entertainment', 'AXN Brasil', 'VOLTOU COM TUDO! O 2º EPISÓDIO INÉDITO DE S.W.A.T. ESTÁ NO AR!', 1697576409.0, 0.03833002973240832).
 video('Entertainment', 'Adauto', 'A FAZENDA 2022: URGENTE! Tiago Ramos não voltou para a sede após surto e punição em A Fazenda 14', 1664634396.0, 0.031395006260587756).
 video('Entertainment', 'Adeline Camargo', 'Os planos mudaram completamente vamos mudar de cidade', 1689001208.0, 0.1887671489441401).
 video('Entertainment', 'Adeline Camargo', 'Tour em mais três e uma delas teve um sinal de que será a casa escolhida | @AdelineCamargo', 1689087605.0, 0.17687225671465284).
@@ -4746,8 +4795,8 @@ video('Entertainment', 'Avatar', 'Avatar: The Way of Water | New Trailer', 16690
 video('Entertainment', 'Avelino Vlogs', 'ESSE FOI O MELHOR CHURRASCO QUE EU JA COMI NA MINHA VIDA!', 1654804805.0, 0.1199545776422479).
 video('Entertainment', 'Avelino Vlogs', 'SURPREENDI MEU IRMAO COM O SEU YOUTUBER FAVORITO E ELE FICOU MALUCO', 1679428805.0, 0.12679469873604124).
 video('Entertainment', 'Aviões e Músicas', 'RASGOU a FUSELAGEM em voo - United 811 | EP. 892', 1642950025.0, 0.16407430214374).
-video('Entertainment', 'Aviões e Músicas', 'Falando sobre o Antonov AN-225 Mriya | EP. 918', 1646077154.0, 0.09378543965922606).
 video('Entertainment', 'Aviões e Músicas', 'Falando sobre o Antonov AN-225 Mriya EP. 918', 1646077154.0, 0.10849448949885632).
+video('Entertainment', 'Aviões e Músicas', 'Falando sobre o Antonov AN-225 Mriya | EP. 918', 1646077154.0, 0.09378543965922606).
 video('Entertainment', 'Aviões e Músicas', 'Sukhoi SU-34 Abatido na Ucrânia e Aviões SEM MANUTENÇÃO EP. 923', 1646670093.0, 0.13265018260557956).
 video('Entertainment', 'Aviões e Músicas', 'Acidente com Boeing 737-800 da China Eastern próximo a Wuzhou | EP.932', 1647882070.0, 0.13932060564785964).
 video('Entertainment', 'Aviões e Músicas', 'Atualizações sobre o acidente MU-5735 | EP. 939', 1648487148.0, 0.15394825394451506).
@@ -4782,6 +4831,7 @@ video('Entertainment', 'Aviões e Músicas', 'O Acidente com a jovem Cantora Aal
 video('Entertainment', 'Aviões e Músicas', 'Legacy 600 da Embraer cai na Rússia - Acidente ou derrubado? #LiveExtra', 1692831099.0, 0.17190689735952613).
 video('Entertainment', 'Aviões e Músicas', 'Atentado Aéreo no Brasil - Voo TAM 283 | EP. 1163', 1693148406.0, 0.11522903125175794).
 video('Entertainment', 'BAROLO JOGOS', 'VÍDEO REPOSTADO DO BAROLO:  BRAGANTINO 2X1 SÃO PAULO - ANÁLISE E NOTAS - CAMPEONATO PAULISTA', 1675982502.0, 0.10351821514938762).
+video('Entertainment', 'BAROLO JOGOS', 'LIVE DO INTERVALO - GOIÁS X SÃO PAULO', 1697679511.0, 0.14495572846793667).
 video('Entertainment', 'BAROLO VÍDEOS - LIVES', 'LIVE DO INTERVALO DIRETO DO MORUMBI - SÃO PAULO X FLAMENGO - COPA BR', 1661391071.0, 0.11607142857142858).
 video('Entertainment', 'BAROLO VÍDEOS - LIVES', 'LIVE DO INTERVALO - CUIABÁ X SÃO PAULO - CAMPEONATO BRASILEIRO', 1662332795.0, 0.09637413986868826).
 video('Entertainment', 'BBC', 'Peaky Blinders Series 6 Trailer 🔥 BBC', 1641059901.0, 0.052160310182851236).
@@ -4907,6 +4957,7 @@ video('Entertainment', 'Blog das irmãs', 'O Renan Nasceu e Fomos Conhecer Ele!'
 video('Entertainment', 'Blogueirinha', 'DE FRENTE COM BLOGUEIRINHA: ELAY OLIV - T2E17 | DiaTV', 1693267326.0, 0.09254382414149448).
 video('Entertainment', 'Blogueirinha', 'DE FRENTE COM BLOGUEIRINHA: GLORIA GROOVE - T2E21 | DiaTV', 1695084130.0, 0.08564890742389454).
 video('Entertainment', 'Blogueirinha', 'DE FRENTE COM BLOGUEIRINHA: ANITTA - T2E24 | DiaTV', 1697071309.0, 0.07466130256482564).
+video('Entertainment', 'Blogueirinha', 'DE FRENTE COM BLOGUEIRINHA: PRETA GIL - T2E25 | DiaTV', 1697504455.0, 0.07069871891887079).
 video('Entertainment', 'Boquinha', 'ESSE É O MEU NOVO CARRO', 1651171773.0, 0.1484985924304035).
 video('Entertainment', 'Boquinha', 'TROUXE O BOCA DE 09 PRA CONHECER A MANSÃO HUNTERS', 1655158729.0, 0.12498427252567511).
 video('Entertainment', 'Boquinha', 'FIZ UM CHURRASCO ESPECIAL PRO BOCA DE 09', 1655251690.0, 0.13376646436974043).
@@ -4923,6 +4974,7 @@ video('Entertainment', 'Bora Comentar', '🚨A Fazenda 14: Deolane retirada às 
 video('Entertainment', 'Bora Comentar', '🚨BBB23! GIRO de ENQUETES: Rejeição aparece! Cezar, Nicácio ou Sapato? Quem vai sair neste paredão?', 1677469825.0, 0.12025457438345266).
 video('Entertainment', 'Bora Comentar', '🚨BBB23: Deu ruim! Enquetes chocam com resultado entre Nicácio e Sapato! + Resumo da Madrugada', 1677496993.0, 0.13393849573916267).
 video('Entertainment', 'Bora Comentar', '🚨ENQUETE CHOCA MUITO! Amanda, Domitila, Larissa ou Marvvila? Quem vai ficar? Resultado atualizado!', 1680519611.0, 0.1255024287288359).
+video('Entertainment', 'Bora Comentar', '🚨Simione fica em choque após ser exposta e o pior vem a tona; Decisão de Fu causa revolta', 1698243475.0, 0.12219951868501112).
 video('Entertainment', 'Brancoala', 'Escondi OVOS DE PÁSCOA pela casa e fiz uma SURPRESA para MARCOS e LAURA - Família Brancoala', 1649970031.0, 0.02205051899392266).
 video('Entertainment', 'Brancoala', 'HALLOWEEN NA DISNEY COM FAMÍLIA BRANCOALA - Magic Kingdom Orlando', 1660944600.0, 0.022201145185653564).
 video('Entertainment', 'Brancoala', 'ALBUM DE FIGURINHAS DA COPA DO MUNDO 2022 NOS EUA', 1662820204.0, 0.02517110504361808).
@@ -4939,6 +4991,7 @@ video('Entertainment', 'Brasileira no Egito', 'FOMOS PADRINHOS DE CASAMENTO NO B
 video('Entertainment', 'Brasileira no Egito', 'DESPEDIDA DO BRASIL: SUPERMERCADO E COMPRAS  COM AHMED! | Brasileira no Egito', 1652630222.0, 0.1411527609834744).
 video('Entertainment', 'Brazilicans', 'Nos mudamos para um MOTOR HOME por 1 semana. Tour e Rotina na casa de rodas', 1683382069.0, 0.14698256380979566).
 video('Entertainment', 'Brazilicans', 'Fizemos uma MINI REFORMA em Preparação pra Temporada de Furacão na Flórida!', 1684088949.0, 0.17760392698266605).
+video('Entertainment', 'Brazilicans', 'Diário de Cirurgia de Diástase MILA: Primeiros dias Pós Cirurgia e Retorno no médico.', 1698271783.0, 0.15612257576270994).
 video('Entertainment', 'Brenner Mariano', 'TENTEI FAZER UMA MÁGICA E DEU MUITO RUIM! #shorts', 1646406014.0, 0.05575615659343362).
 video('Entertainment', 'Brenner Mariano', 'ESSA É A NOVA ELO HOUSE!!', 1658331903.0, 0.044746300423669255).
 video('Entertainment', 'Brenner Mariano', 'GANHEI AS FIGURINHAS DA MINHA NAMORADA SÓ BATENDO BAFO!', 1665158438.0, 0.030084562362319683).
@@ -4949,6 +5002,7 @@ video('Entertainment', 'Brenner Mariano', 'ENCONTREI TODAS AS FIGURINHAS LENDÁR
 video('Entertainment', 'Brenner Mariano', 'DESBLOQUEEI O CELULAR DA MINHA FILHA ADOTIVA E NÃO ACREDITEI NO QUE VI!', 1690210836.0, 0.10340289592204809).
 video('Entertainment', 'Brenner Mariano', 'FIQUEI PERDIDO NA FLORESTA AMAZÔNICA COM O ENALDINHO!', 1693839622.0, 0.028050193220908536).
 video('Entertainment', 'Brenner Mariano', 'ENCONTREI O DIÁRIO SECRETO DA MINHA FILHA ADOTIVA E NÃO ACREDITEI NO QUE VÍ!', 1694530803.0, 0.0229493487413601).
+video('Entertainment', 'Brenner Mariano', 'DESTRUÍ O CORVETTE DE 2 MILHÕES DO ENALDINHO!', 1698332432.0, 0.02856678545311031).
 video('Entertainment', 'Brisando Com Leticia', 'Ana Castela - Pipoco ft. @MELODY OFICIAL e @DJ Chris no Beat - PARÓDIA', 1656081007.0, 0.007430853356930547).
 video('Entertainment', 'Brisando Com Rudgi', 'Zé Felipe - Malvada I PARÓDIA', 1654264814.0, 0.009087709072190702).
 video('Entertainment', 'Brisando Com Rudgi', 'Zé Felipe e MC Mari - Bandido I PARÓDIA', 1656429302.0, 0.00901693024158339).
@@ -5019,6 +5073,7 @@ video('Entertainment', 'CHAPOH11', 'Fone da feira #shorts', 1648645616.0, 0.0685
 video('Entertainment', 'CHAPOH11', 'Tipo de pulos na piscina #shorts', 1648819031.0, 0.058215536001513864).
 video('Entertainment', 'CHRYS & DEBORA', 'A POLÍCIA VEIO NA MINHA CASA!!', 1642019651.0, 0.08361927430353466).
 video('Entertainment', 'CHUU Official', 'CHUU 츄 \'Underwater\' MV', 1696928426.0, 0.0709918150799132).
+video('Entertainment', 'CHUU Official', 'CHUU 츄 \'Howl\' MV', 1697619505.0, 0.015914671573141404).
 video('Entertainment', 'CLIMA BC', 'MOMENTOS DO VENTO DO CICLONE 13/07/2023', 1689277176.0, 0.017183207604761698).
 video('Entertainment', 'CORTES - Leon e Nilce [Oficial]', 'SUCESSO NO TERMO vs VEXAME NO CONTEXTO', 1651006807.0, 0.09861878152130105).
 video('Entertainment', 'CORTES - Leon e Nilce [Oficial]', 'TESTAMOS uma PALAVRA NOVA no TERMO', 1655910008.0, 0.10955951265229616).
@@ -5077,8 +5132,8 @@ video('Entertainment', 'Cadê a chave?', 'ENTREGUEI O SEGREDO DO AMIGO! - Ep.165
 video('Entertainment', 'Cadê a chave?', 'COMEÇAMOS NA MARCENARIA - Ep.1657', 1694476972.0, 0.1644957454835059).
 video('Entertainment', 'Caio Araujo', 'GANHEI um CARRO de 1 MILHÃO de reais de ANIVERSARIO * não é clickbait *', 1646688601.0, 0.14584835306247432).
 video('Entertainment', 'Caio Araujo', 'ESSE é o novo CARRO do meu irmão com 18 anos 🔥', 1657661491.0, 0.12698204174932015).
-video('Entertainment', 'Caio Bergantine', 'QUEM ACERTAR MAIS BOLINHAS, VENCE!!!', 1643381063.0, 0.059503659082989).
 video('Entertainment', 'Caio Bergantine', 'OMG!!! QUEM ACERTAR MAIS BOLINHAS, VENCE!', 1643381063.0, 0.05923949459174883).
+video('Entertainment', 'Caio Bergantine', 'QUEM ACERTAR MAIS BOLINHAS, VENCE!!!', 1643381063.0, 0.059503659082989).
 video('Entertainment', 'Caio Teixeira', 'FIZEMOS HISTÓRIA COMO NOVATO! NBA 2K24 MyCareer (Ep.2)', 1694792236.0, 0.10761669249002125).
 video('Entertainment', 'Caique Bitencourt', 'DERRUBEI MEU IPHONE E QUEBROU A TELA TODA, Aí meu coração 😰', 1642428538.0, 0.13764340696209093).
 video('Entertainment', 'Caique Bitencourt', 'Tchau, até a próxima', 1642601242.0, 0.13438575951558182).
@@ -5127,10 +5182,12 @@ video('Entertainment', 'Camila Loures', 'TO NAMORANDO !!!', 1685898607.0, 0.0845
 video('Entertainment', 'Camila Loures', 'O MATTEO NASCEU !!!', 1689372014.0, 0.06534734318607548).
 video('Entertainment', 'Camila Loures', 'O MATTEO CHEGOU AO MUNDO !!!', 1689372014.0, 0.07745438128716348).
 video('Entertainment', 'Camila Loures', '24 HORAS NA PISCINA DA MANSÃO DO LAGO !!!', 1696086039.0, 0.05872771168445853).
+video('Entertainment', 'Camila Loures', 'CONTEI QUE ESTOU GRÁVIDA PARA O MEU NAMORADO!!! *Trolagem épica', 1697839227.0, 0.09317484662576687).
 video('Entertainment', 'Camilla de Lucas', 'EM BUSCA DA NOSSA CASA NOVA | VISITANDO MANSÕES | VOU SAIR DO ALUGUEL', 1641594601.0, 0.1660909216526185).
 video('Entertainment', 'Camilla de Lucas', 'ACHEI A MANSÃO | COMPREI MINHA CASA NOVA!', 1642282232.0, 0.11145887046164055).
 video('Entertainment', 'Camilla de Lucas', 'TOUR NA CASA NOVA ANTES DA OBRA!', 1642734011.0, 0.12733921366808681).
 video('Entertainment', 'Camilla de Lucas', 'DEI UMA CASA NOVA PARA MINHA MÃE | PARTE 2', 1655155800.0, 0.0856245893261298).
+video('Entertainment', 'Canal Aves', '15 CANTOS de AVES que trazem SAUDADES DA ROÇA - Cantos aves rurais, inhambu, seriema, tico-tico...', 1697319000.0, 0.019060379039511372).
 video('Entertainment', 'Canal Família Araújo', 'FIZEMOS UMA FESTA DE ANIVERSÁRIO DA MINNIE PARA ELOAH !', 1683464429.0, 0.021569405848881833).
 video('Entertainment', 'Canal GNT', 'Gkay relembra perigo em viagem com Anitta | Que História é essa, Porchat?', 1648656075.0, 0.07722226790559987).
 video('Entertainment', 'Canal GNT', 'Histórias da Plateia: flagra no motel e primeiro emprego | Que História é essa, Porchat?', 1648677622.0, 0.06436227892560001).
@@ -5190,8 +5247,8 @@ video('Entertainment', 'Canal Rodrigo Mota TV', 'MOLEJO - Rodrigo Mota (Clipe Of
 video('Entertainment', 'Canal Samuel Venâncio', 'EU TÔ DE VOLTA', 1651063527.0, 0.3181221991474478).
 video('Entertainment', 'Canal Samuel Venâncio', '🔥 SAINDO DO FORNO • EMPRESÁRIO ESCLARECE SITUAÇÃO DE DANIEL JR', 1651155682.0, 0.28696001512430286).
 video('Entertainment', 'Canal Samuel Venâncio', 'PEPA NÃO É MAIS O TÉCNICO DO CRUZEIRO', 1693319050.0, 0.1243154129875936).
-video('Entertainment', 'Canal da Lívia', 'MEU MATERIAL ESCOLAR 2023 COMPLETO!', 1673470915.0, 0.044813212740857256).
 video('Entertainment', 'Canal da Lívia', 'MEU MATERIAL ESCOLAR 2023 COMPLETO! muita coisa fofa', 1673470915.0, 0.052541522848629674).
+video('Entertainment', 'Canal da Lívia', 'MEU MATERIAL ESCOLAR 2023 COMPLETO!', 1673470915.0, 0.044813212740857256).
 video('Entertainment', 'Canal da Manuh', 'CONTANDO A GRAVIDEZ PARA MINHA FAMÍLIA/ Caixa surpresa 🥺🥰🤰🏻', 1663106433.0, 0.1438371946876702).
 video('Entertainment', 'Canal da Manuh', 'NOSSO CHÁ REVELAÇÃO 🥹💗💙 *Emocionante*', 1670857691.0, 0.1338949687394821).
 video('Entertainment', 'Canal da Manuh', 'MEU PARTO NORMAL | NASCIMENTO DA HELENA', 1683486775.0, 0.15606965720610727).
@@ -5219,8 +5276,8 @@ video('Entertainment', 'Canal do Benja', 'Brasileirão: Palmeiras 1 x 0 Vasco. D
 video('Entertainment', 'Canal do Dimas - Mar de Monstros', '(SHOW FORA DE SÉRIE 🔥) JHONY (RJ) X MAGRAO (SP) - MDM O DESAFIO - 1ª FASE -  (Intérprete de Libras)', 1668378608.0, 0.08551372873468122).
 video('Entertainment', 'Canal do Dimas - Mar de Monstros', '( CHAMOU DE FRACO E... 🔥) FAEL (RJ) X NEO (RJ) - MDM O DESAFIO - 1ª FASE -  (Intérprete de Libras)', 1668380410.0, 0.07644438621773876).
 video('Entertainment', 'Canal do Dimas - Mar de Monstros', '(REVANCHE ÉPICA🔥) PRADO (SP) X JHONY (RJ) - MDM O DESAFIO - 2ª FASE -  (Intérprete de Libras)', 1668468607.0, 0.0714235202602362).
-video('Entertainment', 'Canal do Dimas - Mar de Monstros', 'JHONY e MAGRÃO vs JOTAPÊ e BARRETO - ARMAGEDOM - 17/06/2023 - GRUPO A', 1687129207.0, 0.09147889630388602).
 video('Entertainment', 'Canal do Dimas - Mar de Monstros', 'JHONY e MAGRÃO vs JOTAPÊ e BARRETO - ARMAGEDOM - 17/06/2023', 1687129207.0, 0.09895060710949947).
+video('Entertainment', 'Canal do Dimas - Mar de Monstros', 'JHONY e MAGRÃO vs JOTAPÊ e BARRETO - ARMAGEDOM - 17/06/2023 - GRUPO A', 1687129207.0, 0.09147889630388602).
 video('Entertainment', 'Canal do Erick', 'RESGATE DO LOGAN - 5 ANOS NO PÁTIO DO LEILÃO!', 1673735409.0, 0.1735752693006276).
 video('Entertainment', 'Canal do LUCAS VASCONCELOS', 'LUCAS E PAPAI SE DIVERTEM com CARRINHOS DE BRINQUEDO - Especial Completo', 1694182104.0, 0.012367564002143712).
 video('Entertainment', 'Canal do Torajo', 'O que aconteceu com o Torajo?', 1697121018.0, 0.09870385676239696).
@@ -5278,11 +5335,11 @@ video('Entertainment', 'CheffOtto', 'ALHO NEGRO!!!', 1646071211.0, 0.11745988055
 video('Entertainment', 'CheffOtto', 'CARANGUEJO GIGANTE!!!', 1647286500.0, 0.12097306139679692).
 video('Entertainment', 'CheffOtto', 'COMO COMER CARNE CRUA! (Steak Tartare)', 1648231201.0, 0.10487758218943949).
 video('Entertainment', 'Chefão, Chefona e Chefinho', 'NESSE PESQUEIRO PEIXES GRANDES ESTÃO POR TODO LADO - Pescaria', 1655046649.0, 0.07373994669685606).
-video('Entertainment', 'Chefão, Chefona e Chefinho', 'PESCARIA EM ALTO MAR - Fisgou Xaréu branco a 1 metro do barco', 1655910002.0, 0.07077143336897829).
 video('Entertainment', 'Chefão, Chefona e Chefinho', 'FISGOU XÁREU BRANCO A 1 METRO - Pescaria nas ilhas perdidas', 1655910002.0, 0.0799461242566403).
+video('Entertainment', 'Chefão, Chefona e Chefinho', 'PESCARIA EM ALTO MAR - Fisgou Xaréu branco a 1 metro do barco', 1655910002.0, 0.07077143336897829).
 video('Entertainment', 'Chefão, Chefona e Chefinho', 'A PESCARIA QUE RENDEU UM GRANDE PEIXE ASSADO - Pesca no mar', 1658934031.0, 0.07270581915158957).
-video('Entertainment', 'Chefão, Chefona e Chefinho', 'CHEFONA E CHEFINHO - Pescando com conchas das pedras', 1659618008.0, 0.05900692202656732).
 video('Entertainment', 'Chefão, Chefona e Chefinho', 'CHEFONA E CHEFINHO - Pescado com Isca Natural', 1659618008.0, 0.07008957429125497).
+video('Entertainment', 'Chefão, Chefona e Chefinho', 'CHEFONA E CHEFINHO - Pescando com conchas das pedras', 1659618008.0, 0.05900692202656732).
 video('Entertainment', 'Chico Barney', 'BBB 23: Gabriel é eliminado! Foi por pouco! Key Alves chora com o retorno de Michael Jackson!', 1675265675.0, 0.10858585858585859).
 video('Entertainment', 'Chico Barney', 'BBB 23: DOMITILA VERSUS BOCO ROSO NO QUARTO BRANCO! QUEM VAI PRO PAREDÃO?', 1678290144.0, 0.07920198004950124).
 video('Entertainment', 'Chico Barney', 'BBB23: FRED DESIMPEDIDOS VENCE DESAFIO E DOMITILA ESTÁ NO PAREDÃO', 1678376090.0, 0.10032603302856333).
@@ -5330,6 +5387,7 @@ video('Entertainment', 'Cleide Lifestyle', 'O melhor doce do Brasil feito aqui n
 video('Entertainment', 'Cleide Lifestyle', 'Especial de Aniversário do Gustavo!', 1691616610.0, 0.10145212482094206).
 video('Entertainment', 'Coach Rubens Gomes', 'REAGINDO AO TREINO DO SAITAMA DA VIDA REAL | STEFF HAPPY', 1658873632.0, 0.09516223899617685).
 video('Entertainment', 'Coach Rubens Gomes', 'RAMON DINO VS URS: ANÁLISE COMPARATIVA ATUAL PARA O ARNOLD CLASSIC 2023', 1677795851.0, 0.09102404929415552).
+video('Entertainment', 'Coach Rubens Gomes', 'REAGINDO AO SHAPE ATUAL E TREINO DO CBUM PARA O MR OLYMPIA 2023', 1697672318.0, 0.09371027905392496).
 video('Entertainment', 'Coca-Cola', 'Coke Studio x Halsey', 1656612639.0, 0.00469088641919107).
 video('Entertainment', 'Coelho', 'bem vindo ao among us 3 polus parte 3', 1645540301.0, 0.1511147029668588).
 video('Entertainment', 'Coelho no Japão', 'Estou com um mau pressentimento... Vamos ficar espertos.', 1692360044.0, 0.10211288681391034).
@@ -5364,8 +5422,8 @@ video('Entertainment', 'Construindo Com TatiCelo', '🏡Live #52: Nossa piscina 
 video('Entertainment', 'Construindo Com TatiCelo', '👷‍♀Live #56: O pesadelo continua! Mais problemas com a obra. Vamos expor a construtora.', 1680207041.0, 0.14441972987227408).
 video('Entertainment', 'Construindo Com TatiCelo', '🏡Live #57: Enfim instalaram a porta da frente e começaram o revestimento da lareira', 1681068820.0, 0.1457033989876969).
 video('Entertainment', 'Construindo Com TatiCelo', '🏡Live #58: Tivemos que colocar advogado. Qdo termina a obra? Updates da cosntrução da nossa casa.', 1685815941.0, 0.1170742973840319).
-video('Entertainment', 'Construindo Com TatiCelo', '🙌🏼Live #59: MUDAMOS! Primeiro AO VIVO na Casa Nova', 1689468901.0, 0.13563263580324755).
 video('Entertainment', 'Construindo Com TatiCelo', 'MUDAMOS! Primeira live na Casa Nova', 1689468901.0, 0.16109640386496188).
+video('Entertainment', 'Construindo Com TatiCelo', '🙌🏼Live #59: MUDAMOS! Primeiro AO VIVO na Casa Nova', 1689468901.0, 0.13563263580324755).
 video('Entertainment', 'Construindo Com TatiCelo', '🎉Live #60: PRIMEIRO DIA NA CASA NOVA! Já arrumamos muita coisa.', 1689551624.0, 0.12864575555852464).
 video('Entertainment', 'Construindo Com TatiCelo', 'PRIMEIRO DIA NA CASA NOVA! Já arrumamos muita coisa.', 1689551624.0, 0.13525133846971538).
 video('Entertainment', 'Construindo Com TatiCelo', '😍Live #61: Dia 2 na CASA NOVA! CHEGARAM OS MÓVEIS NOVOS: Sofás, mesa, cadeiras, cama…', 1689646874.0, 0.13346473391382452).
@@ -5378,12 +5436,15 @@ video('Entertainment', 'Corbucci Eats', 'O MAIOR DESAFIO DE PICANHA DO YOUTUBE!!
 video('Entertainment', 'Corbucci Eats', 'RODÍZIO DO OUTBACK!! A MAIOR COMILANÇA DOS PETISCOS!!', 1684591236.0, 0.08160708453577337).
 video('Entertainment', 'Corbucci Eats', 'Corbucci chega de SURPRESA na CHURRASCARIA!!', 1694268002.0, 0.09502700392593927).
 video('Entertainment', 'Corbucci Eats', 'A BATALHA DO HAMBÚRGUER GIGANTE! | Corbucci VS @CheffOtto', 1695650445.0, 0.0830267858719387).
+video('Entertainment', 'Corbucci Eats', 'Prato de TRABALHADOR com CHURRASCO a vontade!!', 1698328803.0, 0.08478763004676912).
 video('Entertainment', 'Core', 'A HISTÓRIA COMPLETA DE FIVE NIGHTS AT FREDDY\'S SECURITY BREACH!', 1643382901.0, 0.14281839142818392).
 video('Entertainment', 'Core', 'O FINAL SECRETO? Todos os Segredos e Jumpscares de Poppy Playtime Chapter 2', 1652044501.0, 0.12480915200417582).
 video('Entertainment', 'Core', 'O RETORNO! Cuphead: The Delicious Last Course - Parte 1', 1656596702.0, 0.10846090110158786).
 video('Entertainment', 'Core', 'TRAILER OFICIAL DO FILME DE FIVE NIGHTS AT FREDDY\'S!', 1684293131.0, 0.1416274239807679).
 video('Entertainment', 'Core', 'Finalmente A DLC RUIN de FNAF Security Breach!', 1690288219.0, 0.12850265206381625).
 video('Entertainment', 'Core', 'O meu caso com um Stalker...', 1694470501.0, 0.16842793790243699).
+video('Entertainment', 'Core', 'UM NOVO FNAF FOI LANÇADO! COM TRAILER DO FILME! (Não é Clickbait, é real oficial)', 1697681126.0, 0.11479881666547748).
+video('Entertainment', 'Core', 'Eu vi o FILME DE FNAF e achei ele bem... (Sem spoilers)', 1698333301.0, 0.15317679656647457).
 video('Entertainment', 'Cortes - Mais que 8 Minutos [OFICIAL]', 'OS BASTIDORES DA LUTA CONTRA CORMIER - ANDERSON SILVA | Cortes Mais que 8 Minutos', 1651534988.0, 0.06178561177801415).
 video('Entertainment', 'Cortes Animados', 'Cadê o plural?', 1649542065.0, 0.06524370661330567).
 video('Entertainment', 'Cortes PODDELAS [OFICIAL]', 'A PIOR PROVA DE RESISTÊNCIA DO BBB', 1645454738.0, 0.060348104546554086).
@@ -5407,6 +5468,7 @@ video('Entertainment', 'Cortes do Casimito [OFICIAL]', 'CASIMIRO REAGE: OPERAÇ�
 video('Entertainment', 'Cortes do Casimito [OFICIAL]', 'CASIMIRO REAGE: OPERAÇÃO FRONTEIRA #10 -  PEGARAM O AGROBOY | Cortes do Casimito', 1684939503.0, 0.06276798336312549).
 video('Entertainment', 'Cortes do Casimito [OFICIAL]', 'CASIMIRO REAGE: OPERAÇÃO FRONTEIRA T2 #6 - EXPLANOU O AMIGO... | Cortes do Casimito', 1694790001.0, 0.06626937283424089).
 video('Entertainment', 'Cortes do Casimito [OFICIAL]', 'CASIMIRO REAGE AO BALDASSO: INTER 1X2 FLUMINENSE PELA LIBERTADORES 2023 | Cortes do Casimito', 1696505419.0, 0.0715069885858793).
+video('Entertainment', 'Cortes do Casimito [OFICIAL]', 'CASIMIRO REAGE: URUGUAI 2 X 0 BRASIL - ELIMINATÓRIAS PARA A COPA (DESESPERADOR) | Cortes do Casimito', 1697629212.0, 0.07442801167098102).
 video('Entertainment', 'Cortes do Flow [OFICIAL]', 'TENSÃO entre RÚSSIA E UCRÂNIA (Explicado por Especialista)', 1643421036.0, 0.07893560697218689).
 video('Entertainment', 'Cortes do Flow [OFICIAL]', 'IGOR pede CONSELHO para lidar com FAMA (Leandro Hassum)', 1691490351.0, 0.10133683767715612).
 video('Entertainment', 'Cortes do Guto [OFICIAL]', 'TRAILER ONE PIECE LIVE ACTION NETFLIX! - REACT | Cortes do Guto', 1687124639.0, 0.10334769461318205).
@@ -5425,6 +5487,7 @@ video('Entertainment', 'Câmeras Escondidas Programa Silvio Santos', 'Thompson -
 video('Entertainment', 'Câmeras Escondidas Programa Silvio Santos', 'Explosão no Bar - Bar Explosion Prank | Câmeras Escondidas (13/11/22)', 1668393910.0, 0.02203480828598273).
 video('Entertainment', 'Câmeras Escondidas Programa Silvio Santos', 'Estourar Saco | Câmeras Escondidas (14/06/23)', 1686754809.0, 0.0030007454148504027).
 video('Entertainment', 'Câmeras Escondidas Programa Silvio Santos', 'Esmola no Cartão de Crédito | Câmeras Escondidas com Ítalo Sena (01/10/23)', 1696214710.0, 0.016301319598276777).
+video('Entertainment', 'Câmeras Escondidas Programa Silvio Santos', 'Mãe com Malas | Câmeras Escondidas com Ítalo Sena (15/10/23)', 1697425209.0, 0.00706050268135075).
 video('Entertainment', 'DC', 'The World Needs Heroes | DC', 1644598790.0, 0.062422406813206585).
 video('Entertainment', 'DC', 'Suicide Squad ISEKAI | Announcement | DC', 1688407213.0, 0.059737532541920595).
 video('Entertainment', 'DIOGO DEFANTE', 'ME DEIXA', 1686869100.0, 0.06296821716671297).
@@ -5452,6 +5515,7 @@ video('Entertainment', 'DaFuq!?Boom!', 'skibidi toilet 62', 1694613900.0, 0.0491
 video('Entertainment', 'DaFuq!?Boom!', 'skibidi toilet 63', 1695417601.0, 0.04668002239007052).
 video('Entertainment', 'DaFuq!?Boom!', 'skibidi toilet 64', 1695945616.0, 0.062435409968156615).
 video('Entertainment', 'DaFuq!?Boom!', 'skibidi toilet 65', 1696658408.0, 0.044138968446626535).
+video('Entertainment', 'DaFuq!?Boom!', 'skibidi toilet 66', 1697727607.0, 0.058624676012017735).
 video('Entertainment', 'Dalenogare Críticas', 'Morbius - Crítica do filme: CATÁSTROFE', 1648816059.0, 0.21730288522645427).
 video('Entertainment', 'Dalenogare Críticas', 'Thor: Amor e Trovão - Crítica sem spoilers: o método Waititi não funcionou', 1657034180.0, 0.1491800691525229).
 video('Entertainment', 'Dalenogare Críticas', 'The Little Mermaid (A Pequena Sereia, 2023) - Crítica do filme', 1684792651.0, 0.13640301192776705).
@@ -5535,6 +5599,7 @@ video('Entertainment', 'Domingo Espetacular', 'Apresentador Faustão passa por t
 video('Entertainment', 'Domingo Espetacular', 'Domingo Espetacular mostra como está o ator Gerson Brenner 25 anos após tragédia', 1693182756.0, 0.02798181332828148).
 video('Entertainment', 'Domingo Espetacular', 'Notícia do domingo: acompanhe as últimas informações sobre a queda de avião no Amazonas', 1694999583.0, 0.0156060251445125).
 video('Entertainment', 'Domingo Espetacular', 'Kayky Brito: trecho inédito mostra o que aconteceu antes do atropelamento', 1696205676.0, 0.013337615245776355).
+video('Entertainment', 'Domingo Espetacular', 'Roberto Cabrini entra no local da festa invadida por terroristas do Hamas em Israel', 1697416079.0, 0.028253814839728567).
 video('Entertainment', 'Dona Ruth', 'Dona Ruth recebe Henrique e Juliano (Vídeo Oficial)', 1655985998.0, 0.16180992918729095).
 video('Entertainment', 'Dona Ruth', 'Dona Ruth recebe Murilo Huff  (Receita Moqueca de Peixe)', 1657110482.0, 0.11514077101048646).
 video('Entertainment', 'Dona Ruth', 'Especial De Aniversário MARÍLIA MENDONÇA 👑', 1658495106.0, 0.11578105222326569).
@@ -5549,8 +5614,8 @@ video('Entertainment', 'Drawn Mask', 'TRUQUES QUE APRENDI MORANDO SOZINHO', 1657
 video('Entertainment', 'Drawn Mask', 'COMO ACABARAM COM MEU PASSARO FAVORITO (Animação)', 1680705901.0, 0.11864810765717232).
 video('Entertainment', 'Drawn Mask', 'COMO NÃO TREINAR O CACHORRO DA SUA IRMÃ', 1682606705.0, 0.12454915594556407).
 video('Entertainment', 'Drawn Mask', 'COMO LEVEI GOLPE DE OPERADORA! (Animação)', 1690555804.0, 0.1484724555538586).
-video('Entertainment', 'Dressa Carolinne', 'OLHA o que eu fiz com GAVETAS VELHAS! FICOU INCRÍVEL!! VEM CONFERIR! DO LIXO AO LUXO!', 1692568824.0, 0.1436322670631332).
 video('Entertainment', 'Dressa Carolinne', 'TRANSFORMEI essas GAVETAS VELHAS em um MÓVEL INCRÍVEL!! VEM CONFERIR! DO LIXO AO LUXO!', 1692568824.0, 0.1528690708829277).
+video('Entertainment', 'Dressa Carolinne', 'OLHA o que eu fiz com GAVETAS VELHAS! FICOU INCRÍVEL!! VEM CONFERIR! DO LIXO AO LUXO!', 1692568824.0, 0.1436322670631332).
 video('Entertainment', 'Duda Beat', 'DUDA BEAT - Tocar Você (Clipe Oficial)', 1666996219.0, 0.23055241378072208).
 video('Entertainment', 'EI MINE', 'VOCÊ CONTROLA ESSE VÍDEO AQUI!', 1656543600.0, 0.04515570259536825).
 video('Entertainment', 'EI MINE', 'Descanse em paz, Technoblade :(', 1656688500.0, 0.17507071185676767).
@@ -5655,8 +5720,8 @@ video('Entertainment', 'Enaldinho', '24 HORAS NO BARCO DE R$ 1.000, R$ 10.000 OU
 video('Entertainment', 'Enaldinho', '20 PRODUTOS IMPRESSIONANTES DE 10 DÓLARES EM 24 HORAS!', 1671030033.0, 0.035829171134433006).
 video('Entertainment', 'Enaldinho', 'COMPLETEI O ÁLBUM MAIS DIFÍCIL DE TODOS! ÁLBUM BORDA AZUL DOS ESTADOS UNIDOS!', 1671116407.0, 0.03396420924638524).
 video('Entertainment', 'Enaldinho', 'SOBREVIVENDO 72 HORAS NO QATAR, O PAÍS DA COPA DO MUNDO! - VLOG DE 1 HORA', 1671202819.0, 0.026355816769246292).
-video('Entertainment', 'Enaldinho', 'COMPLETEI O ÁLBUM DA COLEÇÃO DE CABECUDOS DA COPA DO MUNDO NO QATAR!', 1671289233.0, 0.05006093827782133).
 video('Entertainment', 'Enaldinho', 'COMPLETEI O ÁLBUM DA COLEÇÃO DE CABEÇUDOS DA COPA DO MUNDO NO QATAR!', 1671289233.0, 0.04097826918514116).
+video('Entertainment', 'Enaldinho', 'COMPLETEI O ÁLBUM DA COLEÇÃO DE CABECUDOS DA COPA DO MUNDO NO QATAR!', 1671289233.0, 0.05006093827782133).
 video('Entertainment', 'Enaldinho', 'COMPREI TODAS AS BEYBLADES DO SHOPPING! (R$10.000)', 1671375606.0, 0.0513736492350123).
 video('Entertainment', 'Enaldinho', 'BRASIL CAMPEÃO DA COPA DO MUNDO DE FUTEBOL DE CABEÇA! EP. 4', 1671462009.0, 0.03267162620469948).
 video('Entertainment', 'Enaldinho', 'COMO BATER BAFÃO, TÉCNICA SECRETA REVELADA!', 1671548406.0, 0.04241756946848234).
@@ -5807,8 +5872,8 @@ video('Entertainment', 'Enaldinho', 'PASSEI 24 HORAS NA CASA DE CABEÇA PRA BAIX
 video('Entertainment', 'Enaldinho', '24 HORAS COMENDO COMIDAS COLORIDAS DO ESTADOS UNIDOS!', 1693407611.0, 0.03325003538272221).
 video('Entertainment', 'Enaldinho', 'LOJA DE 1 DÓLAR, 5 DÓLARES OU 100 DÓLARES NOS EUA! - Desafio', 1693580410.0, 0.03331700475765486).
 video('Entertainment', 'Enaldinho', 'GASTEI $10.000 NO BRINQUEDO SURPRESA MAIS FAMOSO DOS EUA!', 1693666807.0, 0.047493357444701366).
-video('Entertainment', 'Enaldinho', 'QUEM FICAR MAIS TEMPO NO SEU LUGARE EXTREMO NOS ESTADOS UNIDOS, VENCE!', 1693753238.0, 0.0338748119689393).
 video('Entertainment', 'Enaldinho', 'QUEM FICAR MAIS TEMPO NO SEU LUGAR EXTREMO NOS ESTADOS UNIDOS, VENCE!', 1693753238.0, 0.026892066732742605).
+video('Entertainment', 'Enaldinho', 'QUEM FICAR MAIS TEMPO NO SEU LUGARE EXTREMO NOS ESTADOS UNIDOS, VENCE!', 1693753238.0, 0.0338748119689393).
 video('Entertainment', 'Enaldinho', 'QUEM DESTRUIR O BONECO INDESTRUTÍVEL, VENCE!', 1693839607.0, 0.03477380394834557).
 video('Entertainment', 'Enaldinho', 'TANQUE MILITAR DE R$10, R$100 ou R$1.000.000!', 1693926008.0, 0.031035501809820055).
 video('Entertainment', 'Enaldinho', 'QUEM FIZER O CAPACETE MAIS RESISTENTE, VENCE!', 1694098822.0, 0.025354353762632547).
@@ -5843,6 +5908,15 @@ video('Entertainment', 'Enaldinho', 'AVIÃO DE CONTROLE DE R$10, R$100 e R$1000 
 video('Entertainment', 'Enaldinho', 'PLÁSTICO, PAPEL E ALUMÍNIO! - Desafio', 1696950009.0, 0.03155938754273822).
 video('Entertainment', 'Enaldinho', '24 HORAS NA CASA DEBAIXO D’ÁGUA!', 1697036408.0, 0.08140432234716208).
 video('Entertainment', 'Enaldinho', 'GASTEI 3 MILHÕES DE REAIS NESSE DESAFIO DE DESENHO!', 1697209210.0, 0.042031740578822106).
+video('Entertainment', 'Enaldinho', 'MISTUREI TODOS OS CHICLETES E TODOS OS CHIPES DO MERCADO!', 1697382036.0, 0.03424743566772386).
+video('Entertainment', 'Enaldinho', '24 HORAS NO PARQUE DA NERF! (BETO CARRERO)', 1697468411.0, 0.03365314716101252).
+video('Entertainment', 'Enaldinho', 'QUEM FICAR MAIS TEMPO NA SUA CASA DE PAPELÃO NA ÁGUA, TERRA OU AR, VENCE! - Desafio', 1697554808.0, 0.03800988325186275).
+video('Entertainment', 'Enaldinho', 'ME CAMUFLEI E ME ESCONDI DE UM CÃO DE CAÇA MILITAR!', 1697641210.0, 0.04042325137576304).
+video('Entertainment', 'Enaldinho', 'A CADA HORA A GAIOLA AFUNDA! - Desafio', 1697814010.0, 0.030819752381340895).
+video('Entertainment', 'Enaldinho', 'QUEM FICAR MAIS TEMPO NO CARRO DA SUA COR, VENCE! - Desafio', 1697986807.0, 0.03519454839395325).
+video('Entertainment', 'Enaldinho', 'QUEM FIZER A MELHOR ARMADURA, VENCE! - Desafio', 1698073211.0, 0.03456553691421225).
+video('Entertainment', 'Enaldinho', 'O ÚLTIMO A PARAR DE PULAR, VENCE! - Desafio', 1698159609.0, 0.035974622471966).
+video('Entertainment', 'Enaldinho', 'PISCINA DE 10 LITROS, 100 LITROS, 1.000 LITROS OU 1.000.000 DE LITROS! - Desafio', 1698332409.0, 0.028897877207174537).
 video('Entertainment', 'Enciclopédia Geral', 'RATANABÁ - Cidade perdida na Amazônia?', 1655071381.0, 0.04149652648883704).
 video('Entertainment', 'Enciclopédia Geral', 'RATANABÁ - Cidade descoberta na Amazônia?', 1655071381.0, 0.043705637722397675).
 video('Entertainment', 'Entertainment Tonight', 'MTV VMAs 2022: Anitta REACTS to Historic VMA Win and Performance (Exclusive)', 1661751902.0, 0.05817966669953654).
@@ -5866,6 +5940,8 @@ video('Entertainment', 'Eu Vim de Santos', 'SANTOS CONTRATA RICARDO GOULART', 16
 video('Entertainment', 'Eu Vim de Santos', 'SANTOS DEMITE CARILLE', 1645202074.0, 0.12141091681873831).
 video('Entertainment', 'Eu Vim de Santos', 'Santos DEMITE BUSTOS e DRACENA', 1657205321.0, 0.1283344213583054).
 video('Entertainment', 'Eu Vim de Santos', 'ODAIR HELLMANN É O NOVO TÉCNICO DO SANTOS', 1668635909.0, 0.15137168913363067).
+video('Entertainment', 'Eu Vim de Santos', 'Santos 1 x 7 Internacional - absolutamente revoltante', 1698010140.0, 0.10247510479274324).
+video('Entertainment', 'Eu Vim de Santos', 'Santos 1 x 7 Internacional - asco e nojo', 1698010140.0, 0.10502891714282403).
 video('Entertainment', 'Eu você e nós', 'GANHAMOS 2 CACHORRINHOS DE PRESENTE DE NATAL!!', 1641331804.0, 0.10312185771744595).
 video('Entertainment', 'Eu você e nós', 'ELA PINTOU O CABELO SEM MIM!! 😭', 1654205401.0, 0.08626017106948579).
 video('Entertainment', 'Eu você e nós', 'PINTEI O CABELO DIFERENTE DO DELA!! - Eu Você E Nós', 1654810207.0, 0.07725147134283275).
@@ -5891,11 +5967,12 @@ video('Entertainment', 'FALATUZETRÊ', 'ABSURDO!!! MATUÊ - CONEXÕES DE MÁFIA 
 video('Entertainment', 'FELIJAO', 'Pq vou parar de gravar vídeos aqui', 1673273460.0, 0.19029433681073024).
 video('Entertainment', 'FLUXO', 'INVASÃO COMPLETA! PAULINHO O LOKO NO FLUXO! #PAULINHONOFLUXO', 1662168240.0, 0.17074785418147057).
 video('Entertainment', 'FLUXO', 'ELE SEMPRE SEGUIU! FREITAS NO FLUXO!', 1695927654.0, 0.19168550476925622).
-video('Entertainment', 'FUBÁ online', 'COMPREI O MEU PRIMEIRO CARRO - Fubá online', 1643731210.0, 0.29443172037520604).
 video('Entertainment', 'FUBÁ online', '01# COMPREI O MEU PRIMEIRO CARRO - Fubá online', 1643731210.0, 0.2720794308573071).
+video('Entertainment', 'FUBÁ online', 'COMPREI O MEU PRIMEIRO CARRO - Fubá online', 1643731210.0, 0.29443172037520604).
 video('Entertainment', 'FUBÁ online', '#03 ME SENTI FINISSIMO DIRIGINDO  - Fubá online', 1643904010.0, 0.2464721340361217).
 video('Entertainment', 'FUBÁ online', '#10: A PRIMEIRA VOLTA DE CARRO FOI COM A MÃE - Fubá online', 1645286414.0, 0.2941558910640757).
 video('Entertainment', 'FUBÁ online', 'POR ISSO QUE TENHO GRAVADO TRISTE - Fubá online', 1694620301.0, 0.3541209339453203).
+video('Entertainment', 'FUBÁ online', 'FUI INTERNADO COM MUITO URGÊNCIA - Fubá online', 1697471877.0, 0.21643201403394552).
 video('Entertainment', 'FURIA CS:GO', 'COMO SERIA UM DIA COM O TIME DE CS:GO DA FURIA EM MALTA?', 1690306209.0, 0.15294512741187005).
 video('Entertainment', 'FX Networks', 'American Horror Story: Delicate - Official Trailer | Emma Roberts, Cara Delevingne, Kim Kardashian', 1694015997.0, 0.008099459322132786).
 video('Entertainment', 'Fabiana Landim', 'FINALMENTE GANHEI MEU CACHORRINHO DOS SONHOS', 1655738100.0, 0.11133683761897997).
@@ -5966,8 +6043,8 @@ video('Entertainment', 'Família Jeito loko de ser', 'VAMOS NOS MUDAR HOJE PRA N
 video('Entertainment', 'Família Jeito loko de ser', 'MUDAMOS !!! Caminhão de mudança + organizando tudo | MUITA BAGUNÇA', 1655567106.0, 0.14436042587771855).
 video('Entertainment', 'Família Jeito loko de ser', 'Primeiro dia no nosso novo lar 🏡 GUARDEI AS LOUÇAS + MOSTREI A CASA COMO FICOU COM NOSSOS MÓVEIS', 1655738492.0, 0.1219384310872543).
 video('Entertainment', 'Família Jeito loko de ser', 'VLOGÃO NO MERCADO | mostrei os preços de tudo + somente o casal fazendo as compras', 1662419516.0, 0.1373973836131561).
-video('Entertainment', 'Família Jeito loko de ser', 'VAMOS PARA FORTALEZA | fiz comprinhas + vlog no shopping + fiz almoço + provei as roupas', 1663506922.0, 0.16037857975058614).
 video('Entertainment', 'Família Jeito loko de ser', 'VAMOS PARA Maceió Alagoas | fiz comprinhas + vlog no shopping + fiz almoço + provei as roupas', 1663506922.0, 0.1485766195672398).
+video('Entertainment', 'Família Jeito loko de ser', 'VAMOS PARA FORTALEZA | fiz comprinhas + vlog no shopping + fiz almoço + provei as roupas', 1663506922.0, 0.16037857975058614).
 video('Entertainment', 'Família Jeito loko de ser', 'VAMOS NOS MUDAR DE NOVO 🥰 a casa é perfeita mostrei tudo 😍😍', 1666707238.0, 0.1458257237161054).
 video('Entertainment', 'Família Jeito loko de ser', 'COMPRAMOS UM SOFÁ NOVO + quadros decorativo + meu centro de mesa DESABAFO NO FINAL DO VÍDEO', 1666795671.0, 0.15129674174502514).
 video('Entertainment', 'Família Jeito loko de ser', 'FAXINA NA MANSÃO antes da mudança + pias novas nos banheiros + organizei', 1670939695.0, 0.1406379132231405).
@@ -5979,6 +6056,8 @@ video('Entertainment', 'Família Jeito loko de ser', 'FAZENDO A MUDANÇA | chego
 video('Entertainment', 'Família Jeito loko de ser', 'MUDAMOS para casa nova | ORGANIZANDO TUDO + comprinhas para casa nova', 1694536207.0, 0.14008804316955412).
 video('Entertainment', 'Família Jeito loko de ser', 'PRIMEIRA COMPRA DO MÊS NA CASA NOVA | deu quase 3 mil reais 😬', 1694697008.0, 0.14515527950310558).
 video('Entertainment', 'Família Jeito loko de ser', 'VAMOS EMBORA DO BRASIL 😱', 1696860949.0, 0.11554178574290216).
+video('Entertainment', 'Família Jeito loko de ser', 'ÚLTIMO VÍDEO NO BRASIL 🇧🇷 Organizando tudo + DESPEDIDA DA NOSSA CASA 🥹', 1697405255.0, 0.11182222222222223).
+video('Entertainment', 'Família Jeito loko de ser', 'Chegamos na Itália 🇮🇹 NOSSO NOVO APARTAMENTO + PRIMEIRA COMPRA NO MERCADO EM EURO💶 muito barato😱', 1697901037.0, 0.11280628756356911).
 video('Entertainment', 'Família Luluca', 'DECORANDO MEU NOVO APARTAMENTO NO TOCA LIFE WORLD | Família Luluca', 1643898975.0, 0.05665505309914634).
 video('Entertainment', 'Família Luluca', 'DECORANDO o QUARTO DA MIRABEL do FILME ENCANTO (Toca Life World) | Família Luluca', 1645884073.0, 0.03949397840697498).
 video('Entertainment', 'Família Luluca', 'FAMÍLIA LULUCA POR TRÁS DAS CÂMERAS - Episódio 2 | Luluca', 1651586414.0, 0.056680474240004934).
@@ -6005,8 +6084,8 @@ video('Entertainment', 'Faustão na Band', 'Matheus Ceará faz show de piadas no
 video('Entertainment', 'Faustão na Band', '“Erro Gostoso”: Simone Mendes agita auditório do Faustão com hit solo', 1683330042.0, 0.003610510336258081).
 video('Entertainment', 'Faustão na Band', 'Faustão fica emocionado em homenagem a Rita Lee: Perda irreparável', 1683680987.0, 0.018397877650974052).
 video('Entertainment', 'Faustão na Band', 'Renato Albani faz Faustão rir até perder o fôlego com piada no palco', 1684283519.0, 0.02862052018534065).
-video('Entertainment', 'Faustão na Band', '[AO VIVO] FAUSTÃO NA BAND | RETROSPECTIVA ESTRELAS DA VOZ - 12/06/2023', 1686619870.0, 0.028845673149027647).
 video('Entertainment', 'Faustão na Band', 'FAUSTÃO NA BAND | RETROSPECTIVA ESTRELAS DA VOZ - 12/06/2023 - PROGRAMA COMPLETO', 1686619870.0, 0.02679140973846481).
+video('Entertainment', 'Faustão na Band', '[AO VIVO] FAUSTÃO NA BAND | RETROSPECTIVA ESTRELAS DA VOZ - 12/06/2023', 1686619870.0, 0.028845673149027647).
 video('Entertainment', 'Faustão na Band', 'João Guilherme chora e faz apelo a Faustão em despedida emocionante', 1692406785.0, 0.02232025125266716).
 video('Entertainment', 'Felca', 'quanto eu ganhei com as lives de npc', 1695436439.0, 0.27302553384970046).
 video('Entertainment', 'Felipe Coronado', 'FINALMENTE VOU COMPRAR MEU PRIMEIRO CARRO!!! 😍🙏🏻', 1641936056.0, 0.1355933998993564).
@@ -6154,8 +6233,8 @@ video('Entertainment', 'Felipe Neto', 'ADIVINHE O ANO DA SÉRIE', 1671542148.0, 
 video('Entertainment', 'Felipe Neto', 'COMO SERIAM OS FILHOS DA NETOLAB?', 1671714021.0, 0.14568667181940353).
 video('Entertainment', 'Felipe Neto', 'ESTAMOS JUNTOS DE NOVO!!!', 1675688429.0, 0.19075726366888415).
 video('Entertainment', 'Felipe Neto', 'TOUR DA NOVA MANSÃO NETOLAB!', 1675774829.0, 0.1358724893302858).
-video('Entertainment', 'Felipe Neto', 'O LUCCAS NETO BRIGOU - ROXTEEN #3', 1675861239.0, 0.13081665146180152).
 video('Entertainment', 'Felipe Neto', 'O LUCCAS NETO SE METEU NUMA CONFUSÃO - ROXTEEN #3', 1675861239.0, 0.11806922447990795).
+video('Entertainment', 'Felipe Neto', 'O LUCCAS NETO BRIGOU - ROXTEEN #3', 1675861239.0, 0.13081665146180152).
 video('Entertainment', 'Felipe Neto', 'MONTANDO UM LEGO DE HARRY POTTER DE 1176 PEÇAS', 1675947621.0, 0.14161467104829278).
 video('Entertainment', 'Felipe Neto', 'PROFISSÕES QUE NÃO EXISTEM MAIS!', 1676034051.0, 0.13982102719664918).
 video('Entertainment', 'Felipe Neto', 'ELES JOGARAM O JOGO DO BBB', 1676206825.0, 0.1477983612089329).
@@ -6229,8 +6308,8 @@ video('Entertainment', 'Felipe Neto', 'EXPERIMENTANDO OS DOCES MAIS BARATOS DO R
 video('Entertainment', 'Felipe Neto', 'ENCONTREI O ANIMAL MAIS INCRÍVEL DO MINECRAFT #3.08', 1693486882.0, 0.12846209379523055).
 video('Entertainment', 'Felipe Neto', 'O QUE O LUCCAS NETO ARRUMOU AGORA?', 1693573232.0, 0.09345014601585315).
 video('Entertainment', 'Felipe Neto', 'DOMESTIQUEI UM ELEFANTE NO MINECRAFT! #3.10', 1694093190.0, 0.10971459877225971).
-video('Entertainment', 'Felipe Neto', 'MONSTROS ATACARAM NOSSA VILA E O GAEL APARECEU! #3.11', 1694696710.0, 0.13206924798100023).
 video('Entertainment', 'Felipe Neto', 'ATACARAM NOSSA VILA E O GAEL APARECEU! #3.11', 1694696710.0, 0.12216159556914659).
+video('Entertainment', 'Felipe Neto', 'MONSTROS ATACARAM NOSSA VILA E O GAEL APARECEU! #3.11', 1694696710.0, 0.13206924798100023).
 video('Entertainment', 'Felipe Neto', 'EU COMPREI AS BARBIES MEL', 1694782825.0, 0.12928658342716304).
 video('Entertainment', 'Felipe Neto', 'TENTE NÃO SE IRRITAR COM ESSE VÍDEO', 1695042017.0, 0.11573006258397821).
 video('Entertainment', 'Felipe Neto', 'ENCONTREI A RARÍSSIMA VACA AZUL NO MINECRAFT #3.12', 1695138247.0, 0.09633786231884058).
@@ -6239,6 +6318,12 @@ video('Entertainment', 'Felipe Neto', 'PROVANDO AS COMIDAS MAIS CARAS DO APP', 1
 video('Entertainment', 'Felipe Neto', 'A LÂMPADA MÁGICA DE VERDADE! VALE A PENA?', 1695992404.0, 0.11713977125964746).
 video('Entertainment', 'Felipe Neto', 'ATÉ LOGO…', 1696078809.0, 0.2045133924202315).
 video('Entertainment', 'Felipe Neto', 'DESAFIO: É FATO OU FAKE? JOGUE JUNTO!', 1697029246.0, 0.13329764324282423).
+video('Entertainment', 'Felipe Neto', 'LÁPIDES INACREDITÁVEIS QUE EXISTEM DE VERDADE', 1697425225.0, 0.1331235599710896).
+video('Entertainment', 'Felipe Neto', 'ENCONTREI UM FÓSSIL DE DRAGÃO E MUITAS COISAS NO MINECRAFT #3.16', 1697549153.0, 0.12212617081929585).
+video('Entertainment', 'Felipe Neto', 'EU E GAEL JUNTOS PRA PEGAR TODOS OS ANIMAIS NO MINECRAFT #3.17', 1697724934.0, 0.09846585095190742).
+video('Entertainment', 'Felipe Neto', 'A BARRIGA ENGANOSA - MELHORES CONVERSAS DA INTERNET', 1698066030.0, 0.115987563073109).
+video('Entertainment', 'Felipe Neto', 'CAPTUREI UM BARAKOA PRO GAEL ESTUDAR NO MINECRAFT #3.18', 1698153350.0, 0.0968531556766851).
+video('Entertainment', 'Felipe Neto', 'COMEÇOU MINHA VINGANÇA CONTRA OS GUAXININS NO MINECRAFT #3.19', 1698325423.0, 0.09794723608661388).
 video('Entertainment', 'Felipe Ricardo', 'CHEGARAM MINHAS COMPRAS DA SHOPEE (Parte 8)', 1652385610.0, 0.13568045500515685).
 video('Entertainment', 'Felipe Ricardo', 'COMPREI O ÁLBUM DA COPA COM 400 FIGURINHAS E JÁ DEI SORTE!', 1661286600.0, 0.07753761484177356).
 video('Entertainment', 'Felipe Ricardo', 'COMPREI TODAS AS FIGURINHAS DO ÁLBUM DA COPA QUE TINHA NA LOJA E VEIO ISSO', 1662064203.0, 0.07669559739623434).
@@ -6248,8 +6333,8 @@ video('Entertainment', 'Fernandinho Ministério Faz Chover', 'Fernandinho | Úni
 video('Entertainment', 'Fernandinho Ministério Faz Chover', 'Fernandinho | Moisés (Álbum Único - Live)', 1681743610.0, 0.09668386564894177).
 video('Entertainment', 'Fernandinho Ministério Faz Chover', 'Fernandinho | Jeová (Álbum Único - Live)', 1681830008.0, 0.09138364878170764).
 video('Entertainment', 'Ficando Gata', 'NOSSO ÚLTIMO VÍDEO - MINHA TRAJETÓRIA ATÉ AQUI ❤️', 1655647210.0, 0.1478039104562199).
-video('Entertainment', 'Filipe & Gabi', 'ESTAMOS GRÁVIDOS E NÃO E TR0LLAG3M !!! AI MEU DEUS !!!', 1657064293.0, 0.17052168853836705).
 video('Entertainment', 'Filipe & Gabi', 'ESTAMOS GRÁVIDOS DE NOVO E NÃO E TR0LLAG3M !!! AI MEU DEUS !!!', 1657064293.0, 0.15499060259800743).
+video('Entertainment', 'Filipe & Gabi', 'ESTAMOS GRÁVIDOS E NÃO E TR0LLAG3M !!! AI MEU DEUS !!!', 1657064293.0, 0.17052168853836705).
 video('Entertainment', 'Filipe & Gabi', 'CHÁ REVELAÇÃO - FECHAMOS O CINEMA PARA DESCOBRIR O SEXO DO BEBÊ - NOSSO FILME 😲', 1666474369.0, 0.12779371539128695).
 video('Entertainment', 'First We Feast', 'Pedro Pascal Cries From His Head While Eating Spicy Wings | Hot Ones', 1678377639.0, 0.0647520267896564).
 video('Entertainment', 'First We Feast', 'Anitta Lets It Fly While Eating Spicy Wings | Hot Ones', 1691074804.0, 0.05871710382561422).
@@ -6259,6 +6344,7 @@ video('Entertainment', 'Flow Games', 'HOGWARTS LEGACY - GAMEPLAY PRÉVIA EXCLUSI
 video('Entertainment', 'Flow Games', 'COBERTURA SUMMER GAME FEST 2023 - PRIMEIRA GAMEPLAY de MORTAL KOMBAT 1! - Flow Games em L.A. #64', 1686258566.0, 0.09501276708843938).
 video('Entertainment', 'Flow Games', 'COBERTURA XBOX SHOWCASE + STARFIELD - KOJIMA no PALCO?!  - Flow Games em L.A', 1686510761.0, 0.09201301168797003).
 video('Entertainment', 'Flow Games', 'JOGAMOS MARVEL’S SPIDER-MAN 2! PREVIEW EXCLUSIVO #flowgames', 1694791228.0, 0.09130861371162258).
+video('Entertainment', 'Flow Games', 'JOGAMOS SPIDER-MAN 2!! ANÁLISE COMPLETA SEM SPOILERS!', 1697464814.0, 0.11831691624437739).
 video('Entertainment', 'Flávia Duani', 'Eu e minha namorada TERMINAMOS.', 1647354941.0, 0.10968889187126213).
 video('Entertainment', 'Fofocalizando', 'Festa de Maria Alice, filha de Virgínia e Zé Felipe, causa polêmica | Fofocalizando (31/05/23)', 1685559754.0, 0.010549814022801895).
 video('Entertainment', 'Fofocalizando', 'Exclusivo! Entrevista com a mãe de Larissa Manoela | Fofocalizando (21/08/2023)', 1692653067.0, 0.024024501235174297).
@@ -6315,8 +6401,10 @@ video('Entertainment', 'Gaba', 'Nova Churrascaria do Erick Jacquin I Steak Bife 
 video('Entertainment', 'Gaba', 'PEDI TUDO DA PRAÇA DE ALIMENTAÇÃO - Missão Casimiro 2.0', 1675951140.0, 0.09629969968770184).
 video('Entertainment', 'Gaba', 'PEDI TUDO QUE A MESA AO LADO PEDIU ATÉ O CORBUCCI E O JULIO FRACASSAREM', 1677766091.0, 0.09000310932878361).
 video('Entertainment', 'Gaba', 'MELHOR RODIZIO DE CARNES DA ZONA LESTE I Boizão Grill', 1685026808.0, 0.06945715025459567).
+video('Entertainment', 'Gaba', 'COMPAREI O MENU DO JACQUIN X RODRIGO I Batalha de Masterchef EP.6', 1698156032.0, 0.060112753674637184).
 video('Entertainment', 'Gabi Modesto Teacher', 'Aula 01: Como começar a aprender inglês de verdade | Semana Construindo Fluência', 1649115965.0, 0.13223890205717964).
 video('Entertainment', 'Gabi Oliveira', 'PRIMEIRO ANIVERSÁRIO DA CLARA LUA COM A GENTE!', 1662040829.0, 0.21897663174858983).
+video('Entertainment', 'Gabi Oliveira', 'POR QUE TIREI MINHA FILHA DA ESCOLA?', 1697642700.0, 0.15239224868295387).
 video('Entertainment', 'Gabi Xavier', 'SHINGEKI VOLTOU ABSURDO e MELHOR! (Attack on Titan Ep. 76)', 1641773196.0, 0.19486066786020081).
 video('Entertainment', 'Gabizoka Oficial', 'O TROCO', 1643146570.0, 0.031641349083014844).
 video('Entertainment', 'Gabizoka Oficial', 'SALVEI A VIDA DA MINHA MÃE', 1643319371.0, 0.0326350082198569).
@@ -6462,14 +6550,15 @@ video('Entertainment', 'HERO Manteiga', 'ESCONDE ESCONDE NO MAIOR CIRCO DO MUNDO
 video('Entertainment', 'HERO Manteiga', 'SOBREVIVI 24 HORAS NUMA GELADEIRA EM ALTO MAR', 1683995675.0, 0.04018387984073839).
 video('Entertainment', 'HUEstation', 'sim, esse vídeo fala de FNAF', 1642516204.0, 0.2403047055055938).
 video('Entertainment', 'HUEstation', 'a pessoa que descobriu o leite', 1647966803.0, 0.17256910676314965).
+video('Entertainment', 'Hamlet ARL', 'A TRAGÉDIA DE BILLY, O HERÓI', 1698332430.0, 0.1622798648603145).
 video('Entertainment', 'Harper\'s Bazaar UK', 'The 10 best dressed from the Met Gala 2022 | Bazaar UK', 1651564856.0, 0.018771425577461417).
 video('Entertainment', 'Hero Base', '24H PRA COMPLETAR O ÁLBUM DOURADO DA COPA! @Enaldinho', 1668031122.0, 0.020928820147380355).
-video('Entertainment', 'Hero Base', 'PEGA-PEGA VALENDO FIGURINHAS LENDÁRIAS!', 1668544782.0, 0.019887150949461807).
 video('Entertainment', 'Hero Base', 'PEGA-PEGA DE FIGURINHAS LENDÁRIAS DA COPA!', 1668544782.0, 0.020686669856241315).
+video('Entertainment', 'Hero Base', 'PEGA-PEGA VALENDO FIGURINHAS LENDÁRIAS!', 1668544782.0, 0.019887150949461807).
 video('Entertainment', 'Hero Base', 'SOBREVIVI 24 HORAS EM LUGARES EXTREMOS!', 1671546692.0, 0.028634344622670678).
 video('Entertainment', 'Hero Base', 'Esconde Esconde *EXTREMO* dos YOUTUBERS!', 1677961490.0, 0.03842693913720646).
-video('Entertainment', 'Hero Base', 'ESCONDE ESCONDE *EXTREMO* NA ESCOLA!', 1678467509.0, 0.03168424058578533).
 video('Entertainment', 'Hero Base', 'Esconde Esconde *EXTREMO* na ESCOLA!', 1678467509.0, 0.033717549325025964).
+video('Entertainment', 'Hero Base', 'ESCONDE ESCONDE *EXTREMO* NA ESCOLA!', 1678467509.0, 0.03168424058578533).
 video('Entertainment', 'Hero Base', 'ESCONDE ESCONDE NO SHOPPING *EXTREMO*', 1682370373.0, 0.032358252907411456).
 video('Entertainment', 'Hi Gorgeous Anna Layza', 'FURACÃO CHEGANDO NA CATEGORIA MAXIMA! - MEDO', 1664452808.0, 0.10183364839319471).
 video('Entertainment', 'Honkai: Star Rail', 'Myriad Celestia Trailer: Fables About the Stars Part 1 | Honkai: Star Rail', 1683090340.0, 0.07040391031744662).
@@ -6506,6 +6595,7 @@ video('Entertainment', 'Hora do Faro', 'Eu não sou um personagem aqui, dispara 
 video('Entertainment', 'Hora do Faro', 'Rachel afirma que Jenny é uma pessoa tóxica | Última Chance', 1695601075.0, 0.022668808347725267).
 video('Entertainment', 'Hora do Faro', 'A opinião dela não interessa, dispara Rachel após Nathalia chamá-la de hipócrita | Última Chance', 1696209307.0, 0.027201552632514846).
 video('Entertainment', 'Hora do Faro', 'Em dinâmica, Cariúcha e Lucas se desentendem mais uma vez | Última Chance', 1696812411.0, 0.020200039223377132).
+video('Entertainment', 'Hora do Faro', 'Rachel esculacha oponentes e capricha nos adjetivos positivos para seus aliados | Última Chance', 1698021707.0, 0.02422437538310976).
 video('Entertainment', 'Hugo Gloss', 'Hugo Gloss entrevista elenco de “Rebelde”, nova aposta da Netflix', 1641575952.0, 0.0939465124683773).
 video('Entertainment', 'Hugo Gloss', 'Hugo Gloss entrevista Jamie Campbell Bower e Joseph Quinn, de Stranger Things', 1657292681.0, 0.08006401031714203).
 video('Entertainment', 'Hugo Gloss', 'Hugo Gloss entrevista Jenna Ortega e Gwendoline Christie, de Wandinha', 1670535192.0, 0.05624325179134266).
@@ -6615,6 +6705,7 @@ video('Entertainment', 'Irmãos Oliveira', 'NÃO ACREDITO QUE O RYAN QUEBROU O I
 video('Entertainment', 'Irmãos Oliveira', 'ALGO BIZARRO ACONTECEU QUANDO EXPLORAMOS O HOTEL NOS ESTADOS UNIDOS AS 3:00 AM', 1689602416.0, 0.03895160303475281).
 video('Entertainment', 'Irmãos Oliveira', 'QUEM FIZER A MELHOR PIZZA VENCE! - Desafio', 1693490425.0, 0.03436469076639928).
 video('Entertainment', 'Irmãos Oliveira', 'AJUDEI O RYAN A FUGIR DE CASA E FICAMOS DE CASTIGO !!!', 1693670415.0, 0.025968890487905277).
+video('Entertainment', 'Irmãos Oliveira', 'A LOIRA DAS FOTOS VEIO AQUI EM CASA ATRÁS DO MEU PAI !!!', 1697554803.0, 0.02556062941741078).
 video('Entertainment', 'Irmãos Scribel', 'REENCONTREI A LORRAYNE OLIVEIRA E FIZ UMA SURPRESA PARA ELA! •Irmãos Scribel•', 1660424932.0, 0.05292983861116013).
 video('Entertainment', 'Irmãos Scribel', 'ESPIONEI O GABRIEL E A LORRAYNE OLIVEIRA NO QUARTO! •Irmãos Scribel•', 1660597166.0, 0.049077529021558874).
 video('Entertainment', 'Irmãos Scribel', 'NAMOREI A LORRAYNE OLIVEIRA POR 24 HORAS! •Irmãos Scribel•', 1667595876.0, 0.0763181440030138).
@@ -6658,6 +6749,7 @@ video('Entertainment', 'Israel com a Aline', 'A CIDADE QUE DESTRUIU AS 12 TRIBOS
 video('Entertainment', 'Israel com a Aline', 'NOVAS ESCAVAÇÕES REVELAM O LOCAL DA ARCA DA ALIANÇA? Israel com Aline', 1693152011.0, 0.15527967159158726).
 video('Entertainment', 'Israel com a Aline', 'LABIRINTO SUBTERRÂNEO EMBAIXO DE JERUSALEM!! Israel com Aline', 1694361607.0, 0.1320534213464535).
 video('Entertainment', 'Israel com a Aline', 'O TERCEIRO TEMPLO ESTÁ SENDO CONSTRUÍDO? Israel com Aline', 1694966409.0, 0.13674111940698344).
+video('Entertainment', 'Israel com a Aline', 'Desabafo em tempos de guerra', 1697387921.0, 0.14419745466714493).
 video('Entertainment', 'Itaú', 'Itaú. Feito com você', 1664837522.0, 9.007443496227237e-05).
 video('Entertainment', 'Itaú', 'Itaú Uniclass. Marcos Mion e Sylvester Stallone', 1696292187.0, 0.011444507349395065).
 video('Entertainment', 'JOAO_PSX', 'OFICIAL!!! JOGOS GRÁTIS DA PLAYSTATION PLUS FEVEREIRO 2022 SÃO REVELADOS !', 1643215924.0, 0.16330415863126144).
@@ -6862,6 +6954,7 @@ video('Entertainment', 'Jully Molinna', 'A CASA ABANDONADA - Da Ruína à Resid�
 video('Entertainment', 'Jully Molinna', 'A CASA ABANDONADA - Da Ruína à Residência | TRAILLER OFICIAL', 1696086799.0, 0.10360282018007412).
 video('Entertainment', 'Jully Molinna', 'DOCUMENTÁRIO- A CASA ABANDONADA - Da Ruína à Residência | Trailler Oficial', 1696086799.0, 0.08617953316731397).
 video('Entertainment', 'Jully Molinna', 'FINALMENTE DEIXAMOS LIMPA A PISCINA DA MINHA CASA ABANDONADA!!', 1697041103.0, 0.0581307324351604).
+video('Entertainment', 'Jully Molinna', 'O PORTÃO DE GARAGEM DA MINHA CASA ABANDONADA FICOU PRONTO!!', 1698077098.0, 0.07358367463306852).
 video('Entertainment', 'Já contei? por Ju Nogueira', '🔥POLÊMICA NA PROVA; Naiara RENDE TRETA e PIPOCA x CAMAROTE É FORÇADO PELO GLOBO', 1642591431.0, 0.07298249944641476).
 video('Entertainment', 'Já contei? por Ju Nogueira', '🔥Naiara DÁ ADEUS AO BBB22 e DISCURSO CHOCA: ARMADO? Tiago ENTREGA VERDADE DE Naiara; Nathália xMaria', 1643023520.0, 0.07663569399643734).
 video('Entertainment', 'Já contei? por Ju Nogueira', '🔥Arthur ADMITE NOVO PLANO; Laís SE IRRITA COM ELE; Eslovênia SE DESESPERA AO DESCOBRIR A VERDADE', 1647446052.0, 0.08865244835501147).
@@ -6940,6 +7033,7 @@ video('Entertainment', 'LOUD Coringa', 'Dei UM CARRO de PRESENTE pra minha mãe!
 video('Entertainment', 'LOUD Coringa', 'PIUZINHO na LOUD! Mostrei os BASTIDORES do ANÚNCIO!', 1683324158.0, 0.16223890466373644).
 video('Entertainment', 'LOUD Coringa', 'Comprei a PORSCHE MAIS RÁPIDA do mercado! | Vlog', 1692978301.0, 0.19257668934900476).
 video('Entertainment', 'LOUD Coringa', 'Tour COMPLETA pela minha PORSCHE 992 TURBO S!', 1693150220.0, 0.16982113379915428).
+video('Entertainment', 'LOUD Coringa', 'Dei um UPGRADE na minha Porsche! | Vlog', 1697668227.0, 0.10144827506873268).
 video('Entertainment', 'LOUD IRMÃOS UAI', 'Ela NÃO quis CASAR com ele! | LOUD IRMÃOS UAI #Shorts', 1648846818.0, 0.08513599454362794).
 video('Entertainment', 'LOUD League of Legends', 'VLOG: A LOUD É BICAMPEÃ DO CBLOL!', 1681830019.0, 0.160447489780183).
 video('Entertainment', 'LOUD League of Legends', 'NÃO CHORA QUE O PAI TÁ AQUI! LOUD x paiN Comunicação Final Upper', 1692712824.0, 0.15101551864960522).
@@ -6974,10 +7068,11 @@ video('Entertainment', 'Leo Stronda', 'REAGINDO AO NOSSO CAMPEAO ALFY POLLY! - L
 video('Entertainment', 'Leo da Hornet', 'PEDI A NATH EM NAMORO 😍', 1655390804.0, 0.13480026408371093).
 video('Entertainment', 'Leo da Hornet', 'MINHA NAMORADA CHOROU MUITO QUANDO GANHOU O FUSCA DE VOLTA !! 😭🥰😍 * te amo meu amor *', 1666128366.0, 0.12023428077691574).
 video('Entertainment', 'Leticia Ruiz', 'ESTAVA COM MUITAS SAUDADES...❤️', 1689286857.0, 0.08572547970338659).
-video('Entertainment', 'Letícia Sweet Cake', 'CLIENTES FAZEM FILA NA PORTA DAS DOCERIAS FAMOSAS PARA COMPRAR ESSA SOBREMESA | FOLHATTA DE MORANGO', 1659218414.0, 0.13127429899437457).
 video('Entertainment', 'Letícia Sweet Cake', 'CLIENTES FAZEM FILA NA PORTA DAS DOCERIAS FAMOSAS PARA COMPRAR ESSA SOBREMESA | FOLHADO DE MORANGO', 1659218414.0, 0.12273457214957559).
+video('Entertainment', 'Letícia Sweet Cake', 'CLIENTES FAZEM FILA NA PORTA DAS DOCERIAS FAMOSAS PARA COMPRAR ESSA SOBREMESA | FOLHATTA DE MORANGO', 1659218414.0, 0.13127429899437457).
 video('Entertainment', 'Letícia Sweet Cake', 'MAIS RÁPIDO, MAIS FÁCIL E MENOS DOCE QUE O TRADICONAL! | PÃO DE MEL NA ASSADEIRA', 1663106412.0, 0.07264354373012682).
 video('Entertainment', 'Letícia Sweet Cake', 'CHOCOLATE QUENTE CREMOSO SEM MAIZENA COM APENAS 4 INGREDIENTES', 1686693617.0, 0.03413696715583508).
+video('Entertainment', 'Letícia Sweet Cake', 'BOLO DE CHOCOLATE RECHEADO BEM MOLHADINHO E SUCULENTO! | BOLO DE ANIVERSÁRIO FÁCIL E CHOCOLATUDO', 1697752802.0, 0.02048114434330299).
 video('Entertainment', 'Liga Carnaval SP - Oficial', 'Carnaval 2023 SP | 21/02/2023 - APURAÇÃO GRUPO ACESSO I', 1677022249.0, 0.0308072497796841).
 video('Entertainment', 'Lives do Cellbit', 'cellbit revela por quê sumiu da internet e fala absurdos', 1650822256.0, 0.20636053046697264).
 video('Entertainment', 'Lives do Cellbit', 'memes gerados por inteligência artificial', 1675264139.0, 0.15364234542093821).
@@ -7113,6 +7208,7 @@ video('Entertainment', 'Manikomio', 'JOGO DO PÃO COM MANOEL GOMES', 1676732056.
 video('Entertainment', 'Manteiga', 'QUEM ACHAR MAIS TESOUROS EM 24 HORAS VENCE!', 1686689619.0, 0.021538739502513837).
 video('Entertainment', 'Manteiga', '24 HORAS PRA ATRAVESSAR O BRASIL EM LINHA RETA', 1688417486.0, 0.02079449206233964).
 video('Entertainment', 'Manteiga', 'SOBREVIVI 24 HORAS NUMA ILHA DESERTA', 1697147733.0, 0.033933232586893805).
+video('Entertainment', 'Manteiga', 'SOBREVIVI 24 HORAS NUMA CASA MAL ASSOMBRADA *nunca repita*', 1697834794.0, 0.03785833231411879).
 video('Entertainment', 'Manuzinha Star', 'MEU NAMORADO FEZ UMA SURPRESA PRA MIM.. chorei muito', 1665698410.0, 0.05585981809198394).
 video('Entertainment', 'Manuzinha Star', 'COMPRANDO MATERIAL ESCOLAR 2023 do meu namorado!!', 1670796010.0, 0.04759776136749692).
 video('Entertainment', 'Manuzinha Star', 'REAGINDO AO QUE SOBROU DO MATERIAL ESCOLAR NO FINAL DO ANO do meu NAMORADO', 1671400814.0, 0.04792541677087735).
@@ -7127,8 +7223,8 @@ video('Entertainment', 'Marcos Vasconcellos', '2º DIA ENEM 2022 - OPINIÃO SINC
 video('Entertainment', 'Marcão Raiz - O Rei do React', 'REACT - PALMEIRAS X ÁGUA SANTA | QUEM VAI PARAR ESSE TIME ? | CAMPEÕES DE NOVO #palmeiras', 1681078339.0, 0.10701236583120594).
 video('Entertainment', 'Mari Fernandez', 'Mari Fernandez - CÃO SEM DONO (RAPARIGA) - [Vídeo Oficial]', 1664571623.0, 0.03705727608792355).
 video('Entertainment', 'Mari Fernandez', 'Mari Fernandez - QUANDO TEM SENTIMENTO [Áudio Oficial]', 1665004379.0, 0.10659446280797993).
-video('Entertainment', 'Mari Fernandez', 'Mari Fernandez - AGONIA - [Luau Amazon Music]', 1665756056.0, 0.04866355673823811).
 video('Entertainment', 'Mari Fernandez', 'Mari Fernandez - AGONIA - (Luau Amazon Music)', 1665756056.0, 0.03700025611139277).
+video('Entertainment', 'Mari Fernandez', 'Mari Fernandez - AGONIA - [Luau Amazon Music]', 1665756056.0, 0.04866355673823811).
 video('Entertainment', 'Mari Maria', 'Me MAQUIANDO PARA O PARTO! é agora...', 1641387610.0, 0.14348066242176355).
 video('Entertainment', 'Mari Maria', 'O Nascimento do nosso Segundo Filho', 1641417968.0, 0.13846593116489814).
 video('Entertainment', 'Mari Maria', 'Minha FAMÍLIA CONHECEU o NOAH pela PRIMEIRA VEZ! Fiz surpresa...', 1646405789.0, 0.11492133411871164).
@@ -7249,8 +7345,8 @@ video('Entertainment', 'MasterChef Brasil', 'ESTREIA MASTERCHEF PROFISSIONAIS (1
 video('Entertainment', 'MasterChef Brasil', 'ESTREIA MASTERCHEF PROFISSIONAIS (13/09/2022) | PARTE 3 | EP 01 | TEMP 04', 1663142520.0, 0.021624101110026366).
 video('Entertainment', 'MasterChef Brasil', 'ESTREIA MASTERCHEF PROFISSIONAIS (13/09/2022) | PARTE 4 | EP 01 | TEMP 04', 1663142580.0, 0.018534157144333915).
 video('Entertainment', 'MasterChef Brasil', 'MASTERCHEF PROFISSIONAIS (20/09/2022) | PARTE 1 | EP 02 | TEMP 04', 1663747217.0, 0.028306616575531105).
-video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 02 - 2/5: AVALIAÇÃO | TEMP 04 | MASTERCHEF PROFISSIONAIS', 1663747260.0, 0.01777427494872094).
 video('Entertainment', 'MasterChef Brasil', 'MASTERCHEF PROFISSIONAIS (20/09/2022) | PARTE 2 | EP 02 | TEMP 04', 1663747260.0, 0.022979775551601387).
+video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 02 - 2/5: AVALIAÇÃO | TEMP 04 | MASTERCHEF PROFISSIONAIS', 1663747260.0, 0.01777427494872094).
 video('Entertainment', 'MasterChef Brasil', 'MASTERCHEF PROFISSIONAIS (20/09/2022) | PARTE 3 | EP 02 | TEMP 04', 1663747320.0, 0.0219798181395869).
 video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 02 - 3/5: PROVA DE ELIMINAÇÃO | TEMP 04 | MASTERCHEF PROFISSIONAIS', 1663747320.0, 0.017181839423556628).
 video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 03 - 2/5: AVALIAÇÃO | TEMP 04 | MASTERCHEF PROFISSIONAIS', 1664352060.0, 0.021436387479679287).
@@ -7299,8 +7395,8 @@ video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 04 - 5/5: CAIXAS MISTERIO
 video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 05 - 2/5: BAIÃO DE DOIS E BOLO DE CREPE | TEMP 10 | MASTERCHEF BRASIL (30/05/2023)', 1685520060.0, 0.01759848706816184).
 video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 05 - 3/5: BAIÃO DE DOIS E BOLO DE CREPE | TEMP 10 | MASTERCHEF BRASIL (30/05/2023)', 1685520120.0, 0.01668021850914463).
 video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 05 - 4/5: BAIÃO DE DOIS E BOLO DE CREPE | TEMP 10 | MASTERCHEF BRASIL (30/05/2023)', 1685520180.0, 0.013740296272960318).
-video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 06 - 2/5: Festival de massas e kebab | TEMP 10 | MASTERCHEF BRASIL (06/06/2023)', 1686124860.0, 0.013403450080229367).
 video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 06 - 2/5: FESTIVAL DE MASSAS E KEBAB | TEMP 10 | MASTERCHEF BRASIL (06/06/2023)', 1686124860.0, 0.017418782397534284).
+video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 06 - 2/5: Festival de massas e kebab | TEMP 10 | MASTERCHEF BRASIL (06/06/2023)', 1686124860.0, 0.013403450080229367).
 video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 06 - 3/5: Festival de massas e kebab | TEMP 10 | MASTERCHEF BRASIL (06/06/2023)', 1686124920.0, 0.013947942760532466).
 video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 06 - 3/5: FESTIVAL DE MASSAS E KEBAB | TEMP 10 | MASTERCHEF BRASIL (06/06/2023)', 1686124920.0, 0.01852228935435636).
 video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 06 - 4/5: FESTIVAL DE MASSAS E KEBAB | TEMP 10 | MASTERCHEF BRASIL (06/06/2023)', 1686124980.0, 0.015056783568355105).
@@ -7357,6 +7453,13 @@ video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 03 - 4/5: Menu de sobreme
 video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 04 - 2/5: Desafio do Jacquin | TEMP 05 | MASTERCHEF PROFISSIONAIS (10/10/2023)', 1697011261.0, 0.017707151258893085).
 video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 04 - 3/5: Desafio do Jacquin | TEMP 05 | MASTERCHEF PROFISSIONAIS (10/10/2023)', 1697011321.0, 0.01829113365445564).
 video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 04 - 4/5: Desafio do Jacquin | TEMP 05 | MASTERCHEF PROFISSIONAIS (10/10/2023)', 1697011380.0, 0.015431056584188443).
+video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 05 - 1/5: Desafio na brasa! | TEMP 05 | MASTERCHEF PROFISSIONAIS (17/10/2023)', 1697616032.0, 0.023377929562260865).
+video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 05 - 3/5: Desafio na brasa!  | TEMP 05 | MASTERCHEF PROFISSIONAIS (17/10/2023)', 1697616120.0, 0.017678393061151997).
+video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 05 - 4/5: Desafio na brasa!  | TEMP 05 | MASTERCHEF PROFISSIONAIS (17/10/2023)', 1697616180.0, 0.016860013917565628).
+video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 05 - 5/5: Desafio na brasa!  | TEMP 05 | MASTERCHEF PROFISSIONAIS (17/10/2023)', 1697616240.0, 0.01975758184075718).
+video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 06 - 2/5: Caixa Misteriosa POLÊMICA | TEMP 05 | MASTERCHEF PROFISSIONAIS (24/10/2023)', 1698220860.0, 0.021506415677935382).
+video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 06 - 3/5: Caixa Misteriosa POLÊMICA | TEMP 05 | MASTERCHEF PROFISSIONAIS (24/10/2023)', 1698220920.0, 0.016059113055459526).
+video('Entertainment', 'MasterChef Brasil', 'EPISÓDIO 06 - 4/5: Caixa Misteriosa POLÊMICA | TEMP 05 | MASTERCHEF PROFISSIONAIS (24/10/2023)', 1698220980.0, 0.014858453151814943).
 video('Entertainment', 'Matheus & Gi', 'VIRAMOS PAIS DE UM BEBÊ POR 24 HORAS!', 1684533609.0, 0.03380935090250638).
 video('Entertainment', 'Matheus & Gi', 'VIREI A BARBIE POR 24 HORAS!', 1689804006.0, 0.044009844831131954).
 video('Entertainment', 'Matheus Costa', 'MINAS GERAIS TERRA DOS CAFÉZES #shorts', 1645281003.0, 0.13372216729038638).
@@ -7400,6 +7503,7 @@ video('Entertainment', 'Miley Cyrus', 'Miley Cyrus - Jaded (Official Teaser)', 1
 video('Entertainment', 'Minhas Plantas', '5 SINAIS de muita ÁGUA nas PLANTAS! Saiba QUANDO e QUANTO REGAR', 1643544014.0, 0.16618106504721453).
 video('Entertainment', 'Minhas Plantas', 'Como cultivar MANJERICÃO em VASO e como PODAR', 1644753620.0, 0.15393954885296185).
 video('Entertainment', 'Minhas Plantas', 'NUNCA coloque essas PLANTAS DENTRO de CASA', 1647778175.0, 0.16428148765039777).
+video('Entertainment', 'Minhas Plantas', 'Como PLANTAR e CUIDAR de ARRUDA em VASO', 1697371740.0, 0.009612497773706841).
 video('Entertainment', 'Miss Universe', '71st MISS UNIVERSE CROWNING MOMENT! | Miss Universe', 1673768378.0, 0.010468690131047741).
 video('Entertainment', 'Miss Universo Brasil', '#MUB2023: PRELIMINAR BIQUINI', 1688560579.0, 0.023265235256669948).
 video('Entertainment', 'Miss Universo Brasil', 'TRAJE TÍPICO E A GRANDE FINAL DO MISS UNIVERSO BRASIL 2023', 1688874703.0, 0.014566099232990275).
@@ -7435,6 +7539,8 @@ video('Entertainment', 'Morgana Santana', 'ESTOU GRÁVIDA DO SEGUNDO FILHO! ❤�
 video('Entertainment', 'Morgana Santana', 'SURPRESA! ❤️ VOCÊ VAI SER PAPAI! *reação*', 1693318267.0, 0.0899656302024596).
 video('Entertainment', 'Morgana Santana', 'E O NOSSO SEGUNDO BEBÊ É... . 💙💖 CHÁ REVELAÇÃO', 1696204193.0, 0.08650023116042534).
 video('Entertainment', 'Morgana Santana', 'MOSTREI O QUARTO DA NOSSA BEBÊ 💜👧', 1696515982.0, 0.06982168836946459).
+video('Entertainment', 'Morgana Santana', 'ESCOLHEMOS O NOME DA NOSSA BEBÊ  💓', 1697552333.0, 0.07821335164594322).
+video('Entertainment', 'Morgana Santana', 'REVELAMOS O NOME DA NOSSA FILHA... 💓', 1697726054.0, 0.06567120372748285).
 video('Entertainment', 'Mr. Manzione', 'A gente ainda é gordo 😂😂 #shorts #ReideOrlando', 1647270640.0, 0.08837761430975548).
 video('Entertainment', 'MrBeast', '100 Kids Vs 100 Adults For $500,000', 1670101200.0, 0.05079099436730652).
 video('Entertainment', 'MrBeast', 'Hydraulic Press Vs Lamborghini', 1670706001.0, 0.07259032107140369).
@@ -7496,8 +7602,8 @@ video('Entertainment', 'Mu e Niki Shorts', 'Aposto que vc faz isso e nem sabia! 
 video('Entertainment', 'Muca Muriçoca', 'DEU MUITO ROLO NA FESTA DA BYPAMELLA', 1644008408.0, 0.1299928998490733).
 video('Entertainment', 'Muca Muriçoca', 'A MÃE DEIXOU ELA PERDER O BV', 1645218008.0, 0.14689766171763388).
 video('Entertainment', 'Muca Muriçoca', 'DEIXOU O NAMORADO BEIJAR OUTRA', 1655412302.0, 0.14254635799173523).
-video('Entertainment', 'Muca Muriçoca', 'CHAVEQUEI A MÃE DO BOCA NO CASAMENTO DO CEROL [Parte 1/2]', 1656104420.0, 0.12658367196511733).
 video('Entertainment', 'Muca Muriçoca', 'BOCA DE 09 BRAVO PQ CHAVEQUEI A MÃE NO CASAMENTO DO CEROL [Parte 1/2]', 1656104420.0, 0.11701626416604965).
+video('Entertainment', 'Muca Muriçoca', 'CHAVEQUEI A MÃE DO BOCA NO CASAMENTO DO CEROL [Parte 1/2]', 1656104420.0, 0.12658367196511733).
 video('Entertainment', 'Muca Muriçoca', 'A NAMORADA APARECEU DE SURPRESA', 1678053611.0, 0.12506343220465468).
 video('Entertainment', 'Mundo Geek', 'STRANGER THINGS 4: FINAL EXPLICADO! ENTENDA O PLANO DO VECNA E HAWKINS! - VOLUME 2', 1656703086.0, 0.10819244776691585).
 video('Entertainment', 'Mundo da Lari', 'MEU MATERIAL ESCOLAR 2022 COMPLETO!!!', 1641243825.0, 0.08002955803697101).
@@ -7511,8 +7617,8 @@ video('Entertainment', 'Mágico Breno Costa', 'MÁGICA COM PALITO // TUTORIAL', 
 video('Entertainment', 'Márcio Martins', 'STJD VAI AJUDAR O VASCO?', 1667065399.0, 0.04303921836194427).
 video('Entertainment', 'Método Ana Martha - TopCorpus', 'Como fazer Massagem relaxante com Humanização! | Ana Martha', 1664236167.0, 0.20253576072821847).
 video('Entertainment', 'NATASCHA FAEDRICH', 'A MULHER DA CASA ABANDONADA', 1656933182.0, 0.06710577570027267).
-video('Entertainment', 'NBA Brasil', 'O Zion VOLTOU e Ja Morant deu SHOW! - Rodada NBA 19/10', 1666273013.0, 0.0994655041292216).
 video('Entertainment', 'NBA Brasil', 'O Zion VOLTOU, e Ja Morant deu SHOW! - Rodada NBA 19/10', 1666273013.0, 0.08358153526200468).
+video('Entertainment', 'NBA Brasil', 'O Zion VOLTOU e Ja Morant deu SHOW! - Rodada NBA 19/10', 1666273013.0, 0.0994655041292216).
 video('Entertainment', 'NBA Brasil', 'Ja Morant é INSANO! - Rodada NBA 21/10', 1666440462.0, 0.10141474980616018).
 video('Entertainment', 'NBA Brasil', '71 PONTOS para Donovan Mitchell! - Rodada NBA 02/01', 1672749582.0, 0.07976981926302075).
 video('Entertainment', 'NBA Brasil', 'NBA DRAFT 2023 AO VIVO! Live com React e Análise das Escolhas!', 1687497422.0, 0.08193541235589713).
@@ -7544,6 +7650,7 @@ video('Entertainment', 'NOW UNITED', 'Day Six of LA Bootcamp! Part Three', 16449
 video('Entertainment', 'NOW UNITED', 'Day Six of LA Bootcamp! Part Two - Live Clip', 1644955121.0, 0.1136391233076316).
 video('Entertainment', 'NOW UNITED', 'Day Twelve of LA Bootcamp! - Live Clip', 1645572997.0, 0.15693809464969727).
 video('Entertainment', 'NUMBER ONE', 'ANDERSON NEIFF - DEDE A+ D1000 - PROD JOHN JOHNIS - INFERNINHO 😈', 1694538018.0, 0.06039992225639384).
+video('Entertainment', 'NUMBER ONE', 'FLOW COR DE ROSA 💗 - ANDERSON NEIFF | CZT | DETROIT #numberone', 1697389209.0, 0.0666222916293319).
 video('Entertainment', 'Natan por Aí', 'SUPEREI 50 DESAFIOS EM 24 HORAS!', 1643232480.0, 0.08011317023917205).
 video('Entertainment', 'Natan por Aí', 'DESMASCAREI MAIS 50 MITOS EM 24 HORAS!', 1645306080.0, 0.09102478244348046).
 video('Entertainment', 'Natan por Aí', 'ESCONDE ESCONDE INSANO NO MEGA PARQUE DE CAMAS ELÁSTICAS!', 1649021280.0, 0.028002311857251088).
@@ -7600,8 +7707,8 @@ video('Entertainment', 'Natan por Aí', 'SOBREVIVI 24 HORAS NA MENOR CASA DO MUN
 video('Entertainment', 'Natan por Aí', 'ESCONDE ESCONDE EXTREMO DE CAMUFLAGEM!', 1676842080.0, 0.022000817527269685).
 video('Entertainment', 'Natan por Aí', 'COMPLETEI O ÁLBUM DE FIGURINHAS DO HOMEM-ARANHA EM 24 HORAS', 1677446880.0, 0.021923428229316182).
 video('Entertainment', 'Natan por Aí', 'O ÚLTIMO A SAIR DO BANHEIRO QUÍMICO, VENCE!', 1678310880.0, 0.018729378275215113).
-video('Entertainment', 'Natan por Aí', 'SOBREVIVI 24 HORAS EM UM BARCO DE BALÕES!', 1679261280.0, 0.02529509270522812).
 video('Entertainment', 'Natan por Aí', 'SOBREVIVI 24 HORAS EM UM BARCO DE R$10!', 1679261280.0, 0.023460881582809297).
+video('Entertainment', 'Natan por Aí', 'SOBREVIVI 24 HORAS EM UM BARCO DE BALÕES!', 1679261280.0, 0.02529509270522812).
 video('Entertainment', 'Natan por Aí', 'DESMASCAREI 24 MITOS DA PÁSCOA EM 24 HORAS!', 1680470880.0, 0.07766963863191882).
 video('Entertainment', 'Natan por Aí', 'PASSEI A NOITE NO PARQUE DE CAMAS ELÁSTICAS SEM NINGUÉM ME VER!', 1682285280.0, 0.03204381490174341).
 video('Entertainment', 'Natan por Aí', 'COMO CHEGUEI A 10 MILHÕES DE INSCRITOS!', 1683149280.0, 0.0416804920525121).
@@ -7620,13 +7727,15 @@ video('Entertainment', 'Natan por Aí', 'CONSTRUÍ UM CARRO QUE ANDA NA ÁGUA!',
 video('Entertainment', 'Natan por Aí', 'TREINEI COMO UM SURFISTA PROFISSIONAL POR 24 HORAS', 1694381280.0, 0.022399226695876625).
 video('Entertainment', 'Natan por Aí', 'SOBREVIVI NA AREIA MOVEDIÇA POR 24 HORAS!', 1694640480.0, 0.020524459538893605).
 video('Entertainment', 'Natan por Aí', 'DESMASCAREI 50 MITOS EM 24 HORAS!', 1695850080.0, 0.03246135200093125).
+video('Entertainment', 'Natan por Aí', 'NOVO ESCONDE ESCONDE EXTREMO DE CORES!', 1697405280.0, 0.021129364379966126).
+video('Entertainment', 'Natan por Aí', 'QUEM SOBREVIVER NA SUA PISCINA EXTREMA, VENCE!', 1697664480.0, 0.016604738265806607).
 video('Entertainment', 'Nathalie Victória', 'ELE FEZ UMA SURPRESA PRA MIM!! *uma calopsita albina* 🎁❤️😍', 1641751413.0, 0.1399376081610347).
 video('Entertainment', 'Nathalie Victória', 'DESLIGUEI A ENERGIA ENQUANTO ELE TOMAVA BANHO!! *TROLLAGEM*', 1641906463.0, 0.1381790335849662).
 video('Entertainment', 'Nathalie Victória', 'BATI O CARRO QUE O LEO ME DEU!!! 😭 -trollagem-', 1642684158.0, 0.11852488338652545).
 video('Entertainment', 'Nathalie Victória', 'O LEO PRECISOU IR ME RESGATAR!! *meu fusca atolou na terra*', 1643467758.0, 0.12418744643939553).
 video('Entertainment', 'Nathalie Victória', 'QUEM PEGAR MAIS SALGADINHOS GANHAA!! *desafio valendo dinheiro 🤑*', 1655733222.0, 0.0990530519110097).
-video('Entertainment', 'Nathalie Victória', 'ESSE É MEU CARRO NOVO!! Tô muito felizzz 🙏🏻😍', 1665491243.0, 0.12859911839184668).
 video('Entertainment', 'Nathalie Victória', 'FUI NA LOJA COMPRAR MEU CARRO NOVO!! Tô muito felizzz 🙏🏻😍', 1665491243.0, 0.12239521850963629).
+video('Entertainment', 'Nathalie Victória', 'ESSE É MEU CARRO NOVO!! Tô muito felizzz 🙏🏻😍', 1665491243.0, 0.12859911839184668).
 video('Entertainment', 'Nati e a vovozinha Elza', 'A REAÇÃO DOS AVÓS NA CASA NOVA DO CAIO', 1688252824.0, 0.07820675841425952).
 video('Entertainment', 'Natisatv', 'NATISA REACTS: BLACKPINK - ‘Pink Venom’ M/V', 1660914029.0, 0.16759056016468868).
 video('Entertainment', 'Neagle', 'O FIM DA NEAGLEHOUSE  * É OFICIAL! *', 1654124414.0, 0.23085772569856255).
@@ -7637,6 +7746,7 @@ video('Entertainment', 'Nerd Land', 'OBRIGADO', 1656935867.0, 0.2646723467674600
 video('Entertainment', 'Nerd Land', 'FINALMENTE TRAILER OFICIAL: PANTERA NEGRA 2 WAKANDA FOREVER + DOUTOR DESTINO + ANÚNCIOS MARVEL', 1657808885.0, 0.11290404943062861).
 video('Entertainment', 'Nerd Land', 'DR. DESTINO E IRONHEAT! TRAILER OFICIAL PANTERA NEGRA 2 WAKANDA PRA SEMPRE ANÁLISE COMPLETA', 1664805014.0, 0.14864473252062363).
 video('Entertainment', 'Nerd Land', 'LOKI 2 TEMPORADA EP. 2 EXPLICADO (FINAL + ANÁLISE + TEORIA) UNIVERSOS DESTRUIDOS E O LOOP DO FUTURO', 1697204454.0, 0.09862581491266417).
+video('Entertainment', 'Nerd Land', 'LOKI 2 TEMPORADA EP. 3 EXPLICADO (FINAL + ANÁLISE + TEORIA) ORIGEM DO KANG, MIS MINUTES E O SEGREDO!', 1697810685.0, 0.11166919752365378).
 video('Entertainment', 'Nerdologia', 'A história de Robert Oppenheimer e a bomba atômica', 1689693360.0, 0.15828951897171747).
 video('Entertainment', 'Netflix', 'THE CUPHEAD SHOW! | Official Trailer | Netflix', 1642518900.0, 0.06145147286621295).
 video('Entertainment', 'Netflix', 'Wednesday Addams | Official Teaser | Netflix', 1660748400.0, 0.051372869128443105).
@@ -7684,6 +7794,7 @@ video('Entertainment', 'Netflix Brasil', 'Castlevania: Noturno | Trailer teaser 
 video('Entertainment', 'Netflix Brasil', 'ONE PIECE: A Série | Trailer final | Netflix', 1693400404.0, 0.11213648701046917).
 video('Entertainment', 'Netflix Brasil', 'A Fuga das Galinhas: A Ameaça dos Nuggets | Teaser oficial | Netflix', 1693918800.0, 0.11661674976614862).
 video('Entertainment', 'Netflix Brasil', 'ONE PIECE: A Série | Anúncio de renovação | Netflix Brasil', 1694722132.0, 0.11838656738353011).
+video('Entertainment', 'Netflix Brasil', 'Round 6: O Desafio | Trailer oficial | Netflix', 1698073200.0, 0.041846766249170705).
 video('Entertainment', 'Netflix India', 'Stranger Things 4 | Eddie Munson\'s Upside Down Guitar Scene | Netflix India', 1656826200.0, 0.06753832686134992).
 video('Entertainment', 'Nick Gállavan', 'ESSE EXERCÍCIOS FOI MUITO RÁPIDO 😂 #shortsvideo', 1643989660.0, 0.05480758754103888).
 video('Entertainment', 'Nick Gállavan', 'OLHA O QUE ELA FEZ COM A TABUADA 😱 #shortsvideo', 1644851032.0, 0.057424849134284583).
@@ -7705,6 +7816,7 @@ video('Entertainment', 'Nubia Viana', 'O QUE ESTÁ ACONTECENDO?? ESTAMOS DE VOLT
 video('Entertainment', 'O Boticario', 'Novo Boti.Sun', 1665665406.0, 1.9970293079583392e-05).
 video('Entertainment', 'O Jean Luca', 'Talvez o nosso último vídeo juntos', 1674832391.0, 0.18795859318882124).
 video('Entertainment', 'O Jean Luca', 'LUBA e JEAN em: DESCUBRA se SEU FILHO é GAY', 1677423079.0, 0.1480647426198905).
+video('Entertainment', 'O Jean Luca', 'Eu errei, me desculpa', 1697576318.0, 0.1870697885403535).
 video('Entertainment', 'O Que Não Dizer Oficial', 'SE MINHA MÃE FOSSE O HOMEM ARANHA', 1644182100.0, 0.12682778269772513).
 video('Entertainment', 'O Que Não Dizer Oficial', 'SE O MAYKON FOSSE UBER', 1644778804.0, 0.15520778360189988).
 video('Entertainment', 'O Que Não Dizer Oficial', 'SE O MAYKON APRESENTASSE O JORNAL NACIONAL', 1646590500.0, 0.14356677621513358).
@@ -7835,6 +7947,7 @@ video('Entertainment', 'Paty', 'A MADU VAI MORAR COM O GABRIEL', 1672092009.0, 0
 video('Entertainment', 'Paty', 'O GABRIEL e a LAVINIA se reencontraram!!', 1681250463.0, 0.05491925108976681).
 video('Entertainment', 'Paty', 'Esse é meu NOVO NAMORADO! 😍', 1688425133.0, 0.07176497410676481).
 video('Entertainment', 'Paty', 'O JOÃO CAETANO DESCOBRIU TUDO SOBRE EU E O TASPIO!!', 1691013605.0, 0.059533480329581064).
+video('Entertainment', 'Paty', 'O Taspio me pediu em NAMORO mas meu EX APARECEU!', 1697580006.0, 0.0686470462737348).
 video('Entertainment', 'Paula Stephânia', 'Fiz meu 1º Scrapbook da minha viagem pra Europa! Tudo sobre a minha Eurotrip | Paula Stephania', 1654718407.0, 0.05758203385768816).
 video('Entertainment', 'Paula Stephânia', '24H PINTANDO cada TECLA do meu TECLADO! Paula Stephania', 1659124813.0, 0.05402640314048835).
 video('Entertainment', 'Paula Stephânia', '24h PINTANDO cada TECLA do meu TECLADO #3 ! Será que terminei? Paula Stephania', 1665776836.0, 0.050085906180038525).
@@ -7845,11 +7958,14 @@ video('Entertainment', 'Peacock', 'The Continental: From the World of John Wick 
 video('Entertainment', 'Peacock', 'Twisted Metal | Official Teaser | Peacock Original', 1682695815.0, 0.01631654764748877).
 video('Entertainment', 'Pedrão [OFICIAL]', 'PLANTÃO URGENTE! RIVER ACABA DE BATER O MARTELO SOBRE VENDA DE DE LA CRUZ AO FLAMENGO!', 1685921540.0, 0.06921453911330312).
 video('Entertainment', 'PepsiBr', 'Campeões da Rua Catar', 1668810487.0, 0.00011564326219045846).
-video('Entertainment', 'Pesadelo na Cozinha', 'FÁBIO REABRE O PÉ DE FAVA COM NOVO NOME APÓS PESADELO NA COZINHA | A Conta Chegou', 1641585614.0, 0.07208015682857766).
 video('Entertainment', 'Pesadelo na Cozinha', 'FÁBIO REABRE O PÉ DE FAVA COM NOVO NOME APÓS PESADELO NA COZINHA | A Conta Chegou |', 1641585614.0, 0.06659873437509047).
+video('Entertainment', 'Pesadelo na Cozinha', 'FÁBIO REABRE O PÉ DE FAVA COM NOVO NOME APÓS PESADELO NA COZINHA | A Conta Chegou', 1641585614.0, 0.07208015682857766).
 video('Entertainment', 'Peter Aqui', 'React Cavaleiro da Lua Trailer Oficial Dublado - Disney+', 1642534549.0, 0.17287352134163697).
 video('Entertainment', 'Peter Aqui', 'REACT TRAILER ADÃO NEGRO | Trailer Oficial Legendado', 1654711636.0, 0.18785505487838508).
 video('Entertainment', 'Peter Aqui', 'TRAILER SUPER MARIO BROS - REACT E PRIMEIRAS IMPRESSÕES', 1665152202.0, 0.17321765545174206).
+video('Entertainment', 'Peter Aqui', 'REAGINDO AS PEGADINHAS DO TONINHO TORNADO [Calma Calebreso]', 1697746090.0, 0.12875294257431624).
+video('Entertainment', 'Peter Aqui', 'REAGINDO A NOVA PESAGEM DO SERJÃO SACANI [Renato Cariani]', 1697918418.0, 0.1519882874296214).
+video('Entertainment', 'Peter Aqui', 'REAGINDO: RAP DO ITACHI, RAP DO DEIDARA E RAP DO KISAME - 7 Minutoz', 1698091214.0, 0.26804825034428975).
 video('Entertainment', 'Pilhado', 'HUGO SALVA O FLAMENGO E O PAULO SOUSA! FLA VENCE O FLU, MAS SEM JOGAR BEM!', 1653869326.0, 0.09586250653962176).
 video('Entertainment', 'Pilhado', 'MAIS UMA ATUAÇÃO HORRÍVEL DO FLAMENGO DO PAULO SOUSA! TREINADOR DEVE SER DEMITIDO AINDA HOJE!', 1654741778.0, 0.09524288039873786).
 video('Entertainment', 'Pipa Combate', 'Menor do Relo Pegou a Pipa Voada mais Disputada na Xepa do Festival de Cataguases', 1656368464.0, 0.05120345346707054).
@@ -8004,6 +8120,8 @@ video('Entertainment', 'Porta dos Fundos', 'BOTAFOGO', 1696255247.0, 0.106644777
 video('Entertainment', 'Porta dos Fundos', 'SEXTA-FEIRA PRESENCIAL', 1696514409.0, 0.12529810697009883).
 video('Entertainment', 'Porta dos Fundos', 'CÃO DE RAÇA', 1696860016.0, 0.10351366591978602).
 video('Entertainment', 'Porta dos Fundos', 'BET KIDS', 1697119231.0, 0.1450511858522406).
+video('Entertainment', 'Porta dos Fundos', 'INSTAGRAMÁVEL', 1697464809.0, 0.10340527206153931).
+video('Entertainment', 'Porta dos Fundos', 'APRESENTAÇÃO', 1697724038.0, 0.11029592132551345).
 video('Entertainment', 'PortugaPC', 'EDU COZINHOU HAMBÚRGUERES ‹ PORTUGA ›', 1642017608.0, 0.1108908672532814).
 video('Entertainment', 'PortugaPC', 'PRIMEIRO CHURRASCO DA CASA NOVA ‹ PORTUGA ›', 1650398410.0, 0.10393335034178185).
 video('Entertainment', 'PortugaPC', 'EDU FEZ EU TRAZER ISSO PARA OS ESTADOS UNIDOS ‹ PORTUGA ›', 1693773900.0, 0.11028147691991892).
@@ -8059,8 +8177,8 @@ video('Entertainment', 'ROXTEEN', 'BRINQUEI DE PIQUE PEGA NO PARQUE DE CAMA ELÁ
 video('Entertainment', 'ROXTEEN', 'SOBREVIVI 24 HORAS EM UM PARQUE DE DIVERSÃO', 1659214803.0, 0.07031736509840888).
 video('Entertainment', 'ROXTEEN', 'EPISÓDIO 10 - A FINAL DO CAMPEONATO ROX DANCE SPORTS', 1661893213.0, 0.06310751822234077).
 video('Entertainment', 'ROXTEEN', 'ME VENÇA NO BAFO DE FIGURINHAS E EU FAÇO O QUE VC QUISER', 1668628842.0, 0.02336109360874449).
-video('Entertainment', 'ROXTEEN', 'O NOVO CRUSH DA VICK - EP 02 - ROXTEEN UMA NOVA CHANCE', 1693602010.0, 0.02025766869138731).
 video('Entertainment', 'ROXTEEN', 'O NOVO CRUSH DA VICK - ROXTEEN UMA NOVA CHANCE - EPISÓDIO 02', 1693602010.0, 0.02431727672318645).
+video('Entertainment', 'ROXTEEN', 'O NOVO CRUSH DA VICK - EP 02 - ROXTEEN UMA NOVA CHANCE', 1693602010.0, 0.02025766869138731).
 video('Entertainment', 'Rafa & Luiz', 'FUI EM UMA FESTA ESCONDIDA DO MEU NAMORADO E ELE FICOU REVOLTADO! - 3 AM!', 1649887216.0, 0.08434567227941009).
 video('Entertainment', 'Rafa & Luiz', 'TRANSFORMAMOS A MANSÃO EM UMA CASA DE FESTAS E FLAGRAMOS ISSO! - ABSURDO!', 1651870815.0, 0.07205324912146392).
 video('Entertainment', 'Rafa & Luiz', 'DIZENDO SIM PRA TUDO PARA NOSSAS NAMORADAS POR 24 HORAS! - GASTAMOS MUITO!', 1652216416.0, 0.12534079407059132).
@@ -8145,6 +8263,7 @@ video('Entertainment', 'Receitas de Pai', 'A MELHOR RECEITA DE PÃO DE QUEIJO I 
 video('Entertainment', 'Receitas de Pai', 'SORVETE DE LEITE CONDENSADO PROFISSIONAL I RECEITA SIMPLES I SUPER CREMOSO I Receitas de Pai', 1695656418.0, 0.11488796763648661).
 video('Entertainment', 'Receitas de Pai', 'PÃO CASEIRO QUE JÁ SAI DO FORNO FATIADO I SUPER FOFINHO E ECONÔMICO I Receitas de Pai', 1696438950.0, 0.14758651199370823).
 video('Entertainment', 'Receitas de Pai', 'COMO FAZER COSTELA NA AIR FRYER I DESMANCHA NA BOCA I Receitas de Pai', 1697216411.0, 0.015994418981464118).
+video('Entertainment', 'Receitas de Pai', 'BOLO DE CHOCOLATE COM CASQUINHA O O MELHOR BOLO DE CHOCOLATE DO MUNDO I Receitas de Pai', 1697647780.0, 0.06047941506376968).
 video('Entertainment', 'Record TV Cabo Verde', 'Domingo Espetacular: Belo e Gracyane - dívidas acumuladas estão levando a complicações judiciais', 1661775319.0, 0.015723590474251984).
 video('Entertainment', 'Record TV Cabo Verde', 'Ramsés manda prender Henutmire após entregar sua vida ao Deus de Moisés | OS DEZ MANDAMENTOS', 1682366424.0, 0.03661082864474586).
 video('Entertainment', 'Record TV Europa', 'Virgina Fonseca conta como Zé Felipe a conseguiu conquistar', 1645446617.0, 0.021784339160335207).
@@ -8161,6 +8280,7 @@ video('Entertainment', 'Record TV Europa', 'Adira e Leila chegam ao acampamento 
 video('Entertainment', 'Record TV Europa', 'Hebreus invadem Moabe e Zur é morto - \'Os Dez Mandamentos\'', 1696255222.0, 0.03678941116578992).
 video('Entertainment', 'Rede Fla', 'MARCOS BRAZ FALA CONTRATAÇÃO BOMBÁSTICA E RENOVAÇÕES!', 1667120428.0, 0.03821698745571196).
 video('Entertainment', 'RedeTV', 'Luciana Gimenez relata acidente em Aspen e detalha recuperação: “É uma dor inacabável”', 1673902517.0, 0.0289412981228126).
+video('Entertainment', 'RedeTV', 'Sonia Abrão diz que A Fazenda “perdeu a sua estrela” ao expulsar Rachel Sheherazade', 1697749144.0, 0.03014080265040283).
 video('Entertainment', 'RedeTV! Entretenimento', 'Cirurgião Plástico aponta “reação a procedimentos estéticos” no rosto de Joelma', 1654117298.0, 0.019910222994497538).
 video('Entertainment', 'Regis Tadeu', 'Luva de Pedreiro - O Que Realmente está Acontecendo', 1656338768.0, 0.13339801115692457).
 video('Entertainment', 'Regis Tadeu', 'Roberto Carlos - Manda Fã Calar a Boca', 1658152839.0, 0.0877377155085396).
@@ -8235,6 +8355,7 @@ video('Entertainment', 'Renato Garcia YT', 'VOCÊ TEM QUE SER UM NINJA PARA GANH
 video('Entertainment', 'Renato Garcia YT', 'ASSIM FICOU A MANSÃO DOS CAÇADORES DE LENDAS ELITE ☹️', 1692027384.0, 0.10278021039313694).
 video('Entertainment', 'Renato Garcia YT', 'ASSIM VAI FICAR O CARRO DO CONTEINER 😮', 1693144823.0, 0.11590735256623978).
 video('Entertainment', 'Renato Garcia YT', 'CHEGOU O GRANDE DIA DA MINHA VIAGEM DO LIDER', 1693494262.0, 0.11016642102677475).
+video('Entertainment', 'Renato Garcia YT', 'MEU QUARTO NOVO FICOU PRONTO ❤️', 1698073957.0, 0.09083613737554831).
 video('Entertainment', 'República Coisa de Nerd', 'REAGINDO A MINHA ÉPOCA DE REPÓRTER!', 1641245826.0, 0.14702610104320382).
 video('Entertainment', 'República Coisa de Nerd', 'TIKTOK vs YOUTUBE', 1642428027.0, 0.13592029067786987).
 video('Entertainment', 'República Coisa de Nerd', '10 MONTANHAS-RUSSAS MAIS INSANAS DO MUNDO!', 1647202513.0, 0.14713671384159438).
@@ -8332,6 +8453,7 @@ video('Entertainment', 'Shark Tank Brasil', 'Episódio Completo 2: 4 empreendedo
 video('Entertainment', 'Shark Tank Brasil', 'Bônus Exclusivo do Episódio 2: Nutreon - Nutrição para Atletas | 8ª Temporada | Shark Tank Brasil', 1695690037.0, 0.06473756971921628).
 video('Entertainment', 'Shark Tank Brasil', 'Episódio Completo 3: Quem convenceu os tubarões? | 8ª Temporada | Shark Tank Brasil', 1696294273.0, 0.05551728652999881).
 video('Entertainment', 'Shark Tank Brasil', 'Episódio Completo 4: Novas startups enfrentam os tubarões | 8ª Temporada | Shark Tank Brasil', 1696899307.0, 0.05431139787640555).
+video('Entertainment', 'Shark Tank Brasil', 'Episódio Completo 5: 9 empreendedores em busca de investimento | 8ª Temporada | Shark Tank Brasil', 1697504009.0, 0.03781000135519718).
 video('Entertainment', 'Shyva', 'ZORO e CHOPPER trocam de CORPOS no One Piece VR!!!', 1695243613.0, 0.04858105329129047).
 video('Entertainment', 'SoccerJM', 'FUI NO JOGO DA SELEÇÃO DA FRANÇA!! (Melhor noite de todas)', 1649891092.0, 0.08374839164902668).
 video('Entertainment', 'SoccerJM', '6 MOTIVOS PRA ACREDITAR QUE O BRASIL VAI LEVAR O HEXA! ⭐️⭐️⭐️⭐️⭐️⭐️', 1666639610.0, 0.07914420042083115).
@@ -8374,6 +8496,7 @@ video('Entertainment', 'Splash', 'Cantor do Calcinha Preta anunciou morte de Pau
 video('Entertainment', 'Splash', 'A Fazenda 14: Deolane e Pétala não aguentam e pensam em desistir após Babi voltar da roça falsa', 1670106273.0, 0.03596906871466066).
 video('Entertainment', 'Splash', 'Leão Lobo expõe detalhe do acordo de Gugu Liberato e Rose Miriam: \'Eu sabia da verdade\'', 1687891345.0, 0.014484160073131112).
 video('Entertainment', 'Splash', 'Luísa Sonza e Chico terminam e cantora expõe traição na Ana Maria Braga: \'Mexeu com a mulher errada\'', 1695221737.0, 0.002289192497270833).
+video('Entertainment', 'Splash', 'A Fazenda 15: HORA DO FARO, as placas de Rachel Sheherazade! Expulsão ABALOU! l Chico Barney AO VIVO', 1697841150.0, 0.1359296880302242).
 video('Entertainment', 'Sport Club Internacional', 'Entrevista Coletiva | CT Parque Gigante', 1646411945.0, 0.044518220316829615).
 video('Entertainment', 'Spotify Brasil', 'BASTIDORES do clipe de JÃO com ANITTA | SPOTIFY [REC]', 1678740792.0, 0.16262363352420614).
 video('Entertainment', 'Star Wars', 'Andor | Teaser Trailer | Disney+', 1653590046.0, 0.039404339206079025).
@@ -8418,10 +8541,11 @@ video('Entertainment', 'Sunaika Bruna', 'NOSSO RELACIONAMENTO ACABOU!', 16849646
 video('Entertainment', 'Sunaika Bruna', 'FOMOS PRA MINAS E O PNEU FUROU NA VOLTA', 1685457022.0, 0.14191834666584777).
 video('Entertainment', 'Sunaika Bruna', 'REMOVENDO MINHAS TATUAGENS', 1685999200.0, 0.0965042526750698).
 video('Entertainment', 'Sunaika Bruna', 'TOUR PELA COZINHA E PELO QUARTO DO NOAH 😍', 1694206910.0, 0.10816584514978392).
+video('Entertainment', 'Sunaika Bruna', 'ALUGUEI ALGUNS BRINQUEDOS E FIZEMOS UMA FESTA DO DIA DAS CRIANÇAS AQUI EM CASA!', 1697668653.0, 0.09466225847797702).
 video('Entertainment', 'Super Oito', 'THE BATMAN é bom? - Vale Crítica', 1646605736.0, 0.18479531639842864).
 video('Entertainment', 'Super Oito', 'MORBIUS é bom? - Vale Crítica', 1649019621.0, 0.1981845627290486).
-video('Entertainment', 'Super Oito', 'DOUTOR ESTRANHO NO MULTIVERSO DA LOUCURA é bom? - Vale Crítica', 1652131531.0, 0.18880016620448573).
 video('Entertainment', 'Super Oito', 'DOUTOR ESTRANHO 2 : NO MULTIVERSO DA LOUCURA é bom? - Vale Crítica', 1652131531.0, 0.17344504870200272).
+video('Entertainment', 'Super Oito', 'DOUTOR ESTRANHO NO MULTIVERSO DA LOUCURA é bom? - Vale Crítica', 1652131531.0, 0.18880016620448573).
 video('Entertainment', 'Super Oito', 'JURASSIC WORLD DOMÍNIO é bom? - Vale Crítica', 1654462822.0, 0.2046578432412111).
 video('Entertainment', 'Super Oito', 'THOR: AMOR E TROVÃO é bom? - Vale Crítica', 1657489395.0, 0.17787298302991875).
 video('Entertainment', 'Super Oito', 'O TELEFONE PRETO é bom? - Vale Crítica', 1658696407.0, 0.16597607431664774).
@@ -8574,12 +8698,12 @@ video('Entertainment', 'Thiago Romariz', 'BOMBA! TRAILER DC 2022 OFICIAL | FLASH
 video('Entertainment', 'Thiago Romariz', 'EU ASSISTI THE BATMAN E MEU DEUS DO CÉU!!!!!!', 1646067612.0, 0.16800966538845408).
 video('Entertainment', 'Thiago Romariz', 'THE BATMAN | CRÍTICA SEM SPOILER', 1646071232.0, 0.13121861010337824).
 video('Entertainment', 'Thiago Romariz', 'THOR 4: AMOR E TROVÃO | TRAILER OFICIAL | REAÇÃO', 1650291677.0, 0.09359121759448133).
-video('Entertainment', 'Thiago Romariz', 'EU JÁ ASSISTI DOUTOR ESTRANHO 2 NO MULTIVERSO DA LOUCURA!', 1651555045.0, 0.1854732428115016).
 video('Entertainment', 'Thiago Romariz', 'O DIA QUE ASSISTI DOUTOR ESTRANHO 2 NO MULTIVERSO DA LOUCURA!', 1651555045.0, 0.17354802330681035).
+video('Entertainment', 'Thiago Romariz', 'EU JÁ ASSISTI DOUTOR ESTRANHO 2 NO MULTIVERSO DA LOUCURA!', 1651555045.0, 0.1854732428115016).
 video('Entertainment', 'Thiago Romariz', 'ASSISTI THOR 4 AMOR E TROVÃO E OLHA O QUE ACHEI DO FILME', 1656068409.0, 0.1437546832670471).
-video('Entertainment', 'Thiago Romariz', 'EU ACHEI A SÉRIE DE SENHOR DOS ANÉIS E É RIDÍCULO. RIDÍCULO!', 1661954410.0, 0.1133242891451409).
-video('Entertainment', 'Thiago Romariz', 'EU ACHEI A SÉRIE DE SENHOR DOS ANÉIS RIDÍCULA. RIDÍCULA!', 1661954410.0, 0.10530625143645139).
 video('Entertainment', 'Thiago Romariz', 'EU JÁ VI A SÉRIE DE SENHOR DOS ANÉIS E É RIDÍCULO. RIDÍCULO!', 1661954410.0, 0.1251341293577772).
+video('Entertainment', 'Thiago Romariz', 'EU ACHEI A SÉRIE DE SENHOR DOS ANÉIS RIDÍCULA. RIDÍCULA!', 1661954410.0, 0.10530625143645139).
+video('Entertainment', 'Thiago Romariz', 'EU ACHEI A SÉRIE DE SENHOR DOS ANÉIS E É RIDÍCULO. RIDÍCULO!', 1661954410.0, 0.1133242891451409).
 video('Entertainment', 'Thiago Romariz', 'TEASER DE DEADPOOL 3 COM WOLVERINE; VEJA AGORA!', 1664314597.0, 0.10844442055471941).
 video('Entertainment', 'Thiago Romariz', 'EU VI AVATAR 2 NO NOVO 3D, VALE A PENA? ENTENDA', 1671057831.0, 0.08331313914602821).
 video('Entertainment', 'Thiago Romariz', 'The Last of Us EP3: QUE EPISÓDIO PERFEITO! | CRÍTICA', 1675047905.0, 0.12920824264352546).
@@ -8596,15 +8720,15 @@ video('Entertainment', 'Tia do Joinha', 'COZINHANDO COM AS MINHAS IRMÃS | TIA D
 video('Entertainment', 'Tia do Joinha', 'REALIZANDO O DESEJO DE GRÁVIDA DA MARU | TIA DO JOINHA', 1671660600.0, 0.11091971820082062).
 video('Entertainment', 'Tia do Joinha', 'A MELHOR LASANHA COM MOLHO CASEIRO | TIA DO JOINHA', 1678917423.0, 0.08740812095575147).
 video('Entertainment', 'Tia do Joinha', 'PRIMEIRO BANHO DO RENAN | TIA DO JOINHA', 1691615185.0, 0.12161539979390937).
-video('Entertainment', 'Toddyn', 'Como Está Minha Vila no Stardew Valley Depois de 2 Anos?', 1641189606.0, 0.2038014481707317).
 video('Entertainment', 'Toddyn', 'Como Está Minha Fazenda no Stardew Valley Depois de 2 Anos?', 1641189606.0, 0.1797545818743888).
+video('Entertainment', 'Toddyn', 'Como Está Minha Vila no Stardew Valley Depois de 2 Anos?', 1641189606.0, 0.2038014481707317).
 video('Entertainment', 'Toddyn', 'fui pra bahiakk', 1644699601.0, 0.21974441878367976).
 video('Entertainment', 'Toddyn', 'REVIEW DA BAHIA', 1644699601.0, 0.2358627867079705).
-video('Entertainment', 'Toddyn', 'ESSAS CREEPYPASTAS DO MARIO 64 FORAM LONGE DEMAIS', 1677796511.0, 0.14309500108048362).
 video('Entertainment', 'Toddyn', 'O CASO PERTURBADOR DO MARIO 64', 1677796511.0, 0.16597241650864705).
-video('Entertainment', 'Toddyn', 'TENTANDO APRENDER A CRIAR JOGOS #01', 1680943643.0, 0.1803958071200378).
+video('Entertainment', 'Toddyn', 'ESSAS CREEPYPASTAS DO MARIO 64 FORAM LONGE DEMAIS', 1677796511.0, 0.14309500108048362).
 video('Entertainment', 'Toddyn', 'TENTANDO CRIAR O JOGO DE TERROR PERFEITO', 1680943643.0, 0.219869462618482).
 video('Entertainment', 'Toddyn', 'TENTANDO CRIAR UM JOGO DO ZERO SEM SABER NADA', 1680943643.0, 0.1926103535937139).
+video('Entertainment', 'Toddyn', 'TENTANDO APRENDER A CRIAR JOGOS #01', 1680943643.0, 0.1803958071200378).
 video('Entertainment', 'Toddyn', 'EM BUSCA DA CAPIVARA AUTOMÁTICA', 1682542831.0, 0.168757319226041).
 video('Entertainment', 'TongTongCulture', '[LIVE] (여자)아이들 (G)I-DLE \'Nxde\'(누드) Showcase Stage 쇼케이스 무대 (미연·민니·소연·우기·슈화)', 1665998244.0, 0.0591919674874492).
 video('Entertainment', 'Top Chef Brasil', 'Estreia | Episódio 01 - Parte 01 | 26/07/2023 | Top Chef Brasil 4', 1690430920.0, 0.03323746472758845).
@@ -8612,12 +8736,14 @@ video('Entertainment', 'Top Chef Brasil', 'Estreia | Episódio 01 - Parte 02 | 2
 video('Entertainment', 'Top Chef Brasil', 'Episódio 03 - Parte 01 | 02/08/2023 | Top Chef Brasil 4', 1691035480.0, 0.02276838713324665).
 video('Entertainment', 'Tá Gravando', 'POSSO NAMORAR COM VOCÊ ? : MANDE A SUA #272', 1668463818.0, 0.08732830068163103).
 video('Entertainment', 'Tá Gravando', 'CHAMANDO AS GATAS NA PRAIA : MANDE A SUA #289', 1691701323.0, 0.0700537887542981).
-video('Entertainment', 'Tá Gravando', 'CHAMANDO AS GATAS NA PRAIA : PEGADINHA: MANDE A SUA #289', 1691701323.0, 0.0865379494553484).
 video('Entertainment', 'Tá Gravando', 'PEGADINHA- FINGINDO UM SONHO EROTIC0(E G3MEND0) AO LADO DAS PESSOAS NA RUA : MANDE A SUA #289', 1691701323.0, 0.0710865417351455).
-video('Entertainment', 'Tá Gravando', 'VOCÊ PARECE A MINHA ROL4 : MANDE A SUA #293', 1694469141.0, 0.07128408131122313).
+video('Entertainment', 'Tá Gravando', 'CHAMANDO AS GATAS NA PRAIA : PEGADINHA: MANDE A SUA #289', 1691701323.0, 0.0865379494553484).
 video('Entertainment', 'Tá Gravando', 'VOCÊ PARECE COM A MINHA ROL4 : MANDE A SUA #293', 1694469141.0, 0.07864269776449291).
 video('Entertainment', 'Tá Gravando', 'VOCÊ PARECE A MINHA BILOLA : MANDE A SUA #293', 1694469141.0, 0.06914252305729847).
+video('Entertainment', 'Tá Gravando', 'VOCÊ PARECE A MINHA ROL4 : MANDE A SUA #293', 1694469141.0, 0.07128408131122313).
 video('Entertainment', 'Tá Gravando', 'VOCÊ DOARIA 10 REAIS PRA SALVAR A VIDA DE UM CACHORRO? : MANDE A SUA #293', 1694469141.0, 0.07358240524343591).
+video('Entertainment', 'Tá Gravando', 'POSSO ANOTAR A HORA DO NOSSO PRIMEIRO BEIJO? : MANDE A SUA #296', 1698181302.0, 0.08077984182453558).
+video('Entertainment', 'Tá Gravando', 'PEGANDO ASSINATURA DAS PESSOAS NA RUA PARA LEIS ABSURDAS - PEGADINHA : MANDE A SUA #296', 1698181302.0, 0.08500832788786093).
 video('Entertainment', 'Universal Pictures', 'Halloween Ends - Official Trailer', 1658283374.0, 0.03959181910898244).
 video('Entertainment', 'Universal Pictures', 'Five Nights At Freddy\'s | Official Teaser', 1684285047.0, 0.08447072202725497).
 video('Entertainment', 'Universal Pictures Brasil', 'JURASSIC WORLD DOMÍNIO | Trailer Oficial (Universal Pictures) HD', 1644501617.0, 0.0243841008560654).
@@ -8641,6 +8767,7 @@ video('Entertainment', 'VIFUN', 'Qual é o NOME da NOSSA FILHA?', 1674759609.0, 
 video('Entertainment', 'VIFUN', 'Revelando o NOME da Nossa Filha!!!', 1679606854.0, 0.10636608806787791).
 video('Entertainment', 'VIFUN', 'COMPRAMOS UMA CASA!!!', 1693341161.0, 0.13715020907044065).
 video('Entertainment', 'VIVA', 'RAJ PERDOA MAYA, YVONE FOGE DA CADEIA, SURYA TEM UMA MENINA E TODOS OS FINAIS! | CAMINHO DAS ÍNDIAS', 1678543215.0, 0.014599847731649424).
+video('Entertainment', 'VIVA', 'RUTH REVELA QUE TROCOU DE LUGAR COM RAQUEL PARA MARCOS! | MULHERES DE AREIA | CENAS MARCANTES', 1697662812.0, 0.008811632908149401).
 video('Entertainment', 'Vale a pena?', 'PROVAMOS OS MIOJOS DOCES : MIOJO DE BEIJINHO E CHOCOLATE - Vale a pena?', 1650812340.0, 0.1385687398893414).
 video('Entertainment', 'Vamo Mengão', 'ACABOU A NOVELA - LEO ORTIZ, EVERTON CEBOLINHA, THIAGO MENDES, VIDAL, FLAMENGO VAI CONTRATAR OU NÃO?', 1643724102.0, 0.08766632297343742).
 video('Entertainment', 'Vando Kelvin', 'ZENTEEE QUANDO O POTE DE NUTELLA DE VOCÊS ACABAR , VOCÊS PODEM FAZER ISSO , FICA MUITO BOMM 😋😋', 1643224765.0, 0.03542628943247993).
@@ -8672,6 +8799,8 @@ video('Entertainment', 'Viih Tube', 'PRIMEIRO PASSEIO NO SHOPPING COM A LUA', 16
 video('Entertainment', 'Viih Tube', 'COMPRAMOS A CASA DA NOSSA FAMÍLIA - Tour', 1690043977.0, 0.04165602760264241).
 video('Entertainment', 'Viih Tube', 'OS BASTIDORES DO MATERNIDELAS COM OS NENENS', 1691526969.0, 0.06564429438431521).
 video('Entertainment', 'Viih Tube', 'CUIDANDO DO ELI PÓS CIRURGIA', 1693426979.0, 0.02493817944291513).
+video('Entertainment', 'Viih Tube', 'LUA PROVANDO 13 FRUTAS E CARETAS', 1697641640.0, 0.023579008431433342).
+video('Entertainment', 'Viih Tube', 'DOEI 50% DAS MINHAS ROUPAS', 1698010700.0, 0.05054757359590074).
 video('Entertainment', 'Vila do Chaves', 'EPISÓDIO que FICOU DESAPARECIDO mostra o CHAVES ADULTO?! Entenda!', 1696888833.0, 0.11114496690416145).
 video('Entertainment', 'Vincynite', '24 HORAS COMENDO A MESMA COISA QUE A ÚLTIMA PESSOA PEDIU parte 1', 1644508955.0, 0.10616439886498201).
 video('Entertainment', 'Vincynite', 'BATALHA DE RIMA MUSSOUMANO X VINCYNITE ?', 1646342145.0, 0.11755295099641777).
@@ -8875,8 +9004,11 @@ video('Entertainment', 'WebTVBrasileira', '🐔FAZENDA 15: LUCAS LEVA 16 VOTOS E
 video('Entertainment', 'WebTVBrasileira', '🐔A FAZENDA 15: ANDRÉ É O NOVO FAZENDEIRO; SHERA FOI SABOTADA POR BLACK; LUCAS CHORA; FIM DE NATH?', 1695874355.0, 0.09424227783909975).
 video('Entertainment', 'WebTVBrasileira', '🐔AFAZENDA15: JAQUE É FAZENDEIRA; SIMIONI E CARIÚCHA SÃO DESMENTIDAS POR GALISTEU E FALAM EM DESISTIR', 1696479546.0, 0.10733438841215939).
 video('Entertainment', 'WebTVBrasileira', '🐔A FAZENDA 15: LARANJA É ELIMINADO COM REJEIÇÃO E SHERA DORME NO MEIO DA ELIMINAÇÃO', 1696565240.0, 0.09186915301061091).
+video('Entertainment', 'WebTVBrasileira', '🐔A FAZENDA 15 VÍDEO: SHERA SE PRONUNCIA APÓS EXPULSÃO; RECORD MOSTRA MÃOZADA E RACHEL SAINDO', 1697775539.0, 0.0891723978500838).
+video('Entertainment', 'WebTVBrasileira', '🐔A FAZENDA 15: CARMA! FIM DE SIMIONI COMEÇA EM PROVA DE SCHEILA CARVALHO; LUCAS VOLTA FAZENDEIRO', 1698292810.0, 0.09335965935078237).
 video('Entertainment', 'Wendel Bezerra', 'HOMENAGEM ISAAC BARDAVID', 1643836346.0, 0.26294376406930875).
 video('Entertainment', 'Wendel Bezerra', 'RESPOSTA AO EI NERD!', 1659386701.0, 0.1940917810876641).
+video('Entertainment', 'Wendel Bezerra', 'Dragon Ball DAIMA - react ao trailer', 1698251219.0, 0.12499067048140317).
 video('Entertainment', 'Will Smith', 'It\'s been a minute...', 1659103229.0, 0.037587116470406884).
 video('Entertainment', 'WoopzTV', 'DANÇARINA - Broop\'Z e Bielzinho Myranda (Erros de gravação Tiktok)', 1646236144.0, 0.053374720058238).
 video('Entertainment', 'Yakko Sideratos', '#shorts Você vai bem na Escola? - Parte 1', 1644267120.0, 0.12315526096308327).
@@ -9041,16 +9173,16 @@ video('Film & Animation', 'Crunchyroll Collection', 'Momoshiki vs Kawaki | Borut
 video('Film & Animation', 'Crunchyroll Collection', 'Solo Leveling | OFFICIAL TEASER', 1679407221.0, 0.058552585565821345).
 video('Film & Animation', 'Crunchyroll Collection', 'Zoro Defeats King | One Piece', 1684681232.0, 0.040372023738247026).
 video('Film & Animation', 'Crunchyroll Collection', 'Attack on Titan Final Season THE FINAL CHAPTERS Special 2 | OFFICIAL TRAILER', 1688325833.0, 0.05216879697589245).
-video('Film & Animation', 'Crunchyroll Collection', 'I Hear the Drums of Liberation! | One Piece', 1690684575.0, 0.040135459174287715).
 video('Film & Animation', 'Crunchyroll Collection', 'Joyboy Has Returned! | One Piece', 1690684575.0, 0.046518459319092965).
+video('Film & Animation', 'Crunchyroll Collection', 'I Hear the Drums of Liberation! | One Piece', 1690684575.0, 0.040135459174287715).
 video('Film & Animation', 'Crunchyroll Collection', 'Gear Five! | One Piece', 1691290835.0, 0.046105379349765274).
 video('Film & Animation', 'Crunchyroll Collection', 'Gear 5 Luffy vs Kaido | One Piece', 1691334036.0, 0.03764975395511405).
 video('Film & Animation', 'DC', 'THE FLASH - FINAL TRAILER', 1684886424.0, 0.02152537712219715).
 video('Film & Animation', 'DOM Studio', 'skibidi toilet multiverse 05', 1696424350.0, 0.02144227885727593).
 video('Film & Animation', 'Disney Brasil', 'LIGHTYEAR | Em junho | Trailer Oficial 2 Dublado', 1651169861.0, 0.040030568797991196).
 video('Film & Animation', 'Don\'t Hug Me .I\'m Scared', 'FLY', 1655639245.0, 0.1357419455856715).
-video('Film & Animation', 'Don\'t Hug Me .I\'m Scared', 'LATE SEPTEMBER! (EGG)', 1662483018.0, 0.10566008011226219).
 video('Film & Animation', 'Don\'t Hug Me .I\'m Scared', '12TH OF SEPTEMBER EGG', 1662483018.0, 0.15063907599181034).
+video('Film & Animation', 'Don\'t Hug Me .I\'m Scared', 'LATE SEPTEMBER! (EGG)', 1662483018.0, 0.10566008011226219).
 video('Film & Animation', 'Fãs de Cinema', 'MUSSUM - O FILMIS | Trailer Oficial', 1693409403.0, 0.06748784104965255).
 video('Film & Animation', 'GKIDS Films', 'THE BOY AND THE HERON | Official Teaser Trailer', 1694016002.0, 0.06255920095339566).
 video('Film & Animation', 'GODZILLA OFFICIAL by TOHO', 'GODZILLA MINUS ONE Official Trailer', 1693807227.0, 0.038542881719208395).
@@ -9138,8 +9270,8 @@ video('Film & Animation', 'Stream On Max', 'Series Finale Preview | Succession |
 video('Film & Animation', 'Super Oito', 'Por que O MEME DO MAL é ruim? - Vale Crítica', 1666301723.0, 0.18114252694920996).
 video('Film & Animation', 'Super Oito', 'Por que OLHOS FAMINTOS 4: RENASCIMENTO é ruim? - Vale Crítica', 1670187613.0, 0.16919895146436675).
 video('Film & Animation', 'Super Oito', 'A BALEIA é bom? - Vale Crítica', 1677445218.0, 0.16455472339095423).
-video('Film & Animation', 'Swen Filmes', 'Jogo Sujo (2014) · Dublado Português', 1674252012.0, 0.008520331875569146).
 video('Film & Animation', 'Swen Filmes', 'Jogo Sujo (2014) · Dublado Português -Assistir a Filmes Grátis', 1674252012.0, 0.007557407227981785).
+video('Film & Animation', 'Swen Filmes', 'Jogo Sujo (2014) · Dublado Português', 1674252012.0, 0.008520331875569146).
 video('Film & Animation', 'TOHO animation チャンネル', 'TVアニメ『呪術廻戦』「渋谷事変」第2期PV第3弾｜OPテーマ：King Gnu「SPECIALZ」｜毎週木曜夜11時56分～MBS/TBS系列全国28局にて放送中!!', 1692888910.0, 0.0).
 video('Film & Animation', 'TOHO animation チャンネル', 'TVアニメ『呪術廻戦』第2期「渋谷事変」ノンクレジットOPムービー／OPテーマ：King Gnu「SPECIALZ」｜毎週木曜夜11時56分～MBS/TBS系列全国28局にて放送中!!', 1693495429.0, 0.0).
 video('Film & Animation', 'TOHO animation チャンネル', 'TVアニメ『呪術廻戦』第2期「渋谷事変」ノンクレジットEDムービー／EDテーマ：羊文学「more than words」｜毎週木曜夜11時56分～MBS/TBS系列全国28局にて放送中!!', 1693495434.0, 0.0).
@@ -9154,8 +9286,8 @@ video('Film & Animation', 'Telecine', 'Hermanoteu na Terra de Godah | Trailer | 
 video('Film & Animation', 'The Chosen Brasil', 'The Chosen: Trailer Oficial da 3ª Temporada', 1666036320.0, 0.12284231347951782).
 video('Film & Animation', 'The Fast Saga', 'FAST X | Final Trailer', 1684166915.0, 0.029825372568660434).
 video('Film & Animation', 'Universal Pictures Brasil', 'O EXORCISTA - O DEVOTO | Trailer Oficial (Universal Studios) - HD', 1690297242.0, 0.0032830560406312166).
-video('Film & Animation', 'Universal Pictures Brasil', 'Five Nignts at Freddy\'s - O Pesadelo sem Fim | Trailer Oficial 2 (Universal Studios) - HD', 1693422000.0, 0.11183869059833186).
 video('Film & Animation', 'Universal Pictures Brasil', 'Five Nignts at Freddy\'s - O Pesadelo sem Fim | Trailer Oficial 2 Dublado (Universal Studios) - HD', 1693422000.0, 0.06450421959298255).
+video('Film & Animation', 'Universal Pictures Brasil', 'Five Nignts at Freddy\'s - O Pesadelo sem Fim | Trailer Oficial 2 (Universal Studios) - HD', 1693422000.0, 0.11183869059833186).
 video('Film & Animation', 'Vivziepop', 'Hazbin Hotel – Announcement | Prime Video', 1695909900.0, 0.14013405451267366).
 video('Film & Animation', 'Vivziepop', 'Happy Day in Hell | Prime Video', 1697316301.0, 0.11948414040090465).
 video('Film & Animation', 'Voice Makers', '[SEM SPOILERS] AMIGO OCULTO DOS HOMENS-ARANHAS - PARTE 2', 1641160813.0, 0.1657177589569585).
@@ -9217,6 +9349,7 @@ video('Gaming', 'AD0LFzZ', 'MONTEI o 1° DRAFT E TIREI O PRIMEIRO ANDADOR DO BAN
 video('Gaming', 'AJF LEAGUE', 'AJF ALL IN - FINAL DIA 3 EMULADOR - NOISE, DOLLARS, CRIAS, ANTISOCIAL, FLAMENGO, B4.', 1678241624.0, 0.08127802107496905).
 video('Gaming', 'AJF League', 'COPA AJF EMULADOR - FINAL - NOISE, CRIAS, CORINGAS, DOLLARS , FAZ O P, TERRORNET, MEDELLIN, MEDELLIN', 1676340655.0, 0.06686559915226797).
 video('Gaming', 'AL3XEY', 'Meus amigos Me Prenderam com Dinossauros então eu fiz VINGANÇA', 1649691007.0, 0.03743939377722597).
+video('Gaming', 'ARK: Survival Ascended', 'ARK: Survival Ascended Launch Trailer', 1698255063.0, 0.05846618841945204).
 video('Gaming', 'Akira', 'Five Nights at Freddy\'s 7: UM SALTO PRO PASSADO #01 *NOVA SÉRIE*', 1668033010.0, 0.16636261200837044).
 video('Gaming', 'Al3xeyGames', 'Como Fui o Primeiro a me Tornar IMORTAL no Animes World', 1694700903.0, 0.040784641566894576).
 video('Gaming', 'AllissonGOD', 'GTA V: VIDA DO CRIME | OQUE ERA RUIM AGORA ESTÁ MUITO PIOR! A TROPA TODA FOI PRESA!!!😱| EP#121', 1643036415.0, 0.11629673229916267).
@@ -9248,6 +9381,8 @@ video('Gaming', 'Apex Legends', 'Apex Legends: Arsenal Gameplay Trailer', 168295
 video('Gaming', 'Apex Legends', 'Apex Legends Dressed to Kill Collection Event Trailer', 1686841202.0, 0.03085684421096263).
 video('Gaming', 'Apex Legends', 'Apex Legends: Resurrection Launch Trailer | Kill Code - Part 2', 1690815611.0, 0.043201708032334675).
 video('Gaming', 'Apex Legends', 'Apex Legends: Resurrection Gameplay Trailer', 1691074815.0, 0.0490208347530868).
+video('Gaming', 'Apex Legends', 'Apex Legends: Ignite Launch Trailer', 1698073210.0, 0.05379505954698372).
+video('Gaming', 'Apex Legends', 'Apex Legends: Ignite Gameplay Trailer', 1698332413.0, 0.042653503792179484).
 video('Gaming', 'Apuh', 'JOGUEI MEUS AMIGOS NO VOID DO MINECRAFT - Minecraft Irmandade II 52', 1644530408.0, 0.10463117556819232).
 video('Gaming', 'Apuh', 'MEU AMIGO ME PRENDEU EM UMA PRISÃO COM O HUGGY NO MINECRAFT - Minecraft Irmandade II 76', 1648677614.0, 0.07653820643119395).
 video('Gaming', 'Apuh', 'COMIDA INFINITA NO MINECRAFT', 1653429629.0, 0.11407968293964584).
@@ -9309,11 +9444,11 @@ video('Gaming', 'Apuh', 'EU TORNEI A REVOLUÇÃO INVENCÍVEL - StonksCraft 2', 1
 video('Gaming', 'Apuh', 'PUTZ APUH...', 1696197611.0, 0.21409419356793358).
 video('Gaming', 'Apuh', 'NOVA SÉRIE COM DRAGÕES NO MINECRAFT - Ice and Fire', 1696284005.0, 0.21511238295329).
 video('Gaming', 'Apuh - Irmandade', 'REFORMEI A NOVA ESTRUTURA DO MINECRAFT 1.20 - Irmandade', 1685138402.0, 0.09588530684483737).
-video('Gaming', 'Apuh - Irmandade', 'EU TRANSFORMEI O MONUMENTO DO OCEANO', 1686348020.0, 0.11828093140229926).
 video('Gaming', 'Apuh - Irmandade', 'EU TRANSFORMEI O MONUMENTO DO OCEANO - Irmandade', 1686348020.0, 0.1297467639550907).
+video('Gaming', 'Apuh - Irmandade', 'EU TRANSFORMEI O MONUMENTO DO OCEANO', 1686348020.0, 0.11828093140229926).
 video('Gaming', 'Apuh - Irmandade', 'FIZ UMA COLEÇÃO COM TODAS AS ARMADURAS DO MINECRAFT', 1687298424.0, 0.05627849570838429).
-video('Gaming', 'Apuh - Irmandade', 'CONSTRUÍ UM PLANETA SNIFFER NO MINECRAFT', 1688508033.0, 0.06000773295527774).
 video('Gaming', 'Apuh - Irmandade', 'CONSTRUÍ UM PLANETA SNIFFER NO MINECRAFT -  Irmandade', 1688508033.0, 0.07109659946116063).
+video('Gaming', 'Apuh - Irmandade', 'CONSTRUÍ UM PLANETA SNIFFER NO MINECRAFT', 1688508033.0, 0.06000773295527774).
 video('Gaming', 'Arteque', 'Ta Ficando ALEATÓRIO!', 1647009013.0, 0.14869510326998153).
 video('Gaming', 'Arteque', 'E se tiverem CUBOS no Minecraft?', 1647106200.0, 0.11924558482929319).
 video('Gaming', 'Arteque', 'Pulei Até a Lua!', 1649163607.0, 0.12058077764815904).
@@ -9414,8 +9549,8 @@ video('Gaming', 'Athos', 'MEU AMIGO ROUBOU MINHA NAMORADA E EU CHOREI', 16556454
 video('Gaming', 'Athos', 'TUDO QUE DESENHAR APARECE NO MINECRAFT', 1655818214.0, 0.03917633997519932).
 video('Gaming', 'Athos', 'MINECRAFT FICOU ESTICADO', 1655931626.0, 0.028165903485029436).
 video('Gaming', 'Athos', '12 Jeitos de Trollar Seu Amigo no Minecraft', 1656077416.0, 0.04468225514697533).
-video('Gaming', 'Athos', 'Minecraft Vai Ficando Mais REALISTA...', 1656163810.0, 0.03752032610874747).
 video('Gaming', 'Athos', 'CADA NÍVEL DE XP MINECRAFT FICA MAIS REALISTA...', 1656163810.0, 0.03404317928815526).
+video('Gaming', 'Athos', 'Minecraft Vai Ficando Mais REALISTA...', 1656163810.0, 0.03752032610874747).
 video('Gaming', 'Athos', 'Eu Tenho VIDEOGAMES e JOGOS no MINECRAFT...', 1656250208.0, 0.057200163266022674).
 video('Gaming', 'Athos', 'Trolei meu AMIGO na BATALHA DE CONSTRUÇÃO do MINECRAFT', 1656336603.0, 0.03146613100081367).
 video('Gaming', 'Athos', 'SUPER HERÓIS CAÇADORES vs ATHOS NO MINECRAFT', 1656423011.0, 0.034284255687948274).
@@ -9555,8 +9690,8 @@ video('Gaming', 'Athos', 'eu queria minerar diamantes mas tinha um monstro...', 
 video('Gaming', 'Athos', '100000 PILLAGERS vs ALIEN na BATALHA DE MOBS DO MINECRAFT', 1677936609.0, 0.03196647056506623).
 video('Gaming', 'Athos', '100 DIAS PARA SOBREVIVER DESASTRES NATURAIS NO MINECRAFT', 1678195832.0, 0.033711317579925376).
 video('Gaming', 'Athos', '12 Jeitos de Fugir do Médico no Minecraft', 1678282221.0, 0.026087511347124864).
-video('Gaming', 'Athos', '24 HORAS NA ESCOLA DOS MOBS DO MINECRAFT', 1678368605.0, 0.031555072637838716).
 video('Gaming', 'Athos', 'FUI PARA A ESCOLA DO MINECRAFT', 1678368605.0, 0.030448878715196397).
+video('Gaming', 'Athos', '24 HORAS NA ESCOLA DOS MOBS DO MINECRAFT', 1678368605.0, 0.031555072637838716).
 video('Gaming', 'Athos', 'FIQUEI pequeno PARA ROUBAR AMIGO NO MINECRAFT', 1678627804.0, 0.027686904141109674).
 video('Gaming', 'Athos', '99% não consegue completar esse desafio no stumble guys', 1678741206.0, 0.02265300176671599).
 video('Gaming', 'Athos', 'VIREI TUBARÃO PARA ENGANAR AMIGO NO MINECRAFT', 1678973424.0, 0.029180155744159594).
@@ -9667,6 +9802,8 @@ video('Gaming', 'BREN0RJ', 'QUAL É A RAÇA V4 MAIS FORTE DO BLOX FRUITS??', 167
 video('Gaming', 'BREN0RJ', 'RIP INDRA ME DESAFIOU A UPAR DO 1 AO 700 COM GOD HUMAN NO BLOX FRUITS!!', 1679005552.0, 0.0685982363928587).
 video('Gaming', 'BREN0RJ', '🌍 MODO DOMINAÇÃO COM FRUTAS DO BLOX FRUITS!!', 1681938900.0, 0.04442844299075306).
 video('Gaming', 'BREN0RJ', 'SPEEDRUNNER VS ALMIRANTES NO BLOX FRUITS!!', 1687727700.0, 0.051085883514313916).
+video('Gaming', 'BREN0RJ', 'CONSEGUI O NOVO ESTILO DE LUTA DO BLOX FRUITS 20!!', 1698063302.0, 0.07343124165554073).
+video('Gaming', 'BREN0RJ', 'UPEI DO 1 AO 700 COM A NOVA FRUTA MAMUTE DO BLOX FRUITS 20!!', 1698153302.0, 0.07660285415941524).
 video('Gaming', 'BRKsEDU', 'A Microsoft COMPROU a Activision Blizzard... o que isso significa!?', 1642535604.0, 0.17940350029748406).
 video('Gaming', 'BRKsEDU', 'POKÉMON LEGENDS ARCEUS - Gameplay do Mundo Aberto!', 1643327042.0, 0.12477540598860051).
 video('Gaming', 'BRKsEDU', 'DYING LIGHT 2... Infelizmente, Uma Grande Decepção!', 1643928614.0, 0.17612994603510407).
@@ -9700,10 +9837,13 @@ video('Gaming', 'BRKsEDU', 'TUDO Que Consegui Trazer Da RETROCON!!!', 1691781572
 video('Gaming', 'BRKsEDU', 'Tour Pela NOVA CASA DO VIDEO GAME!!!', 1692802830.0, 0.12328790873469954).
 video('Gaming', 'BRKsEDU', 'SPIDER-MAN 2... Eu Joguei!', 1694790048.0, 0.1438393792168106).
 video('Gaming', 'BRKsEDU', 'Sonic Superstars é... DECEPCIONANTE!', 1697202033.0, 0.159357636536116).
+video('Gaming', 'BRKsEDU', 'SPIDER-MAN 2 Está FANTÁSTICO! | Análise do Novo Exclusivo de PlayStation 5', 1697464831.0, 0.11478066062311139).
+video('Gaming', 'BRKsEDU', 'SPIDER-MAN 2 - O Início de Gameplay, em Português PT-BR! | Dublado e Legendado', 1697713216.0, 0.09295196112808696).
 video('Gaming', 'Bad Milton', 'o Warden me mata se eu tiver com 1000 corações?', 1646653016.0, 0.08204218543770124).
 video('Gaming', 'Bandai Namco Entertainment', 'DRAGON BALL LEGENDS REVEALS ＆ STUFF #25', 1666101612.0, 0.0).
 video('Gaming', 'Bandai Namco Entertainment', 'DRAGON BALL LEGENDS REVEALS ＆ STUFF LEGENDS FESTIVAL EDITION', 1669298410.0, 0.0).
 video('Gaming', 'Bandai Namco Entertainment', 'DRAGON BALL LEGENDS REVEALS ＆ STUFF #30', 1692021608.0, 0.0).
+video('Gaming', 'Bandai Namco Entertainment', 'DRAGON BALL LEGENDS REVEALS ＆ STUFF #32', 1697551212.0, 0.0).
 video('Gaming', 'Battlefield', 'Battlefield 2042 | Season 6: Dark Creations Reveal Trailer', 1696258812.0, 0.06378553478698303).
 video('Gaming', 'Bauers', 'Meus amigos Mataram minha Raposa, então eu FIZ um EXERCITO de WARDENS no minecraft', 1641843962.0, 0.04867752706668016).
 video('Gaming', 'Bauers', 'Sobrevivi 100 DIAS em um APOCALIPSE ZUMBI no minecraft hardcore', 1642190088.0, 0.07829702915032861).
@@ -9734,6 +9874,7 @@ video('Gaming', 'Bauers', 'Fui Adotado por SMURF CATS!!!', 1696627800.0, 0.04328
 video('Gaming', 'Bern', 'A CREATIVE SQUAD 3 COMEÇOU!!!!', 1661202016.0, 0.05846247261015338).
 video('Gaming', 'Bern', 'A Casa PENDURADA! Creative Squad 3', 1662583970.0, 0.07214258369135225).
 video('Gaming', 'Bern', 'EU CAPTUREI O INVASOR DA CREATIVE SQUAD', 1690306580.0, 0.05716126876536433).
+video('Gaming', 'Bern', 'Eu EXPULSEI o GELEIA da CREATIVE SQUAD', 1697919300.0, 0.05762037675296351).
 video('Gaming', 'Betagames Group', '171 - Teaser de lançamento do Acesso Antecipado', 1668548848.0, 0.11828792564847769).
 video('Gaming', 'Biano Betero', 'TIREI 1X1 COM DUDU BETERO NO STUMBLE GUYS E OLHA NO QUE DEU😁', 1646773233.0, 0.08557197051475804).
 video('Gaming', 'Bidinho', 'A PRIMEIRA PALAVRINHA 1990 vs 2022 | Roblox #shorts', 1648152013.0, 0.08595997633784934).
@@ -9797,6 +9938,8 @@ video('Gaming', 'Brawl Stars', 'Brawl Stars Animation - Charging up to the Max!'
 video('Gaming', 'Brawl Stars', 'Brawl Stars: Brawl Talk - HYPERCHARGE, Mecha Skin and more Road Map!', 1693666807.0, 0.08259769657587067).
 video('Gaming', 'Brawl Stars', 'Brawl Stars Animation - The Prison Break #rangerranch', 1693899280.0, 0.07411833420088612).
 video('Gaming', 'Brawl Stars', 'Brawl Stars - Get FREE Legendary Starr Drops and 2X Starr Drops!', 1696319649.0, 0.051899215540838484).
+video('Gaming', 'Brawl Stars', 'Brawl Stars: Brawl Talk - MEGA PIG, Spider Brawler, and BIZARRE Skins!', 1697900411.0, 0.07156382865756607).
+video('Gaming', 'Brawl Stars', 'Brawl Stars Animation - The Bizarre Circus Spectacle!', 1698138971.0, 0.047403609053406986).
 video('Gaming', 'Bruna7Cr', 'FÁCIL! COMO COMPLETAR O DESAFIO DO REI XADREZ NO CLASH OF CLANS!', 1694160001.0, 0.07063143494852041).
 video('Gaming', 'Brunim Neet\'s', 'TRANSFORMEI TODOS EM VAMPIRO NESSE SERVIDOR! STONKSCRAFT 03', 1678914010.0, 0.13767756378448862).
 video('Gaming', 'Brunim Neet\'s', 'O JEITO MAIS LOUCO DE SE MINERAR NO MINECRAFT! STONKSCRAFT 04', 1679007600.0, 0.12369660720901922).
@@ -9827,8 +9970,8 @@ video('Gaming', 'CBLOL', 'Worlds 2022: Fase de Grupos (Dia 5)', 1665709029.0, 0.
 video('Gaming', 'CBLOL', 'CBLOL 2023: 1ª Etapa - Fase de Pontos - Md1 | Semana 1 - Rodada 1', 1674340602.0, 0.03723148038895868).
 video('Gaming', 'CBLOL', 'CBLOL 2023: 1ª Etapa - Fase de Pontos - Md1 | Semana 3 - Rodada 6', 1675634850.0, 0.035215233151738155).
 video('Gaming', 'CBLOL', 'CBLOL 2023: 1ª Etapa - Fase de Pontos - Md1 | Semana 4 - Rodada 8', 1676241615.0, 0.03560037898439666).
-video('Gaming', 'CBLOL', 'Depois do Nexus | CBLOL 2023: 1ª Etapa - Fase de Pontos - Md1 | Semana 6 - Rodada 12', 1677453521.0, 0.03442945499476308).
 video('Gaming', 'CBLOL', 'CBLOL 2023: 1ª Etapa - Fase de Pontos - Md1 | Semana 6 - Rodada 12', 1677453521.0, 0.03320205584866984).
+video('Gaming', 'CBLOL', 'Depois do Nexus | CBLOL 2023: 1ª Etapa - Fase de Pontos - Md1 | Semana 6 - Rodada 12', 1677453521.0, 0.03442945499476308).
 video('Gaming', 'CBLOL', 'CBLOL 2023: 1ª Etapa - Fase de Pontos - Md1 | Semana 7 - Rodada 13', 1677971495.0, 0.028255081477131686).
 video('Gaming', 'CBLOL', 'CBLOL 2023: 1ª Etapa - Fase de Pontos - Md1 | Semana 9 - Rodada 17', 1679177385.0, 0.03478549375604811).
 video('Gaming', 'CBLOL', 'FLUXO x FURIA | CBLOL 2023: 1ª Etapa - Playoffs - Md5', 1679688793.0, 0.04147140337616528).
@@ -10022,6 +10165,7 @@ video('Gaming', 'Cherryrar', 'NÃO ENTRE NO PORÃO DO SIRI CASCUDO, você vai se
 video('Gaming', 'Cherryrar', 'ESSE BIOMA DO MINECRAFT FOI CRIADO PARA MIM (cherry grove) - Cherryland #2', 1686605402.0, 0.14174073596977113).
 video('Gaming', 'Cherryrar', 'CONHEÇAM A MINHA NOVA CASA NO MINECRAFT! - Cherryland #4', 1688333575.0, 0.11834849872376907).
 video('Gaming', 'Chico_PL', 'O KILLUA 6 ESTRELAS TEM 3 ATIVAS EM UMA SÓ, SERÁ QUE REVIVEU o GUY OMEGA RARO ??', 1657458904.0, 0.0473712303175874).
+video('Gaming', 'ChratosGameplay', 'PEQUENA FORTUNA EM SERVIÇOS PÚBLICOS BÁSICOS 🏙️ - Cities Skylines 2 #2', 1697814046.0, 0.15702618035354665).
 video('Gaming', 'Clash Royale', 'Clash Royale: 🔥🌋 Lava Hound Season! 🌋🔥', 1644224426.0, 0.03562294134796653).
 video('Gaming', 'Clash Royale', 'Clash Royale: 🎉🎂 Birthday Royale Season! 🎂🎉', 1646643612.0, 0.05965523805927646).
 video('Gaming', 'Clash Royale', 'Clash Royale: ⛏️ THE MINER UPDATE ! ⛏️(TV Royale)', 1648573212.0, 0.070624151798116).
@@ -10083,8 +10227,8 @@ video('Gaming', 'Clash of Clans', 'Color Fest Season is Here! Clash of Clans Off
 video('Gaming', 'Clash of Clans', 'Light Up The Dark Ages! (Clash of Clans Season Challenges)', 1680335997.0, 0.022697123644247526).
 video('Gaming', 'Clash of Clans', 'Medieval Upheaval With Dark Ages King! (Clash of Clans Season Challenges)', 1682928032.0, 0.022055142468287506).
 video('Gaming', 'Clash of Clans', 'Builder Base 2.0 Is Here! Clash of Clans Official', 1684146990.0, 0.035291627187966926).
-video('Gaming', 'Clash of Clans', 'Lean, Mean, GOBLIN QUEEN Green! Clash of Clans Season Challenges', 1685606425.0, 0.016003036568889503).
 video('Gaming', 'Clash of Clans', 'Lean, Mean, Goblin Queen Green! Clash of Clans Season Challenges', 1685606425.0, 0.017895662286956403).
+video('Gaming', 'Clash of Clans', 'Lean, Mean, GOBLIN QUEEN Green! Clash of Clans Season Challenges', 1685606425.0, 0.016003036568889503).
 video('Gaming', 'Clash of Clans', 'TWO New Troops are HERE in the June Update! Clash of Clans Official', 1686561256.0, 0.030019881967633555).
 video('Gaming', 'Clash of Clans', 'Clash to the Future | Clash of Clans 11th Anniversary', 1690876822.0, 0.025525811414016594).
 video('Gaming', 'Clash of Clans', 'Once A-Pawn a Time | Clash of Clans Season Challenges', 1693555218.0, 0.020775841703634727).
@@ -10098,6 +10242,7 @@ video('Gaming', 'Corinthians Free Fire', 'UM NOVO COMEÇO - CORINTHIANS FREE FIR
 video('Gaming', 'Cortes Da Sofia Tube', '500 Noobs com o Papai Tube 😂@Papai Tube  #roblox  #shorts', 1642550940.0, 0.06732116755323157).
 video('Gaming', 'Cortes Da Sofia Tube', 'Escapando da Pizzaria em 10 segundos 😳 #roblox #shorts', 1643127156.0, 0.04346318728495803).
 video('Gaming', 'Cortes O Jean Luca', 'JEAN LUCA joga TERROR baseado em FATOS REAIS (The Door You Can Never Open)', 1662323612.0, 0.14905973451327434).
+video('Gaming', 'Cortes do Mylon', 'MYLON REAGE: AS 20 PIORES PLAYS DA HISTÓRIA DO MUNDIAL', 1698242428.0, 0.07063199521958359).
 video('Gaming', 'Cris Minegirl', 'O Texinho BUGOU O SEEK no Doors!', 1675371622.0, 0.07579177505389839).
 video('Gaming', 'Cris Minegirl', 'DESAFIOS COM A JULIA no RAINBOW FRIENDS! * Capítulo 2*', 1685884730.0, 0.06521114268350771).
 video('Gaming', 'Cris Minegirl', 'PARKOUR DEITADO no ROBLOX! (Obby But You\'re a Ragdoll)', 1688668200.0, 0.04288625595463867).
@@ -10117,12 +10262,13 @@ video('Gaming', 'DONAT3LO', 'ME DISFARCEI DE ROXO E PUXEI O PÉ DO PINK no MINEC
 video('Gaming', 'DONKEY12', 'Enchi uma BOLA DE BASQUETE até EXPLODIR', 1643058011.0, 0.06521981983811835).
 video('Gaming', 'DUDU Betero', 'O ESQUISITO E ASSUSTADOR SOL E LUA☀️🌚FIVE NIGHTS AT FREDDY`S SECURITY BREACH', 1641305700.0, 0.0857926221335992).
 video('Gaming', 'DUDU Betero', 'BUNZO BUNNY MAS FICA CADA VEZ MAIS REALISTA🤩', 1655734503.0, 0.16822238812357643).
-video('Gaming', 'DUDU Betero', 'Peguei o Poder do BUNZO BUNNY nas Transformações de POPPY Playtime do Roblox😁', 1655993701.0, 0.07830162472487945).
 video('Gaming', 'DUDU Betero', 'PEGUEI O PODER DO BUNZO BUNNY NAS TRANSFORMAÇÕES DE MOMMY LONG LEGS DO ROBLOX😁', 1655993701.0, 0.10076078499178698).
+video('Gaming', 'DUDU Betero', 'Peguei o Poder do BUNZO BUNNY nas Transformações de POPPY Playtime do Roblox😁', 1655993701.0, 0.07830162472487945).
 video('Gaming', 'DUDU Betero', 'Rainbow Friends 2 Mas eu posso Virar Objetos no Roblox 😆', 1664720103.0, 0.10199411116227795).
 video('Gaming', 'DUDU Betero', 'Ciclo de Vida dos Rainbow Friends no Roblox🤩', 1668608101.0, 0.032451814169029036).
 video('Gaming', 'DUDU Betero', 'Alphabet Lore ganhou Ultra Força no Roblox💪', 1668780900.0, 0.061758049161828026).
 video('Gaming', 'DUDU Betero', 'Virei Hacker para Destruir os Vilões de Break In 2😮Roblox', 1695219303.0, 0.03274617454076229).
+video('Gaming', 'Daishikawa', 'O QUE ESTÁ ACONTECENDO COM ESSA ANIMAÇÃO??? - THE AMAZING DIGITAL CIRCUS', 1698267615.0, 0.11084668529946223).
 video('Gaming', 'Danizera', 'Era pra aparecer o herobrine #minecraft #fyp', 1647036494.0, 0.07793986039019152).
 video('Gaming', 'Daryki', 'EVENTO FINAL DA TEMPORADA 2 !!! (kkkkk slone tomo) - FORTNITE', 1654384322.0, 0.0784447763077635).
 video('Gaming', 'Davi', 'A NOVA Farm de Cobre! - Craft Games 285', 1641485700.0, 0.1630106997236133).
@@ -10153,6 +10299,7 @@ video('Gaming', 'Davi', 'A Lendária Armadura dos Deuses | O FILME | - Craft Gam
 video('Gaming', 'Davi', 'Maquina MODO PACÍFICO no Nether | O FILME | - Craft Games 311', 1689973451.0, 0.14328351907025105).
 video('Gaming', 'Davi', 'Fiz uma MÁQUINA de GARRA no Minecraft! - Craft Games 312', 1691766002.0, 0.1760150366995396).
 video('Gaming', 'Davi', 'Construindo a ESTRELA da M0RTE no Minecraft! - Craft Games 313', 1696696211.0, 0.2492167382464999).
+video('Gaming', 'Davi', 'Em Busca do Campeão: 100 CAMADAS de SPLEEF! - Craft Games 313+1', 1697900432.0, 0.15386693684566025).
 video('Gaming', 'Daviajando', 'A VALENTONA me BATEU então me VINGUEI!', 1673113432.0, 0.03337238522140722).
 video('Gaming', 'Daviajando', 'NÃO PULE NO BURACO DO MONSTRO ERRADO! 😨', 1673607939.0, 0.029738840059225655).
 video('Gaming', 'Daviajando', 'AJUDEI O MENINO POBRE A FICAR RICO NO MINECRAFT', 1675599543.0, 0.04593846138603071).
@@ -10241,6 +10388,7 @@ video('Gaming', 'EA SPORTS FC', 'EA SPORTS FC 24 | Official Announce Trailer', 1
 video('Gaming', 'EA SPORTS FC', 'EA SPORTS FC 24 | Official Gameplay Trailer', 1689268030.0, 0.05253573774971735).
 video('Gaming', 'EA SPORTS FC', 'EA SPORTS FC 24 | Official Reveal Livestream', 1689268498.0, 0.03497968941600608).
 video('Gaming', 'EA SPORTS FC', 'EA SPORTS FC 24 | Official Gameplay Deep Dive', 1689692290.0, 0.05012126157176214).
+video('Gaming', 'EA SPORTS FC MOBILE Brasil', 'LIVE FC MOBILE BRASIL - CONMEBOL LIBERTADORES', 1697668470.0, 0.09370102514701442).
 video('Gaming', 'EA SPORTS FIFA', 'FIFA 23 Reveal Trailer | The World’s Game', 1658332748.0, 0.06269790254125354).
 video('Gaming', 'EA SPORTS FIFA', 'FIFA 23 | Official Gameplay Deep Dive', 1658933890.0, 0.03966793596434526).
 video('Gaming', 'EA SPORTS FIFA', 'FIFA 23 | Official Career Mode Deep Dive Trailer', 1659365890.0, 0.05509899771451653).
@@ -10348,6 +10496,7 @@ video('Gaming', 'Erik Carr', 'Stumble Guys JOGUEI COM UMA NOVA SKIN DO DRAGÃO',
 video('Gaming', 'Erik Carr', 'Joguei o NOVO MODO ESCONDE ESCONDE do AMONG US (Hide n Seek NOVO UPDATE)', 1670681740.0, 0.060019644448491866).
 video('Gaming', 'Erik Carr', 'AMONG US HIDE N SEEK mas.. SEM NENHUMA TASK PARA FAZER (Esconde Esconde)', 1670961605.0, 0.06843234076512544).
 video('Gaming', 'Espaço em Branco', 'God of War.', 1651761118.0, 0.20988759461541948).
+video('Gaming', 'Eu Joguei - Cross', 'ALEGRIA OU DECEPÇÃO?..  SPIDERMAN 2 (RESENHA HONESTA)', 1697477257.0, 0.11882998171846434).
 video('Gaming', 'EuGohan', 'Tendi foi nada 🤣 #fortnite #fortnitebr #fortnitememes #eugohan', 1643397813.0, 0.07548802129547472).
 video('Gaming', 'EuGohan', 'Toma 😂😂😂 #fortnite #shorts #eugohan', 1646779754.0, 0.0791584535217315).
 video('Gaming', 'EuGohan', 'Quem aí ama o bananão do Fortnite? Só vai curtir que gosta HaHA 🍌♥️ #shorts #fortnite #eugohan', 1646845812.0, 0.09040069965386842).
@@ -10375,18 +10524,18 @@ video('Gaming', 'FEURIPE', 'É POSSIVEL VIVER COM SÓ UM CORAÇÃO NO MINECRAFT?
 video('Gaming', 'FEURIPE', 'USANDO HACK NO MAIOR SERVIDOR DE YOUTUBERS', 1671547573.0, 0.07280655896566234).
 video('Gaming', 'FEURIPE', 'Eu Convidei 100 Celebridades Pro Meu Aniversário :)', 1671634813.0, 0.08194139216943602).
 video('Gaming', 'FEURIPE', 'ISSO vai ME BANIR do MAIOR SERVER DE YOUTUBERS no Minecraft!! 🚨⚠️', 1672537643.0, 0.0573621490607958).
-video('Gaming', 'FEURIPE', 'APOCALIPSE ZUMBI vs MINECRAFT SMP', 1678198501.0, 0.05663988581191406).
 video('Gaming', 'FEURIPE', '1379 ZUMBIS vs CREATIVE SQUAD', 1678198501.0, 0.06330590963472815).
+video('Gaming', 'FEURIPE', 'APOCALIPSE ZUMBI vs MINECRAFT SMP', 1678198501.0, 0.05663988581191406).
 video('Gaming', 'FEURIPE', 'Eu fui BANIDO do MAIOR servidor de YOUTUBERS. O que eu faço?', 1680110907.0, 0.055104567695290575).
 video('Gaming', 'FEURIPE', 'AQUELE DIA QUE EU SEQUEI O OCEANO NA CREATIVE SQUAD', 1680303617.0, 0.04438858422753638).
 video('Gaming', 'FEURIPE', 'O DIA QUE EU PEGUEI 1.000.000 DE TERRAS (tentei)', 1683580501.0, 0.05197008681010451).
 video('Gaming', 'FEURIPE', 'MINEREI 50 MIL BLOCOS PRA PROVAR O MEU VALOR', 1684605607.0, 0.05502197492036611).
-video('Gaming', 'FEURIPE', 'trollei meus amigos de um jeito incrivel', 1687443304.0, 0.04897670360472386).
 video('Gaming', 'FEURIPE', 'Essa É A Melhor Trap do Minecraft', 1687443304.0, 0.047647622234787725).
+video('Gaming', 'FEURIPE', 'trollei meus amigos de um jeito incrivel', 1687443304.0, 0.04897670360472386).
 video('Gaming', 'FEURIPE', 'Eu fiz um OCEANO no NETHER - O Filme', 1687876216.0, 0.04674554850004223).
 video('Gaming', 'FEURIPE', 'Esses são todos os efeitos do minecraft', 1692117003.0, 0.05677288765345663).
-video('Gaming', 'FEURIPE', 'COMO EU REVELEI OS INVASORES DA CREATIVE SQUAD 3 (Fim)', 1694446264.0, 0.05259503388653634).
 video('Gaming', 'FEURIPE', 'O DIA Q EU INVADI UMA GUERRA DE SERVIDORES (Fim)', 1694446264.0, 0.058371159545335186).
+video('Gaming', 'FEURIPE', 'COMO EU REVELEI OS INVASORES DA CREATIVE SQUAD 3 (Fim)', 1694446264.0, 0.05259503388653634).
 video('Gaming', 'FEURIPE', 'CREATIVE SQUAD 4: PROTEJA sua CAIXA MISTERIOSA', 1696681838.0, 0.0605022265329095).
 video('Gaming', 'FINAL FANTASY', 'FINAL FANTASY VII REBIRTH – Summer Game Fest 2023 Trailer', 1686257268.0, 0.04594157267546132).
 video('Gaming', 'FINAL FANTASY', 'FINAL FANTASY VII REBIRTH - Release Date Announce Trailer', 1694727177.0, 0.04627522923800601).
@@ -10425,20 +10574,20 @@ video('Gaming', 'Fixz', 'PARECE UMA ARMADILHA MAS É UMA PASSAGEM SECRETA - Crea
 video('Gaming', 'Fixz', 'ME VINGUEI DO MEU AMIGO LADRÃO COM 1.452 ESQUELETOS - Creative Squad II 33', 1645878608.0, 0.05136958791870833).
 video('Gaming', 'Fixz', 'Me VINGUEI ROUBANDO Todas As ELYTRAS Do Servidor', 1650114006.0, 0.06088350429049179).
 video('Gaming', 'Fixz', 'Eu TRANFORMEI A ILHA DO THE END em OVERWORLD em menos de 24H', 1654090202.0, 0.06129145561430103).
-video('Gaming', 'Fixz', 'Construindo um PLANETA SCULK no hardcore', 1659795964.0, 0.0623561561410986).
 video('Gaming', 'Fixz', 'Construi um PLANETA para o meu Warden de estimação', 1659795964.0, 0.05445248419181388).
-video('Gaming', 'Fixz', 'Uma semana PROCURANDO o YETI no minecraft', 1660568635.0, 0.06782234534230079).
+video('Gaming', 'Fixz', 'Construindo um PLANETA SCULK no hardcore', 1659795964.0, 0.0623561561410986).
 video('Gaming', 'Fixz', 'Uma semana PROCURANDO o YETI no minecraft - FIM', 1660568635.0, 0.05198357384249742).
 video('Gaming', 'Fixz', 'Uma semana PROCURANDO o YETI no minecraft - FINAL', 1660568635.0, 0.05713404219452228).
+video('Gaming', 'Fixz', 'Uma semana PROCURANDO o YETI no minecraft', 1660568635.0, 0.06782234534230079).
 video('Gaming', 'Fixz', 'ME VINGUEI ROUBANDO O ITEM MAIS RARO', 1661695232.0, 0.06960319737938082).
 video('Gaming', 'Fixz', 'TRAI MEU PROPRIO TIME POR CAUSA DESSA CONSTRUÇÃO', 1664313251.0, 0.06018456972376374).
 video('Gaming', 'Fixz', 'VOLTEI AO MEU TIME COM O ITEM DO PLAYER MAIS FORTE', 1665600282.0, 0.05234357794057499).
-video('Gaming', 'Fixz', 'ME VINGANDO DO MAIOR TRAIRA DO SERVIDOR', 1666533613.0, 0.05810722595115746).
 video('Gaming', 'Fixz', 'EU ME VINGUEI DO MEU PROPRIO ALIADO POR ME TRAIR', 1666533613.0, 0.0655877099980788).
+video('Gaming', 'Fixz', 'ME VINGANDO DO MAIOR TRAIRA DO SERVIDOR', 1666533613.0, 0.05810722595115746).
 video('Gaming', 'Fixz', 'ERA PRA SER IMPOSSIVEL ROUBAR O MEU ITEM MAIS RARO...', 1669471202.0, 0.05794568784543825).
 video('Gaming', 'Fixz', 'RETORNEI AO SERVER SENDO O JOGADOR MAIS PODEROSO', 1670449661.0, 0.05393017809823134).
-video('Gaming', 'Fixz', 'DEMOREI 20 DIAS PARA CONCLUIR MINHA VINGANÇA', 1670967863.0, 0.06350516474895397).
 video('Gaming', 'Fixz', 'SOBREVIVI 20 DIAS (REAIS) PARA ME VINGAR', 1670967863.0, 0.05977949872200816).
+video('Gaming', 'Fixz', 'DEMOREI 20 DIAS PARA CONCLUIR MINHA VINGANÇA', 1670967863.0, 0.06350516474895397).
 video('Gaming', 'Fixz', 'fiz uma BASE SECRETA dentro da casa do meu amigo (E Roubei Tudo)', 1671750466.0, 0.06131085113613616).
 video('Gaming', 'Fixz', 'FIZ UMA BASE ULTRA SEGURA EM 24H', 1672944753.0, 0.05979512260710264).
 video('Gaming', 'Fixz', 'EU REMOVI O THE END NO SURVIVAL', 1674076329.0, 0.04787393524730771).
@@ -10448,8 +10597,8 @@ video('Gaming', 'Fixz', 'EU CONSTRUI 20 BIOMAS EM VOLTA DO THE END EM 24H', 1676
 video('Gaming', 'Fixz', 'FIZ UM BEACON COM TODOS OS BLOCOS DO MINECRAFT', 1678107614.0, 0.048880311300773326).
 video('Gaming', 'Fixz', 'CONSTRUI A MAIOR PIRAMIDE DO MUNDO EM TAMANHO REAL', 1679665500.0, 0.05100786295225486).
 video('Gaming', 'Fixz', 'Construi uma Cidade INTEIRA só pro meu PET', 1680357615.0, 0.0559526404937195).
-video('Gaming', 'Fixz', 'A VEZ QUE FIZ O MAIOR END HUB', 1681909209.0, 0.04269537566510384).
 video('Gaming', 'Fixz', 'TRANSFORMEI O PORTAL DO END', 1681909209.0, 0.05145839842673087).
+video('Gaming', 'Fixz', 'A VEZ QUE FIZ O MAIOR END HUB', 1681909209.0, 0.04269537566510384).
 video('Gaming', 'Fixz', 'Transformei o MUNDO EM MINÉRIOS no Survival', 1683988719.0, 0.04955356566008967).
 video('Gaming', 'Fixz', 'CRIEI MEU PROPRIO PLANETA NO MINECRAFT SURVIVAL', 1686751212.0, 0.04968986939535617).
 video('Gaming', 'Fixz', 'SUMIÇO DO PET ROUBADO NO MINECRAFT', 1687960837.0, 0.050353132667491245).
@@ -10483,8 +10632,8 @@ video('Gaming', 'Forever Player', 'ESSE BLOCO QUASE ACABOU COM NOSSO MAPA! - Sky
 video('Gaming', 'Forever Player', 'Forever Mapa 4 - O COMEÇO! #1', 1677513607.0, 0.358347372014798).
 video('Gaming', 'Forever Player', 'DESCOBRI O MAIOR SEGREDO DA MINHA BASE! Forever Mapa 4 #2', 1678557610.0, 0.16942158417494366).
 video('Gaming', 'Forever Player', 'VOLTAMOS no STONKSCRAFT DEPOIS DE 3 ANOS! Ft: Apuh, Lggj, Bruninho, Ralls, Dlet, Carlinho', 1678723238.0, 0.1605202833697097).
-video('Gaming', 'Forever Player', 'O COMEÇO - StonksCraft 2 #1', 1679439600.0, 0.18566176470588236).
 video('Gaming', 'Forever Player', 'O COMEÇO! - StonksCraft 2 #1', 1679439600.0, 0.1722127585924192).
+video('Gaming', 'Forever Player', 'O COMEÇO - StonksCraft 2 #1', 1679439600.0, 0.18566176470588236).
 video('Gaming', 'Forever Player', 'PRENDI o MAIOR CRIMINOSO de STONKS CITY!!! - StonksCraft 2 #07', 1680454809.0, 0.1332844493905189).
 video('Gaming', 'Forever Player', 'MEGA REFORMA NA BASE! StonksCraft 2 #09', 1680627626.0, 0.14128969742891073).
 video('Gaming', 'Forever Player', 'ZEREI o MOD PROIBIDO do servidor, FUI BANIDO? StonksCraft 2 #13', 1681146328.0, 0.1351705511653496).
@@ -10495,8 +10644,8 @@ video('Gaming', 'Forever Player', 'DERROTEI o APUH no 1x1 - StonksCraft 2 #29', 
 video('Gaming', 'Forever Player', 'FINALMENTE o RATO DEUS! - StonksCraft #38', 1684335640.0, 0.12739916795164102).
 video('Gaming', 'Forever Player', 'O COMEÇO - SkyDoido 2 #01', 1687964402.0, 0.22650922722671502).
 video('Gaming', 'Forever Player', 'OK, isso é INSANAMENTE DIFÍCIL!!! - SkyDoido 2 #02', 1688850024.0, 0.1540554775280899).
-video('Gaming', 'Forever Player', 'QSMP! - A MAIOR SÉRIE DO MUNDO!', 1692198013.0, 0.18379186438818335).
 video('Gaming', 'Forever Player', '4 MESES de QSMP - MUDOU MINHA VIDA!', 1692198013.0, 0.1690176615625562).
+video('Gaming', 'Forever Player', 'QSMP! - A MAIOR SÉRIE DO MUNDO!', 1692198013.0, 0.18379186438818335).
 video('Gaming', 'FortFlix', 'O ARANHAVERSO É REAL?! LOOPVERSO - Fortnite Movie', 1642026601.0, 0.1374623040489753).
 video('Gaming', 'Fortnite', 'Fortnite x Futurama Announce Trailer', 1690362008.0, 0.05306351488794585).
 video('Gaming', 'Fortnite', 'Fortnite Chapter 4 Season 4 LAST RESORT Gameplay Launch Trailer', 1692946808.0, 0.015086151521847491).
@@ -10546,8 +10695,8 @@ video('Gaming', 'Free Fire Esports Brasil #LBFF', 'LBFF 2023 RODADA 05 - GRUPOS 
 video('Gaming', 'Free Fire Esports Brasil #LBFF', 'LBFF 2023 RODADA 07 - GRUPOS A E C | FREE FIRE ESPORTS BRASIL', 1682795157.0, 0.05874899392292526).
 video('Gaming', 'Free Fire Esports Brasil #LBFF', 'LBFF 2023 RODADA 08 - GRUPOS B E C | FREE FIRE ESPORTS BRASIL', 1682881533.0, 0.054489264241786003).
 video('Gaming', 'Free Fire Esports Brasil #LBFF', 'LBFF 2023 RODADA 08 AO VIVO - GRUPOS B E C | FREE FIRE ESPORTS BRASIL', 1682881533.0, 0.0553741662729192).
-video('Gaming', 'Free Fire Esports Brasil #LBFF', 'LBFF 2023 RODADA 09 AO VIVO - GRUPOS A E B | FREE FIRE ESPORTS BRASIL', 1682985722.0, 0.05973129002602178).
 video('Gaming', 'Free Fire Esports Brasil #LBFF', 'LBFF 2023 RODADA 09 - GRUPOS A E B | FREE FIRE ESPORTS BRASIL', 1682985722.0, 0.0571426483778042).
+video('Gaming', 'Free Fire Esports Brasil #LBFF', 'LBFF 2023 RODADA 09 AO VIVO - GRUPOS A E B | FREE FIRE ESPORTS BRASIL', 1682985722.0, 0.05973129002602178).
 video('Gaming', 'Free Fire Esports Brasil #LBFF', 'LBFF 2023 RODADA 11 - GRUPOS A E C | FREE FIRE ESPORTS BRASIL', 1683487172.0, 0.06035959024880169).
 video('Gaming', 'Free Fire Esports Brasil #LBFF', 'LBFF 2023 RODADA 11 COMPLETA - GRUPOS A E C | FREE FIRE ESPORTS BRASIL', 1683487172.0, 0.05950571443546674).
 video('Gaming', 'Free Fire Esports Brasil #LBFF', 'LBFF 2023 RODADA 12 AO VIVO - GRUPOS B E C | FREE FIRE ESPORTS BRASIL', 1683591192.0, 0.05560423122128433).
@@ -10589,6 +10738,7 @@ video('Gaming', 'GB12', '🔥 URGENTE 🔥  O PIOR EVENTO DO FREE FIRE! OBRIGADO
 video('Gaming', 'GB12', 'REUNIÃO NA GARENA SOBRE OS 10 MIL DIAMANTES! O QUE VAI ACONTECER? #GB12', 1642025712.0, 0.22691690084303492).
 video('Gaming', 'GG GAMEPLAYS', 'FC MOBILE 24 LANÇOU🔥 COMO COMEÇAR BEM & VÁRIAS RECOMPENSAS GRÁTIS😱 CONFERINDO TUDO!!!', 1695738623.0, 0.0421325672866554).
 video('Gaming', 'GG Games', '*ADIADO NOVAMENTE!!* NOVA DATA e HORÁRIO do UPDATE 17.3 do BLOX FRUITS | Roblox - GG Games', 1662776175.0, 0.05478034987701432).
+video('Gaming', 'GH0Ks', 'FINALMENTE DERROTEI O LEVIATHAN DO BLOX FRUITS!!!', 1698018300.0, 0.06538743407848792).
 video('Gaming', 'GIGI FLIX', 'CICLO DE VIDA DA ISABELA ENCANTO 🏡Historinha Roblox Bloxburg', 1648065601.0, 0.02780082609211018).
 video('Gaming', 'GQ Games', 'FUSCÃO PRETO com MOTOR LENDÁRIO de 100.000 CV! The Long Drive', 1684537221.0, 0.053327788669082554).
 video('Gaming', 'Gabriel e Shirley', 'REVELANDO SEGREDOS SECRETOS CRIAMOS CRUMPETS SECRETOS no Toca Life', 1641477607.0, 0.1369616245428244).
@@ -10675,6 +10825,8 @@ video('Gaming', 'Games EduUu', 'JOGO LOCO DA CAPCOM! - Exoprimal', 1692223215.0,
 video('Gaming', 'Games EduUu', 'Games EduUu ASTRONAUTA FOI PRA LUA 🚀 - Starfield', 1694037615.0, 0.14567483931273295).
 video('Gaming', 'Games EduUu', 'VAN DAMME NA VOADORA! - Mortal Kombat 1', 1694901602.0, 0.16422621696990616).
 video('Gaming', 'Games EduUu', 'MALUCO É MUITO LADRÃO! - Assassin\'s Creed Mirage', 1696888803.0, 0.16146116163001994).
+video('Gaming', 'Games EduUu', 'MACACO PLAY 2 KKKKKKKKK! - Skull Island Rise of Kong', 1697666419.0, 0.16386445032700092).
+video('Gaming', 'Games EduUu', 'DUPLA DA BICUDA! - Spider-Man 2', 1698098420.0, 0.16709603371788578).
 video('Gaming', 'Garena Free Fire Brasil', 'O QUE ESTÁ ACONTECENDO? | FREE FIRE', 1643723935.0, 0.16605182857403106).
 video('Gaming', 'Garena Free Fire Brasil', 'Free Fire x BTS Colaboração Global - EM BREVE!', 1647180023.0, 0.12505298855447222).
 video('Gaming', 'Garena Free Fire Brasil', 'Oi! Nós somos o BTS! | Colaboração Free Fire x BTS', 1647702005.0, 0.13468411779511705).
@@ -10707,8 +10859,8 @@ video('Gaming', 'Geleia', 'Fui preso pelo Huggy na BEDROCK e então eu fiz Vinga
 video('Gaming', 'Geleia', 'Não entre na minha Base Secreta! - Creative Squad II 24', 1642772706.0, 0.05833349269838375).
 video('Gaming', 'Geleia', 'Não Posso Tocar em Todas as Cores!', 1642859102.0, 0.0556320199821133).
 video('Gaming', 'Geleia', 'Eu Quase Entrei no Portal Banido...', 1642945501.0, 0.06359509071854326).
-video('Gaming', 'Geleia', 'O Último Escondido Ganha $10,000', 1643031903.0, 0.048616444354621396).
 video('Gaming', 'Geleia', '250 Pessoas Escondidas e o Último ganha $10,000', 1643031903.0, 0.05493861270280561).
+video('Gaming', 'Geleia', 'O Último Escondido Ganha $10,000', 1643031903.0, 0.048616444354621396).
 video('Gaming', 'Geleia', 'Jooj Natu disse que era Impossível Resolver o Enigma!', 1643118303.0, 0.04838964724152183).
 video('Gaming', 'Geleia', 'Espionei a Base Secreta do Huggy e... - Creative Squad II 25', 1643377503.0, 0.048407587816699356).
 video('Gaming', 'Geleia', 'Não destrua o Lucky Block do Huggy...', 1643550301.0, 0.05306357430709762).
@@ -10726,8 +10878,8 @@ video('Gaming', 'Geleia', 'Como Eu Desenhei o Minecraft Em 30 Minutos...', 16452
 video('Gaming', 'Geleia', 'Tudo Que Couber no Triângulo Eu Dou - Creative Squad II 30', 1645364702.0, 0.054688493998897324).
 video('Gaming', 'Geleia', 'Transformei Mobs em Youtubers!', 1645623901.0, 0.05311688032100315).
 video('Gaming', 'Geleia', 'Fiz Mods de Youtubers!', 1645623901.0, 0.04518535928153623).
-video('Gaming', 'Geleia', 'Qual o Nível de Inteligência do Warden?', 1645883101.0, 0.05277390168530377).
 video('Gaming', 'Geleia', 'O Warden Vai Conseguir?', 1645883101.0, 0.05519148049799059).
+video('Gaming', 'Geleia', 'Qual o Nível de Inteligência do Warden?', 1645883101.0, 0.05277390168530377).
 video('Gaming', 'Geleia', 'Será que o Warden Consegue?', 1645883101.0, 0.05949035770139662).
 video('Gaming', 'Geleia', '1 Bloco Mas, Vai Ficando Realista!', 1645969501.0, 0.05697676424419106).
 video('Gaming', 'Geleia', 'Apenas 1 Bloco Realista!', 1645969501.0, 0.04990034175606234).
@@ -10777,8 +10929,8 @@ video('Gaming', 'Geleia', '1 Milhão de Corações Porém Estou Gigante!', 16513
 video('Gaming', 'Geleia', 'Dei Carros para os Youtubers!', 1651423501.0, 0.04037383285377391).
 video('Gaming', 'Geleia', 'Prendi 10 Pessoas no 1ª Ano Escolar!', 1651525204.0, 0.04603450445333941).
 video('Gaming', 'Geleia', 'eu não deveria ter postado esse vídeo...', 1651586432.0, 0.05908315565031983).
-video('Gaming', 'Geleia', 'Vigiei meus AMIGOS com CÂMERAS de Segurança quando estou OFFLINE!', 1651930208.0, 0.04776835812427003).
 video('Gaming', 'Geleia', 'Trolei meus AMIGOS com CÂMERAS de Segurança!', 1651930208.0, 0.044833046093682716).
+video('Gaming', 'Geleia', 'Vigiei meus AMIGOS com CÂMERAS de Segurança quando estou OFFLINE!', 1651930208.0, 0.04776835812427003).
 video('Gaming', 'Geleia', 'Testei Veículos do Nível 1 Até Nível 27', 1652016605.0, 0.045602676749816384).
 video('Gaming', 'Geleia', '7 Hacks Impossíveis de Construção Sem Mods!', 1652121900.0, 0.04269679520126555).
 video('Gaming', 'Geleia', 'E Se eu Reproduzir Eles com Efeitos?', 1652208301.0, 0.04960071915138209).
@@ -10790,8 +10942,8 @@ video('Gaming', 'Geleia', 'Não escolha a COR errada com YOUTUBERS!', 1652490902
 video('Gaming', 'Geleia', 'Eu Criei o GOOGLE no Minecraft!', 1652553010.0, 0.04331104659998318).
 video('Gaming', 'Geleia', 'Criei 16 Desafios Impossíveis em 24 Horas!', 1652626832.0, 0.040289305110098324).
 video('Gaming', 'Geleia', 'Fui BANIDO desse mundo...', 1652707812.0, 0.04723760511397326).
-video('Gaming', 'Geleia', 'Transformei Mobs em Poppy Playtime 2', 1652880612.0, 0.04552603000650822).
 video('Gaming', 'Geleia', 'Transformei o minecraft em Poppy Playtime 2', 1652880612.0, 0.04707801451344529).
+video('Gaming', 'Geleia', 'Transformei Mobs em Poppy Playtime 2', 1652880612.0, 0.04552603000650822).
 video('Gaming', 'Geleia', 'Transformei os mobs em Personagens de Terror!', 1652880612.0, 0.0495901537705735).
 video('Gaming', 'Geleia', 'Criei o Minecraft dos Youtubers!', 1652905800.0, 0.039816035263058124).
 video('Gaming', 'Geleia', '11 Trollagens em 24 Horas!', 1653053402.0, 0.03965570420913768).
@@ -10802,8 +10954,8 @@ video('Gaming', 'Geleia', 'Nunca entre nesse TREM PROIBIDO', 1653485421.0, 0.045
 video('Gaming', 'Geleia', 'Bebê Geleia foi TESOURADO pelo ATHOS...', 1653485421.0, 0.040937948116891804).
 video('Gaming', 'Geleia', 'Criei o Minecraft só para GÊNIOS!', 1653510600.0, 0.03939290873560511).
 video('Gaming', 'Geleia', 'Não fui pra ESCOLA e minha PROFESSORA apareceu!', 1653574665.0, 0.04169564528638336).
-video('Gaming', 'Geleia', 'Minecraft mas as ESTRUTURAS são PERSONAGENS!!!', 1653658200.0, 0.03871570890180841).
 video('Gaming', 'Geleia', 'Minecraft mas as ESTRUTURAS são PERSONAGENS DE JOGOS!!!', 1653658200.0, 0.041674746198449984).
+video('Gaming', 'Geleia', 'Minecraft mas as ESTRUTURAS são PERSONAGENS!!!', 1653658200.0, 0.03871570890180841).
 video('Gaming', 'Geleia', 'Minecraft mas viajei 1000 ANOS pro FUTURO!', 1653683404.0, 0.03881477638383716).
 video('Gaming', 'Geleia', '7 Hacks e MANEIRAS de PROTEGER sua base...', 1653831002.0, 0.05208513181821394).
 video('Gaming', 'Geleia', '24 Horas para conquistar o CORAÇÃO dos youtubers...', 1653917408.0, 0.04249054754015524).
@@ -10814,8 +10966,8 @@ video('Gaming', 'Geleia', 'DESMASCARANDO FAKES DOS YOUTUBERS', 1654522208.0, 0.0
 video('Gaming', 'Geleia', 'Pesquisei MEU NOME no Google e apareceu isso', 1654957806.0, 0.07478689640915889).
 video('Gaming', 'Geleia', 'Fiquei deformado para PROTEGER meu cachorro', 1655040609.0, 0.04924288147641465).
 video('Gaming', 'Geleia', 'Virei PROFESSOR em uma Escola duvidosa', 1655127002.0, 0.059331223683546416).
-video('Gaming', 'Geleia', 'Fiz Mods que o Google Mandou!', 1655559023.0, 0.048328959339143336).
 video('Gaming', 'Geleia', 'E se o GOOGLE criasse um minecraft?', 1655559023.0, 0.04208596475079784).
+video('Gaming', 'Geleia', 'Fiz Mods que o Google Mandou!', 1655559023.0, 0.048328959339143336).
 video('Gaming', 'Geleia', 'Virei Dono de um BIOMA INTEIRO...', 1655645409.0, 0.0549605877230199).
 video('Gaming', 'Geleia', 'Eu só tenho uma MISSÃO no deserto', 1655645409.0, 0.04922932508755877).
 video('Gaming', 'Geleia', 'O Que Você Construir, Eu Pago!', 1655757004.0, 0.052439132359451086).
@@ -10851,15 +11003,15 @@ video('Gaming', 'Geleia', '24 Horas Para Completar o ÁLBUM da COPA 2022 no Mine
 video('Gaming', 'Geleia', 'Eu Virei o HOMEM ARANHA por 2 Horas!', 1662384609.0, 0.07331862621002254).
 video('Gaming', 'Geleia', 'Quero Vingança Contra o NOVO PARTICIPANTE! - Creative Squad 3', 1662566460.0, 0.05150474252123594).
 video('Gaming', 'Geleia', 'Recriei os Biomas do Minecraft 1.19!', 1662670814.0, 0.044300236014233725).
+video('Gaming', 'Geleia', 'trolei o ATHOS com VIDRO ESPIÃO!', 1663336805.0, 0.04865688347220495).
 video('Gaming', 'Geleia', 'trolei o ATHOS com VIDRO SÓ DE UM LADO na Batalha de Construção!', 1663336805.0, 0.04417724458094081).
 video('Gaming', 'Geleia', 'trolei meu AMIGO ficando PEQUENO na batalha de construção', 1663336805.0, 0.04329913730691074).
-video('Gaming', 'Geleia', 'trolei o ATHOS com VIDRO ESPIÃO!', 1663336805.0, 0.04865688347220495).
 video('Gaming', 'Geleia', 'Não seja pega pelo VIZINHO MISTERIOSO - Hello Neighbor', 1663767014.0, 0.05300598749081844).
-video('Gaming', 'Geleia', 'Aprendi mais 13 Habilidades Impossíveis!', 1664136900.0, 0.049625184139917844).
-video('Gaming', 'Geleia', 'Aprendi a Jogada MAIS DIFÍCIL do Minecraft!', 1664136900.0, 0.0441850546307563).
 video('Gaming', 'Geleia', 'GELEIA VS TONIGON, QUEM É O MELHOR?', 1664136900.0, 0.04668646137908195).
-video('Gaming', 'Geleia', 'Essa Comida NÃO existe no Brasil', 1664373624.0, 0.052801726267282925).
+video('Gaming', 'Geleia', 'Aprendi a Jogada MAIS DIFÍCIL do Minecraft!', 1664136900.0, 0.0441850546307563).
+video('Gaming', 'Geleia', 'Aprendi mais 13 Habilidades Impossíveis!', 1664136900.0, 0.049625184139917844).
 video('Gaming', 'Geleia', 'Eu Comi os Piores Doces do Mundo (Parte 2)', 1664373624.0, 0.04617967610272342).
+video('Gaming', 'Geleia', 'Essa Comida NÃO existe no Brasil', 1664373624.0, 0.052801726267282925).
 video('Gaming', 'Geleia', 'MEU NOVO SETUP GAMER 2023', 1664456443.0, 0.0511967395750665).
 video('Gaming', 'Geleia', 'Eu criei meu PC e joguei MINECRAFT dentro do MINECRAFT', 1664456443.0, 0.04781968688355572).
 video('Gaming', 'Geleia', 'Viajei 9.937 km à Cidade do @MrBeast', 1664550029.0, 0.05082335870961558).
@@ -10882,17 +11034,17 @@ video('Gaming', 'Geleia', 'A Cada Dia viramos MOB DIFERENTE! - Dia 1', 167448420
 video('Gaming', 'Geleia', 'Esse é o vídeo MAIS VISTO do Roblox!', 1675086300.0, 0.06324396320992945).
 video('Gaming', 'Geleia', '3 CAÇADORES vs 1 SPEEDRUNNER com membros da CREATIVE SQUAD', 1677603604.0, 0.04066323950904463).
 video('Gaming', 'Geleia', 'HACKEEI o Mendrake pra recuperar o ITEM MAIS RARO (Creative Squad)', 1677877208.0, 0.045908431955181135).
-video('Gaming', 'Geleia', '🌍 MODO DOMINAÇÃO NA BATALHA DE MOBS', 1680613220.0, 0.04035183183856842).
-video('Gaming', 'Geleia', '🌍 Último MOB Vivo Ganha (Modo Dominação)', 1680613220.0, 0.03587234676976303).
 video('Gaming', 'Geleia', '🌍 WARDEN VS RESTO DO MUNDO (Modo Dominação)', 1680613220.0, 0.04931260130875908).
+video('Gaming', 'Geleia', '🌍 Último MOB Vivo Ganha (Modo Dominação)', 1680613220.0, 0.03587234676976303).
+video('Gaming', 'Geleia', '🌍 MODO DOMINAÇÃO NA BATALHA DE MOBS', 1680613220.0, 0.04035183183856842).
 video('Gaming', 'Geleia', '🌎 Último Youtuber Vivo Ganha! (Modo Dominação)', 1680960606.0, 0.04021063072819932).
 video('Gaming', 'Geleia', 'Minecraft realista de R$1 e R$1000', 1681740022.0, 0.030083812553529914).
 video('Gaming', 'Geleia', '🌍 MODO DOMINAÇÃO com Teste de QI dos Mobs!', 1681826403.0, 0.05818754691147238).
 video('Gaming', 'Geleia', 'A CADA MORTE, EU VISTO UMA CAMISETA', 1681999225.0, 0.04619723241810121).
 video('Gaming', 'Geleia', 'Coração Problems de $1 vs Coração de $1 MILHÃO', 1686521704.0, 0.03563587271887545).
 video('Gaming', 'Geleia', '24 Horas pra COMPRAR o Coração dos Youtubers', 1686521704.0, 0.040677238960432925).
-video('Gaming', 'Geleia', 'Sobrevivi com os Veículos MAIS FORTES do Minecraft', 1687616106.0, 0.05373912462263415).
 video('Gaming', 'Geleia', 'Veículos de 1 REAL vs de 100,000 REAIS', 1687616106.0, 0.04004441777974255).
+video('Gaming', 'Geleia', 'Sobrevivi com os Veículos MAIS FORTES do Minecraft', 1687616106.0, 0.05373912462263415).
 video('Gaming', 'Geleia', 'Só Posso Pegar Itens com MEU NOME no Minecraft', 1689948030.0, 0.03952353929138507).
 video('Gaming', 'Geleia', 'Recebi a Lista dos VÍDEOS MAIS VISTOS dos Youtubers', 1690898427.0, 0.054254214156959).
 video('Gaming', 'Geleia', 'O INVASOR me deu uma MISSÃO... (Creative Squad 3)', 1692306009.0, 0.04640555812781545).
@@ -10949,6 +11101,7 @@ video('Gaming', 'Genshin Impact', 'Character Teaser - Lyney: Gloves of Wonder | 
 video('Gaming', 'Genshin Impact', 'Version 4.1 To the Stars Shining in the Depths Trailer | Genshin Impact', 1694782500.0, 0.09070174812842066).
 video('Gaming', 'Genshin Impact', 'Character Teaser - Neuvillette: Watcher in the Deep | Genshin Impact', 1695268819.0, 0.16357501024945598).
 video('Gaming', 'Genshin Impact', 'Character Demo - Neuvillette: Font of All Waters | Genshin Impact', 1695700834.0, 0.08557898756407117).
+video('Gaming', 'Genshin Impact', 'Character Demo - Wriothesley: Art of Improvisation | Genshin Impact', 1697428830.0, 0.11343104286607365).
 video('Gaming', 'Getaway Driver', 'O MECÂNICO TURBINOU O RUSCKO! - My Summer Car #99', 1691074803.0, 0.14307643614495966).
 video('Gaming', 'Gigaton Games', 'BOMBA - ROCKSTAR CONFIRMA OFICIALMENTE O GTA 6!', 1643990995.0, 0.2051462362154387).
 video('Gaming', 'Gigaton Games', 'O SEGREDO MAIS INACREDITAVEL DO GTA SAN ANDREAS', 1694986550.0, 0.17294393494197607).
@@ -11037,6 +11190,7 @@ video('Gaming', 'Hidro', 'VOCÊ SABIA DISSO SOBRE A NOVA MOCHI?', 1663371902.0, 
 video('Gaming', 'Hidro', '24 HORAS ABRINDO PRESENTE PRA PEGAR A NOVA CAPA MITICA DE NATAL NO BLOX FRUITS!!!!', 1672189320.0, 0.03848533844341977).
 video('Gaming', 'Hidro', 'NOVAS FRUTAS E ITENS EXCLUSIVOS NA NOVA ATUALIZAÇÃO/EVENTO DO BLOX FRUITS!!!', 1677334408.0, 0.04352996071466201).
 video('Gaming', 'Hidro', 'TODAS AS FORMAS DE PEGAR FRUTAS NO BLOX FRUITS!!!', 1680480535.0, 0.04013110409686837).
+video('Gaming', 'Hidro', 'REVELEI TODO O PODER DAS NOVAS FRUTAS MAMUTE E SOM NA ATUALIZAÇÃO 20 DO BLOX FRUITS', 1698022618.0, 0.029628747810411388).
 video('Gaming', 'Hidrozin', 'PEGUEI TODOS OS HAKIS DO ONE PIECE NO MINECRAFT', 1675263946.0, 0.04162993829633785).
 video('Gaming', 'Hidrozin', '24 HORAS PARA FAZER TODOS OS SUSANOO DE NARUTO NO MINECRAFT', 1675546885.0, 0.039954282379261706).
 video('Gaming', 'Hiig', 'NUNCA FAÇA ISSO NO MINECRAFT', 1641303027.0, 0.09606387493254677).
@@ -11115,8 +11269,8 @@ video('Gaming', 'Jakinho', 'RECRIEI os Jump Scares do AZUL BABÃO No Minecraft -
 video('Gaming', 'Jakinho', 'A Cada CORAÇÃO fica MAIS ASSUSTADOR', 1666386038.0, 0.037770041891789376).
 video('Gaming', 'Jakinho', 'Criei CENAS de Poppy PlayTime da VIDA REAL no Minecraft', 1672188300.0, 0.0326275651957309).
 video('Gaming', 'Jakinho', 'Criei CENAS do AZUL BABÃO da VIDA REAL no Minecraft', 1673475191.0, 0.0446472357744129).
-video('Gaming', 'Jakinho', 'Transformei os MOBS em GARTEN OF BAN BAN No Minecraft', 1673987528.0, 0.03118881730779748).
 video('Gaming', 'Jakinho', 'Criei OS MOBS de GARTEN OF BAN BAN No Minecraft', 1673987528.0, 0.027946560276370196).
+video('Gaming', 'Jakinho', 'Transformei os MOBS em GARTEN OF BAN BAN No Minecraft', 1673987528.0, 0.03118881730779748).
 video('Gaming', 'Jakinho', 'Transformei os MOBS em PERSONAGENS de GARTEN OF BANBAN', 1673987528.0, 0.026697801905370164).
 video('Gaming', 'Jakinho', 'Criei o TRAILER de WANDINHA no Minecraft', 1674334818.0, 0.031580276378327964).
 video('Gaming', 'Jakinho', 'Criei cenas do GARTEN OF BAN BAN no Minecraft', 1675119640.0, 0.03716523957004919).
@@ -11129,6 +11283,7 @@ video('Gaming', 'Jakinho', 'Criei cenas do GARTEN OF BAN BAN 3 no Minecraft', 16
 video('Gaming', 'Jakinho', 'Criei CENAS de SKIBIDI TOILET No Minecraft', 1689546074.0, 0.026821361969486476).
 video('Gaming', 'Jakinho', 'Criei o TRAILER de GARTEN OF BAN BAN 4 No Minecraft', 1689893408.0, 0.025497402435748773).
 video('Gaming', 'Jakinho', 'Criei CENAS de GARTEN OF BANBAN 4 No Minecraft', 1693255052.0, 0.02409932512682644).
+video('Gaming', 'Jakinho', 'Criei o TRAILER de GARTEN OF BAN BAN 6 No Minecraft', 1697414316.0, 0.02326071738818747).
 video('Gaming', 'Jaqueli', 'TODAS as CAIXAS SECRETAS + Novidades na Chuva de Meteoros do PK XD', 1695469500.0, 0.06666782560322648).
 video('Gaming', 'Jazzghost', 'FUGINDO DA PRISÃO COM MINHA NAMORADA! - The Henry Stickmin Collection', 1641481214.0, 0.1280082505201285).
 video('Gaming', 'Jazzghost', 'VIREI GERENTE DE SUPERMERCADO COM UM MONTE DE CLIENTE FOLGADO! - Fale com o Gerente', 1641567656.0, 0.10462413552602046).
@@ -11173,8 +11328,8 @@ video('Gaming', 'Jazzghost', 'DEU TUDO ERRADO NA VIDA DO JAZZGHOST! - BitLife', 
 video('Gaming', 'Jazzghost', 'A FÁBRICA DE BRINQUEDOS VOLTOU MAIS AMALDIÇOADA DO QUE NUNCA! - Poppy Playtime Capítulo 2', 1651935620.0, 0.11488404510181233).
 video('Gaming', 'Jazzghost', 'ABANDONEI O YOUTUBE E ABRI MINHA PRÓPRIA ACADEMIA! - Gym Tycoon', 1652022008.0, 0.0955839742267535).
 video('Gaming', 'Jazzghost', '!2022 EM QUIZ GÊNIO', 1652194818.0, 0.09213970867921151).
-video('Gaming', 'Jazzghost', 'O FIM BIZARRO DA MOMMY LONG LEGS! - Poppy Playtime Capítulo 2', 1652540432.0, 0.0852635637428947).
 video('Gaming', 'Jazzghost', 'O FIM BIZARRO DA MOMMY LONG LEGS! - Poppy Playtime Capítulo 2 #3', 1652540432.0, 0.06373178542901514).
+video('Gaming', 'Jazzghost', 'O FIM BIZARRO DA MOMMY LONG LEGS! - Poppy Playtime Capítulo 2', 1652540432.0, 0.0852635637428947).
 video('Gaming', 'Jazzghost', 'FIQUEI MUITO RICO ABRINDO UMA LAN HOUSE NO MINECRAFT!', 1652626936.0, 0.09789984800158608).
 video('Gaming', 'Jazzghost', 'SAÍ DO YOUTUBE E ABRI MEU PRÓPRIO RESTAURANTE DE HAMBURGUERS! - Taste Maker', 1652886016.0, 0.07381825466644601).
 video('Gaming', 'Jazzghost', '14 MINUTOS BUGANDO SEU CÉREBRO COM ILUSÕES DE ÓTICA! - Superliminal', 1652972414.0, 0.07239082009833964).
@@ -11223,8 +11378,8 @@ video('Gaming', 'Jazzghost', 'O VERDADEIRO GÊNIO QUIZ DE MINECRAFT!', 166005723
 video('Gaming', 'Jazzghost', 'NUNCA FIQUE ACORDADO DE MADRUGADA NESSA FAZENDINHA FOFA!', 1660316406.0, 0.0797670596415816).
 video('Gaming', 'Jazzghost', 'SE VOCÊ ENCONTRAR ESSA CASA ABANDONADA, FUJA IMEDIATAMENTE! - The Ghost Case', 1660402820.0, 0.10515287764176182).
 video('Gaming', 'Jazzghost', 'EU JURO QUE EU ABRI 244 PORTAS NESSE VÍDEO! (não é clickbait) - Just More Doors', 1660489226.0, 0.08680270080795989).
-video('Gaming', 'Jazzghost', 'COMO SE VINGAR DO VALENTÃO DA ESCOLA! - Dodge the Prank', 1660510812.0, 0.049927938599957554).
 video('Gaming', 'Jazzghost', 'COMO SE VINGAR DO VALENTÃO DA ESCOLA! - Dodge the Pranka', 1660510812.0, 0.06187351593592188).
+video('Gaming', 'Jazzghost', 'COMO SE VINGAR DO VALENTÃO DA ESCOLA! - Dodge the Prank', 1660510812.0, 0.049927938599957554).
 video('Gaming', 'Jazzghost', 'QUANDO TOCAR UMA PROPAGANDA DE JOGO EU VOU SER OBRIGADO A BAIXAR E JOGAR!', 1660748424.0, 0.08684042865426328).
 video('Gaming', 'Jazzghost', 'O JOGO DO BICHO AZUL BABÃO QUE TODO MUNDO TÁ JOGANDO! - Rainbow Friends', 1660921202.0, 0.07566871604056036).
 video('Gaming', 'Jazzghost', 'VOCÊS ME FALARAM QUE ESSE JOGO É MUITO FAMOSO! - Cut the Rope', 1661115631.0, 0.08015645005934485).
@@ -11326,8 +11481,8 @@ video('Gaming', 'Jazzghost', 'ESSA CASA TÁ INFESTADA DE ANOMALIAS DO CATÁLOGO 
 video('Gaming', 'Jazzghost', '10 JOGOS DE ROBLOX QUE SÃO REALMENTE BONS!', 1682866849.0, 0.06398997368349797).
 video('Gaming', 'Jazzghost', 'TODAS AS FITAS SECRETAS DE AMANDA A AVENTUREIRA! (um homem misterioso apareceu)', 1683126004.0, 0.06217427160115966).
 video('Gaming', 'Jazzghost', 'UPEI 200 LEVELS, DERROTEI UM DEUS E ESTOU PRONTO PRO MAR 2 NO BLOX FRUITS!', 1683212410.0, 0.0686449849666406).
-video('Gaming', 'Jazzghost', '3 JOGOS DE TERROR DAS BACKROOMS EM 1 VÍDEO!', 1683298837.0, 0.055118417603988334).
 video('Gaming', 'Jazzghost', '3 JOGOS TERROR DAS BACKROOMS EM 1 VÍDEO!', 1683298837.0, 0.06477290366644935).
+video('Gaming', 'Jazzghost', '3 JOGOS DE TERROR DAS BACKROOMS EM 1 VÍDEO!', 1683298837.0, 0.055118417603988334).
 video('Gaming', 'Jazzghost', '168 HORAS PRESO NO MEU PRÓPRIO QUARTO! - The White Door', 1683387441.0, 0.056944833736781754).
 video('Gaming', 'Jazzghost', 'O COELHO DOURADO TACOU O CAOS NO STONKSCRAFT!', 1683471614.0, 0.09716827777821546).
 video('Gaming', 'Jazzghost', 'O FUNDO DESSE MAR VAI TE DEIXAR TRAUMATIZADO PELO RESTO DA VIDA! - Subnautica', 1683558005.0, 0.07671771509735865).
@@ -11394,6 +11549,10 @@ video('Gaming', 'Jazzghost', 'EU JOGUEI A CÓPIA DE CUPHEAD PRA VER SE É TÃO R
 video('Gaming', 'Jazzghost', 'ABRI UM POSTO DE GASOLINA, MAS EU SÓ TENHO CLIENTE NOJENTO!', 1696431648.0, 0.06398005100097645).
 video('Gaming', 'Jazzghost', 'VIREI CAIXA DE SUPERMERCADO DA MADRUGADA, MAS ELE ESTÁ MAL ASSOMBRADO! - The Convenience Store', 1696604406.0, 0.06499070687294542).
 video('Gaming', 'Jazzghost', 'GUARDA NOTURNO MAS AO INVÉS DE SER ATACADO POR ANIMATRONIC É POR FANTASMA MESMO! - Night Security', 1697209229.0, 0.06939092042286356).
+video('Gaming', 'Jazzghost', 'PRA ACORDAR DESSE PESADELO EU VOU TER QUE EXPLODIR O PLANETA TERRA!', 1697554847.0, 0.05635032233285827).
+video('Gaming', 'Jazzghost', 'O BIZARRO EPISÓDIO PERDIDO DE UMA SÉRIE DE TERROR DE 40 ANOS ATRÁS! - Midnight Scenes The Nanny', 1697641899.0, 0.060062106088623404).
+video('Gaming', 'Jazzghost', 'ELE PEGA ESSE TREM TODA MADRUGADA MAS PARECE QUE O TREM NÃO EXISTE... - The Ghost Train', 1697814034.0, 0.06080959222810698).
+video('Gaming', 'Jazzghost', 'SOBREVIVENDO NUMA ILHA DESERTA POR QUE O PLANETA FOI PARAR DE BAIXO D\'ÁGUA!', 1698073229.0, 0.06865949882944594).
 video('Gaming', 'JeffBlox', 'HUMILHARAM O NOOB MAS NÃO SABIAM QUE ELE TINHA ROBUX INFINITO KKKKK (Roblox Lifting Warriors)', 1654893762.0, 0.03483460581121513).
 video('Gaming', 'JeffBlox', 'COMI MUITA POEIRA MAS ELES NÃO ESPERAVAM QUE EU TIVESSE ROBUX INFINITO KKKKK (Roblox Race Clicker)', 1660254382.0, 0.03623197492163009).
 video('Gaming', 'JeffBlox', 'NOOB COM ROBUX INFINITO COMPRANDO OVO DE 1.000.000 DE WINS NO RACE CLICKER *TOP GLOBAL* (ROBLOX)', 1660510288.0, 0.05663570725850828).
@@ -11403,6 +11562,7 @@ video('Gaming', 'JeffBlox', 'ENGOLI FUMAÇA NA CORRIDA MAS DEPOIS CONSEGUI O MEL
 video('Gaming', 'JeffBlox', 'OS MONSTROS DE DOORS ME AJUDARAM A SER O TOP 1 DO ROBLOX (Doors Race Clicker)', 1665006305.0, 0.04091636153685271).
 video('Gaming', 'JeffBlox 2', 'O PODER MÁXIMO DO NOVO PARAGON DO MACACO ÁS *O MAIS FORTE DE TODOS* - Bloons TD 6', 1665607500.0, 0.05507375113957783).
 video('Gaming', 'JeffBlox 2', 'DESCOBRI OS 3 CÓDIGOS SECRETOS DO RACE CLICKER E CONSEGUI O PET SECRETO DE HALLOWEEN - ROBLOX', 1665851267.0, 0.03723476451160476).
+video('Gaming', 'JeffBlox 2', 'LOCALIZAÇÃO E COMO PEGAR O ESTILO DE LUTA ARTE DE SANGUE NO BLOX FRUITS ATUALIZAÇÃO 20', 1697930935.0, 0.03466174469891942).
 video('Gaming', 'Jerry Freitas', 'Minecraft: Fui TESTAR as PICARETAS e o HEROBRINE quis aparecer', 1643899500.0, 0.07510645537122766).
 video('Gaming', 'Jhon Clash', 'FÁCIL! COMO COMPLETAR O NOVO DESAFIO DA MONTANHA DO TIGRE MUITO RÁPIDO NO CLASH OF CLANS!', 1643457616.0, 0.10782892911103574).
 video('Gaming', 'Jiraiya', 'Segredo Que Demorou 20 ANOS Para Ser DESCOBERTO', 1643670307.0, 0.17950288292056285).
@@ -11415,6 +11575,7 @@ video('Gaming', 'Jonan.Official', 'Monte Seu Time em Naruto com os Personagens, 
 video('Gaming', 'Juaumzinho', 'MOSTREI TODAS AS NOVAS FRUTAS 17.3 no BLOX FRUITS!', 1662872005.0, 0.0408522439401616).
 video('Gaming', 'Juaumzinho', 'TESTEI TODAS AS NOVAS FRUTAS 18 no BLOX FRUITS! (UPDATE 18)', 1672020012.0, 0.027703674687810247).
 video('Gaming', 'Juaumzinho', 'TESTEI A NOVA LOVE E STRING (SPIDER) NO BLOX FRUITS VALENTINE UPDATE!', 1677296700.0, 0.03110960413664491).
+video('Gaming', 'Juaumzinho', 'COMO SPAWNAR o LEVIATHAN e COMO PEGAR ESTILO DE LUTA NO BLOX FRUITS!', 1697938234.0, 0.04106056680361748).
 video('Gaming', 'Julia MineGirl', 'Roblox - HISTÓRIA! CINEMA ASSOMBRADO (Movies Story)', 1641304813.0, 0.0731184966189188).
 video('Gaming', 'Julia MineGirl', 'Roblox - A BONECA MARGARETE (Maria?)', 1641564010.0, 0.060097545681871624).
 video('Gaming', 'Julia MineGirl', 'MASSINHAS NA PRISÃO! (Human Fall Flat)', 1641996017.0, 0.052812774547226354).
@@ -11453,9 +11614,11 @@ video('Gaming', 'Julia MineGirl', 'O PROFESSOR VIROU ESSA CABEÇA? (Roblox Gods 
 video('Gaming', 'Julia MineGirl', 'SE SAIR DA LUZ MORRE! (Roblox Stay In The Light)', 1692708900.0, 0.05145246700245012).
 video('Gaming', 'Julia MineGirl', 'DESENHANDO MINHA MÃE no ANIVERSÁRIO DELA! (Roblox Draw n\' Spawn!)', 1696856401.0, 0.08184538338281999).
 video('Gaming', 'Julia MineGirl', 'OS MONSTROS DA JANELA Invadiram Nossa Casa (Roblox The Creeps!)', 1697306411.0, 0.04507752725302999).
+video('Gaming', 'Julia MineGirl', 'COMO ANDAR DE BICICLETA NO ROBLOX? (Obby But You\'re on a Bike)', 1697486422.0, 0.044498010780496214).
 video('Gaming', 'Julio Cocielo', 'MICHAEL JACKSON REVIVE E EMOCIONA A MULTIDÃO NO GUITAR HERO', 1666645210.0, 0.1747563147937112).
 video('Gaming', 'Julio Cocielo', 'MÓ PANELA! SÓ CARTA ABSURDA NO TOTY DO FIFA MOBILE!', 1677697614.0, 0.1453961809899214).
 video('Gaming', 'Julio Cocielo', 'BIA GAMER E O SPIDER MAN 2 EM LOS ANGELES! ✈️🕷️', 1695674743.0, 0.1393201212605051).
+video('Gaming', 'Julio Cocielo', 'SÓ GOLAÇO E CARTA APELONA! (EA SPORTS FC MOBILE)', 1697490029.0, 0.12071866309834108).
 video('Gaming', 'Just Dance', 'Just Dance 2024 Edition - How You Like That by BLACKPINK', 1687357563.0, 0.05282476859240345).
 video('Gaming', 'Just Dance', 'Just Dance 2024 Edition -  Flowers by Miley Cyrus', 1687357575.0, 0.04876647847466413).
 video('Gaming', 'Just Dance', 'Just Dance 2024 Edition -  Cure For Me by AURORA', 1695225603.0, 0.05478554733441515).
@@ -11512,6 +11675,7 @@ video('Gaming', 'L3VI', 'entrei no meu mapa e esse mob estava me esperando', 166
 video('Gaming', 'L3VI', 'entrei no meu mapa com essa criatura me esperando', 1661897700.0, 0.02786371880236214).
 video('Gaming', 'LIGA MFL', 'LIGA MFL: GRANDE FINAL - ULTIMO DIA - DIA 3 - Free Fire AO VIVO #ligamfl', 1683776016.0, 0.07549910630132291).
 video('Gaming', 'LIGA MFL', 'LIGA MFL - DIA 1 - GRUPOS A e B - Free Fire AO VIVO', 1696902415.0, 0.13072498441098993).
+video('Gaming', 'LIGA MFL', 'LIGA MFL: GRUPO A x D  - DIA 3 - Free Fire AO VIVO #ligamfl', 1697506351.0, 0.08619736458337868).
 video('Gaming', 'LINKZIN', 'QUEM É GLAMROCK FREDDY?... teoria...', 1641252611.0, 0.11212928044078986).
 video('Gaming', 'LINKZIN', 'GREGORY NÃO É UM ROBÔ... teoria...', 1641857412.0, 0.11355754029020536).
 video('Gaming', 'LINKZIN', 'TEORIZANDO O TRAILER DE POPPY CAP 2...', 1646089212.0, 0.13476892424526804).
@@ -11533,6 +11697,8 @@ video('Gaming', 'Laadin', 'minecraft #shorts', 1647923184.0, 0.09114969982570525
 video('Gaming', 'Lanzito', 'NINGUEM ACREDITOU QUANDO VIU ESSA NOVA ATUALIZAÇÃO DO BLOX FRUITS KKKKKKKKKKKKK', 1669903217.0, 0.07704484599451003).
 video('Gaming', 'Lanzito', 'O QUE AS PESSOAS OFERECEM POR KILO PERMANENTE NO BLOX FRUITS', 1672947046.0, 0.052279594552744134).
 video('Gaming', 'Lanzito', 'O Que as Pessoas Oferecem Por TRIPLE DARK BLADE PERMANENTE no Blox Fruits', 1690566906.0, 0.0489028341531579).
+video('Gaming', 'Lanzito', 'Finalmente Chegou a Atualização do Blox Fruits e Precisei Fazer Isso...', 1697847600.0, 0.06961493337069011).
+video('Gaming', 'Lanzito', '24 Horas Rastreando as Novas Frutas da Atualização do Blox Fruits', 1698174600.0, 0.0784268937607071).
 video('Gaming', 'Larian Studios', 'Baldur\'s Gate 3: Launch Trailer', 1691074778.0, 0.060505027742634936).
 video('Gaming', 'League of Legends', 'Season 2022 Livestream Teaser | League of Legends', 1641481205.0, 0.025844345988581072).
 video('Gaming', 'League of Legends', 'Season 2022 Opening Day | Full Livestream - League of Legends', 1641567611.0, 0.054721581366798056).
@@ -11546,6 +11712,8 @@ video('Gaming', 'League of Legends', 'LIL NAS X TAKES OVER AS PRESIDENT OF LEAGU
 video('Gaming', 'League of Legends', 'Lil Nas X - STAR WALKIN\' (League of Legends Worlds Anthem)', 1663858630.0, 0.08000970969721898).
 video('Gaming', 'League of Legends', 'Fire to the Fuse (Ft. Jackson Wang) | Official Empyrean Cinematic - League of Legends x 88rising', 1667487628.0, 0.06062772890615013).
 video('Gaming', 'League of Legends', 'GODS ft. NewJeans (뉴진스) (Official Music Video) | Worlds 2023 Anthem - League of Legends', 1696395429.0, 0.059926417388382794).
+video('Gaming', 'League of Legends', 'HEARTSTEEL - PARANOIA Music Video Teaser | League of Legends', 1697818008.0, 0.06525075344553181).
+video('Gaming', 'League of Legends', 'HEARTSTEEL - PARANOIA ft. BAEKHYUN, tobi lou, ØZI, and Cal Scruby (Official Music Video)', 1698073032.0, 0.0816291778377858).
 video('Gaming', 'League of Legends BR', 'League of Legends: Zeri, a Faísca de Zaun | Trailer da Campeã', 1641506979.0, 0.12470897310132578).
 video('Gaming', 'League of Legends BR', 'League of Legends: Temporada 2022 – Skins e Eventos | Vídeo Dev', 1641568977.0, 0.10363212868944936).
 video('Gaming', 'League of Legends BR', 'League of Legends: Zeri | Mecânica de jogo - Campeã em Destaque', 1642710604.0, 0.06802359839088654).
@@ -11599,8 +11767,8 @@ video('Gaming', 'LeyBritoGamer', 'Pesca no  Lago Biwa no Japão Fishing Clash', 
 video('Gaming', 'LeyBritoGamer', 'Desbloqueamos um novo mapa a Ilha de Palawan , Fishing Clash', 1682642365.0, 0.03222935433410648).
 video('Gaming', 'LeyBritoGamer', 'Sobrevivendo na Amazônia captura do Tatu Bola', 1683157212.0, 0.04261926535589087).
 video('Gaming', 'Lggj', 'USEI BUG de XRAY para ESPIONAR MEUS AMIGOS... e vi algo MACABRO - Minecraft Irmandade 2 - 32', 1641909601.0, 0.10925382384079739).
-video('Gaming', 'Lggj', 'O COELHO DOURADO ESTÁ NO SERVIDOR... - Minecraft Irmandade 2 - 36', 1642600801.0, 0.1277198153822286).
 video('Gaming', 'Lggj', 'O COELHO DOURADO ESTÁ NO SERVIDOR... - Minecraft Irmandade 2 - 39', 1642600801.0, 0.12018013652276355).
+video('Gaming', 'Lggj', 'O COELHO DOURADO ESTÁ NO SERVIDOR... - Minecraft Irmandade 2 - 36', 1642600801.0, 0.1277198153822286).
 video('Gaming', 'Lggj', 'PRENDI O INVASOR NUMA PRISÃO IMPOSSÍVEL DE ESCAPAR - 70 - Minecraft Irmandade 2', 1646835301.0, 0.08644344920736476).
 video('Gaming', 'Lggj', 'FINALMENTE PRENDI O INVASOR DO BANCO DE UTOPIA!!!', 1656429422.0, 0.11487346380564649).
 video('Gaming', 'Lggj', 'PRENDI O VERDADEIRO LADRÃO DO BANCO DA UTOPIA', 1656684326.0, 0.16795966086772585).
@@ -11629,8 +11797,8 @@ video('Gaming', 'Ligonz', 'Meus amigos ME ENGANARAM e ENTÃO EU FIZ VINGANÇA', 
 video('Gaming', 'Ligonz', 'preciso achar A CRIATURA PERIGOSA O YETI MINECRAFT', 1660064407.0, 0.06599669739241878).
 video('Gaming', 'Ligonz', 'armadilha para CAPTURAR O YETI CRIATURA MAIS PERIGOSA', 1660311902.0, 0.05390052092393046).
 video('Gaming', 'Ligonz', 'Enganei TODOS MEUS AMIGOS com O MAIOR EVENTO DO SERVIDOR - Fim', 1660665630.0, 0.053637657591258395).
-video('Gaming', 'Ligonz', 'Creative Squad 3: Proteja sua BANDEIRA', 1661202078.0, 0.07709972696491471).
 video('Gaming', 'Ligonz', 'Creative Squad 3: Proteja-se do WARDEN e a sua BANDERIA', 1661202078.0, 0.07248954043598484).
+video('Gaming', 'Ligonz', 'Creative Squad 3: Proteja sua BANDEIRA', 1661202078.0, 0.07709972696491471).
 video('Gaming', 'Ligonz', 'Usei o NOVO MOB RARO para ROUBAR O ITEM MAIS IMPORTANTE desse SERVIDOR', 1661467500.0, 0.059443992549346146).
 video('Gaming', 'Ligonz', 'ESSE É O PLAYER MAIS FORTE DESSE SERVIDOR', 1663334102.0, 0.05915003117781896).
 video('Gaming', 'Ligonz', 'EU SUBESTIMEI ELE', 1663966817.0, 0.0675237711732308).
@@ -11662,6 +11830,7 @@ video('Gaming', 'LipaoGamer', 'CARROS vs RainbowFriends! (AZUL BABÃO) - Teardow
 video('Gaming', 'LipaoGamer', 'O BEBÊ fugiu de casa! - (NOVO) Who\'s Your Daddy 2', 1683739810.0, 0.046569995753350794).
 video('Gaming', 'LipaoGamer', 'CARROS vs Skibidi Toilet (impossível) - Teardown', 1686504603.0, 0.039557955544392814).
 video('Gaming', 'LipaoGamer', 'Reagindo ao Skibidi Toilet na Realidade Virtual! (360° VR)', 1686850203.0, 0.033690175427627936).
+video('Gaming', 'LipaoGamer', 'SPIDER MAN 2 PS5 - O inicio do jogo em MUNDO ABERTO!', 1697739146.0, 0.04185234774151862).
 video('Gaming', 'LipeBlox', 'TESTEI OS TIKTOKS VIRAIS DO SONIC SPEED SIMULATOR DE COMO GANHAR O SHADOW E SILVER! (Roblox)', 1651621227.0, 0.0735370986822196).
 video('Gaming', 'LipeBlox', 'TESTEI OS TIKTOKS VIRAIS DO SONIC SPEED SIMULATOR DE COMO GANHAR O SHADOW E SUPER SONIC! (Roblox)', 1651722847.0, 0.05994638467406968).
 video('Gaming', 'LipeBlox', 'JUMPSCARE DO MONSTRO AMARELO E ROSA FOI REVELADO UM NOVO FINAL NO RAINBOW FRIENDS (Roblox)', 1660588493.0, 0.06646317607002318).
@@ -11673,8 +11842,8 @@ video('Gaming', 'LipeBlox', 'O QUE ACONTECE SE AJUDAR O AZUL BABÃO NO FINAL DE 
 video('Gaming', 'LipeBlox', 'DESMASCAREI 10 MITOS NO RAINBOW FRIENDS EM 24 HORAS!', 1666828720.0, 0.06931101674447615).
 video('Gaming', 'LipeBlox', 'MONSTRO ROXO APARECEU NO RAINBOW FRIENDS!', 1672870533.0, 0.03541394665928144).
 video('Gaming', 'LipeBlox', 'O QUE ACONTECE SE OS RAINBOW FRIENDS NUNCA NOS VEREM? MONSTRO ROXO APARECEU! NOVO FINAL', 1672965053.0, 0.01864857645304187).
-video('Gaming', 'LipeBlox', 'O RAINBOW FRIENDS ATUALIZOU HOJE! CHAPTER 2 LANÇAMENTO NOVOS MONSTROS CIANO E AMARELO APARECEU!Final', 1685395373.0, 0.02639094165685513).
 video('Gaming', 'LipeBlox', 'O RAINBOW FRIENDS ATUALIZOU HOJE! CHAPTER 2 LANÇAMENTO SEXTA FEIRA DIA 2 DE JUNHO! NOVO MONSTRO', 1685395373.0, 0.03006302416753511).
+video('Gaming', 'LipeBlox', 'O RAINBOW FRIENDS ATUALIZOU HOJE! CHAPTER 2 LANÇAMENTO NOVOS MONSTROS CIANO E AMARELO APARECEU!Final', 1685395373.0, 0.02639094165685513).
 video('Gaming', 'LipeBlox', 'LANÇOU!! ENTREI NO RAINBOW FRIENDS CHAPTER 2 NO ROBLOX! NOVO FINAL E JUMPSCARE! ATUALIZAÇÃO', 1685717995.0, 0.07306362346037704).
 video('Gaming', 'Lives do alanzoka', 'alanzoka jogando Choo-Choo Charles', 1671030033.0, 0.07805065578066171).
 video('Gaming', 'Lives do alanzoka', 'alanzoka jogando Hogwarts Legacy - #1', 1675782031.0, 0.08421532619779964).
@@ -11702,6 +11871,7 @@ video('Gaming', 'Lucas Clash ON', 'Fingi ser Noob e Trollei o Desumilde no Blox 
 video('Gaming', 'Lucas Clash ON', 'Girei 100 frutas até conseguir a Fruta do Leopardo no Blox Fruits', 1675804229.0, 0.18650395381989504).
 video('Gaming', 'Lucas Clash ON', 'A Fruta de cada Youtuber no Blox Fruits', 1677103172.0, 0.11068746158420492).
 video('Gaming', 'Lucas Clash ON', 'Abrindo Caixas de Mini-Figuras de Stumble Guys até completar a Coleção', 1685297283.0, 0.15295348519845742).
+video('Gaming', 'Lucas Clash ON', 'fazendo troca até conseguir a nova fruta do SOM no Blox Fruits', 1698014636.0, 0.16971079455725885).
 video('Gaming', 'Lucas Cordeiro', 'COLOQUEI LUVA DE PEDREIRO VS CR7 NO DESAFIO DE FALTAS!!!', 1647875800.0, 0.062131698162823774).
 video('Gaming', 'Lucas Cordeiro', 'O INÍCIO DO MODO CARREIRA JOGADOR NO FIFA 23!!!', 1664118283.0, 0.09405635803930855).
 video('Gaming', 'Lucas Cordeiro', 'BRASILEIRÃO E SELEÇÃO BR! COMO ESTÃO NO FIFA 23!?', 1664139921.0, 0.07514702094780219).
@@ -11815,18 +11985,20 @@ video('Gaming', 'Mendrake', 'TRANSFORMEI O THE END', 1679315429.0, 0.04622619574
 video('Gaming', 'Mendrake', 'O DIA QUE FIZ O MEGA VULCÃO', 1680642767.0, 0.041509811557517144).
 video('Gaming', 'Mendrake', 'O LABORATÓRIO SECRETO', 1681337758.0, 0.04470208727116717).
 video('Gaming', 'Mendrake', 'PROJETO ESPACIAL NO MINECRAFT', 1683376201.0, 0.043969895898233614).
-video('Gaming', 'Mendrake', 'FIZ A MEGA BASE ESPACIAL', 1683376201.0, 0.052095271632999325).
 video('Gaming', 'Mendrake', 'FIZ O THE END VIRAR UMA ESTAÇÃO ESPACIAL', 1683376201.0, 0.044413016344978296).
+video('Gaming', 'Mendrake', 'FIZ A MEGA BASE ESPACIAL', 1683376201.0, 0.052095271632999325).
 video('Gaming', 'Mendrake', 'O INVASOR DA CREATIVE SQUAD', 1688992236.0, 0.04814686114303874).
 video('Gaming', 'Mendrake', 'ESSE PLAYER MISTERIOSO INVADIU O SERVIDOR', 1688992236.0, 0.041215354592609124).
 video('Gaming', 'Mendrake', 'ESPIONEI O INVASOR E DESCOBRI...', 1689364762.0, 0.05180488338819261).
-video('Gaming', 'Mendrake', 'O TIME DE INVASORES DO SERVIDOR', 1690319700.0, 0.056742074713499034).
-video('Gaming', 'Mendrake', 'O NOVO TIME DE INVASORES DO SERVIDOR', 1690319700.0, 0.04463717292188709).
 video('Gaming', 'Mendrake', 'O NOVO TIME DE INVASORES DA CREATIVE SQUAD 3', 1690319700.0, 0.04390936600853259).
+video('Gaming', 'Mendrake', 'O NOVO TIME DE INVASORES DO SERVIDOR', 1690319700.0, 0.04463717292188709).
+video('Gaming', 'Mendrake', 'O TIME DE INVASORES DO SERVIDOR', 1690319700.0, 0.056742074713499034).
 video('Gaming', 'Mendrake', 'QUANDO O TIME DA NEVE DERROTOU O INVASOR', 1691670610.0, 0.055392108935444016).
 video('Gaming', 'Mendrake', 'CREATIVE SQUAD VS INVASORES (Fim)', 1694001655.0, 0.051315376219635986).
 video('Gaming', 'Mendrake', 'CREATIVE SQUAD 4: A VINGANÇA FINAL', 1696681834.0, 0.059877320695372487).
 video('Gaming', 'Mendrake', 'NAIT vs MENDRAKE - MINECRAFT A JORNADA', 1696941011.0, 0.05565384834015462).
+video('Gaming', 'Mendrake', 'COMO CONSEGUI 1000 NÍVEIS DE XP NO MINECRAFT', 1698237003.0, 0.035406392920373474).
+video('Gaming', 'Mendrake', 'O DIA QUE CONSEGUI 1000 NÍVEIS DE XP', 1698237003.0, 0.0405050149242663).
 video('Gaming', 'Mikhael Línnyker', 'FIQUEI PRESO NO BACKROOMS DO MINECRAFT', 1651762815.0, 0.10085267780756288).
 video('Gaming', 'Minecraft', 'The Wild Update: What Will You Uncover? – Official Minecraft Trailer', 1654444815.0, 0.08572454204877669).
 video('Gaming', 'Minecraft', 'The Wild Update: Where Will You Wander? – Official Minecraft Trailer', 1654527619.0, 0.08990205891469195).
@@ -11846,15 +12018,16 @@ video('Gaming', 'Minecraft', 'Minecraft Live 2023: Vote for the crab!', 16963452
 video('Gaming', 'Minecraft', 'Minecraft Live 2023: Vote for the armadillo!', 1696431637.0, 0.09379014207719759).
 video('Gaming', 'Minecraft', 'Minecraft Live 2023: Vote for the penguin!', 1696518046.0, 0.08665956573604021).
 video('Gaming', 'Minecraft', 'Minecraft Live 2023: Which mob will you vote for?', 1696604405.0, 0.0726161033250893).
+video('Gaming', 'Minecraft', 'Minecraft Live 2023', 1697392751.0, 0.0505380912517247).
 video('Gaming', 'Mineirim', 'HUGGY WUGGY', 1643598901.0, 0.06976980228167756).
 video('Gaming', 'Mineluck', '🔥 ELE DESPERTOU MINHA FURIA... - Mineluck #shorts', 1647361791.0, 0.08269287702054592).
-video('Gaming', 'Mnet K-POP', '\'최초 공개\' 슬기라는 이유. \'슬기 (SEULGI)\'의 \'28 Reasons\' 무대 #엠카운트다운 EP.773 | Mnet 221006 방송', 1665053396.0, 0.13780265431527677).
 video('Gaming', 'Mnet K-POP', '[SEULGI - 28 Reasons] Hot Solo Debut Stage | #엠카운트다운 EP.773 | Mnet 221006 방송', 1665053396.0, 0.1038967311062356).
+video('Gaming', 'Mnet K-POP', '\'최초 공개\' 슬기라는 이유. \'슬기 (SEULGI)\'의 \'28 Reasons\' 무대 #엠카운트다운 EP.773 | Mnet 221006 방송', 1665053396.0, 0.13780265431527677).
 video('Gaming', 'Mnet K-POP', '[2022 MAMA] IVE&Kep1er&NMIXX&LESSERAFIM&NewJeans-ELEVEN+WADADA+O.O+FEARLESS+Hypeboy | Mnet 221129 방송', 1669723291.0, 0.04776993360498208).
 video('Gaming', 'Mnet K-POP', '[2022 MAMA] IVE&Kep1er&NMIXX&LESSERAFIM&NewJeans-ELEVEN+WADADA+O.O+FEARLESS+HypeBoy | Mnet 221129 방송', 1669723291.0, 0.06475347854531242).
 video('Gaming', 'Mnet K-POP', '[2022 MAMA] IVE&Kep1er&NMIXX&LE SSERAFIM&NewJeans - CHEER UP | Mnet 221129 방송', 1669723411.0, 0.0720577207459963).
-video('Gaming', 'Mnet K-POP', '[2022 MAMA] Stray Kids - a strange incident+VENOM(MAMA ver.)+I AM MANIAC+MANIAC | Mnet 221129 방송', 1669731688.0, 0.12127549584427072).
 video('Gaming', 'Mnet K-POP', '[2022 MAMA] Stray Kids - Venom + MANIAC (MAMA ver.) | Mnet 221129 방송', 1669731688.0, 0.09186384304137411).
+video('Gaming', 'Mnet K-POP', '[2022 MAMA] Stray Kids - a strange incident+VENOM(MAMA ver.)+I AM MANIAC+MANIAC | Mnet 221129 방송', 1669731688.0, 0.12127549584427072).
 video('Gaming', 'Mnet K-POP', '[2022 MAMA] j-hope - MORE + Arson | Mnet 221130 방송', 1669812275.0, 0.15247980253964255).
 video('Gaming', 'Mnet K-POP', '\'최초 공개\' TWICE(트와이스) - SET ME FREE #엠카운트다운 EP.788 | Mnet 230316 방송', 1678964158.0, 0.1056997052116358).
 video('Gaming', 'Mnet K-POP', '\'1위/4K\' 지민 (Jimin) - Like Crazy #엠카운트다운 EP.790 | Mnet 230330 방송', 1680188654.0, 0.18286743221373455).
@@ -11913,6 +12086,7 @@ video('Gaming', 'MucaHD', 'PUTZ CREATIVE SQUAD', 1687039271.0, 0.073754938841176
 video('Gaming', 'MucaHD', 'Ele fez um enigma para mim? Na CreativeSquad', 1689026276.0, 0.07404764574562432).
 video('Gaming', 'MucaHD', 'REVELAÇÃO DOS INVASORES !?', 1693261475.0, 0.0783525058321937).
 video('Gaming', 'MucaHD', 'QUAL É A MELHOR DUPLA DA CREATIVE SQUAD ?', 1693603234.0, 0.07127376308130534).
+video('Gaming', 'MucaHD', 'CREATIVE SQUAD 4: 1 CAÇADOR vs 12 SPEEDRUNNERS', 1697752471.0, 0.06703208248687186).
 video('Gaming', 'Multi', 'Virei REALISTA para PROTEGER a BEBÊ YOUTUBER...', 1670706021.0, 0.03898292390653086).
 video('Gaming', 'Multi', 'CELULAR dos MOBS do Minecraft!', 1673557208.0, 0.09329619731461507).
 video('Gaming', 'Mussoumano Game', 'Mussoumano joga Five Nights at Freddy’s pela primeira vez', 1659646813.0, 0.07141384802773354).
@@ -11985,15 +12159,16 @@ video('Gaming', 'NOBRU', '🚨 ÚLTIMO DIA DE CLASSIFICAÇÃO CPN S9 🚨GRUPO A
 video('Gaming', 'NOBRU', '🏆 FINAL CPN S9 🏆 DIA 1 💜 NOISE - CRIAS - FAZ O P - LOS 💜', 1687573654.0, 0.1073933050087473).
 video('Gaming', 'NOBRU', '🏆 FINAL CPN S9 🏆 DIA 2 💜 CRIAS - FAZ O P - FLAMENGO - LOS - NOISE 💜', 1687660856.0, 0.10706287825068848).
 video('Gaming', 'NOBRU', '🚨GRANDE FINAL - CPN S9 🏆', 1687749224.0, 0.10610176863927573).
+video('Gaming', 'NOBRU', 'CPN X DIA 1 💜 NOISE - CRIAS - LOS - FLAMENGO 💜', 1697856372.0, 0.11088876611578277).
 video('Gaming', 'Nait', 'ESTOU CORRENDO PERIGO NA CIDADE DE UTOPIA', 1658870102.0, 0.09741650913673598).
 video('Gaming', 'Nait', 'VOU SER O PROTETOR DE UTOPIA!', 1658956527.0, 0.09358323784580128).
 video('Gaming', 'Nait', 'DESCOBRINDO SEGREDOS DOS MEUS AMIGOS - IRMANDADE', 1666904565.0, 0.06787628090627057).
-video('Gaming', 'Nait', 'ME VINGUEI DE UM SERVIDOR INTEIRO', 1677240031.0, 0.0656742125984252).
 video('Gaming', 'Nait', 'ME VINGUEI DE UM SERVIDOR INTEIRO - IRMANDADE', 1677240031.0, 0.09171010807374444).
+video('Gaming', 'Nait', 'ME VINGUEI DE UM SERVIDOR INTEIRO', 1677240031.0, 0.0656742125984252).
 video('Gaming', 'Nait', 'DERROTAMOS O PLAYER IMORTAL', 1680264021.0, 0.07796771695753171).
 video('Gaming', 'Nait', 'EU COLETEI A CABEÇA DE TODOS OS MOBS DO MINECRAFT HARDCORE', 1683900029.0, 0.03974846393628714).
-video('Gaming', 'Nait', 'Chamei YOUTUBERS para DESTRUIR meu AMIGO', 1685448033.0, 0.04179618563676021).
 video('Gaming', 'Nait', 'CHAMEI A CREATIVE SQUAD PARA DESTRUIR MEU AMIGO', 1685448033.0, 0.052145937319615636).
+video('Gaming', 'Nait', 'Chamei YOUTUBERS para DESTRUIR meu AMIGO', 1685448033.0, 0.04179618563676021).
 video('Gaming', 'Nait', 'Creative Squad 4: Eu sou o NOVO PARTICIPANTE', 1696680053.0, 0.0718237434991755).
 video('Gaming', 'Nait', 'FUI BANIDO DA CREATIVE SQUAD', 1697292016.0, 0.05450936077940323).
 video('Gaming', 'Nait', '24 HORAS para ser DESBANIDO da Creative Squad', 1697292016.0, 0.06183747033755655).
@@ -12052,8 +12227,8 @@ video('Gaming', 'Nintendo of America', 'Super Mario RPG - Nintendo Direct 6.21.2
 video('Gaming', 'Nintendo of America', 'Super Mario Bros. Wonder Direct 8.31.2023', 1693491595.0, 0.04561633491576591).
 video('Gaming', 'Nintendo of America', 'Nintendo Direct 9.14.2023 - Nintendo Switch', 1694702911.0, 0.0).
 video('Gaming', 'Nissan Ni', 'Minecraft, mas não pode tocar no azul', 1644334201.0, 0.087501804332619).
-video('Gaming', 'Nitro', 'JOGANDO COM A MOMMY LONG LEGS em um APENAS UM BLOCO no MINECRAFT!', 1653060606.0, 0.036174834626141336).
 video('Gaming', 'Nitro', 'JOGANDO COM A MOMMY LONG LEGS em APENAS UM BLOCO no MINECRAFT!', 1653060606.0, 0.032636737595855975).
+video('Gaming', 'Nitro', 'JOGANDO COM A MOMMY LONG LEGS em um APENAS UM BLOCO no MINECRAFT!', 1653060606.0, 0.036174834626141336).
 video('Gaming', 'Nitro', 'JOGANDO COM A MOMMY LONG LEGS e DADDY LONG LEGS em APENAS UM BLOCO no MINECRAFT!', 1653415202.0, 0.04239087659462828).
 video('Gaming', 'Nitro', 'JOGANDO COM TODOS OS MONSTROS DE POPPY PLAYTIME em APENAS UM BLOCO no MINECRAFT!', 1654443005.0, 0.037705520345366034).
 video('Gaming', 'Nitro', 'FUI ENCONTRADO PELA FAMÍLIA ROXO de RAINBOW FRIENDS no MINECRAFT!', 1661872504.0, 0.029017542682722303).
@@ -12064,8 +12239,8 @@ video('Gaming', 'Noobzinho', 'invadi os planetas de youtubers e não acreditei n
 video('Gaming', 'Noobzinho', 'meus amigos me prenderam na prisão de gelo e então busquei vingança', 1646601300.0, 0.04109607504852275).
 video('Gaming', 'Noobzinho', 'criei meu próprio minecraft', 1652037300.0, 0.06013907160308213).
 video('Gaming', 'Noobzinho', '24 Horas para recriar TODOS os Biomas do minecraft!', 1659473104.0, 0.04054843678988591).
-video('Gaming', 'Noobzinho', 'Recriei um Beacon com TODOS os Blocos do Minecraft!', 1659995221.0, 0.03670300483049487).
 video('Gaming', 'Noobzinho', 'Criei um Sinalizador com TODOS os Blocos do Minecraft!', 1659995221.0, 0.034636621399791075).
+video('Gaming', 'Noobzinho', 'Recriei um Beacon com TODOS os Blocos do Minecraft!', 1659995221.0, 0.03670300483049487).
 video('Gaming', 'Noobzinho', 'PRENDI TODOS os Bosses do Minecraft 1.19!', 1660776301.0, 0.04667051266261757).
 video('Gaming', 'Nothii', 'Sobrevivi 100 dias como um LOBISOMEM no Minecraft HARDCORE', 1663016247.0, 0.05065590181200416).
 video('Gaming', 'Nothii', 'Sobrevivi 100 dias como um ALLAY DE OURO  no Minecraft HARDCORE', 1663623260.0, 0.07771283220538909).
@@ -12094,11 +12269,11 @@ video('Gaming', 'Onerb', 'Procurando o PET Secreto do Yeti', 1661204093.0, 0.073
 video('Gaming', 'Onerb', 'CREATIVE SQUAD 3: Proteja sua Bandeira Antes que Seja Tarde!', 1661598060.0, 0.061650152421710666).
 video('Gaming', 'Onerb', 'Usei a MANSÃO COGUMELO pra GUARDAR 1 ITEM!', 1662894060.0, 0.058942534710940714).
 video('Gaming', 'Onerb', 'Deixei a Nova Estrutura do Minecraft Pacífica!', 1664485260.0, 0.0720538588364607).
-video('Gaming', 'Onerb', 'QUADRADO com os MELHORES ITENS do MINECRAFT!', 1664581772.0, 0.05882324578955743).
 video('Gaming', 'Onerb', 'Recriei 7 Farms em 1 CHUNK do Minecraft', 1664581772.0, 0.06514392736452099).
+video('Gaming', 'Onerb', 'QUADRADO com os MELHORES ITENS do MINECRAFT!', 1664581772.0, 0.05882324578955743).
 video('Gaming', 'Onerb', 'EU PRENDI TODOS OS BOSSES DO MINECRAFT', 1667592060.0, 0.050434533839911526).
-video('Gaming', 'Onerb', 'EU COLETEI TODOS OS BLOCOS NO MINECRAFT (Até Bedrock)', 1670673660.0, 0.06336395774677703).
 video('Gaming', 'Onerb', 'EU PEGUEI TODOS OS BLOCOS RAROS NO SOBREVIVÊNCIA', 1670673660.0, 0.06074408215998423).
+video('Gaming', 'Onerb', 'EU COLETEI TODOS OS BLOCOS NO MINECRAFT (Até Bedrock)', 1670673660.0, 0.06336395774677703).
 video('Gaming', 'Onerb', 'Peguei TODOS os Blocos do Minecraft', 1670673660.0, 0.06757125421781894).
 video('Gaming', 'Onerb', '107 FATOS do Minecraft Que Você Queria Saber Antes', 1672668060.0, 0.03313736828578771).
 video('Gaming', 'Onerb', 'Recriei Projetos da CREATIVE SQUAD no Minecraft', 1679750823.0, 0.04965288586134256).
@@ -12137,6 +12312,7 @@ video('Gaming', 'Pai Também Joga 2.0', 'MAIS MONSTROS REVELADOS do GARTEN of BA
 video('Gaming', 'Pandazim', 'TRANSFORMEI OS MOBS EM GARTEN OF BANBAN 3 NO MINECRAFT', 1683814501.0, 0.023748590003274832).
 video('Gaming', 'Papile', 'ATHOS É O VALENTÃO DA ESCOLA', 1654377624.0, 0.03018801221275912).
 video('Gaming', 'Pato Papão', 'RENATA GLASC - Primeiras Impressões', 1644417026.0, 0.1681024629978856).
+video('Gaming', 'Patricio Games', 'CORRE!! NOVO CÓDIGO DA FRUTA MAMUTE + 31 CÓDIGOS ATUALIZADOS DE EXP RESET BELI DO BLOX FRUITS!', 1697919504.0, 0.044428293437741774).
 video('Gaming', 'Patriota', 'TORRES TORTAS VOLTOU! - Fortnite', 1642510814.0, 0.101686771181457).
 video('Gaming', 'Patriota', 'DA TEMPORADA 1 para TEMPORADA 2', 1647694822.0, 0.11145672994698136).
 video('Gaming', 'Patriota', '*NOVO* trailer Fortnite Capítulo 3 Temporada 3!', 1654423856.0, 0.11761943796706752).
@@ -12153,8 +12329,8 @@ video('Gaming', 'Pedrux', 'É POSSÍVEL ESCAPAR DE UTOPIA?', 1668546001.0, 0.099
 video('Gaming', 'Pedrux', 'EU ENCONTREI ELE...', 1670367616.0, 0.09610127386367504).
 video('Gaming', 'Pedrux', 'O RETORNO DA PSI', 1671401230.0, 0.10840714714287167).
 video('Gaming', 'Pedrux', 'MENDRAKE X PEDRUX - ÚLTIMO EPISÓDIO DE UTOPIA 2', 1677760232.0, 0.11089749084630363).
-video('Gaming', 'Pedrux', 'COMO ROUBAR CORAÇÕES DE VIDA DE INIMIGOS', 1679054412.0, 0.07781316776196427).
 video('Gaming', 'Pedrux', 'MUDEI TODAS AS REGRAS DE UM SERVIDOR DE MINECRAFT', 1679054412.0, 0.07361068728172787).
+video('Gaming', 'Pedrux', 'COMO ROUBAR CORAÇÕES DE VIDA DE INIMIGOS', 1679054412.0, 0.07781316776196427).
 video('Gaming', 'Pedrux', 'A CÓPIA FALSIFICADA DE STONKSCRAFT', 1680352222.0, 0.08383289427285362).
 video('Gaming', 'Pelegrino1993', 'NOSSA PRIMEIRA PARTIDA ONLINE DO FIFA 23 ULTIMATE TEAM!! - FIFA 23 Ultimate Team RGSD #4', 1664110816.0, 0.07743290898631919).
 video('Gaming', 'Pers', 'Esse MOD de HEROI é LINDO✨', 1674167680.0, 0.11746133149870389).
@@ -12184,8 +12360,8 @@ video('Gaming', 'Piuzinho', 'FIZ A CASA MAIS LINDA DO MINECRAFT !!', 1685311215.
 video('Gaming', 'Piuzinho', 'A MAIOR CONTRUÇAO DO MINECRAFT !! ( UM DEUS )', 1688079631.0, 0.1682645127198611).
 video('Gaming', 'Piuzinho', 'O PIOR DESAFIO DO MINECRAFT ! ....', 1690761608.0, 0.23847322768501827).
 video('Gaming', 'Piuzinho', 'SE EU M0RRE ... DELETO MEU CANAL  !!  MINECRAFT HARDCORE', 1690761608.0, 0.2521921548604791).
-video('Gaming', 'Piuzinho', 'Gastei 1.000.000 M de Robux nisso ! ( anime adventures ) ‹ Piuzinho ›', 1691359219.0, 0.1746011562653646).
 video('Gaming', 'Piuzinho', 'Gastei 1.000.000$  de Robux nisso ! ( anime adventures ) ‹ Piuzinho ›', 1691359219.0, 0.15179207492963667).
+video('Gaming', 'Piuzinho', 'Gastei 1.000.000 M de Robux nisso ! ( anime adventures ) ‹ Piuzinho ›', 1691359219.0, 0.1746011562653646).
 video('Gaming', 'Pixel', 'Eu FIZ os PERSONAGENS da WANDINHA Dentro do MINECRAFT', 1673126100.0, 0.01758886801584039).
 video('Gaming', 'Pixel', 'Eu fiz os MOBS em GARTEN OF BANBAN no MINECRAFT', 1674224100.0, 0.02740596145504121).
 video('Gaming', 'Pixel', 'Mobs do Minecraft CAPTURADOS NA VIDA REAL', 1675174505.0, 0.01950079602058038).
@@ -12231,11 +12407,13 @@ video('Gaming', 'PlayStation Brasil', 'Resident Evil 4 - 3º trailer | PS5 e PS4
 video('Gaming', 'PlayStation Brasil', 'Marvel\'s Spider-Man 2 - Trailer de Revelação de Gameplay | PS5', 1684972310.0, 0.0736857667856464).
 video('Gaming', 'PlayStation Brasil', 'Marvel’s Spider-Man 2 - Trailer da história | PS5', 1689894427.0, 0.067154336578808).
 video('Gaming', 'PlayStation Brasil', 'Marvel\'s Spider-Man 2 - Sejam Melhores. Juntos. Trailer I PS5', 1696340437.0, 0.09061475737469023).
+video('Gaming', 'PlayStation Brasil', 'Marvel’s Spider-Man 2 – Trailer de Lançamento I PS5', 1697388808.0, 0.07328799888581411).
 video('Gaming', 'PlayZone Shorts', 'Que medo! Se eu fosse você, nao faria isso #shorts', 1647008922.0, 0.10167458408020556).
 video('Gaming', 'PlayZone Shorts', 'Ele meteu o pé hahaha #shorts', 1648822396.0, 0.09668461440624072).
 video('Gaming', 'Plique', 'COMO CONSEGUIR FICAR RICO DE FRUTAS MÍTICAS, DOUGH SEM ROBUX NO BLOX FRUITS (ROBLOX)', 1665172816.0, 0.03431798870395362).
 video('Gaming', 'Plique', '100 DOUGHS BLOX FRUITS (ROBLOX)', 1678112100.0, 0.03816124035925168).
 video('Gaming', 'Plique', 'A SORTE DO NOTIFICADOR DE FRUTAS! DO 1 AO 2.450 GASTANDO 100.000 ROBUX NO BLOX FRUITS', 1694376010.0, 0.03925845147219193).
+video('Gaming', 'Plique', 'TUDO QUE MUDOU NA ATUALIZAÇÃO DO BLOX FRUITS', 1697924444.0, 0.0404154647277069).
 video('Gaming', 'Plique Games', 'COMO DUPLICAR PERSONAGENS NA ATUALIZAÇÃO DE 1 ANO NO ANIME FIGHTERS (ROBLOX)', 1655045100.0, 0.046347322311714005).
 video('Gaming', 'Plique Games', 'JÁ DA PARA DUPLICAR DIVINO NO ANIME FIGHTERS...', 1689534020.0, 0.05454036352126222).
 video('Gaming', 'Pokémon UNITE', 'Clefable & Clefairy Character Spotlight | Pokémon UNITE', 1662814839.0, 0.05802854389426828).
@@ -12250,10 +12428,10 @@ video('Gaming', 'Problems', 'Roubei Os Poderes Dos Youtubers!', 1643461218.0, 0.
 video('Gaming', 'Problems', 'É Impossível Eu Morrer!', 1643547601.0, 0.04129681678541081).
 video('Gaming', 'Problems', 'Esse Vídeo Vai Melhorar Seu Dia', 1644066017.0, 0.04287978577306657).
 video('Gaming', 'Problems', 'A Cada Dia o Tema Do Vídeo Muda!', 1644152416.0, 0.037420028682673176).
-video('Gaming', 'Problems', 'O Minecraft Ficou Realista Demais...', 1644238808.0, 0.031860449805650316).
 video('Gaming', 'Problems', 'Minecraft Ficou Realista Demais...', 1644238808.0, 0.03385642051649306).
-video('Gaming', 'Problems', 'Fuja Dos Youtubers e Ganhe R$10,000', 1644498010.0, 0.03782948655381899).
+video('Gaming', 'Problems', 'O Minecraft Ficou Realista Demais...', 1644238808.0, 0.031860449805650316).
 video('Gaming', 'Problems', 'A Máquina Mortífera Veio Me Pegar!', 1644498010.0, 0.042303991831765794).
+video('Gaming', 'Problems', 'Fuja Dos Youtubers e Ganhe R$10,000', 1644498010.0, 0.03782948655381899).
 video('Gaming', 'Problems', 'Esse Mundo Só Tem 1 Bloco de XP!', 1644584416.0, 0.03135589591135584).
 video('Gaming', 'Problems', 'Tudo Que Eu Desenhar o Freddy Me Dá!', 1645016413.0, 0.03310138812667068).
 video('Gaming', 'Problems', 'Eu Duvido Você Achar Esse Botão...', 1645102833.0, 0.0309791937036882).
@@ -12267,13 +12445,13 @@ video('Gaming', 'Problems', 'Esse Tesouro Nasceu No Lugar Errado...', 1645794001
 video('Gaming', 'Problems', '21 Jeitos De Trollar Seus Amigos!', 1646227881.0, 0.03435236700337549).
 video('Gaming', 'Problems', 'Eu Roubei Os Poderes Dos Youtubers!', 1646312414.0, 0.03239608500567033).
 video('Gaming', 'Problems', 'Eu Consigo Atirar por esse buraco?', 1646398822.0, 0.03535184376847728).
-video('Gaming', 'Problems', 'Trollei os Youtubers Até Eles Não Aguentarem Mais...', 1646485227.0, 0.03717354675652906).
 video('Gaming', 'Problems', 'Trollei Meus Amigos Até Eles Não Aguentarem Mais...', 1646485227.0, 0.03404164431023193).
+video('Gaming', 'Problems', 'Trollei os Youtubers Até Eles Não Aguentarem Mais...', 1646485227.0, 0.03717354675652906).
 video('Gaming', 'Problems', 'Quando você compra o minecraft errado...', 1646571602.0, 0.03866753012005323).
 video('Gaming', 'Problems', 'Prendi Meus Amigos Numa Armadilha!', 1646658028.0, 0.03749486912317262).
 video('Gaming', 'Problems', 'Eu Trollei o Luks com o Pistão Proibido...', 1646744412.0, 0.03742257976540401).
-video('Gaming', 'Problems', 'Se Eu Morrer Eu Ganho!', 1646917208.0, 0.04042840320099021).
 video('Gaming', 'Problems', 'Eu Não Consigo Morrer!', 1646917208.0, 0.0330218428050952).
+video('Gaming', 'Problems', 'Se Eu Morrer Eu Ganho!', 1646917208.0, 0.04042840320099021).
 video('Gaming', 'Problems', 'O Authentic Falou Que era Impossível Fugir...', 1647176429.0, 0.05220896819253408).
 video('Gaming', 'Problems', 'Meus Amigos Conseguem Escapar Desse Labirinto?', 1647295212.0, 0.033975505804456976).
 video('Gaming', 'Problems', 'Testei 50 Mitos em 24 Horas!', 1647608425.0, 0.037901354241299944).
@@ -12285,8 +12463,8 @@ video('Gaming', 'Problems', 'Fiz o Robin Sofrer Numa Prisão de 300 QI', 1648126
 video('Gaming', 'Problems', 'O Último a Sobreviver no Circulo Vence!', 1648299600.0, 0.0414745010444937).
 video('Gaming', 'Problems', 'Celular De R$1 VS R$10.000', 1648386027.0, 0.036691262830005615).
 video('Gaming', 'Problems', 'Eu Enfrentei os Píores Inimigos Do Mundo...', 1648558816.0, 0.03312893105745127).
-video('Gaming', 'Problems', 'A Cada Minuto Eu Viro 1 Monstro Diferente!', 1648731631.0, 0.033291896304279395).
 video('Gaming', 'Problems', 'Esse Mundo Só Tem 1 Bloco!', 1648731631.0, 0.03648202411892977).
+video('Gaming', 'Problems', 'A Cada Minuto Eu Viro 1 Monstro Diferente!', 1648731631.0, 0.033291896304279395).
 video('Gaming', 'Problems', 'Os Youtubers Zeram o Jogo Pra Mim!', 1648818000.0, 0.03729381881080408).
 video('Gaming', 'Problems', 'E Se Os Youtubers Virassem Robos?', 1648904422.0, 0.03084663556275468).
 video('Gaming', 'Problems', 'Meus Amigos me Prenderam de Cabeça Pra Baixo, Então eu Me Vinguei!', 1648990832.0, 0.043397206957175555).
@@ -12295,8 +12473,8 @@ video('Gaming', 'Problems', 'É Possível Sobreviver Em Uma Nuvem?', 1649163621.
 video('Gaming', 'Problems', 'Testei 50 Construções Em 24 Horas!', 1649422815.0, 0.036629443106342606).
 video('Gaming', 'Problems', '17 Jeitos Geniais De Trollar Seu Amigo!', 1649509226.0, 0.03916976135243576).
 video('Gaming', 'Problems', 'É Possível Passar Pelo Buraco da Folha?', 1649595627.0, 0.03390394261193638).
-video('Gaming', 'Problems', 'Os Youtubers Viraram Bebes!', 1649682012.0, 0.03060697884098307).
 video('Gaming', 'Problems', 'E Se os Youtubers Virassem Bebes?', 1649682012.0, 0.03321162690306975).
+video('Gaming', 'Problems', 'Os Youtubers Viraram Bebes!', 1649682012.0, 0.03060697884098307).
 video('Gaming', 'Problems', 'Tente Morrer com 1 Milhão de Corações!', 1649768435.0, 0.033273685885018695).
 video('Gaming', 'Problems', 'Você Consegue Descobrir a Ilusão?', 1649854819.0, 0.03171721011489047).
 video('Gaming', 'Problems', 'Meu Mundo Virou de Dinheiro!', 1649941223.0, 0.03180707804826864).
@@ -12331,10 +12509,10 @@ video('Gaming', 'Problems', 'Trollei meu Amigo me Disfarçando de Blocos!', 1652
 video('Gaming', 'Problems', '18 Truques Fáceis Que Você Não Conhecia!', 1653053860.0, 0.04143541937275202).
 video('Gaming', 'Problems', 'Fiz Tudo Que Meus Amigos Mandaram!', 1653147609.0, 0.03656554594239404).
 video('Gaming', 'Problems', 'Fui Pego Roubando com Criativo...', 1653230503.0, 0.042758636200667055).
-video('Gaming', 'Problems', 'Da pra Bugar o Portal Assim?', 1653411461.0, 0.032894891042864784).
 video('Gaming', 'Problems', 'Testei 100 Mitos em 24 Horas!', 1653411461.0, 0.03774909972452679).
-video('Gaming', 'Problems', 'Criei Mods pra Enganar meu Amigo!', 1653484125.0, 0.03582335922126826).
+video('Gaming', 'Problems', 'Da pra Bugar o Portal Assim?', 1653411461.0, 0.032894891042864784).
 video('Gaming', 'Problems', 'Criei as ideias mais Erradas do Minecraft...', 1653484125.0, 0.03203474239900133).
+video('Gaming', 'Problems', 'Criei Mods pra Enganar meu Amigo!', 1653484125.0, 0.03582335922126826).
 video('Gaming', 'Problems', 'Fizeram um Experimento Comigo...', 1653571125.0, 0.03777207548383681).
 video('Gaming', 'Problems', 'Fiquei de Recuperação na Escola!', 1653742819.0, 0.04087951561038039).
 video('Gaming', 'Problems', 'Eu Recriei os Jogos no Minecraft!', 1662037215.0, 0.03998290505074587).
@@ -12413,9 +12591,9 @@ video('Gaming', 'Problems', 'Virei dono de uma Escola de Alunos Burros', 1671282
 video('Gaming', 'Problems', 'Quem Escrever a Maior Palavra, Vence!', 1671541235.0, 0.03293411748654253).
 video('Gaming', 'Problems', 'Eu Finalmente Tirei a Máscara do Stick!', 1671714015.0, 0.04851141357428143).
 video('Gaming', 'Problems', '30 Dias Para Roubar o Banco!', 1671800431.0, 0.04435039123156843).
+video('Gaming', 'Problems', 'Disfarcei de Professora pra dar 0 Pro Meu Amigo!', 1672318812.0, 0.04202581000855408).
 video('Gaming', 'Problems', 'Desfarcei de Professora pra dar 0 Pro Meu Amigo!', 1672318812.0, 0.044731363421106715).
 video('Gaming', 'Problems', 'Fiz O Meu Amigo Repetir de Ano', 1672318812.0, 0.046504631208205804).
-video('Gaming', 'Problems', 'Disfarcei de Professora pra dar 0 Pro Meu Amigo!', 1672318812.0, 0.04202581000855408).
 video('Gaming', 'Problems', 'A Máscara do Stick se voltou contra a gente...', 1672664721.0, 0.048417055144398334).
 video('Gaming', 'Problems', 'Eu Morri e Virei um Fantasma!', 1672750805.0, 0.042156811905227284).
 video('Gaming', 'Problems', 'Revelei o NOME VERDADEIRO dos Meus Amigos', 1672923628.0, 0.05169888658508815).
@@ -12471,8 +12649,8 @@ video('Gaming', 'Problems', 'Esse é o Nome Verdadeiro do Kadu: ⬜⬜⬜⬜⬜�
 video('Gaming', 'Problems', 'Esse é o Novo Pet Que eu Adotei...', 1677589229.0, 0.045237929542476935).
 video('Gaming', 'Problems', 'Eu Recriei os Mitos Assustadores do Minecraft...', 1677675602.0, 0.03889236726064147).
 video('Gaming', 'Problems', 'Essa é a VERDADE Sobre meu Pai...', 1677762043.0, 0.04282413528914867).
-video('Gaming', 'Problems', 'Entrou um novo Personagem pra nossa TURMA!', 1677848441.0, 0.044649687501542336).
 video('Gaming', 'Problems', 'Esse é o novo AMIGO da TURMA!', 1677848441.0, 0.0413439575911369).
+video('Gaming', 'Problems', 'Entrou um novo Personagem pra nossa TURMA!', 1677848441.0, 0.044649687501542336).
 video('Gaming', 'Problems', 'Esse é o Novo Vilão da Nossa Turma...', 1677934824.0, 0.04548544652630636).
 video('Gaming', 'Problems', 'Eu Finalmente Revelei a Identidade do Zoom', 1678021201.0, 0.04573461733219213).
 video('Gaming', 'Problems', 'Ela Virou Bruxa e Não Quer Mais Mostrar o Rosto...', 1678194005.0, 0.043700671861731356).
@@ -12487,8 +12665,8 @@ video('Gaming', 'Problems', 'Recriei Videos Da Vida Real no Minecraft...', 16788
 video('Gaming', 'Problems', 'Todos Esqueceram o Aniversário Da Melzinha...', 1678971648.0, 0.04269317677339545).
 video('Gaming', 'Problems', 'Caçadores X Speedrunners NA VIDA REAL', 1679058033.0, 0.04159987159294965).
 video('Gaming', 'Problems', 'Passamos Uma Noite Numa CASA FANTASMA...', 1679144403.0, 0.04938246802963439).
-video('Gaming', 'Problems', 'Verdade ou Desafio EXTREMO no Minecraft', 1679230841.0, 0.04794644086599162).
 video('Gaming', 'Problems', 'Me Deixaram VERDE No Minecraft...', 1679230841.0, 0.04433312499902587).
+video('Gaming', 'Problems', 'Verdade ou Desafio EXTREMO no Minecraft', 1679230841.0, 0.04794644086599162).
 video('Gaming', 'Problems', 'Problems De Fogo X De Água - A BATALHA FINAL', 1679403623.0, 0.04330849191593441).
 video('Gaming', 'Problems', 'FINALMENTE... MEU VERDADEIRO PAI... REVELADO.', 1679576439.0, 0.04695296361036072).
 video('Gaming', 'Problems', 'E Se Todos os Elementais se Enfrentassem?', 1679662805.0, 0.04164492133408485).
@@ -12523,8 +12701,8 @@ video('Gaming', 'Problems', 'Eu Criei meu Próprio Minecraft de novo', 168406923
 video('Gaming', 'Problems', 'Todo Jogo que eu Desenhar, Vira Verdade!', 1684501201.0, 0.0332336458957268).
 video('Gaming', 'Problems', 'Indo de Super fofo a Assustador em 24 Horas!', 1684587643.0, 0.04117849262056041).
 video('Gaming', 'Problems', 'Passando por 100 Camadas de Jogos!', 1684674044.0, 0.03933647350036567).
-video('Gaming', 'Problems', 'Assustei Meu Amigo com BuildHacks de Terror!', 1684760423.0, 0.050817936181506346).
 video('Gaming', 'Problems', 'Tudo Que Eu Construir de Assustador, Eu Viro!', 1684760423.0, 0.049157047745948146).
+video('Gaming', 'Problems', 'Assustei Meu Amigo com BuildHacks de Terror!', 1684760423.0, 0.050817936181506346).
 video('Gaming', 'Problems', 'Eu Criei meu Próprio Stumble Guys', 1685019600.0, 0.03452957352340184).
 video('Gaming', 'Problems', 'Putz Problems...', 1685106031.0, 0.04753155824486857).
 video('Gaming', 'Problems', 'A Cada Desafio a minha Temperatura Aumenta', 1685538006.0, 0.03356574715833201).
@@ -12551,6 +12729,8 @@ video('Gaming', 'Problems', 'Criei um Exército de Smurf Cats para me Vingar!', 
 video('Gaming', 'Problems', 'Revelei o VERDADEIRO AMOR De Todos os Meus Amigos!', 1696251648.0, 0.04070649582283106).
 video('Gaming', 'Problems', 'Revelado o MAIOR SEGREDO Do Meu Canal!', 1696510847.0, 0.03799652429883074).
 video('Gaming', 'Problems', 'Evolui meu Pet de um Coelho Fraco Até um Monstro!', 1696856404.0, 0.03199401372938153).
+video('Gaming', 'Problems', 'Evolui meu SMURF CAT Pra Correr Rápido!', 1697374950.0, 0.030203209891693877).
+video('Gaming', 'Problems', 'Evolui Pet de Youtubers do Começo Até o Final!', 1697634046.0, 0.03263058823529412).
 video('Gaming', 'Promptz', 'UPEI DO 1 AO 700 DE LEOPARD NO BLOX FRUITS! em menos de 10 HORAS (ROBLOX)', 1664982029.0, 0.045591665370859895).
 video('Gaming', 'Promptz', 'PASSEI 100 DIAS NO BLOX FRUITS, mas a cada dia troco FRUTA aleatória no (2º MUNDO)', 1666188007.0, 0.07294365640507663).
 video('Gaming', 'Prota Games: Dicas de Fortnite', 'MATARAM O KLIMBO NO FORTNITE 😭😭😭 #shorts', 1645038265.0, 0.1916962049624337).
@@ -12681,6 +12861,7 @@ video('Gaming', 'Robin Hood Gamer', 'JOGUEI PLANTS VS ZOMBIES NO MINECRAFT!! SOB
 video('Gaming', 'Robin Hood Gamer', 'Minecraft, mas O HEROBRINE ESTÁ NO MEU MUNDO...', 1676324796.0, 0.07159352158269673).
 video('Gaming', 'Robin Hood Gamer', 'ELE COMPROU UMA MOTO PRA GANHAR A CORRIDA DE BICICLETA DO ROBLOX... (Bike Obby)', 1692739764.0, 0.06544031986653051).
 video('Gaming', 'Robin Hood Gamer', 'MEU AMIGO ENTROU NO STUMBLE GUYS PELA PRIMEIRA VEZ E ISSO ACONTECEU…', 1693006295.0, 0.04653451859403356).
+video('Gaming', 'Robin Hood Gamer', 'ESCAPE DA PRISÃO SEGURA DO SMURF CAT NO ROBLOX!!', 1698015103.0, 0.03867275658248254).
 video('Gaming', 'RobinTV', 'YouTubers me Desafiaram a Isso', 1646314212.0, 0.04485253386601313).
 video('Gaming', 'RobinTV', 'Fiz Tudo que Google Tradutor Mandou', 1646746202.0, 0.03297618792003951).
 video('Gaming', 'RobinTV', 'O Mundo é Aleatório...', 1646832609.0, 0.02776411769527088).
@@ -12689,6 +12870,7 @@ video('Gaming', 'RobinTV', 'Contratei Youtubers no Minecraft', 1649511000.0, 0.0
 video('Gaming', 'RobinTV', 'Fiz tudo que os INSCRITOS MANDARAM', 1650288607.0, 0.028023668639053253).
 video('Gaming', 'Rockstar Games', 'Red Dead Redemption and Undead Nightmare Coming to Switch and PS4', 1691417403.0, 0.047725361419246326).
 video('Gaming', 'Rockstar Games', 'Celebrate Ten Years of Grand Theft Auto V', 1694786157.0, 0.013332521218799343).
+video('Gaming', 'Rockstar Games', 'Halloween in GTA Online', 1698331773.0, 0.0259580034082516).
 video('Gaming', 'RodPrimata', 'Eu Tive Que Fazer Isso Pra Escapar!', 1647273313.0, 0.12542981584778787).
 video('Gaming', 'RodPrimata', 'Minecraft, Mas Não Pode Respirar!', 1647864779.0, 0.09499157235733205).
 video('Gaming', 'RodPrimata', 'Você Acertaria A Palavra Misteriosa!?', 1648555262.0, 0.11052434260651528).
@@ -12702,11 +12884,13 @@ video('Gaming', 'SNK OFFICIAL', 'KOF XV DLC｜GOENITZ｜Trailer', 1686620700.0, 
 video('Gaming', 'SNK OFFICIAL', 'KOF XV DLC｜DUO LON｜Trailer', 1693878300.0, 0.06214323768932187).
 video('Gaming', 'SNK OFFICIAL', 'KOF XV DLC｜THE NEXT FIGHTER IS ...', 1696902300.0, 0.05236758928307683).
 video('Gaming', 'STHAN', 'STHAN foi ADOTADO  pela FAMÍLIA TV MAN no Minecraft!', 1693087437.0, 0.0334628221261695).
+video('Gaming', 'Saadhak', 'TUDO sobre ISO NOVO AGENTE  do VALORANT | LOUD SAADHAK', 1697729462.0, 0.0918495716404169).
 video('Gaming', 'Saiko joga', 'atrapalhando ou ajudando um NOOB a finalizar o MINECRAFT pela primeira vez', 1692561602.0, 0.13684227194274223).
 video('Gaming', 'Saiko joga', 'tentando entender o MEME mais bizarro da internet: SKIBIDI TOILET', 1696017612.0, 0.1211271181378308).
 video('Gaming', 'Saiko joga', 'fui obrigado a jogar jogos de terror na sexta feira 13', 1697230980.0, 0.1304163038948285).
 video('Gaming', 'Sairos', 'LOCALIZAÇÃO DO GOD HUMAN NO BLOX FRUITS UPDATE 17.3', 1662889464.0, 0.0335675707067774).
 video('Gaming', 'SaitoBlox', 'REI GORILA VS TODAS AS FRUTAS DO BLOX FRUITS', 1687551570.0, 0.04762874007734582).
+video('Gaming', 'SanInPlay', 'GTA 6: VAZ0U! Assim SERÁ o TRAILER... Funcionária da ROCKSTAR revela TODOS os DETALHES! (Veja)', 1698278412.0, 0.08469154995985881).
 video('Gaming', 'Save Manual', 'Explicando a Speedrun da DLC de Cuphead de 10 minutos', 1678712417.0, 0.07249326775983919).
 video('Gaming', 'Sharshock', 'TORRES DESCONGELOU & NOVO MONSTRO É INSANO!! - FORTNITE', 1642508090.0, 0.0853795338402094).
 video('Gaming', 'Sharshock', 'O SILÊNCIO SOBRE A TEMPORADA 2 CAPITULO 3 DO FORTNITE.', 1647626329.0, 0.07607717041800643).
@@ -12735,8 +12919,8 @@ video('Gaming', 'SkinSpotlights', 'Bel\'Veth, the Void Empress Ability Reveal | 
 video('Gaming', 'SkinSpotlights', 'Nilah, the Joy Unbound Ability Reveal | New Champion', 1655910009.0, 0.025473831936160523).
 video('Gaming', 'SkinSpotlights', 'Aurelion Sol Gameplay Update | League of Legends', 1672936762.0, 0.028568043972706597).
 video('Gaming', 'SkinSpotlights', 'DRX World Champion Skins | PBE Preview', 1684249529.0, 0.018983929616077266).
-video('Gaming', 'SkinSpotlights', 'Briar Teaser | Spoilers - All Phases', 1693235489.0, 0.034872830070866175).
 video('Gaming', 'SkinSpotlights', 'Briar Teaser | All Phases', 1693235489.0, 0.031133847867022037).
+video('Gaming', 'SkinSpotlights', 'Briar Teaser | Spoilers - All Phases', 1693235489.0, 0.034872830070866175).
 video('Gaming', 'Skorpion Gamer', '100 MILITARES VS 5 YOUTUBERS NO GTA 5! (Evento Skbr #1)', 1642186813.0, 0.06797775321569957).
 video('Gaming', 'Skorpion Gamer', 'EVOLUINDO CARROS NO GTA 5!! (Incrivel)', 1644260412.0, 0.04230428130086055).
 video('Gaming', 'Skorpion Gamer', '“EU DECIDO QUEM VAI PARA O CEU!! (Judgment day)”', 1644593407.0, 0.058224567901669244).
@@ -12796,8 +12980,8 @@ video('Gaming', 'TazerCraft', 'FIVE NIGHTS AT FREDDY\'S SECURITY BREACH no Minec
 video('Gaming', 'TazerCraft', 'QUAL ITEM você usaria para FUGIR da PRISÃO de BEDROCK?', 1642177260.0, 0.11214751832087168).
 video('Gaming', 'TazerCraft', 'FREDDY foi DESTRUÍDO no Minecraft - FNAF SECURITY BREACH (Assassinos)', 1642258825.0, 0.10182402924654788).
 video('Gaming', 'TazerCraft', 'JOGAMOS FIVE NIGHTS AT FREDDY\'S SECURITY BREACH pela PRIMEIRA VEZ!', 1642431620.0, 0.112428784812416).
-video('Gaming', 'TazerCraft', 'NÃO FIQUE NO ESCURO - FIVE NIGHTS AT FREDDY’S SECURITY BREACH #2', 1642518037.0, 0.09678964206186369).
 video('Gaming', 'TazerCraft', 'FREDDY QUEBROU! - FIVE NIGHTS AT FREDDY’S SECURITY BREACH #2', 1642518037.0, 0.12155379242716113).
+video('Gaming', 'TazerCraft', 'NÃO FIQUE NO ESCURO - FIVE NIGHTS AT FREDDY’S SECURITY BREACH #2', 1642518037.0, 0.09678964206186369).
 video('Gaming', 'TazerCraft', 'DESTRUÍMOS O MONTY - FIVE NIGHTS AT FREDDY’S SECURITY BREACH #3', 1642692567.0, 0.09490083083143593).
 video('Gaming', 'TazerCraft', 'DERROTAMOS A ROXY - FIVE NIGHTS AT FREDDY’S SECURITY BREACH #5', 1643125576.0, 0.11584099421178073).
 video('Gaming', 'TazerCraft', 'FINALMENTE UM FINAL FELIZ! - FIVE NIGHTS AT FREDDY’S SECURITY BREACH #6', 1643210540.0, 0.10208949096880131).
@@ -12822,9 +13006,9 @@ video('Gaming', 'TazerCraft', 'COMPRAMOS uma CASA! 🥰🏠 - Passpartout 2 🎨
 video('Gaming', 'TazerCraft', 'VENDEMOS QUADROS de JOGOS de TERROR - Passpartout 2 🎨 #6', 1682002824.0, 0.09922617074536788).
 video('Gaming', 'TazerCraft', 'ESCONDE-ESCONDE com o CUCURUCHO no QSMP....', 1685800293.0, 0.10112203906358222).
 video('Gaming', 'TazerCraft', 'RAINBOW FRIENDS 2 é ÍNCRIVEL!', 1685977359.0, 0.07589437011129638).
-video('Gaming', 'TazerCraft', 'ROUBAMOS o CUCURUCHO no QSMP! 🐻 [DIA 117]', 1689714118.0, 0.10373403048389483).
-video('Gaming', 'TazerCraft', 'ROUBAMOS o CUCURUCHO no QSMP! 🐻', 1689714118.0, 0.1127331228028362).
 video('Gaming', 'TazerCraft', 'ROUBAMOS o CUCURUCHO no QSMP! 🐻 (DIA 117)', 1689714118.0, 0.10605719627462522).
+video('Gaming', 'TazerCraft', 'ROUBAMOS o CUCURUCHO no QSMP! 🐻', 1689714118.0, 0.1127331228028362).
+video('Gaming', 'TazerCraft', 'ROUBAMOS o CUCURUCHO no QSMP! 🐻 [DIA 117]', 1689714118.0, 0.10373403048389483).
 video('Gaming', 'Teiga', 'VIREI ADM NO BLOXFRUITS POR 24 HORAS - Roblox', 1679154988.0, 0.02869721336211013).
 video('Gaming', 'Terrorizando', 'Quem é MONTY? Passado e Personalidade de Montgomery Gator em FIVE NIGHTS AT FREDDY´S Security Breach', 1643302813.0, 0.04930459750503332).
 video('Gaming', 'Terrorizando', 'Quem é BLOB? O Passado, História e os Segredos! The Blob em FIVE NIGHTS AT FREDDY\'S: Security Breach', 1644069613.0, 0.07158774094910715).
@@ -12853,8 +13037,8 @@ video('Gaming', 'Tex HS', 'BICHO AZUL BABÃO (Roblox Rainbow Friends)', 16587540
 video('Gaming', 'Tex HS', '24 HORAS VIVENDO COMO UM PATO (Duck Life)', 1662296406.0, 0.03920205386614788).
 video('Gaming', 'Tex HS', 'A RESPOSTA MAIS LONGA VENCE! (Roblox Longest Answer Wins)', 1664197224.0, 0.03457013401159261).
 video('Gaming', 'Tex HS', 'A VIDA DO PATO QUE NÃO DESISTE em busca do seu sonho... (Duck Life Adventure)', 1665493240.0, 0.03498648601389867).
-video('Gaming', 'Tex HS', 'PORCO GIGANTE é o REI DA RUA (Goat Simulator 3)', 1669294828.0, 0.029113139181150573).
 video('Gaming', 'Tex HS', 'PORCO GIGANTE é o REI DA RUA (Goat Simulator 3 • Parte 2)', 1669294828.0, 0.022150404547434045).
+video('Gaming', 'Tex HS', 'PORCO GIGANTE é o REI DA RUA (Goat Simulator 3)', 1669294828.0, 0.029113139181150573).
 video('Gaming', 'Tex HS', 'SONHEI QUE TINHA UM TREM-ARANHA (Choo Choo Charles • Parte 2)', 1670677216.0, 0.026442975948447082).
 video('Gaming', 'Tex HS', 'UMA BALEIA GIGANTE ME ENGOLIU!!! (Goat Simulator 3 • Parte 13)', 1673874030.0, 0.03127340531768818).
 video('Gaming', 'Tex HS', 'MINHA FAMÍLIA NÃO ACREDITA EM MIM (Roblox Make Games to Become Rich and Famous)', 1674219609.0, 0.0433083176985616).
@@ -12868,6 +13052,7 @@ video('Gaming', 'Tex HS', 'TODAS FITAS e FINAIS da AMANDA AVENTUREIRA (Amanda th
 video('Gaming', 'Tex HS', '24 HORAS VIVENDO como um SKIBI TOILET (Roblox Skibi Toilet Morphs)', 1686834282.0, 0.028217683607591866).
 video('Gaming', 'Tex HS', 'ABRINDO OS PACOTES DOS VIZINHOS (Roblox Wrong House)', 1687784411.0, 0.03061218539338947).
 video('Gaming', 'Tex HS', 'NÃO PESQUISE GRIMACE SHAKE DE MADRUGADA (Roblox Get a Grimace Shake at 3am)', 1689598815.0, 0.02423405355955181).
+video('Gaming', 'Tex HS', 'A EXPERIÊNCIA DO AVIÃO ft CRIS MINEGIRL (Roblox The Airplane Experience)', 1697634027.0, 0.03507828195770278).
 video('Gaming', 'Thaizinha', 'Como eu faço a voz de criança? 🤔 #freefire', 1646689257.0, 0.10078484930190028).
 video('Gaming', 'Thaizinha', 'TESTANDO A SENSI QUE DA SÓ CAPA 🤯 #freefire', 1646946193.0, 0.1118484840290949).
 video('Gaming', 'Thalys Vinicius', 'VELHINHA L4DRA 😱😡', 1643839212.0, 0.0955100400908249).
@@ -12902,57 +13087,58 @@ video('Gaming', 'Thiago da Achah', 'EU DECIDO SE O GOKU VAI PRO CÉU OU INFERNO 
 video('Gaming', 'Thiago da Achah', 'SE O AKINATOR ENCONTRAR ELE MESMO, O MARACUJÁ PERDE OS CAROÇOS #shorts', 1649363445.0, 0.12342456088232018).
 video('Gaming', 'Tigre TV', 'ENTREI NA CONTA DO MODERADOR DO ANIME FIGHTERS E VOCÊS PRECISAM VER ISSO... !!', 1654694775.0, 0.06096001267642299).
 video('Gaming', 'Tigre TV', 'COMEÇOU!! O BLOX FRUITS LIBEROU A PRIMEIRA PARTE DO TRAILER DA ATUALIZAÇÃO (LEVIATÃ E NOVOS BARCOS)', 1690077306.0, 0.066260067748606).
+video('Gaming', 'Tigre TV', 'O DIA CHEGOU!!! ATUALIZAÇÃO 20 do BLOX FRUITS é REAL!! (DATA e HORÁRIO com SURPRESA)', 1697803573.0, 0.05432420167665815).
 video('Gaming', 'TinyTrove', 'TV Woman LOVE! TV MAN Saves TV Woman from Skibidi Toilets in Garry\'s Mod with HealthBars', 1690673700.0, 0.009154172985352439).
 video('Gaming', 'Tio Hoby', 'PASSEI 100 DIAS, MAS A CADA M0RTE TROCO DE FRUTA NO BLOX FRUITS!', 1675017400.0, 0.03176295561616663).
 video('Gaming', 'Tonigon', 'EU NÃO VOU PARAR até conseguir todos os MEGA ITENS - 22 Creative Squad II', 1642011386.0, 0.05082409201153195).
 video('Gaming', 'Tonigon', 'ESSE É O PORTAL PRO THE END DO SERVIDOR - 23 Creative Squad II', 1642158023.0, 0.05503503507834488).
 video('Gaming', 'Tonigon', 'É IMPOSSIVEL QUEBRAR MINHA BASE NO MINECRAFT - 24 Creative Squad II', 1642363537.0, 0.0511183915300676).
 video('Gaming', 'Tonigon', 'É IMPOSSÍVEL ACERTAR ESSA FLECHA DA TORRE - 28 Creative Squad II', 1643194805.0, 0.046687756019370544).
-video('Gaming', 'Tonigon', 'QUEM ENTRAR NO QUADRADO GANHA - 34 Creative Squad II', 1644838234.0, 0.05121299817432414).
 video('Gaming', 'Tonigon', 'NÃO ENTRE NO QUADRADO E PERCA - 34 Creative Squad II', 1644838234.0, 0.04797637380585722).
+video('Gaming', 'Tonigon', 'QUEM ENTRAR NO QUADRADO GANHA - 34 Creative Squad II', 1644838234.0, 0.05121299817432414).
 video('Gaming', 'Tonigon', 'TROLEI MEUS AMIGOS COM O TREM MORTAL NO MINECRAFT - 39 Creative Squad II', 1646319549.0, 0.056588230403845356).
 video('Gaming', 'Tonigon', 'Meus Amigos Roubaram o Ovo Então me Vinguei com Prisão de Bedrock Inquebrável', 1648551617.0, 0.04515454492132402).
 video('Gaming', 'Tonigon', 'ME VINGUEI COM PRISÃO DE BEDROCK INQUEBRÁVEL', 1648551617.0, 0.05357565149912416).
 video('Gaming', 'Tonigon', 'ESCONDI uma Base Secreta Inteira USANDO BAGAS DOCES (Veja como)', 1649278280.0, 0.04191087372223807).
-video('Gaming', 'Tonigon', 'Prendi o INVASOR com TRAP de TNT', 1649944673.0, 0.042184175745014665).
 video('Gaming', 'Tonigon', 'Essa TRAP DE TNT é MEGA MORTAL', 1649944673.0, 0.04782600977526361).
-video('Gaming', 'Tonigon', 'USEI JOGOS MENTAIS PARA ME ESCONDER DELES', 1650567616.0, 0.049209269572375765).
+video('Gaming', 'Tonigon', 'Prendi o INVASOR com TRAP de TNT', 1649944673.0, 0.042184175745014665).
 video('Gaming', 'Tonigon', 'É POSSIVEL usar esses TRUQUES pra me ESCONDER dos meus AMIGOS?', 1650567616.0, 0.05202635567470441).
+video('Gaming', 'Tonigon', 'USEI JOGOS MENTAIS PARA ME ESCONDER DELES', 1650567616.0, 0.049209269572375765).
 video('Gaming', 'Tonigon', 'criei meu próprio ovo de dragão', 1652448744.0, 0.0418611955712515).
 video('Gaming', 'Tonigon', 'FIZ A ARCA DOS ANIMAIS QUE NEM NOÉ', 1652910731.0, 0.051725609223936465).
 video('Gaming', 'Tonigon', '24H escondendo PASSAGENS SECRETAS', 1653342172.0, 0.04345801000564659).
-video('Gaming', 'Tonigon', 'EU MANIPULEI UMA LUTA IMPOSSIVEL DE VENCER', 1654869209.0, 0.050164969786432374).
 video('Gaming', 'Tonigon', 'eu MANIPULEI uma LUTA IMPOSSIVEL de VENCER', 1654869209.0, 0.04655036568070374).
 video('Gaming', 'Tonigon', 'IMPOSSIVEL VENCER essa LUTA', 1654869209.0, 0.04266924690497767).
+video('Gaming', 'Tonigon', 'EU MANIPULEI UMA LUTA IMPOSSIVEL DE VENCER', 1654869209.0, 0.050164969786432374).
 video('Gaming', 'Tonigon', 'trolei meus amigos com TÚNEL INFINITO no Minecraft', 1655079262.0, 0.04558602790113329).
 video('Gaming', 'Tonigon', 'esse é o TÚNEL INFINITO no Minecraft', 1655079262.0, 0.040359796485023344).
 video('Gaming', 'Tonigon', '11 HACK ANTI-WARDEN 100% DE PROTEÇÃO', 1656805507.0, 0.0532021548765522).
 video('Gaming', 'Tonigon', 'ENCONTREI UMA BASE SECRETA (mas tive uma surpresa)', 1657587277.0, 0.04591423619353601).
 video('Gaming', 'Tonigon', 'INVADI a BASE SECRETA na MONTANHA', 1657587277.0, 0.050235464196412505).
 video('Gaming', 'Tonigon', 'O MEGA TOUR NESSE MUNDO DE MINECRAFT (CREATIVE SQUAD 2)', 1658783236.0, 0.15018281362738448).
-video('Gaming', 'Tonigon', 'todas as estruturas do minecraft EM UM VIDEO', 1660082073.0, 0.06833355787260452).
 video('Gaming', 'Tonigon', 'recriei as ESTRUTURAS do Minecraft em um MUSEU (a historia delas)', 1660082073.0, 0.07384156614721979).
 video('Gaming', 'Tonigon', 'TODAS as ESTRUTURAS do MINECRAFT em UM VIDEO', 1660082073.0, 0.0626933774861172).
+video('Gaming', 'Tonigon', 'todas as estruturas do minecraft EM UM VIDEO', 1660082073.0, 0.06833355787260452).
 video('Gaming', 'Tonigon', 'CRIEI O WITHER STORM NO MINECRAFT', 1660432257.0, 0.04913699620459064).
-video('Gaming', 'Tonigon', 'O YETI É UMA FARSA E EU POSSO PROVAR! (Fim)', 1660906805.0, 0.04220970350609053).
 video('Gaming', 'Tonigon', 'O FIM DA MAIOR FARSA DO MINECRAFT (Yeti)', 1660906805.0, 0.05637146213775464).
+video('Gaming', 'Tonigon', 'O YETI É UMA FARSA E EU POSSO PROVAR! (Fim)', 1660906805.0, 0.04220970350609053).
 video('Gaming', 'Tonigon', 'O ESCONDERIJO DE ROUBO #1 CREATIVE SQUAD 3', 1661259162.0, 0.054030387516986085).
 video('Gaming', 'Tonigon', 'TONIGON CREATIVE SQUAD 3 EP 1', 1661259162.0, 0.06514790755454333).
-video('Gaming', 'Tonigon', 'CRIEI a CIVILIZAÇÃO das MONTANHAS no Minecraft', 1662289231.0, 0.05495269140770946).
+video('Gaming', 'Tonigon', 'CRIEI a CIVILIZAÇÃO das MONTANHAS #2 CREATIVE SQUAD 3', 1662289231.0, 0.06356594363817172).
 video('Gaming', 'Tonigon', 'BEM VINDO A CIVILIZAÇÃO das MONTANHAS no Minecraft', 1662289231.0, 0.048081504497229186).
 video('Gaming', 'Tonigon', '11 jogadores simulam a CIVILIZAÇÃO das MONTANHAS no Minecraft', 1662289231.0, 0.051645286138842686).
-video('Gaming', 'Tonigon', 'CRIEI a CIVILIZAÇÃO das MONTANHAS #2 CREATIVE SQUAD 3', 1662289231.0, 0.06356594363817172).
+video('Gaming', 'Tonigon', 'CRIEI a CIVILIZAÇÃO das MONTANHAS no Minecraft', 1662289231.0, 0.05495269140770946).
 video('Gaming', 'Tonigon', 'MINECRAFT vs FURACÃO GIGANTE', 1662639488.0, 0.06643627430570014).
 video('Gaming', 'Tonigon', 'AS 7 BASES 100% SECRETAS DA CREATIVE SQUAD', 1663066811.0, 0.0518465044976356).
-video('Gaming', 'Tonigon', 'A PASSAGEM SECRETA NO PORTAL', 1664384034.0, 0.051854826234493744).
 video('Gaming', 'Tonigon', 'O PORTAL SECRETO', 1664384034.0, 0.05487311336475741).
+video('Gaming', 'Tonigon', 'A PASSAGEM SECRETA NO PORTAL', 1664384034.0, 0.051854826234493744).
 video('Gaming', 'Tonigon', 'EU PRENDI TODOS OS MOBS MAIS RAROS DO MINECRAFT', 1665745202.0, 0.05188806682982247).
-video('Gaming', 'Tonigon', 'ENGANEI MEUS AMIGOS COM PET FAKE', 1666912027.0, 0.052233389497001334).
 video('Gaming', 'Tonigon', 'MEU PET É UMA ARMADILHA', 1666912027.0, 0.054075053940203434).
+video('Gaming', 'Tonigon', 'ENGANEI MEUS AMIGOS COM PET FAKE', 1666912027.0, 0.052233389497001334).
 video('Gaming', 'Tonigon', 'O PET MAIS VALIOSO DO MINECRAFT', 1666912027.0, 0.060213888079939534).
 video('Gaming', 'Tonigon', 'EU RECRIEI A COPA NO MINECRAFT', 1669160039.0, 0.047454402847829216).
-video('Gaming', 'Tonigon', 'FIZ UMA PRISÃO DE BEDROCK NO SOBREVIVENCIA', 1670178644.0, 0.04693438487407109).
 video('Gaming', 'Tonigon', 'MEU CANAL FOI H4CKEADO (Vingança)', 1670178644.0, 0.05118035745473598).
+video('Gaming', 'Tonigon', 'FIZ UMA PRISÃO DE BEDROCK NO SOBREVIVENCIA', 1670178644.0, 0.04693438487407109).
 video('Gaming', 'Tonigon', 'ATRAVESSEI O MAPA DO FORTNITE EM LINHA RETA PERFEITAMENTE', 1670608894.0, 0.06631140619085059).
 video('Gaming', 'Tonigon', 'EU CRIEI UM AQUÁRIO DENTRO DO NETHER', 1671406876.0, 0.050479905809329).
 video('Gaming', 'Tonigon', 'A BASE MAIS SECR3TA', 1671667227.0, 0.04954352793551998).
@@ -12963,21 +13149,21 @@ video('Gaming', 'Tonigon', 'Eu Prendi TODOS OS ANIMAIS em um ZOOLÓGICO no Minec
 video('Gaming', 'Tonigon', 'AQUELA VEZ QUE EU ROUBEI 132.482 DIAMANTES', 1679601927.0, 0.04318221338494572).
 video('Gaming', 'Tonigon', 'EU CRIEI O EXERCITO DE WARDEN STORM no Minecraft', 1680463637.0, 0.045076881948038966).
 video('Gaming', 'Tonigon', 'REFORMEI AS ESTRUTURAS MAIS ANTIGAS DO MINECRAFT', 1681688193.0, 0.047574431993849906).
-video('Gaming', 'Tonigon', 'AQUELA VEZ QUE EU CAÇEI UM *FORA-DA-LEI*', 1683072990.0, 0.05473915925818899).
 video('Gaming', 'Tonigon', 'NUNCA QUEBRE AS REGRAS DO MINECRAFT', 1683072990.0, 0.04688299752831779).
+video('Gaming', 'Tonigon', 'AQUELA VEZ QUE EU CAÇEI UM *FORA-DA-LEI*', 1683072990.0, 0.05473915925818899).
 video('Gaming', 'Tonigon', 'IMPROVISANDO ARMADILHAS PELAS PRÓXIMAS 24H', 1684366912.0, 0.04367396280768538).
 video('Gaming', 'Tonigon', 'AQUELA VEZ QUE EU TROLEI MEUS AMIGOS POR 24H', 1684366912.0, 0.053142049275140955).
-video('Gaming', 'Tonigon', 'O ROBO DINOSSAURO DE REDSTONE', 1686010559.0, 0.04679080994870469).
 video('Gaming', 'Tonigon', 'CRIEI UM MEGA DINOSSAURO ROBÔ DE REDSTONE NO MINECRAFT', 1686010559.0, 0.05741725716872399).
+video('Gaming', 'Tonigon', 'O ROBO DINOSSAURO DE REDSTONE', 1686010559.0, 0.04679080994870469).
 video('Gaming', 'Tonigon', 'eu voltei (CONSTRUINDO UMA MURALHA)', 1688849201.0, 0.09074504657432635).
 video('Gaming', 'Tonigon', 'PROTEGI MEU PET COM 7 HACKS DE CONSTRUCAO', 1691339127.0, 0.06477905270984466).
+video('Gaming', 'Tonigon', 'O INVASOR DA CREATIVE SQUAD', 1691719488.0, 0.04326399900506794).
 video('Gaming', 'Tonigon', 'A PRIMEIRA VEZ QUE O INVASOR ENTROU NO MEU MUNDO', 1691719488.0, 0.03929596284856849).
 video('Gaming', 'Tonigon', 'O INVASOR', 1691719488.0, 0.04877104041468486).
-video('Gaming', 'Tonigon', 'O INVASOR DA CREATIVE SQUAD', 1691719488.0, 0.04326399900506794).
 video('Gaming', 'Tonigon', 'INVADI UMA BASE SECRETA PRA RECUPERAR O MEU PET', 1693396851.0, 0.055197344937838434).
 video('Gaming', 'Tonigon', 'A ARCA DE NOÉ FUTURISTA NO MINECRAFT', 1693932168.0, 0.04337208374942571).
-video('Gaming', 'Tonigon', 'MEGA TOUR FINAL NESSE MAPA DE 3 ANOS (CREATIVE SQUAD 3)', 1696336222.0, 0.03668387204866481).
 video('Gaming', 'Tonigon', 'O TOUR FINAL NESSE MAPA DE 3 ANOS (CREATIVE SQUAD 3)', 1696336222.0, 0.041955507806171605).
+video('Gaming', 'Tonigon', 'MEGA TOUR FINAL NESSE MAPA DE 3 ANOS (CREATIVE SQUAD 3)', 1696336222.0, 0.03668387204866481).
 video('Gaming', 'Tonigon', 'AS PRIMEIRAS 24H NO SERVIDOR CREATIVE SQUAD 4', 1696858210.0, 0.05109784205631411).
 video('Gaming', 'Torcida Gamers', 'Chelsea x Palmeiras AO VIVO COM IMAGENS | Final Mundial de Clubes FIFA 2022 | Jogo AO VIVO', 1644597006.0, 0.00603807257584771).
 video('Gaming', 'Torcida Gamers', 'Chelsea x Palmeiras | Final Mundial de Clubes FIFA 2022', 1644597006.0, 0.0060311482084690555).
@@ -12988,6 +13174,7 @@ video('Gaming', 'Ubisoft', 'Assassin\'s Creed Mirage: Gameplay Trailer', 1684962
 video('Gaming', 'Ubisoft', 'Assassin\'s Creed Mirage: Gameplay Walkthrough | Ubisoft Forward', 1686592289.0, 0.044344523776577105).
 video('Gaming', 'Ubisoft', 'Star Wars Outlaws: Official Gameplay Walkthrough | Ubisoft Forward', 1686593336.0, 0.038961990446326526).
 video('Gaming', 'Ubisoft Brasil', 'Ubisoft Forward | Assassin\'s Creed Mirage', 1662840104.0, 0.10146000134562336).
+video('Gaming', 'United Sz', 'BUGOU!!! BRAWL STARS NÃO ENTRA E SÓ FICA EM MANUTENÇÃO 😭 é porque...', 1698154020.0, 0.07449362138252826).
 video('Gaming', 'UzuKee', 'YBA Halloween 2022🎃 [v1.37]', 1665921308.0, 0.04364754224601566).
 video('Gaming', 'Uzumaki', 'CRAZY DIAMOND REWORK NO YOUR BIZARRE ADVENTURE! A MELHOR VERSÃO DO STAND DE TODOS OS JOGOS DO ROBLOX', 1661977178.0, 0.07377977049253102).
 video('Gaming', 'VALORANT', 'Fire Again ft. Ashnikko // Official Music Video // VALORANT Champions 2022', 1661173213.0, 0.10115458756441346).
@@ -13010,6 +13197,7 @@ video('Gaming', 'VALORANT // Brasil', 'MAIOR QUE UM // Trailer de Agente: Gekko 
 video('Gaming', 'VALORANT // Brasil', 'Revelação da Mecânica Oficial da Deadlock // VALORANT', 1687640226.0, 0.11629020505881128).
 video('Gaming', 'VALORANT // Brasil', 'DESFEITA // Animação do Episódio 7 – VALORANT', 1687665627.0, 0.12988902007083825).
 video('Gaming', 'VALORANT // Brasil', 'SUNSET // Trailer Oficial do Mapa – VALORANT', 1693076410.0, 0.12854939277412067).
+video('Gaming', 'VALORANT // Brasil', 'MITOS // Trailer de Agente: Iso – VALORANT', 1697727600.0, 0.1101506289145401).
 video('Gaming', 'VALORANT Esports BR', 'LOUD x ZETA DIVISION (Mapa 1: Ascent) | VALORANT Champions Istanbul', 1662045015.0, 0.06027025384412796).
 video('Gaming', 'VALORANT Esports BR', 'VALORANT Champions Istanbul: Fase de Grupos (Dia 3)', 1662158521.0, 0.029719719772859587).
 video('Gaming', 'VALORANT Esports BR', 'VALORANT Champions Istanbul: Grande Final', 1663530500.0, 0.044800247765262834).
@@ -13058,8 +13246,8 @@ video('Gaming', 'Vitória MineBlox', 'Roblox - BATALHA DE LOOK (Fashion Famous)'
 video('Gaming', 'Vitória MineBlox', 'Roblox - ESCAPE DO BONECO DO MAL (Escape Mr Funny\'s ToyShop)', 1642258836.0, 0.11887592514227976).
 video('Gaming', 'Vitória MineBlox', 'Roblox - BEM vs MAL (Angels vs Devils Obby)', 1642604439.0, 0.11624297632697533).
 video('Gaming', 'Vitória MineBlox', 'Roblox - BABÁ DO MAL (Nanny)', 1643468403.0, 0.06854288932361136).
-video('Gaming', 'Vitória MineBlox', 'POR QUE PARAMOS COM O CANAL? O QUE ACONTECEU?', 1670770804.0, 0.06522249991885488).
 video('Gaming', 'Vitória MineBlox', 'POR QUE PARAMOS COM O CANAL? VAMOS VOLTAR?', 1670770804.0, 0.12756082164283153).
+video('Gaming', 'Vitória MineBlox', 'POR QUE PARAMOS COM O CANAL? O QUE ACONTECEU?', 1670770804.0, 0.06522249991885488).
 video('Gaming', 'Vitória MineBlox', 'Roblox - DETENÇÃO DO SENHOR FEDIDÃO (Mr. Stinky\'s Detention)', 1670857200.0, 0.14169949921346206).
 video('Gaming', 'Vitória MineBlox', 'CABELOS GIGANTES NO ROBLOX (Hair Flip!)', 1674054033.0, 0.048447579479470385).
 video('Gaming', 'Void Append', 'SOBREVIVENDO A UM APOCALIPSE ZOMBIE NO MINECRAFT -  EP 1', 1646409601.0, 0.23808509402172862).
@@ -13079,6 +13267,7 @@ video('Gaming', 'Warner Play', 'Hogwarts Legacy – Trailer Oficial de Lançamen
 video('Gaming', 'Warner Play', 'Mortal Kombat 1 - Trailer de Gameplay', 1686252893.0, 0.08491465904835477).
 video('Gaming', 'Warner Play', 'Mortal Kombat 1 - Trailer de revelação da lista oficial do Kombat Pack', 1689981011.0, 0.0700764209520777).
 video('Gaming', 'Warner Play', 'Mortal Kombat 1 | Governantes da Exoterra - Legendado', 1692739056.0, 0.11284007222413828).
+video('Gaming', 'Warner Play', 'Mortal Kombat 1 – Trailer do Omni-Man - Dublado', 1697387945.0, 0.11933840612144851).
 video('Gaming', 'WildRiftBR', 'League of Legends: Wild Rift – Temporada 2022 | Vídeo Dev', 1641569907.0, 0.1336206896551724).
 video('Gaming', 'WildRiftBR', 'League of Legends: Wild Rift – Notas da Atualização | Versão 3.0', 1642530925.0, 0.05369484316852738).
 video('Gaming', 'WildRiftBR', 'League of Legends: Wild Rift – Diário /dev | Prévia da Atualização 3.1', 1646964015.0, 0.14650025501785124).
@@ -13092,6 +13281,7 @@ video('Gaming', 'WildRiftBR', 'League of Legends: Wild Rift | Prévia da Atualiz
 video('Gaming', 'WildRiftBR', 'Prévia da Atualização 4.1 – League of Legends: Wild Rift', 1677729603.0, 0.117895269022109).
 video('Gaming', 'WildRiftBR', 'Prévia da Atualização 4.3 – League of Legends: Wild Rift', 1688529614.0, 0.13040869248408735).
 video('Gaming', 'Willzy', 'MINECRAFT 1.20 - NOVAS ARMADURAS PERSONALIZADAS', 1674588198.0, 0.12299080547624935).
+video('Gaming', 'Willzy', 'MINECRAFT 1.21 - TUDO SOBRE A NOVA ATUALIZAÇÃO DE AVENTURAS E COMBATE!', 1697395296.0, 0.09498491042392931).
 video('Gaming', 'Wuizard', 'ESSE ADM REVELOU TUDO DA ATUALIZAÇÃO 17.3 DO BLOX FRUITS!', 1662325205.0, 0.07078331233003914).
 video('Gaming', 'Wuizard', 'USEI A NOVA LEOPARD E GOMU NO BLOX FRUITS 17.3!', 1662930014.0, 0.05466798306631363).
 video('Gaming', 'Wuizard', 'O PUZZLE DA RACE V4 ESTAVA ÓBVIO NO BLOX FRUITS UPDATE 17.3!', 1663621211.0, 0.06548170643205645).
@@ -13102,6 +13292,7 @@ video('Gaming', 'Xbox', 'Hollow Knight: Silksong - Xbox Game Pass Reveal Trailer
 video('Gaming', 'Xbox', 'Developer_Direct, presented by Xbox & Bethesda', 1674676809.0, 0.02333697720555488).
 video('Gaming', 'Xbox', '[4K] Xbox Games Showcase + Starfield Direct', 1686502817.0, 0.04172084571001388).
 video('Gaming', 'Xbox', 'Activision Blizzard King Joins Xbox - Official Trailer', 1697201029.0, 0.08998565039064238).
+video('Gaming', 'Xbox', 'METAL GEAR SOLID Δ: SNAKE EATER - First In-Engine Look - Xbox Partner Preview', 1698254271.0, 0.033678843155492806).
 video('Gaming', 'Xou', 'ENTÃO É ISSO BLOX FRUITS??? COMO DESPERTAR a PHOENIX + RESUMO SOBRE o UPDATE 17.2 + REWORK da ICE!!', 1647065723.0, 0.05794688202481059).
 video('Gaming', 'Xou', 'o BLOX FRUITS 17.3 FICOU MEIO SUSPEITO KKKKK (testei todos os reworks de frutas + facecam)', 1662923966.0, 0.05762619656685148).
 video('Gaming', 'Xou', 'a NOVA FRUTA PERFEITA do KING LEGACY!! TESTEI no HYDRA, SEA, GS e FARMEI o LEVEL MÁXIMO com ELA!!', 1683244294.0, 0.044742334714995446).
@@ -13111,6 +13302,7 @@ video('Gaming', 'Ycro', 'Minecraft só que tudo cai do céu, até que enfim um o
 video('Gaming', 'Ycro', 'CABEÇAS se desafiam no HEXA parkour', 1686344420.0, 0.14851724137931036).
 video('Gaming', 'Ycro', 'virei um ANÃO e saiko virou um GIGANTE', 1692218100.0, 0.19023825543198639).
 video('Gaming', 'Yoda SL', 'O DUO DA CIÊNCIA, NICKLINK E YODA NA ARENA 2v2v2v2 - LEAGUE OF LEGENDS', 1688332121.0, 0.10626878488621726).
+video('Gaming', 'YoshiGamer', 'ARK SURVIVAL ASCENDED - Minha Primeira GAMEPLAY!', 1698328670.0, 0.09228032464885298).
 video('Gaming', 'YouTube Brasil', 'Minha Vida #DaUmGame', 1664930748.0, 1.910474511249184e-05).
 video('Gaming', 'YouTube Brasil', 'Grave um momento que #DaUmGame e participe!', 1665497258.0, 4.672615398624015e-05).
 video('Gaming', 'YouTube Brasil', 'Minha vida #DaUmGame', 1665682420.0, 7.396100200721942e-05).
@@ -13122,6 +13314,7 @@ video('Gaming', 'Zangado', 'Resident Evil 4 Remake : Chainsaw Demo Gameplay (Pla
 video('Gaming', 'Zangado', 'The Lord of the Rings: Gollum : NÃO Vale a Pena Jogar!?', 1685367902.0, 0.15099434896397673).
 video('Gaming', 'Zangado', 'Starfield : DICAS PARA INICIANTES [4K]', 1693575901.0, 0.16537268654598528).
 video('Gaming', 'Zangado', 'Starfield : Vale ou Não a Pena Jogar!?', 1693921502.0, 0.13009368389241463).
+video('Gaming', 'Zangado', 'Skull Island: Rise of Kong : A Primeira Mei...não, 16 min ta bom! (PC)[2K]', 1698241505.0, 0.15531505169279097).
 video('Gaming', 'Zaze Blox', 'Dia que meu primo me deu um soco no Brookhaven Roblox #shorts', 1643833372.0, 0.10712922846770892).
 video('Gaming', 'Zozo', 'I Survived 100 DAYS as ANT-MAN in HARDCORE Minecraft!', 1679087702.0, 0.03009042640187901).
 video('Gaming', 'Zozo', 'I Survived 100 DAYS as a SPEAKERMAN from SKIBIDI TOILET in HARDCORE Minecraft!', 1696626902.0, 0.029751233034524968).
@@ -13143,8 +13336,8 @@ video('Gaming', 'chip', 'Assombrei meus amigos por 24 horas até eles FICAREM LO
 video('Gaming', 'chip', 'Sabotei esse servidor e fiquei MILIONÁRIO', 1655261364.0, 0.06451612903225806).
 video('Gaming', 'chip', 'O mistério que está há 6 MESES amaldiçoando o SERVIDOR', 1656471394.0, 0.0690345962156026).
 video('Gaming', 'chip', 'A lenda do YETI no Minecraft', 1656932416.0, 0.0561865977447792).
-video('Gaming', 'chip', '30 DIAS CAÇANDO o YETI no MINECRAFT', 1660658411.0, 0.05452017179469126).
 video('Gaming', 'chip', 'O FIM do YETI no MINECRAFT?', 1660658411.0, 0.036481304468657584).
+video('Gaming', 'chip', '30 DIAS CAÇANDO o YETI no MINECRAFT', 1660658411.0, 0.05452017179469126).
 video('Gaming', 'chip', 'O FIM da Creative Squad 1.18', 1660658411.0, 0.036202701876642825).
 video('Gaming', 'chip', '24 HORAS ESCONDIDO no MUNDO dos MEUS AMIGOS', 1661137068.0, 0.05799190910655879).
 video('Gaming', 'chip', 'me INFILTREI no TIME INIMIGO no primeiro episódio - Creative Squad 3', 1664110803.0, 0.07701901592709942).
@@ -13226,11 +13419,14 @@ video('Gaming', 'viniccius13', 'A Fantástica Farm de Morcego | O Filme | - Mine
 video('Gaming', 'viniccius13', 'Os Arqueólogos do EGITO - Minecraft Em busca da casa automática #355', 1688072676.0, 0.13801279070841557).
 video('Gaming', 'viniccius13', 'Os MELHORES ESCONDERIJOS do Minecraft - Em busca da casa automática #356', 1689369027.0, 0.1521710241577109).
 video('Gaming', 'viniccius13', 'A NOVA CASA AUTOMÁTICA - Minecraft Em busca da casa automática #357', 1696777703.0, 0.21294897397345688).
+video('Gaming', 'viniccius13', 'Farm de Sniffer - Minecraft Em busca da casa automática #358', 1697994185.0, 0.14356276617061).
 video('Gaming', 'wexleyjesus', 'JOGANDO DE MADRUGADA #shorts', 1643650900.0, 0.1101390594404434).
 video('Gaming', 'xMarcelo', 'COMO PEGAR KNUCKLES E SONIC RIDERS SHADOW SONIC SECRETO (Sonic Speed Simulator)', 1650729020.0, 0.028973567182534073).
 video('Gaming', 'zOnwley', 'SHOWCASE DE TODAS AS NOVAS FRUTAS * REWORK DA NOVA UPDATE 17.3 do BLOX FRUITS! + FRUTA DO LEOPARDO!', 1662923186.0, 0.04737393703816713).
 video('Gaming', 'zOnwley', 'SHOWCASE DA SOUL GUITAR E COMO CONSEGUIR ELA NA NOVA UPDATE 17.3 DO BLOX FRUITS * PUZZLE SOUL GUITAR', 1662993014.0, 0.05490137810631106).
 video('Gaming', 'zOnwley', 'COMO CONSEGUIR FAZER AS NOVAS RAÇAS V4 NA UPDATE 17.3 DO BLOX FRUITS! * PUZZLE RACE V4 AWAKENING', 1663079404.0, 0.05152351977533349).
+video('Howto & Style', 'Amo Pão Caseiro', 'MINI PÃO PITA - Receita atualizada de pão sírio ou árabe feita no forno doméstico', 1697749134.0, 0.015335866847782998).
+video('Howto & Style', 'Amor Pela Comida', 'BOLO DE BANANA COM AVEIA E LIMÃO SEM AÇÚCAR SEM ADOÇANTE', 1697752924.0, 0.008757267093450267).
 video('Howto & Style', 'Anelyse Martins', 'TORTA MOUSSE ALPINO: SEM FORNO, SEM LIQUIDIFICADOR E SEM GELATINA! |Perfeita e super fácil de fazer!', 1684270815.0, 0.041699592177806846).
 video('Howto & Style', 'Bete com carinho', '2 XÍCARAS DE FARINHA E 1 OVO VOCÊ FAZ SEU CAFÉ DA TARDE MARAVILHOSO!!', 1660067102.0, 0.0671685994647636).
 video('Howto & Style', 'Bete com carinho', 'PIRIQUITINHA FRITA QUE DESMANCHA NA BOCA!! IDEAL PARA O CAFÉ!!', 1660152361.0, 0.10750383304306406).
@@ -13309,6 +13505,7 @@ video('Howto & Style', 'Maurício Arruda', 'MINHA NOVA CASA NOVA TEM CORES E UMA
 video('Howto & Style', 'Maurício Arruda', 'CHEGOU A MARCENARIA DA CASA NOVA I EP. 3', 1682719234.0, 0.13252486714811282).
 video('Howto & Style', 'Maurício Arruda', 'COMO MONTAR UM APARTAMENTO CONTEMPORÂNEO', 1683669616.0, 0.10173724450675839).
 video('Howto & Style', 'Maurício Arruda', 'MINHA NOVA CASA NOVA TÁ QUASE PRONTA!! I EP.4', 1685138404.0, 0.13717855988673613).
+video('Howto & Style', 'Maurício Arruda', 'TOUR NO MEU SÍTIO', 1697764051.0, 0.09015168275586685).
 video('Howto & Style', 'Menino Prendado', 'CHOCOLATE QUENTE SUPER CREMOSO SEM AMIDO DE MILHO | LEVA APENAS 3 INGREDIENTES', 1686848408.0, 0.06900850438881109).
 video('Howto & Style', 'Menino Prendado', 'MUDEI DE CASA E NOVA FASE DO CANAL | Menino Prendado', 1692118826.0, 0.20808899099208028).
 video('Howto & Style', 'NiinaSecrets', 'FOCO TOTAL: ALIMENTAÇÃO SAUDÁVEL E MUITO TREINO! - DIÁRIO DA DIETA #4', 1645131615.0, 0.13838263470255618).
@@ -13319,8 +13516,8 @@ video('Howto & Style', 'NiinaSecrets', 'VLOGÃO DALLAS: Comprinhas, eventos das 
 video('Howto & Style', 'NiinaSecrets', 'VLOGÃO: bate papo sobre minhas férias, niver do sogro e virei gamer', 1668122151.0, 0.09718985991409562).
 video('Howto & Style', 'NiinaSecrets', 'Mármores, revestimentos, escada e ar condicionado - Diário da Obra #10', 1668547251.0, 0.11488858801661427).
 video('Howto & Style', 'NiinaSecrets', 'VLOG: estou MORENA, jogos do Brasil, e de babá da Gigi', 1669928416.0, 0.10173209783569628).
-video('Howto & Style', 'NiinaSecrets', 'DIA DE OUTLET + A NIINA VIROU DENTISTA #REALITYDASSANTINAS EP.3', 1673039527.0, 0.10747011060000106).
 video('Howto & Style', 'NiinaSecrets', 'EP.3 - DIA DE OUTLET + A NIINA VIROU DENTISTA #REALITYDASSANTINAS', 1673039527.0, 0.09145235194406187).
+video('Howto & Style', 'NiinaSecrets', 'DIA DE OUTLET + A NIINA VIROU DENTISTA #REALITYDASSANTINAS EP.3', 1673039527.0, 0.10747011060000106).
 video('Howto & Style', 'NiinaSecrets', 'EP.5 - DINDA CUIDOU DA GIGI + SURF NA PISCINA + FABI NO DENTISTA #REALITYDASSANTINAS', 1673211610.0, 0.09065402545851746).
 video('Howto & Style', 'NiinaSecrets', 'DINDA CUIDOU DA GIGI + SURF NA PISCINA + FABI NO DENTISTA #REALITYDASSANTINAS EP.5', 1673211610.0, 0.11496921202542065).
 video('Howto & Style', 'NiinaSecrets', 'Revestimentos, forro de madeira e gesso - Diário da Obra #11', 1677531603.0, 0.13446594982078852).
@@ -13338,6 +13535,7 @@ video('Howto & Style', 'NiinaSecrets', 'VLOGÃO: ORGANIZANDO o closet e minha ro
 video('Howto & Style', 'NiinaSecrets', 'TERMINOU a marcenaria, instalação dos eletros e muito perrengue! - Diário da Obra #16', 1693345353.0, 0.13016905679533508).
 video('Howto & Style', 'NiinaSecrets', 'Compramos os MÓVEIS (visita à fábrica) e entramos na PISCINA - Diário da Obra #17', 1694617211.0, 0.12966652542754883).
 video('Howto & Style', 'NiinaSecrets', 'Primeiras COMPRINHAS, piso aquecido, lareira, churrasqueira…  - Diário da Obra #18', 1696366825.0, 0.11852314406092318).
+video('Howto & Style', 'NiinaSecrets', 'Minhas árvores frutíferas, pergolado pronto e updates gerais - Diário da Obra #19', 1698181225.0, 0.12215796561831577).
 video('Howto & Style', 'Paloma Soares', 'ESTOU GRÁVIDA - VAMOS TER MAIS UM BEBÊ | #PALOMASOARES', 1667939361.0, 0.17473982202318109).
 video('Howto & Style', 'Renata Meins', 'Meu explante de silicone,  como foi - MOSTREI O DEPOIS! - resultado biópsia! -RENATA MEINS', 1646863722.0, 0.16452532463337424).
 video('Howto & Style', 'Renata Meins', 'Pós-cirúrgico, enfrentando o espelho, sintomas que Sumiram  e Resultado da Biopsia | + detox!', 1648506473.0, 0.11895470688823606).
@@ -13406,13 +13604,13 @@ video('Music', 'AdeleVEVO', 'Adele - I Drink Wine (Official Video)', 1666800006.
 video('Music', 'Adson e Alana', 'Adson e Alana - OS EMBAIXADORES DO AGRO ( Clipe Oficial )', 1650108600.0, 0.0580454347510524).
 video('Music', 'Adson e Alana', 'Galera da Rodagem - Adson & Alana ( Clipe Oficial )', 1654945219.0, 0.07288641746473072).
 video('Music', 'AgroPlay', 'Me Gusta - AgroPlay, @anacastelaoficial, Rodolfo Alessi (Oficial AgroPlay Verão)', 1685109612.0, 0.08308364926011985).
-video('Music', 'AgroPlay', 'AgroPlay, @luanpereiralp, @djchrisnobeat - Vai Luan (AgroPlay Verão)', 1687528809.0, 0.21250559345406062).
 video('Music', 'AgroPlay', 'AgroPlay, @LuanPereiraLP  @DJChrisnoBeat  - Vai Luan (AgroPlay Verão)', 1687528809.0, 0.08484016011906394).
+video('Music', 'AgroPlay', 'AgroPlay, @luanpereiralp, @djchrisnobeat - Vai Luan (AgroPlay Verão)', 1687528809.0, 0.21250559345406062).
 video('Music', 'AgroPlay - Topic', 'Me Gusta (AgroPlay Verão)', 1685008974.0, 0.0317080880319254).
 video('Music', 'Aka Rasta', 'Aka Rasta - Vou Falar O Que? FT. Cjota (Videoclipe Oficial)', 1659562213.0, 0.20784917438157702).
 video('Music', 'Aka Rasta', 'Aka Rasta - E Se Eu Falasse O Que Sinto? FT. Cjota (Videoclipe Oficial)', 1665415792.0, 0.23402052811650145).
-video('Music', 'Akashi Cruz', 'Akashi Cruz - Psicológico🤬😵(Prod NINE & WB & Dakvir)', 1688655608.0, 0.1847050145648668).
 video('Music', 'Akashi Cruz', 'Akashi Cruz - Psicológico🤬😵(Prod NINE & WB Beats)', 1688655608.0, 0.26301332234583163).
+video('Music', 'Akashi Cruz', 'Akashi Cruz - Psicológico🤬😵(Prod NINE & WB & Dakvir)', 1688655608.0, 0.1847050145648668).
 video('Music', 'Akatu Oficial', 'Akatu  - Chega de Fingir -  DVD Degrauzinho por Degrauzinho', 1662130627.0, 0.010045021605846022).
 video('Music', 'Akatu Oficial', 'Akatu - Meu Plano Falhou - DVD Degrauzinho por Degrauzinho', 1662130649.0, 0.005859504381078558).
 video('Music', 'Akatu Oficial', 'Akatu & Di Proposito - Em Suas Mãos - DVD Degrauzinho por Degrauzinho', 1668178788.0, 0.0026742053789731053).
@@ -13437,8 +13635,8 @@ video('Music', 'Amado Batista', 'Amado Batista - SE EU FOSSE UM COMPOSITOR - DVD
 video('Music', 'Amado Batista', 'Amado Batista - SÓ SEI PENSAR NA GENTE - DVD Em Casa', 1653660005.0, 0.04236675983794479).
 video('Music', 'Amado Batista', 'Amado Batista - VIDA DE SOLTEIRO - DVD Em Casa', 1654264814.0, 0.03123763720280805).
 video('Music', 'Amado Batista', 'Amado Batista - PODE CHORAR - DVD Perdoa', 1678715962.0, 0.050011148055876).
-video('Music', 'Amado Batista', 'Amado Batista - QUERO NAMORAR - DVD Perdoa', 1682085518.0, 0.01858305582292439).
 video('Music', 'Amado Batista', 'Amado Batista - EU QUERO NAMORAR - DVD Perdoa', 1682085518.0, 0.024086743255453725).
+video('Music', 'Amado Batista', 'Amado Batista - QUERO NAMORAR - DVD Perdoa', 1682085518.0, 0.01858305582292439).
 video('Music', 'Amado Batista', 'Amado Batista - MUDANÇA DE ESTAÇÃO - DVD Perdoa', 1683295020.0, 0.01334662267436532).
 video('Music', 'Amanda Wanessa', 'Calma - Amanda Wanessa ( Live Voz e Piano)', 1647356406.0, 0.12587265392036484).
 video('Music', 'Amanda Wanessa', 'Amanda Wanessa | Me Refazer | Trailer Oficial', 1650305101.0, 0.0890216654532674).
@@ -13451,6 +13649,7 @@ video('Music', 'Ana Castela', 'Ana Castela ft. @simonemendesoficial - Não Vai V
 video('Music', 'Ana Castela', 'Ana Castela - Tô Voltando (DVD Boiadeira Internacional)', 1692972010.0, 0.08161202587474273).
 video('Music', 'Ana Castela', 'Ana Castela - Pipoco (DVD Boiadeira Internacional)', 1695391209.0, 0.09114120322513955).
 video('Music', 'Ana Castela', 'Ana Castela - Alerta de Golpe (DVD Boiadeira Internacional)', 1697205609.0, 0.053684741765509254).
+video('Music', 'Ana Castela', 'Ana Castela - Só Não Deixa Saudade (DVD Boiadeira Internacional)', 1697810408.0, 0.05474103980997389).
 video('Music', 'Ana Castela - Topic', 'Carinha de Bebê', 1676419390.0, 0.056969046341027015).
 video('Music', 'Ana Castela - Topic', 'Tô Voltando ((Boiadeira Internacional))', 1692921741.0, 0.06041784984955956).
 video('Music', 'Ana Gabriela', 'Ana Gabriela, @ANAVITÓRIA  - No Escuro', 1660316411.0, 0.22142449600608596).
@@ -13463,8 +13662,8 @@ video('Music', 'Angra - Topic', 'Ride Into The Storm', 1691118024.0, 0.155720164
 video('Music', 'AniRap', '♪ Desabafo Itadori Yuji | Desconstrução do Herói | Feat: @Gabriza e @DaaruiOficial | AniRap', 1671660008.0, 0.15581343386804464).
 video('Music', 'Anitta', 'Anitta – Boys Don’t Cry [Official Music Video]', 1643328023.0, 0.20650006983076236).
 video('Music', 'Anitta', 'Anitta, Justin Quiles – Envolver Remix  [Official Music Video]', 1645146031.0, 0.10305729205146966).
-video('Music', 'Anitta', 'Anitta - Que Rabão (feat. Mr. Catra) [Official Audio]', 1649808003.0, 0.09442470044529351).
 video('Music', 'Anitta', 'Anitta - Que Rabão (Feat. Mr. Catra e Papatinho) (with YG, MC Kevin o Chris) [Official Audio]', 1649808003.0, 0.19981111265215007).
+video('Music', 'Anitta', 'Anitta - Que Rabão (feat. Mr. Catra) [Official Audio]', 1649808003.0, 0.09442470044529351).
 video('Music', 'Anitta', 'Anitta - Versions of Me [Official Audio]', 1649808009.0, 0.09972740616481443).
 video('Music', 'Anitta', 'Anitta - Gata [Official Music Video]', 1659711602.0, 0.15786798704415012).
 video('Music', 'Anitta', 'Anitta, Maluma - El Que Espera [Official Music Video]', 1660262401.0, 0.08686923716533058).
@@ -13479,6 +13678,7 @@ video('Music', 'Anitta', 'Anitta - VAI VENDO [feat. Mc Ryan SP] [Official Music 
 video('Music', 'Anitta', 'Anitta - NU (feat. HITMAKER) [Official Music Video]', 1684422007.0, 0.12477493824703527).
 video('Music', 'Anitta', 'ANITTA x BURNA BOY ft. Alesso: UEFA Champions League Final 2023 Kick Off Show by Pepsi', 1686435497.0, 0.06431458194958853).
 video('Music', 'Anitta', 'Anitta - Used To Be (Official Lyric Video)', 1692316944.0, 0.09683280258707941).
+video('Music', 'Anitta', 'Anitta - Mil Veces (Official Music Video)', 1697760008.0, 0.17602989766563074).
 video('Music', 'Anitta - Topic', 'Funk Rave', 1687478593.0, 0.08613409833476834).
 video('Music', 'AnittaVEVO', 'Anitta - Funk Rave (Official Music Video)', 1687532408.0, 0.0859770370203985).
 video('Music', 'AnittaVEVO', 'Anitta - Casi Casi (Official Music Video)', 1692370810.0, 0.11593368235078463).
@@ -13559,10 +13759,10 @@ video('Music', 'BANGTANTV', '\'Jimin\'s Production Diary\' Main Trailer', 169712
 video('Music', 'BBC Radio 1', 'Sam Smith - Unholy ft Kim Petras on Radio 1', 1663866007.0, 0.11517854906185025).
 video('Music', 'BBC Radio 1', 'Jung Kook - \'Seven\' in the Live Lounge', 1689870866.0, 0.14417916484458587).
 video('Music', 'BBC Radio 1', 'Jung Kook - \'Let There Be Love\' in the Live Lounge', 1689871457.0, 0.16625497227035888).
-video('Music', 'BBCRadio1VEVO', 'Harry Styles - Late Night Talking in the Live Lounge', 1653387600.0, 0.09504084817330641).
 video('Music', 'BBCRadio1VEVO', 'Harry Styles - As It Was in the Live Lounge', 1653387600.0, 0.08770762533603454).
-video('Music', 'BBCRadio1VEVO', 'Olivia Rodrigo - vampire in the Live Lounge', 1696244460.0, 0.08279232800967638).
+video('Music', 'BBCRadio1VEVO', 'Harry Styles - Late Night Talking in the Live Lounge', 1653387600.0, 0.09504084817330641).
 video('Music', 'BBCRadio1VEVO', 'Olivia Rodrigo - get him back! in the Live Lounge', 1696244460.0, 0.08757184109450783).
+video('Music', 'BBCRadio1VEVO', 'Olivia Rodrigo - vampire in the Live Lounge', 1696244460.0, 0.08279232800967638).
 video('Music', 'BG LOVE FUNK', '01 NÃO É 02 - Mc Paiva - Bem Me Quer Mal Me Quer · DJ AK Beats', 1688155211.0, 0.018956839944284556).
 video('Music', 'BIGBANG', 'BIGBANG - \'봄여름가을겨울 (Still Life)\' M/V', 1649084411.0, 0.12778085197544126).
 video('Music', 'BIN', 'BIN - DIOR ft. Major RD (prod. Ajaxx)', 1655154913.0, 0.15177132920017097).
@@ -13629,6 +13829,7 @@ video('Music', 'BaroesPisadinhaVEVO', 'Os Barões da Pisadinha - Sentada Sigilos
 video('Music', 'BaroesPisadinhaVEVO', 'Os Barões da Pisadinha - Se Não For Tua Boquinha (Ao Vivo - DVD Resenha Preferida)', 1663945213.0, 0.00857074158244588).
 video('Music', 'BaroesPisadinhaVEVO', 'Os Barões da Pisadinha - Carreira Solo (Ao Vivo - DVD Resenha Preferida)', 1667574009.0, 0.0037006342181677594).
 video('Music', 'BaroesPisadinhaVEVO', 'Os Barões da Pisadinha, MC Ryan SP, Mc Daniel - Mordidinha Safada', 1683903612.0, 0.005505155277579961).
+video('Music', 'BaroesPisadinhaVEVO', 'Os Barões da Pisadinha - Aí Eu Chorei (Vestido da Shein) (Ao Vivo)', 1697813283.0, 0.002540857063188177).
 video('Music', 'Basara', 'O Último Ronin | Michelangelo (The Last Ronin) | Basara', 1681678812.0, 0.17809191706166086).
 video('Music', 'Batalha do Coliseu - BDC RJ', '(MELHOR DO ANO 🔥🔥) MAGRÃO X GINE - GRANDE FINAL - BATALHA DO COLISEU - EDIÇÃO 136', 1682810104.0, 0.09859973272906862).
 video('Music', 'Batalha do Coliseu - BDC RJ', '(JOGOU NA CARA 🔥🔥) KRAWK (SP) X JHONY - BATALHA DO COLISEU - COLISEU 4 ANOS', 1687976943.0, 0.09514992455886256).
@@ -13655,8 +13856,8 @@ video('Music', 'Beyoncé - Topic', 'AMERICA HAS A PROBLEM', 1684540801.0, 0.0782
 video('Music', 'Beyoncé - Topic', 'DELRESTO (ECHOES)', 1690516915.0, 0.0836779085039994).
 video('Music', 'BeyoncéVEVO', 'Beyoncé - BREAK MY SOUL (Official Lyric Video)', 1655777141.0, 0.13994355974177675).
 video('Music', 'BeyoncéVEVO', 'RENAISSANCE...', 1659070809.0, 0.11928693863558451).
-video('Music', 'BeyoncéVEVO', 'Beyoncé - I’M THAT GIRL (Official Lyric Video)', 1659070992.0, 0.05281055672738672).
 video('Music', 'BeyoncéVEVO', 'Beyoncé - I\'M THAT GIRL (Official Lyric Video)', 1659070992.0, 0.03610657391211662).
+video('Music', 'BeyoncéVEVO', 'Beyoncé - I’M THAT GIRL (Official Lyric Video)', 1659070992.0, 0.05281055672738672).
 video('Music', 'BeyoncéVEVO', 'Beyoncé - ALIEN SUPERSTAR (Official Lyric Video)', 1659071708.0, 0.05332775219757221).
 video('Music', 'BeyoncéVEVO', 'Beyoncé - BREAK MY SOUL (Official Visualizer)', 1659304831.0, 0.04780628658474221).
 video('Music', 'BeyoncéVEVO', 'Beyoncé - BREAK MY SOUL (CLIQUEBAIT)', 1659652196.0, 0.060833384718833226).
@@ -13699,6 +13900,7 @@ video('Music', 'Bruno & Barretto', 'Bruno e Barretto - Perigosa e Linda (Ao Vivo
 video('Music', 'Bruno & Barretto', 'Bruno e Barretto - Abre a Porteira Part. Mc Ryan SP | Outro Patamar', 1696601043.0, 0.0024344401510181394).
 video('Music', 'Bruno & Marrone', 'Bruno & Marrone - Pago Calado (Clipe Oficial)', 1680271267.0, 0.0262569523993541).
 video('Music', 'Bruno & Marrone - Topic', 'Deixa Ela Em Paz', 1656028938.0, 0.070877953248052).
+video('Music', 'Bruno Gadiol', 'Bruno Gadiol, Grag Queen - f:)da-se (Videoclipe oficial)', 1697760012.0, 0.15081576700076407).
 video('Music', 'Bruno e Marrone', 'Bruno e Marrone & Henrique e Juliano - Deixa Ela em Paz (Clipe Oficial)', 1656079212.0, 0.10269452623936105).
 video('Music', 'Bruno e Marrone', 'Bruno & Marrone - Amor Não É Jogo De Azar (Clipe Oficial)', 1676037607.0, 0.05420384772820303).
 video('Music', 'Bruno e Marrone', 'Bruno & Marrone - Faz De Conta (Clipe Oficial)', 1676037609.0, 0.0788758523050886).
@@ -13716,6 +13918,7 @@ video('Music', 'CAguileraVEVO', 'Christina Aguilera, Ozuna - Santo (Official Vid
 video('Music', 'CAguileraVEVO', 'Christina Aguilera - No Es Que Te Extrañe (Official Video)', 1664492400.0, 0.10227294980841162).
 video('Music', 'CAguileraVEVO', 'Christina Aguilera - Beautiful (2022 Version)', 1666195204.0, 0.11249375171607798).
 video('Music', 'CESAR MC', 'Cesar Mc - Mortal Kombat (Videoclipe Oficial)', 1697121421.0, 0.2013507851313873).
+video('Music', 'CESAR MC', 'CESAR MC “LIGAÇÕES ESTRANHAS” part. Babu Santana', 1697765629.0, 0.17624492252143825).
 video('Music', 'CHAMELEO', 'CHAMELEO - TOKYO (Pabllo Vittar & Cyberkills Remix) (Lyric Video)', 1659657613.0, 0.14062310827717017).
 video('Music', 'CLEO', 'CLEO - TODO MUNDO QUE AMEI JÁ ME FEZ CHORAR', 1668612223.0, 0.0).
 video('Music', 'CMusic', 'Mayara Lopes feat. Gabriela Lopes l Não Perca a Promessa de Vista [Clipe Oficial]', 1652367612.0, 0.12178134233853947).
@@ -13783,6 +13986,7 @@ video('Music', 'Chris Brown', 'Chris Brown - Wheels Fall Off | From The Block @4
 video('Music', 'Chris Brown', 'Chris Brown - C.A.B. (Catch A Body) feat. Fivio Foreign [Official Video]', 1656045226.0, 0.0988038975771701).
 video('Music', 'Chris Brown', 'Chris Brown - Psychic (Official Video) ft. Jack Harlow', 1676912411.0, 0.06541036516402167).
 video('Music', 'Chris Brown', 'Chris Brown - Talm\' Bout (Official Video)', 1683295211.0, 0.09541485637153584).
+video('Music', 'Chris Brown', 'Chris Brown - Sensational feat. Davido & Lojay (Official Audio)', 1697774406.0, 0.08557427662625186).
 video('Music', 'ChrisBrownVEVO', 'Chris Brown - Iffy (Official Video)', 1642179610.0, 0.08389032284384626).
 video('Music', 'ChrisBrownVEVO', 'Chris Brown - WE (Warm Embrace) (Visualizer)', 1648785621.0, 0.0897420478254731).
 video('Music', 'ChrisBrownVEVO', 'Chris Brown - WE (Warm Embrace) (Official Video)', 1655827211.0, 0.08468809303745195).
@@ -13791,6 +13995,7 @@ video('Music', 'ChrisBrownVEVO', 'Chris Brown - Call Me Every Day (Official Vide
 video('Music', 'ChrisBrownVEVO', 'Chris Brown - Under The Influence (Official Video)', 1666281610.0, 0.11999318109158089).
 video('Music', 'ChrisBrownVEVO', 'Chris Brown - Psychic (Official Video) ft. Jack Harlow', 1676912411.0, 0.05486562087492732).
 video('Music', 'ChrisBrownVEVO', 'Chris Brown - Summer Too Hot (Official Video)', 1692374449.0, 0.0989702255755701).
+video('Music', 'ChrisBrownVEVO', 'Chris Brown - Sensational (Official Video) ft. Davido, Lojay', 1697828408.0, 0.09825106640354808).
 video('Music', 'CiaraVEVO', 'Ciara, Chris Brown - How We Roll (Official Music Video)', 1691121607.0, 0.08473143025907573).
 video('Music', 'Cjota', 'Cjota - Intenção', 1676062819.0, 0.16315672996060726).
 video('Music', 'Claudia Leitte', 'Dengo Meu - Claudia Leitte ft @Juliette e @Lucy Alves(Clipe Oficial ao Vivo na Prainha da Claudinha)', 1655084474.0, 0.09942044008858314).
@@ -13809,8 +14014,8 @@ video('Music', 'Coachella', 'Pabllo Vittar - Follow Me - Live at Coachella 2022'
 video('Music', 'Coachella', 'Anitta - Onda Diferente - Live at Coachella 2022', 1650415336.0, 0.10449520259890704).
 video('Music', 'Coachella', 'blink-182 - What\'s My Age Again - Live at Coachella 2023', 1681546308.0, 0.019503950550978904).
 video('Music', 'Coachella', 'Blink 182 - Whats My Age Again - Live at Coachella 2023', 1681546308.0, 0.020554949257117323).
-video('Music', 'Coachella', 'Blink 182 - I Miss You - Live at Coachella 2023', 1681546427.0, 0.024664818395926293).
 video('Music', 'Coachella', 'blink-182 - I Miss You - Live at Coachella 2023', 1681546427.0, 0.018670030516294015).
+video('Music', 'Coachella', 'Blink 182 - I Miss You - Live at Coachella 2023', 1681546427.0, 0.024664818395926293).
 video('Music', 'CoiLerayVEVO', 'Coi Leray & Nicki Minaj - Blick Blick! (Official Video)', 1647619212.0, 0.09908673589314602).
 video('Music', 'Colde - Topic', 'Don\'t ever say love me (feat. RM of BTS)', 1683190909.0, 0.2682064352806098).
 video('Music', 'Coldplay', 'Coldplay X Selena Gomez - Let Somebody Go (Official Video)', 1644253209.0, 0.11289080548282766).
@@ -13843,8 +14048,8 @@ video('Music', 'DJ Lucas Beat', 'NO OUVIDINHO (REMIX) - DJ LUCAS BEAT, FELIPE AM
 video('Music', 'DJ Zullu', 'DJ Zullu, Lil Gabi, JF (Visualizer) - O Que Você Quer De Mim?', 1693353609.0, 0.08262016080759711).
 video('Music', 'DJKhaledVEVO', 'DJ Khaled ft. Drake & Lil Baby - STAYING ALIVE (Official Video)', 1659672011.0, 0.039675321325460124).
 video('Music', 'DNASTY OFICIAL', 'DNASTY - Aulas e Cursos (Prod. Thiérre)', 1648828813.0, 0.23609204867782962).
-video('Music', 'DaftPunkVEVO', 'Daft Punk - Infinity Repeating (2013 Demo) [ft. Julian Casablancas + The Voidz]', 1683864009.0, 0.0870887723472169).
 video('Music', 'DaftPunkVEVO', 'Daft Punk - Infinity Repeating (2013 Demo) (feat. Julian Casablancas+The Voidz)', 1683864009.0, 0.0605142494428187).
+video('Music', 'DaftPunkVEVO', 'Daft Punk - Infinity Repeating (2013 Demo) [ft. Julian Casablancas + The Voidz]', 1683864009.0, 0.0870887723472169).
 video('Music', 'DamaresVEVO', 'Damares - Sou Eu (Clipe Oficial)', 1650031817.0, 0.04274386440434574).
 video('Music', 'DamaresVEVO', 'Damares - O Noivo Virá (Clipe Oficial)', 1654869073.0, 0.05496298290483241).
 video('Music', 'DamaresVEVO', 'Damares, Canção e Louvor - O Leão (Clipe Oficial)', 1659708164.0, 0.09074221692421328).
@@ -13856,8 +14061,8 @@ video('Music', 'Dan-Sa / Daniel Saboya', 'Desenrola Bate Joga de Ladinho - Os Ha
 video('Music', 'Daniel Oficial', 'V1-01 | Estou Apaixonado - Ao Vivo | DVD Daniel 40 Anos: Celebra João Paulo & Daniel', 1681131611.0, 0.0761610294243022).
 video('Music', 'Daniel Oficial', 'V1-07 | Alguém - Ao Vivo - Daniel, Jorge & Mateus | DVD Daniel 40 Anos', 1681135210.0, 0.06980012814948017).
 video('Music', 'Daniel Oficial', 'V1-03 | Ela Tem o Dom de Me Fazer Chorar - Ao Vivo - Daniel, Luan Santana | DVD Daniel 40 Anos', 1681138809.0, 0.06775418133802817).
-video('Music', 'Daniel Oficial', 'V1-09 | Só da Você na Minha Vida - Ao Vivo - Daniel, Henrique & Juliano | DVD Daniel 40 Anos', 1681160410.0, 0.05729078450996997).
 video('Music', 'Daniel Oficial', 'V1-09 | Só dá Você na Minha Vida - Ao Vivo - Daniel, Henrique & Juliano | DVD Daniel 40 Anos', 1681160410.0, 0.04723567291070652).
+video('Music', 'Daniel Oficial', 'V1-09 | Só da Você na Minha Vida - Ao Vivo - Daniel, Henrique & Juliano | DVD Daniel 40 Anos', 1681160410.0, 0.05729078450996997).
 video('Music', 'Daniel Oficial', 'V2-01 | Malícia de Mulher - Ao Vivo - Daniel, Edson & Hudson | DVD Daniel 40 Anos', 1681480812.0, 0.03206246949731576).
 video('Music', 'Daniel Oficial', 'V2-02 | Fogo de Amor - Ao Vivo - Daniel, César Menotti & Fabiano | DVD Daniel 40 Anos', 1681484408.0, 0.03133063904068002).
 video('Music', 'Daniel Oficial', 'V2-03 | O Cheiro Dela - Ao Vivo - Daniel,  Guilherme & Santiago | DVD Daniel 40 Anos', 1681488010.0, 0.03286908885378473).
@@ -13875,8 +14080,8 @@ video('Music', 'Day e Lara', 'Day e Lara part. Murilo Huff - É Diferente | DVD 
 video('Music', 'Delacruz', 'Aperta Start - Delacruz & Lukinhas', 1662735610.0, 0.15039385982629772).
 video('Music', 'Delino Marçal', 'Guarda O Meu Coração - Delino Marçal', 1661371208.0, 0.055780164245104236).
 video('Music', 'Demi Lovato', 'Demi Lovato - SWINE (Official Music Video)', 1687442425.0, 0.14964674667571654).
-video('Music', 'DemiLovatoVEVO', 'Demi Lovato - SKIN OF MY TEETH (Official Video)', 1654833611.0, 0.07900632667531006).
 video('Music', 'DemiLovatoVEVO', 'Demi Lovato - Skin Of My Teeth (Official Video)', 1654833611.0, 0.11524420538742358).
+video('Music', 'DemiLovatoVEVO', 'Demi Lovato - SKIN OF MY TEETH (Official Video)', 1654833611.0, 0.07900632667531006).
 video('Music', 'DemiLovatoVEVO', 'Demi Lovato - SUBSTANCE (Official Video)', 1657857609.0, 0.0790792507299645).
 video('Music', 'DemiLovatoVEVO', 'Demi Lovato - 29 (Lyric Video)', 1660752028.0, 0.12204300520451723).
 video('Music', 'DemiLovatoVEVO', 'Demi Lovato - 29 (Official Live Performance) | Vevo', 1661194804.0, 0.15755305734253777).
@@ -13932,8 +14137,8 @@ video('Music', 'DilsinhoVEVO', 'Dilsinho, Diego & Victor Hugo - De Atual Pra Ex 
 video('Music', 'DilsinhoVEVO', 'Dilsinho - O Choro é Livre (Ao Vivo)', 1681480830.0, 0.004408598207222452).
 video('Music', 'DilsinhoVEVO', 'Dilsinho, Gustavo Mioto - Casalzinho (Ao Vivo)', 1683295246.0, 0.04780959727445119).
 video('Music', 'DilsinhoVEVO', 'Dilsinho, Rafinha RSQ, Nadson O Ferinha - Duas', 1685714434.0, 0.09012352479446961).
-video('Music', 'DisneyMusicBRVEVO', 'Lara Suleiman - Estou Nervosa (De Encanto)', 1645074014.0, 0.030189289084207836).
 video('Music', 'DisneyMusicBRVEVO', 'Não Falamos do Bruno (De Encanto)', 1645074014.0, 0.03507140497217675).
+video('Music', 'DisneyMusicBRVEVO', 'Lara Suleiman - Estou Nervosa (De Encanto)', 1645074014.0, 0.030189289084207836).
 video('Music', 'DisneyMusicBRVEVO', 'Mari Evangelista, Márcia Fernandes, Elenco de Encanto - Família Madrigal (De Encanto)', 1645074020.0, 0.019392138536151713).
 video('Music', 'DisneyMusicBRVEVO', 'Vocês (De Encanto)', 1645074021.0, 0.025688302459354863).
 video('Music', 'DisneyMusicLAVEVO', 'Olga Lucía Vives, Yaneth Waldman, Elenco de Encanto - La familia Madrigal (De Encanto)', 1645074016.0, 0.015332023216489191).
@@ -13962,8 +14167,8 @@ video('Music', 'DoveCameronVEVO', 'Dove Cameron - Boyfriend (Official Video)', 1
 video('Music', 'Drake', 'Drake - Falling Back', 1655444906.0, 0.046998064224369904).
 video('Music', 'Drake', 'Drake & 21 Savage - Privileged Rappers | A COLORS SHOW', 1667861549.0, 0.06328527779174477).
 video('Music', 'Drake', 'Drake - 8AM In Charlotte', 1696586422.0, 0.05773029879198657).
-video('Music', 'DrakeVEVO', 'Drake - Falling Back', 1655444906.0, 0.03083567838809302).
 video('Music', 'DrakeVEVO', 'Drake - Falling Back (Extended Version)', 1655444906.0, 0.029577234401666538).
+video('Music', 'DrakeVEVO', 'Drake - Falling Back', 1655444906.0, 0.03083567838809302).
 video('Music', 'DrakeVEVO', 'Drake - Slime You Out ft. SZA (Official Audio)', 1694793603.0, 0.07741589119541875).
 video('Music', 'DrakeVEVO', 'Drake - 8am in Charlotte', 1696586422.0, 0.045576670862343655).
 video('Music', 'Dream Perfect Regime', 'DPR IAN - So I Danced (Official Music Video)', 1694750411.0, 0.15238449937128717).
@@ -14051,6 +14256,8 @@ video('Music', 'Enygma', 'Morte | Lobo (Gato de Botas 2: O Último Pedido) | Eny
 video('Music', 'Enygma', 'Mochi Mochi | Katakuri (One Piece) | Enygma', 1681596008.0, 0.15060291188685945).
 video('Music', 'Enygma', 'Anjo Caído | Beelzebub (Shuumatsu no Valkyrie) | Enygma', 1684015231.0, 0.14172924265179146).
 video('Music', 'Enygma', 'Ciência!! | Nikola Tesla (Shuumatsu no Valkyrie) | Enygma', 1685997003.0, 0.14702613028275222).
+video('Music', 'Enygma', 'Ódio (Hantengu) | Enygma', 1697407201.0, 0.17388642956628195).
+video('Music', 'Enygma', 'Ódio (Hantengu) feat. Teaga, Daarui e Kaito | Enygma', 1697407201.0, 0.1460946102227793).
 video('Music', 'Epitaph Records', 'Falling In Reverse - Watch The World Burn', 1675177187.0, 0.10176264617205902).
 video('Music', 'Epitaph Records', 'Falling In Reverse - Last Resort (Reimagined)', 1687787986.0, 0.1253624667113659).
 video('Music', 'Eric Land', 'Mete o Pix- Eric Land e Marcynho Sensação (Clipe Oficial)', 1643382013.0, 0.03472217294742892).
@@ -14127,8 +14334,8 @@ video('Music', 'FitDance', 'Malvada - Zé Felipe  | FitDance (Coreografia) | Dan
 video('Music', 'FitDance', 'Vermelho  - Gloria Groove | FitDance (Coreografia) | Dance Video', 1645189206.0, 0.0541199197562969).
 video('Music', 'FitDance', 'sentaDONA (remix) s2 - Luísa Sonza, Davi Kneip, Mc Frog, Dj Gabriel do Borel | FitDance', 1648216819.0, 0.041955257096005935).
 video('Music', 'FitDance', 'Show Class TOP 5 - Vermelho | Envolver | No Chão Novinha | Dançarina | SentaDONA | FitDance', 1649250017.0, 0.04777872042446033).
-video('Music', 'FitDance', 'Ouvidinho - Felipe Amorim | FitDance (Coreografia) | Dance Video', 1649336418.0, 0.03778653778653779).
 video('Music', 'FitDance', 'No Ouvidinho - Felipe Amorim | FitDance (Coreografia) | Dance Video', 1649336418.0, 0.023254604099469358).
+video('Music', 'FitDance', 'Ouvidinho - Felipe Amorim | FitDance (Coreografia) | Dance Video', 1649336418.0, 0.03778653778653779).
 video('Music', 'FitDance', 'DESENROLA BATE JOGA DE LADIN - Os Hawaianos (DJ Bell da CDD e DJ Yuri Mix) | FitDance (Coreografia)', 1649422820.0, 0.022408566312691686).
 video('Music', 'FitDance', 'ACORDA PEDRINHO - Jovem Dionisio | FitDance (Coreografia) | Dance Video', 1654261212.0, 0.029688625816398473).
 video('Music', 'FitDance', 'Bandido - Zé Felipe e MC Mari | FitDance (Coreografia)', 1655816431.0, 0.02686176179001223).
@@ -14165,8 +14372,8 @@ video('Music', 'Froid', 'Froid - Flores em Balneário 🌷', 1676071810.0, 0.10
 video('Music', 'Froid', 'Froid - Peita de dar Rolê (Acústico)', 1685021409.0, 0.16772778720996037).
 video('Music', 'Froid', 'Froid - Avec Mói (Acústico)', 1685026802.0, 0.11576878659561966).
 video('Music', 'Froid', 'Froid - Vem Tranquilo (Acústico)', 1685026810.0, 0.13430630521967252).
-video('Music', 'Froid', 'Froid - Argentina feat Cynthia Luz (Vídeoclipe Oficial)', 1696286020.0, 0.10141474905838668).
 video('Music', 'Froid', 'Froid - Argentina (VIDEOCLIP OFICIAL)', 1696286020.0, 0.14815897136177675).
+video('Music', 'Froid', 'Froid - Argentina feat Cynthia Luz (Vídeoclipe Oficial)', 1696286020.0, 0.10141474905838668).
 video('Music', 'Funk 24por48', 'É SÓ UM LANCE - VAPO VAPO LERO LERO (Clipe Oficial) Silva MC, Luiggi, Meno Saaint, DJ Arana, Dozabri', 1668438006.0, 0.04625486007938694).
 video('Music', 'GIRLS\' GENERATION', 'Girls\' Generation 소녀시대 \'FOREVER 1\' Mood Sampler - Into The New World', 1659106837.0, 0.15934724993928642).
 video('Music', 'GIULIA BE', 'GIULIA BE  -  2 PALABRAS', 1645800986.0, 0.06829051471241888).
@@ -14235,9 +14442,9 @@ video('Music', 'George Henrique e Rodrigo', 'George Henrique e Rodrigo - Cuida d
 video('Music', 'George Henrique e Rodrigo', 'George Henrique & Rodrigo - Culpa dos Oi (Clipe Oficial)', 1678456821.0, 0.0021973596783827864).
 video('Music', 'George Henrique e Rodrigo', 'George Henrique & Rodrigo e Guilherme & Benuto - Beijo Equivocado (Clipe Oficial)', 1694788819.0, 0.008023050687992474).
 video('Music', 'Gerson Rufino', 'Teaser - Acalma e descansa - Gerson Rufino', 1653493225.0, 0.063305101437857).
+video('Music', 'Gerson Rufino', 'Gerson Rufino I Acalma e Descansa [Vídeo Clipe]', 1653685211.0, 0.041001328004208554).
 video('Music', 'Gerson Rufino', 'Gerson Rufino I Acalma e Descansa [vídeo Clipe]', 1653685211.0, 0.057673004674639365).
 video('Music', 'Gerson Rufino', 'Gerson Rufino I Acalma e Descansa DVD A história continua [Vídeo Clipe]', 1653685211.0, 0.037042126962313016).
-video('Music', 'Gerson Rufino', 'Gerson Rufino I Acalma e Descansa [Vídeo Clipe]', 1653685211.0, 0.041001328004208554).
 video('Music', 'Gerson Rufino', 'Gerson Rufino I Deus viu DVD A história continua [Vídeo Clipe]', 1654290015.0, 0.04502791487984465).
 video('Music', 'Gerson Rufino', 'Gerson Rufino I Vai lá Jesus DVD A história continua [Vídeo Clipe]', 1659121215.0, 0.06880919168930329).
 video('Music', 'Gerson Rufino', 'Gerson Rufino - Não me deixa não - DVD UM GRANDE MILAGRE (Clipe Oficial)', 1674910809.0, 0.05208655540164342).
@@ -14266,6 +14473,7 @@ video('Music', 'Gorillaz', 'Gorillaz - New Gold ft. Tame Impala & Bootie Brown (
 video('Music', 'Gorillaz', 'Gorillaz - New Gold ft Tame Impala & Bootie Brown (Visualiser with Kevin Parker)', 1664118007.0, 0.0858906609971356).
 video('Music', 'Gorillaz', 'Gorillaz - Silent Running ft. Adeleye Omotayo (Official Video)', 1675875608.0, 0.0915273159672382).
 video('Music', 'Gorillaz', 'Gorillaz - Controllah ft. MC Bin Laden (Official Audio)', 1677497198.0, 0.1736226915136432).
+video('Music', 'Green Day', 'Green Day - The American Dream Is Killing Me (Official Music Video)', 1698152446.0, 0.09019351839023508).
 video('Music', 'Greg Ferreira', 'O SONHO VIROU REALIDADE!! \'\' GTR★LIBERTYWALK \'\'', 1648220494.0, 0.2331452935388652).
 video('Music', 'Greg Ferreira', 'Greg Ferreira - OUTRO NÍVEL [Official Music Video]', 1659884408.0, 0.1793935973008858).
 video('Music', 'Greg Ferreira', 'A GRINGA VEIO PRO BRASIL!!! * REAÇÃO NO AUDI *', 1673276620.0, 0.16905067134471358).
@@ -14273,8 +14481,9 @@ video('Music', 'GrimesVEVO', 'Grimes - Shinigami Eyes (Official Video)', 1643216
 video('Music', 'Grupo Frontera', 'Grupo Frontera x Bad Bunny - un x100to (Video Oficial)', 1681747214.0, 0.04350900895132477).
 video('Music', 'Grupo Kamisa 10', 'Kamisa 10 - Nosso Rolê | NA VIBE DO K10', 1671202809.0, 0.007635655124164027).
 video('Music', 'Grupo Kamisa 10', 'Kamisa 10 - Pendências | NA VIBE DO K10', 1677855603.0, 0.007851734421249848).
-video('Music', 'Grupo Kamisa 10', 'Kamisa 10 - Envolvidassa part. Thiaguinho | Na Vibe do K10 RJ', 1692367201.0, 0.011139431238350561).
 video('Music', 'Grupo Kamisa 10', 'Kamisa 10 - Envolvidassa (Demorou, Mas Chegou) part. Thiaguinho | Na Vibe do K10 RJ', 1692367201.0, 0.004574406949013734).
+video('Music', 'Grupo Kamisa 10', 'Kamisa 10 - Envolvidassa part. Thiaguinho | Na Vibe do K10 RJ', 1692367201.0, 0.011139431238350561).
+video('Music', 'Grupo Kamisa 10', 'Kamisa 10 - Para Que Tá Feio part. Guilherme e Benuto | Na Vibe do K10 RJ', 1697813979.0, 0.009451755780193697).
 video('Music', 'Grupo Menos é Mais', 'Grupo Menos é Mais - O Mundo Dá Voltas (Clipe Oficial)', 1641564013.0, 0.03818990321736856).
 video('Music', 'Grupo Menos é Mais', 'Grupo Menos é Mais - Saudade Na Terra (Clipe Oficial)', 1670594421.0, 0.006783144210943154).
 video('Music', 'Grupo Menos é Mais', 'Grupo Menos é Mais - Iludidão (Clipe Oficial)', 1674223229.0, 0.01559128330356021).
@@ -14282,8 +14491,8 @@ video('Music', 'Grupo Menos é Mais', 'Grupo Menos é Mais - Melhor Eu Ir/Ligand
 video('Music', 'Grupo Menos é Mais', 'Grupo Menos é Mais, Matheus Fernandes - Lapada Dela (No Churrasquinho de Brasília)', 1689957539.0, 0.005929768297801358).
 video('Music', 'Grupo Menos é Mais', 'Grupo Menos é Mais - Lapada Dela (Campina Grande)', 1691679612.0, 0.0106802192835039).
 video('Music', 'Guilherme & Benuto - Topic', 'Esse B.O é Meu (Ao Vivo)', 1667520399.0, 0.014047209848830277).
-video('Music', 'Guilherme & Santiago - Topic', 'Se Ele Soubesse', 1675382481.0, 0.07164081454624759).
 video('Music', 'Guilherme & Santiago - Topic', 'Se Ele Soubesse (Ao Vivo Em Goiânia / 2022)', 1675382481.0, 0.044392754301227605).
+video('Music', 'Guilherme & Santiago - Topic', 'Se Ele Soubesse', 1675382481.0, 0.07164081454624759).
 video('Music', 'Guilherme e Benuto', 'Guilherme e Benuto feat @Hugo e Guilherme  - Haja Colírio | DVD Deu Rolo', 1656082812.0, 0.015622419528614232).
 video('Music', 'Guilherme e Benuto', 'Guilherme e Benuto feat Xand Avião - Assunto Delicado | DVD Deu Rolo', 1660921187.0, 0.007307104450529169).
 video('Music', 'Guilherme e Benuto', 'Guilherme e Benuto - Meus Vícios | DVD Deu Rolo', 1663945185.0, 0.00703572334471302).
@@ -14391,8 +14600,8 @@ video('Music', 'HYBE LABELS', 'RM \'들꽃놀이 (with 조유진)\' Official MV'
 video('Music', 'HYBE LABELS', 'RM \'Still Life (with Anderson .Paak)\' Official MV', 1670338800.0, 0.29302184241895135).
 video('Music', 'HYBE LABELS', 'NewJeans (뉴진스) \'Ditto\' Official MV (side A)', 1671440403.0, 0.10243317271715031).
 video('Music', 'HYBE LABELS', 'NewJeans (뉴진스) \'OMG\' Official MV', 1672650000.0, 0.1017311585149303).
-video('Music', 'HYBE LABELS', 'TXT (투모로우바이투게더) \'Sugar Rush Ride\' Official Teaser 1', 1674572401.0, 0.21821563237653407).
 video('Music', 'HYBE LABELS', 'LE SSERAFIM (르세라핌) \'FEARLESS -Japanese ver.-\' OFFICIAL M/V', 1674572401.0, 0.09982559289996985).
+video('Music', 'HYBE LABELS', 'TXT (투모로우바이투게더) \'Sugar Rush Ride\' Official Teaser 1', 1674572401.0, 0.21821563237653407).
 video('Music', 'HYBE LABELS', 'TXT (투모로우바이투게더) \'Sugar Rush Ride\' Official Teaser 2', 1674658801.0, 0.19885373291865732).
 video('Music', 'HYBE LABELS', 'TXT (투모로우바이투게더) \'Sugar Rush Ride\' Official MV', 1674795489.0, 0.06004334754873218).
 video('Music', 'HYBE LABELS', 'j-hope \'on the street\' Official Teaser', 1677733201.0, 0.22798522521852238).
@@ -14429,6 +14638,7 @@ video('Music', 'HYBE LABELS', 'TXT (투모로우바이투게더), Anitta ‘Back
 video('Music', 'HYBE LABELS', 'V \'For Us\' Official MV', 1694790001.0, 0.21969601172056696).
 video('Music', 'HYBE LABELS', '정국 (Jung Kook) \'3D (feat. Jack Harlow)\' Official Teaser', 1695787201.0, 0.21469960142340347).
 video('Music', 'HYBE LABELS', '정국 (Jung Kook) \'3D (feat. Jack Harlow)\' Official MV', 1695960001.0, 0.2911160495156045).
+video('Music', 'HYBE LABELS', 'SEVENTEEN (세븐틴) \'음악의 신\' Official MV', 1698051489.0, 0.035258301154204016).
 video('Music', 'HYBE UPDATES', 'BTS Run BTS Full Performance', 1665831570.0, 0.10061820081392793).
 video('Music', 'Hailee Steinfeld', 'Hailee Steinfeld - Coast (feat. Anderson .Paak) (Official Lyric Video)', 1659069478.0, 0.15558000692788881).
 video('Music', 'HaileeSteinfeldVEVO', 'Hailee Steinfeld - Coast ft. Anderson .Paak', 1668186009.0, 0.07253034779385836).
@@ -14518,6 +14728,7 @@ video('Music', 'Henrique e Juliano', 'Henrique e Juliano -  QUASE ALGO - (To Be 
 video('Music', 'Henrique e Juliano', 'Henrique e Juliano -  LIVRADA - (To Be Nova Iorque)', 1695395027.0, 0.029943586073338104).
 video('Music', 'Henrique e Juliano', 'Henrique e Juliano -  MAIS UM TRAÍDO - (To Be Nova Iorque)', 1695999657.0, 0.016690574787307944).
 video('Music', 'Henrique e Juliano', 'Henrique e Juliano -  SE É PRA MENTIR (To Be Nova Iorque)', 1696431714.0, 0.03237758995756214).
+video('Music', 'Henrique e Juliano', 'Henrique e Juliano -  SEU ERRO (To Be Nova Iorque)', 1697814299.0, 0.026193861831970613).
 video('Music', 'Horror Skunx', 'The Rainbow Friends - Rise (official song)', 1663971413.0, 0.012667173209929982).
 video('Music', 'Hugo & Guilherme - Topic', 'Mal Feito', 1642068294.0, 0.093624024998211).
 video('Music', 'Hugo & Guilherme - Topic', 'Felicidade Dela', 1648116397.0, 0.013905420733500441).
@@ -14542,6 +14753,7 @@ video('Music', 'Hugo e Guilherme', 'Hugo e Guilherme - Mágica - DVD Original', 
 video('Music', 'Hugo e Guilherme', 'Hugo e Guilherme - Planejei - DVD Original', 1682089209.0, 0.010783430035774007).
 video('Music', 'Hugo e Guilherme', 'Hugo e Guilherme - Solteira Mas é Minha - DVD Original', 1682694005.0, 0.02450266171045992).
 video('Music', 'Hugo e Guilherme', 'Hugo e Guilherme - Nem Que Seja Chorando - DVD Original', 1683903602.0, 0.012715579252519003).
+video('Music', 'Hugo e Guilherme', 'Hugo e Guilherme ft. @VHeAlexandre - Loop Infinito', 1697814003.0, 0.0025394264155828546).
 video('Music', 'Humberto e Ronaldo', 'Humberto e Ronaldo - Waze Falou', 1648771220.0, 0.021615358852973922).
 video('Music', 'Hungria Hip Hop', 'Hungria Hip Hop, MC Lipi - Outro Patamar (Official Music Video)', 1647007204.0, 0.12382365504372654).
 video('Music', 'Hungria Hip Hop', 'Hungria Hip Hop e MC Jacaré - Pula Pula (Official Music Video)', 1659708002.0, 0.11553793300685326).
@@ -14552,6 +14764,9 @@ video('Music', 'Hungria Hip Hop', 'Hungria Hip Hop - Só era Nós (Official Musi
 video('Music', 'Hungria Hip Hop', 'Hungria Hip Hop e Tribo da Periferia - Quem é o Boss? (Official Music Video)', 1679666407.0, 0.12684806587536082).
 video('Music', 'Hungria Hip Hop', 'Hungria Hip Hop feat. João Carlos Martins - Preta (Video Clipe oficial) | #Atmosfera', 1690552824.0, 0.08580558442805321).
 video('Music', 'Hungria Hip Hop', 'Hungria Hip Hop - Atmosfera (Video Clipe Oficial) | #Atmosfera', 1694181609.0, 0.02356315959967947).
+video('Music', 'Hungria Hip Hop', 'Hungria Hip Hop - Seu Pai Falou (Video Clipe Oficial) | #Atmosfera', 1697810412.0, 0.10315762989055227).
+video('Music', 'Hungria Hip Hop', 'Hungria Hip Hop - Céu Aberto (Video Clipe Oficial) | #Atmosfera', 1697814010.0, 0.13030788061387816).
+video('Music', 'Hungria Hip Hop', 'Hungria Hip Hop - Coração de Carro Forte (Video Clipe Oficial) | #Atmosfera', 1697817608.0, 0.06155802778305876).
 video('Music', 'Hyperanhas Original', 'Hyperanhas, Tasha & Tracie - SP Nights (Clipe Oficial)', 1647381953.0, 0.15219475491802284).
 video('Music', 'HyunA', '현아 (HyunA) - \'나빌레라 (Nabillera)\' MV', 1658307601.0, 0.1117696389659308).
 video('Music', 'IGUIN FUNK INSANO', 'MC Lipi - Me Perguntaram Qual Era Meu Sonho (DJ GM e Oldilla)', 1661957756.0, 0.0930953672339511).
@@ -14587,6 +14802,7 @@ video('Music', 'Iguinho e Lulinha', 'VAQUEIRA TESTADA - Iguinho e Lulinha e Rey 
 video('Music', 'Iguinho e Lulinha', 'MEDLEY ABERTURA - Iguinho e Lulinha (DVD Origens)', 1692133210.0, 0.0983803807051698).
 video('Music', 'Iguinho e Lulinha', 'BEIJINHO DE MEL - Iguinho e Lulinha (DVD Origens)', 1694012412.0, 0.07616579883316967).
 video('Music', 'Iguinho e Lulinha', 'EU E VOCÊ - Iguinho e Lulinha (DVD Origens)', 1694012413.0, 0.08897472829645149).
+video('Music', 'Iguinho e Lulinha', 'LUA - Iguinho e Lulinha e @arthureallancid  (Clipe Oficial)', 1697817612.0, 0.06118967909469316).
 video('Music', 'ImagineDragons', 'Imagine Dragons - Love of Mine (Night Visions Demo) [Official Animated Video]', 1662091201.0, 0.11621764697466126).
 video('Music', 'ImagineDragons', 'Imagine Dragons - Children of the Sky (a Starfield song) (Official Lyric Video)', 1693404009.0, 0.12249363691854104).
 video('Music', 'ImagineDragonsVEVO', 'Imagine Dragons - Bones (Official Lyric Video)', 1646974805.0, 0.120574639947478).
@@ -14654,6 +14870,7 @@ video('Music', 'IveteSangaloVEVO', 'Ivete Sangalo - Cria Da Ivete (Ao Vivo Em Sa
 video('Music', 'JAY PARK', '박재범 (Jay Park) - ‘GANADARA (Feat. 아이유 IU)’ Official Music Video', 1646989222.0, 0.07867399516957137).
 video('Music', 'JBEATZ DABEATZ', 'JBEATZ - OU PAT MERITE\'M (I\'m Still Doing Fine) Feat. YungRich [OFFICIAL VIDEO]', 1656795609.0, 0.055602866786033725).
 video('Music', 'JISOO - Topic', 'All Eyes On Me', 1680235310.0, 0.05957927511566134).
+video('Music', 'JOTAPÊ', 'JOTAPÊ - JARDIM DAS FLORES (Prod. Marquinho no beat)', 1697670012.0, 0.2194304040582644).
 video('Music', 'JR ELENKO DO FUNK', 'LET´S GO - MC IG · MC Ryan SP · MC Marks · MC Kadu · MC Cebezinho · MC GP · MC Luki (Letra · DJ GBR)', 1642178157.0, 0.0).
 video('Music', 'JR ELENKO DO FUNK', 'A VIDA NÃO É GTA - MC Hariel · MC Ryan SP · MC Paiva (Letra)', 1665851180.0, 0.0).
 video('Music', 'JVKE', 'Angel Pt. 2 - JVKE, Jimin of BTS, Charlie Puth, Muni Long (FAST X Official Lyric Video)', 1686830406.0, 0.19122043104393655).
@@ -14707,6 +14924,8 @@ video('Music', 'JYP Entertainment', 'JIHYO Killin\' Me Good M/V', 1692331147.0, 
 video('Music', 'JYP Entertainment', 'A2K ep.21 The Grand Finale Begins', 1695258008.0, 0.03390028948943732).
 video('Music', 'JYP Entertainment', 'VCHA Y.O.Universe M/V', 1695355209.0, 0.12556914485944343).
 video('Music', 'JYP Entertainment', 'Stray Kids 樂-STAR Prologue', 1696517997.0, 0.22767065358033262).
+video('Music', 'JYP Entertainment', 'Stray Kids ＜樂-STAR＞ UNVEIL : TRACK 1 MEGAVERSE', 1697727595.0, 0.25111171151347356).
+video('Music', 'JYP Entertainment', 'Stray Kids ＜樂-STAR＞ SKZFLIX Teaser', 1697986796.0, 0.27792442859030253).
 video('Music', 'Jack Harlow', 'Jack Harlow - First Class [Official Music Video]', 1651809612.0, 0.07201482451051458).
 video('Music', 'Jack Harlow', 'Jack Harlow - Churchill Downs feat. Drake [Official Music Video]', 1654110010.0, 0.05756004402213879).
 video('Music', 'Jackson Wang', 'Jackson Wang - Blow (Official Music Video)', 1648699210.0, 0.21253696925628476).
@@ -14738,6 +14957,7 @@ video('Music', 'Jefferson e Suellen', 'ACENDE OUTRA VEZ┃JEFFERSON & SUELLEN (L
 video('Music', 'Jennifer & Stephany', 'Jennifer e Stephany - Cachorro - @LuanPereiraLP ( As Gurias) Oficial', 1677852060.0, 0.025092655068892345).
 video('Music', 'Jennifer & Stephany', 'Jennifer e Stephany - Fiu Fiu - @LeoeRaphael  (As Gurias) Oficial', 1682085611.0, 0.015382789425872923).
 video('Music', 'Jessi', 'Jessi (제시) - \'ZOOM\' MV', 1649840407.0, 0.1665471804458513).
+video('Music', 'Jessi', 'Jessi (제시) - \'Gum\' MV', 1698224291.0, 0.12536772034197172).
 video('Music', 'Jessica Augusto', 'Jéssica Augusto | Grato [Clipe Oficial]', 1686841208.0, 0.06954417528078066).
 video('Music', 'Jessé Aguiar', 'Jessé Aguiar | O Processo [Cover Suellen Brum]', 1642633209.0, 0.07604311584460526).
 video('Music', 'Jessé Aguiar', 'Jessé Aguiar | Rema [Cover Hadassa Priscilla]', 1643929212.0, 0.08646988207047525).
@@ -14832,8 +15052,8 @@ video('Music', 'Junior Marques', 'JUNIOR MARQUES   - TE AMO DEMAIS  - O INÍCIO'
 video('Music', 'Junior Vianna', 'Junior Vianna e Raí Saia Rodada - Quem Trai Não Me Merece (Clipe Oficial)', 1661529613.0, 0.07423292642692181).
 video('Music', 'Justin Bieber', 'Justin Bieber & Omah Lay - Attention (Official Video)', 1646370019.0, 0.12982575091196674).
 video('Music', 'Justin Bieber', 'Justin Bieber X Free Fire - Beautiful Love (Free Fire) [Official Video]', 1663506018.0, 0.19297768953445843).
-video('Music', 'JustinBieberVEVO', 'Justin Bieber - Honest ft. Don Toliver', 1651204817.0, 0.03389019132827544).
 video('Music', 'JustinBieberVEVO', 'Justin Bieber - Honest (feat. Don Toliver) (Official Video)', 1651204817.0, 0.07360477919229527).
+video('Music', 'JustinBieberVEVO', 'Justin Bieber - Honest ft. Don Toliver', 1651204817.0, 0.03389019132827544).
 video('Music', 'Jão', 'Jão - Idiota', 1644418805.0, 0.23890320184975347).
 video('Music', 'Jão', 'Pilantra - Jão feat. Anitta (Trailer)', 1678457827.0, 0.2218736570691878).
 video('Music', 'Jão', 'Jão - SUPER (Trailer)', 1691704826.0, 0.2765821342820589).
@@ -14865,12 +15085,13 @@ video('Music', 'KQ ENTERTAINMENT', 'ATEEZ(에이티즈) - \'BOUNCY (K-HOT CHILLI
 video('Music', 'KaliUchisVEVO', 'Kali Uchis - NO HAY LEY', 1662652810.0, 0.045757990272109035).
 video('Music', 'KaliUchisVEVO', 'Kali Uchis - I Wish you Roses (Official Music Video)', 1674147607.0, 0.12617109150626732).
 video('Music', 'KaliUchisVEVO', 'Kali Uchis - Moonlight (Official Music Video)', 1682010011.0, 0.1438015435501654).
+video('Music', 'KaliUchisVEVO', 'Kali Uchis - Te Mata (Official Video)', 1697821208.0, 0.17080853439571006).
 video('Music', 'KanyeWestVEVO', 'Kanye West - Life Of The Party', 1652060760.0, 0.08854770971847102).
 video('Music', 'Karol Conká', 'Karol Conká e RDD - Vejo o Bem (Clipe Oficial)', 1648825327.0, 0.04786714425268642).
 video('Music', 'KarolGVEVO', 'KAROL G - PROVENZA (Official Video)', 1650585619.0, 0.09706323426789783).
 video('Music', 'KarolGVEVO', 'KAROL G, Maldy - GATÚBELA (Official Video)', 1661472014.0, 0.08837592940690871).
-video('Music', 'KarolGVEVO', 'KAROL G, Ovy On The Drums - CAIRO', 1668362423.0, 0.12993366271147164).
 video('Music', 'KarolGVEVO', 'KAROL G, Ovy On The Drums - Cairo (Official Video)', 1668362423.0, 0.088279327942902).
+video('Music', 'KarolGVEVO', 'KAROL G, Ovy On The Drums - CAIRO', 1668362423.0, 0.12993366271147164).
 video('Music', 'KarolGVEVO', 'KAROL G, Shakira - TQG (Official Video)', 1677214809.0, 0.20419893752612356).
 video('Music', 'KarolGVEVO', 'KAROL G, Carla Morrison - Mañana Será Bonito (Visualizer)', 1677214832.0, 0.06740908867565198).
 video('Music', 'KarolGVEVO', 'KAROL G - Mientras Me Curo Del Cora (Official Video)', 1678208406.0, 0.08678903488780129).
@@ -14878,8 +15099,8 @@ video('Music', 'KarolGVEVO', 'KAROL G - S91 (Official Video)', 1689292803.0, 0.0
 video('Music', 'KatyPerryVEVO', 'Alesso, Katy Perry - When I\'m Gone (Official Music Video)', 1641873609.0, 0.11225184652111167).
 video('Music', 'KatyPerryVEVO', 'Alesso & Katy Perry - When I\'m Gone (Live on Saturday Night Live)', 1643530221.0, 0.11326155161974603).
 video('Music', 'Kawe', 'Kawe e Wiu - Jovens do Reggae (Clipe Oficial)', 1656093612.0, 0.1343148062852526).
-video('Music', 'Kawe', 'Kawe & Teto - Movimento', 1680296408.0, 0.11663820686682472).
 video('Music', 'Kawe', 'Kawe, Teto e JD on Tha Track - Movimento', 1680296408.0, 0.09013084137861464).
+video('Music', 'Kawe', 'Kawe & Teto - Movimento', 1680296408.0, 0.11663820686682472).
 video('Music', 'Kawe', 'Kawe feat. Baco Exu do Blues - Amor Virou um Prêmio | Prod. JD On Tha Track', 1683225010.0, 0.02332457849699229).
 video('Music', 'Kazagastão', 'TAYLOR HAWKINS   1972 - 2022†', 1648299622.0, 0.1551541339094601).
 video('Music', 'KemillySantosVEVO', 'Kemilly Santos - Eu Não Mereço (Ao Vivo)', 1685112438.0, 0.02191071250163312).
@@ -14982,8 +15203,8 @@ video('Music', 'LauanaPradoVEVO', 'Lauana Prado - Termina Comigo', 1647612014.0,
 video('Music', 'LauanaPradoVEVO', 'Lauana Prado, Dilsinho - Injusto Demais', 1648216833.0, 0.06499323118966586).
 video('Music', 'LauanaPradoVEVO', 'Lauana Prado - Primeiro Eu', 1648821604.0, 0.06271140409352394).
 video('Music', 'LauanaPradoVEVO', 'Lauana Prado - Um Dia Te Levo Comigo / Efeitos / Romance (Ao Vivo)', 1654214400.0, 0.053714083947565876).
-video('Music', 'LauanaPradoVEVO', 'Lauana Prado - Elevador (Ao Vivo Em São Paulo / 2022)', 1658448016.0, 0.02126100733122092).
 video('Music', 'LauanaPradoVEVO', 'Lauana Prado - Elevador (Ao Vivo)', 1658448016.0, 0.0101017537272686).
+video('Music', 'LauanaPradoVEVO', 'Lauana Prado - Elevador (Ao Vivo Em São Paulo / 2022)', 1658448016.0, 0.02126100733122092).
 video('Music', 'LauanaPradoVEVO', 'Lauana Prado - Whisky Vagabund0', 1679061600.0, 0.018586310582876662).
 video('Music', 'Lauren Jauregui', 'Lauren Jauregui - Trust Issues (Official Video)', 1680235212.0, 0.19505214783015493).
 video('Music', 'Lazer dos cria', 'Poesia Acústica #14 - LAZER DOS CRIA REACT', 1690034410.0, 0.09519278799267382).
@@ -15097,6 +15318,7 @@ video('Music', 'Luiza Martins 🎤', 'Luiza Martins e Matheus & Kauan - Cê não
 video('Music', 'Luiza Martins 🎤', 'Luiza Martins - Eu me Precipitei (Ao Vivo)', 1683295375.0, 0.01089399965415874).
 video('Music', 'Luiza Martins 🎤', 'Luiza Martins - Pode Sumir (Clipe Oficial)', 1683900086.0, 0.01671689913787061).
 video('Music', 'Luiza Martins 🎤', 'Luiza Martins - Descontando Traição (Clipe Oficial)', 1686924008.0, 0.027066255085144222).
+video('Music', 'Luiza Martins 🫶', 'Luiza Martins - Carinho e Respeito', 1697810411.0, 0.004259904423872762).
 video('Music', 'Luísa Sonza', 'Luísa Sonza, Ludmilla - CAFÉ DA MANHÃ ;P (Clipe Oficial)', 1644364810.0, 0.11867581478191387).
 video('Music', 'Luísa Sonza', 'Luísa Sonza, Ludmilla - CAFÉ DA MANHÃ ;P (Coreografia Oficial)', 1644526805.0, 0.07575690100107585).
 video('Music', 'Luísa Sonza', 'Luísa Sonza, Davi Kneip, Mc Frog, Dj Gabriel do Borel - sentaDONA (remix) s2 (Clipe Oficial)', 1647612062.0, 0.11747913975568294).
@@ -15111,6 +15333,7 @@ video('Music', 'Luísa Sonza', 'Escândalo Íntimo (Trailer Official)', 16933536
 video('Music', 'Luísa Sonza', 'Luísa Sonza - Chico (Visualizer)', 1694185210.0, 0.07992105906730644).
 video('Music', 'Luísa Sonza', 'Luísa Sonza, Demi Lovato - Penhasco2', 1694563210.0, 0.18580456389605296).
 video('Music', 'Luísa Sonza', 'Luísa Sonza - A Dona Aranha', 1695913212.0, 0.1134065942810308).
+video('Music', 'Luísa Sonza', 'Luísa Sonza - Luísa Manequim (Coreografia Oficial)', 1697814007.0, 0.12253197116255479).
 video('Music', 'Luísa Sonza - Topic', 'Campo De Morango', 1692144216.0, 0.07858090842461819).
 video('Music', 'Luísa Sonza - Topic', 'Surreal', 1693353788.0, 0.0697867014729329).
 video('Music', 'Luísa Sonza - Topic', 'Chico', 1693353874.0, 0.06724621693019185).
@@ -15129,8 +15352,8 @@ video('Music', 'Léo e Raphael', 'Léo e Raphael - Fasta Fasta Boi (DVD Mar de C
 video('Music', 'Léo e Raphael', 'Léo e Raphael - Cidade Do Interior (DVD Mar de Chapéu)', 1658498412.0, 0.053773281012065126).
 video('Music', 'Léo e Raphael', 'Léo e Raphael - Correntinha (DVD Mar de Chapéu)', 1659103213.0, 0.07990258789438802).
 video('Music', 'Léo e Raphael', 'Soy Boiadeiro - Léo & Raphael, @UsAgroboy, @LuanPereiraLP, @agroplaybr (Clipe Oficial)', 1677852010.0, 0.05612886693999255).
-video('Music', 'Léo e Raphael', 'Léo & Raphael - Moça do Cabelão Preto', 1683900010.0, 0.020453565618382723).
 video('Music', 'Léo e Raphael', 'Léo & Raphael - Moça do Cabelão Preto (Aquece em Londrina)', 1683900010.0, 0.08093636749485782).
+video('Music', 'Léo e Raphael', 'Léo & Raphael - Moça do Cabelão Preto', 1683900010.0, 0.020453565618382723).
 video('Music', 'Léo e Raphael', 'Léo e Raphael - Aquário (Aquece em Londrina)', 1691157610.0, 0.013932691245101457).
 video('Music', 'Léo e Raphael', 'Léo e Raphael - Yellowstone - DVD Expo Londrina (Ao Vivo)', 1694181611.0, 0.0163386400609349).
 video('Music', 'M4rkim', 'Lampião (Lampião) - Rei Do Cangaço | M4rkim', 1679777998.0, 0.15510931759320604).
@@ -15174,8 +15397,8 @@ video('Music', 'MC Hariel', 'MC Hariel - Sentimentos (Clipe Oficial)', 168571801
 video('Music', 'MC Hariel', 'MC Hariel - Guerra (Clipe Oficial)', 1690582772.0, 0.1140609732264999).
 video('Music', 'MC Hariel - Topic', 'O Preço', 1665655610.0, 0.06049853950504453).
 video('Music', 'MC IG', 'OQIGAP? - MC IG FT DAVI, RYAN SP, HARIEL, DON JUAN, CEBEZINHO, NK, RICK E TIGRE [FAIXA 01 - OQIGAP?]', 1661310273.0, 0.09186025679307255).
-video('Music', 'MC IG', 'MC IG ft. MC Pipokinha  - Noite Fria (Áudio Oficial) [EP NTP!]', 1677682807.0, 0.0713129424808117).
 video('Music', 'MC IG', 'MC IG FT. PIPOKINHA - NOITE FRIA [SINGLE 1 - EP NTP!]', 1677682807.0, 0.07964058169766577).
+video('Music', 'MC IG', 'MC IG ft. MC Pipokinha  - Noite Fria (Áudio Oficial) [EP NTP!]', 1677682807.0, 0.0713129424808117).
 video('Music', 'MC IG', 'MC IG, MC RYAN SP, MC PH - FERNANDO DE NORONHA (DJ GLENNER) [FAIXA 11 MNNEI %]', 1693527307.0, 0.05797032406067114).
 video('Music', 'MC IG', 'MC IG, MC RYAN SP, MC DAVI - MEU NOME NÃO É IGOR  (FERRARI, DJ GLENNER) [FAIXA 2 MNNEI %]', 1693527308.0, 0.0511377642105368).
 video('Music', 'MC IG', 'MC IG - MNNEI % (DJ GLENNER) [FAIXA 1 MNNEI %]', 1693527312.0, 0.0687428623536104).
@@ -15184,12 +15407,14 @@ video('Music', 'MC Jacaré', 'MC Jacaré e MC Pedrinho - Cai na Vara (Clipe Ofic
 video('Music', 'MC Kadu Oficial', 'Quem Diria - MC Kadu (Clipe Oficial) DJ\'s Faveliano, Yuri Martins & Serpinha', 1675972808.0, 0.08004446914952751).
 video('Music', 'MC Kadu Oficial', 'MC Kadu - Quem diria / Só Deus na minha vida (Clipe Oficial) DJ\'s Faveliano, Yuri Martins & Serpinha', 1675972808.0, 0.04976902617703327).
 video('Music', 'MC Kadu Oficial', 'MC KADU - CRIADOR DO MOMENTO (CLIPE OFICIAL) DJ GLENNER', 1679693602.0, 0.07520939469821258).
-video('Music', 'MC Kadu Oficial', 'Acústico MC Kadu - Acordei bem cedo Part. MC Kanhoto e MC Murilo MT (DJ Theu) versão Studio', 1693861208.0, 0.05991475124321104).
 video('Music', 'MC Kadu Oficial', 'Acústico MC Kadu - Acordei bem cedo Part. MC Kanhoto é MC Murilo Mt (DJ Theu) versão Studio', 1693861208.0, 0.07088745455419063).
+video('Music', 'MC Kadu Oficial', 'Acústico MC Kadu - Acordei bem cedo Part. MC Kanhoto e MC Murilo MT (DJ Theu) versão Studio', 1693861208.0, 0.05991475124321104).
 video('Music', 'MC Kadu Oficial', 'ACORDEI BEM CEDO - Acústico Mc kadu feat. Mc Kanhoto e Mc Murilo Mt ( Versão ao vivo )', 1694811902.0, 0.06752359460908376).
 video('Music', 'MC Kadu Oficial', 'ACORDEI BEM CEDO - Acústico Mc kadu feat. Mc Kanhoto e Mc Murilo Mt ( Versão ao vivo ) DJ Theu', 1694811902.0, 0.04241938113162809).
 video('Music', 'MC Kadu Oficial', 'PENSAMENTOS - Acústico Mc Kadu feat. Mc Neguinho do Kaxeta ( Versão ao vivo ) DJ Glenner', 1695416428.0, 0.05887470512455873).
 video('Music', 'MC Kako', 'MC Kako - Sem Coração (Prod. JR no Beat)', 1673042410.0, 0.0850395274471487).
+video('Music', 'MC Kako', 'MC Kako - Tempo (734 Acústico)', 1697841490.0, 0.08544331911869225).
+video('Music', 'MC Kako', 'MC Kako - Ísis (734 Acústico)', 1697841968.0, 0.10347599103350637).
 video('Music', 'MC Kelvinho', 'MC Kelvinho - BASEADO EM FATOS REAIS (Videoclipe Oficial) DJ Allaska Beats', 1677802729.0, 0.08515438052770838).
 video('Music', 'MC Lipi Oficial', 'MC Lipi e MC Joãozinho VT - Deus é Perfeito (Áudio Oficial)  DJ Russo DJ Boy', 1645048813.0, 0.0663163233678041).
 video('Music', 'MC Maneirinho', 'Mc Maneirinho - NORONHA ( Plasti, Alyx e Gid )', 1692054432.0, 0.035121015008260065).
@@ -15219,8 +15444,8 @@ video('Music', 'MC Ryan SP', 'MC Ryan SP, MC Daniel e MC Poze do Rodo - Hoje Tem
 video('Music', 'MC Ryan SP', 'MC Ryan SP, Orochi, Oruam, MC Hariel - Perfeita (Video Clipe Oficial)', 1694552410.0, 0.09247038581528079).
 video('Music', 'MC Ryan SP - Topic', 'Revoada do Tubarão 3', 1668679381.0, 0.0660965437685789).
 video('Music', 'MC Ryan SP - Topic', 'Sereia Me Perdoa', 1684922698.0, 0.08253926239632962).
-video('Music', 'MC WM', 'Mc WM e Mc Lan - Mágico do Som (Dj Will o Cria)', 1646665231.0, 0.22405410839477768).
 video('Music', 'MC WM', 'MC WM e MC Lan - Mágico do Som (DJ Will o Cria)', 1646665231.0, 0.1621537930335225).
+video('Music', 'MC WM', 'Mc WM e Mc Lan - Mágico do Som (Dj Will o Cria)', 1646665231.0, 0.22405410839477768).
 video('Music', 'MD Chefe', 'MD Chefe - Burberry ft. Kloe (Clipe Oficial)', 1649797222.0, 0.1457900225051313).
 video('Music', 'MD Chefe', 'MD Chefe - 22K ft. Tshawtty (Clipe Oficial)', 1651179609.0, 0.13364922948974473).
 video('Music', 'MD Chefe', 'MD Chefe - King Size Interlúdio (Clipe Oficial)', 1651180512.0, 0.14889872481007957).
@@ -15337,6 +15562,7 @@ video('Music', 'Mainstreet Records', 'Chefin ft. Oruam - DO SEU LADO (prod. Ajax
 video('Music', 'Mainstreet Records', 'Chefin ft. Veigh, Kayblack - OPÇÕES (prod. Ajaxx, TkD)', 1691101809.0, 0.09434399141179195).
 video('Music', 'Mainstreet Records', 'Chefin ft. Vulgo Fk, Wiu - ÚLTIMA COISA (prod. Portugal, Necon)', 1691102708.0, 0.08928666442012663).
 video('Music', 'Mainstreet Records', 'A CARA DO CRIME 4 Acendo a Flor- Poze l MC Cabelinho l Bielzin l Oruam l MC Ryan SP', 1691766012.0, 0.11583601896479052).
+video('Music', 'Mainstreet Records', 'Azevedo ft. MC Cabelinho - DE MAROLA (prod. Dallas, Skinny Beats)', 1698184810.0, 0.09073374529627122).
 video('Music', 'Major RD', 'Rock Danger feat: Major Rd E Borges - LIDERANÇA (prod. Kib7)', 1647266715.0, 0.22700149045730675).
 video('Music', 'Major RD', 'Major RD - No Bank`s  (prod. El Lif beatz,  kib7 e $amuka)', 1687273210.0, 0.20240718529469193).
 video('Music', 'Major RD', 'Major RD - Olha pra Cá (Prod. El Lif Beatz)', 1695827408.0, 0.16062461053480445).
@@ -15354,12 +15580,14 @@ video('Music', 'Manse Official', 'Manse - Carry On (feat. Ashley Drake) [Officia
 video('Music', 'Manu Bahtidão', 'Manu Bahtidão - Especial de Natal (Acústico)', 1671918575.0, 0.01949137859601811).
 video('Music', 'Manu Bahtidão', 'Manu Bahtidão, Simone Mendes - Daqui Pra Sempre (Vídeo Oficial)', 1695394816.0, 0.04453196872125115).
 video('Music', 'Manu Bahtidão', 'Manu Bahtidão - Vinho Branco (Vídeo Oficial)', 1697209156.0, 0.032982738581713494).
+video('Music', 'Manu Bahtidão', 'Manu Bahtidão - Quem Perde É Quem Trai (Vídeo Oficial)', 1697814011.0, 0.05031203174655448).
+video('Music', 'Marcos Baroni', 'Melhor Dia 12 | Levanta - Matuê, Mc Leozinho ZS e Baroni', 1697920210.0, 0.16935276026185117).
 video('Music', 'Marcos Freire', 'Yahweh Se Manifestará | Marcos Freire, Julliany Souza e Léo Brandão (LIVE)', 1682625615.0, 0.06048881579572785).
 video('Music', 'Marcos Freire - Topic', 'Yahweh Se Manifestará (Ao Vivo)', 1682503332.0, 0.07300837449001503).
 video('Music', 'Marcos e Belutti', 'Marcos & Belutti - Insubstituível (Em Qualquer Lugar)', 1649426406.0, 0.0027580813347236706).
 video('Music', 'Marcos e Belutti', 'Marcos & Belutti - Depois De Me Usar (Quebra-Cabeça)', 1671199182.0, 0.0015636460678735851).
-video('Music', 'Marcos e Belutti', 'Marcos & Belutti, João Gomes - Saudade Digitando (Quebra-Cabeça)', 1675432792.0, 0.004608574473317485).
 video('Music', 'Marcos e Belutti', 'Marcos & Belutti, @joaogomesvq - Saudade Digitando (Quebra-Cabeça)', 1675432792.0, 0.004182559542815638).
+video('Music', 'Marcos e Belutti', 'Marcos & Belutti, João Gomes - Saudade Digitando (Quebra-Cabeça)', 1675432792.0, 0.004608574473317485).
 video('Music', 'Marcynho Sensação', 'ATENDE AÍ BEBEZINHA - Marcynho Sensação e Vitor Fernandes (DVD Oficial)', 1642172410.0, 0.06629463291642258).
 video('Music', 'Marcynho Sensação', 'CHÁ DE CHIFRE - Marcynho Sensação, MC Mari e Wesley Safadão (DVD Ao Vivo em Fortaleza)', 1660316410.0, 0.08177932295957087).
 video('Music', 'Marcynho Sensação', 'CARINHA DE BEBÊ - Marcynho Sensação (DVD Ao Vivo em Fortaleza)', 1665759610.0, 0.06675705854203222).
@@ -15370,11 +15598,11 @@ video('Music', 'Mari Fernandez', 'Mari Fernandez - Olha o Que o Amor Me Faz (Lua
 video('Music', 'Mari Fernandez', 'Mari Fernandez e Felipe Amorim - HOJE EU VOU TE USAR (Coreografia Oficial)', 1645106581.0, 0.04499587484927334).
 video('Music', 'Mari Fernandez', 'Mari Fernandez - QUEM VALE MENOS - DVD Ao Vivo em Fortaleza', 1650463207.0, 0.08095092006784017).
 video('Music', 'Mari Fernandez', 'Mari Fernandez - QUEM VALE MENOS (DVD Ao Vivo em Fortaleza)', 1650463207.0, 0.028537744568882334).
-video('Music', 'Mari Fernandez', 'Mari Fernandez - COMUNICAÇÃO FALHOU feat. Nattan (DVD Ao Vivo em Fortaleza)', 1650636019.0, 0.022304469475917604).
 video('Music', 'Mari Fernandez', 'Mari Fernandez - COMUNICAÇÃO FALHOU feat Nattan (DVD Ao Vivo em Fortaleza)', 1650636019.0, 0.05051674520799272).
+video('Music', 'Mari Fernandez', 'Mari Fernandez - COMUNICAÇÃO FALHOU feat. Nattan (DVD Ao Vivo em Fortaleza)', 1650636019.0, 0.022304469475917604).
 video('Music', 'Mari Fernandez', 'Mari Fernandez - TEU AMIGO CUIDOU (DVD Ao Vivo em Fortaleza)', 1651068544.0, 0.08798272347783903).
-video('Music', 'Mari Fernandez', 'Mari Fernandez - SÓ DE IMAGINAR feat. Zé Vaqueiro', 1651240809.0, 0.05237023702370237).
 video('Music', 'Mari Fernandez', 'Mari Fernandez - SÓ DE IMAGINAR feat. Zé Vaqueiro (DVD Ao Vivo em Fortaleza)', 1651240809.0, 0.026589119371836615).
+video('Music', 'Mari Fernandez', 'Mari Fernandez - SÓ DE IMAGINAR feat. Zé Vaqueiro', 1651240809.0, 0.05237023702370237).
 video('Music', 'Mari Fernandez', 'Mari Fernandez - AGONIA (DVD Ao Vivo em Fortaleza)', 1651672807.0, 0.05281508208394663).
 video('Music', 'Mari Fernandez', 'Mari Fernandez - INTUIÇÃO (DVD Ao Vivo em Fortaleza)', 1651845626.0, 0.056775142067072314).
 video('Music', 'Mari Fernandez', 'Mari Fernandez - “VAI DOER MAIS” (DVD Ao Vivo em Fortaleza)', 1653055211.0, 0.04718299616136193).
@@ -15447,8 +15675,8 @@ video('Music', 'MatheusKauanVEVO', 'Matheus & Kauan - Solteiro Mais Fiel Da Terr
 video('Music', 'MatheusKauanVEVO', 'Matheus & Kauan - Basiquinho (Ao Vivo Em Goiânia / 2022)', 1659708002.0, 0.014400894111228996).
 video('Music', 'MatheusKauanVEVO', 'Matheus & Kauan - Basiquinho', 1659708002.0, 0.02342679571636834).
 video('Music', 'MatheusKauanVEVO', 'Matheus & Kauan, Jorge & Mateus - Pactos', 1665756007.0, 0.03435566638904019).
-video('Music', 'MatheusKauanVEVO', 'Matheus & Kauan - Bololô', 1666879234.0, 0.021774775015355036).
 video('Music', 'MatheusKauanVEVO', 'Matheus & Kauan - Bololô (Ao Vivo Em Goiânia / 2022)', 1666879234.0, 0.048794807036200094).
+video('Music', 'MatheusKauanVEVO', 'Matheus & Kauan - Bololô', 1666879234.0, 0.021774775015355036).
 video('Music', 'MatheusKauanVEVO', 'Matheus & Kauan - Pose', 1667484032.0, 0.05219583079186251).
 video('Music', 'Matriz Music', 'Gerson Rufino - Ele É Tudo ÁLBUM O ESCOLHIDO [Clipe Oficial]', 1666990809.0, 0.047774636442127004).
 video('Music', 'Matriz Music', '@GersonRufinoOficial - Já chega DVD JESUS E EU [Clipe Oficial]', 1682715611.0, 0.07546961325966851).
@@ -15466,6 +15694,7 @@ video('Music', 'Mc Kevin Oficial', 'MC Kevin e MC Hariel -  Coracão na Geladeir
 video('Music', 'Mc Marks', 'MC Marks - Quem Não Conhece Tá Sem Internet - DJ Boy e DJ GM', 1661378411.0, 0.12074151066488274).
 video('Music', 'Mc Marks', 'MC Marks e MC Hariel - Chá de Vida - DJ Perera', 1691766012.0, 0.09635775412231266).
 video('Music', 'Mc Marks', 'MC Marks e Brenninho VJ - Cheiro de Riqueza - KANASHIRO e FXbin', 1696604410.0, 0.08965880325114128).
+video('Music', 'Mc Marks', 'MC Marks - Relatos de um Sonhador - DJ Dan Tá Ligado', 1697814009.0, 0.09956879017167032).
 video('Music', 'Mc Poze do Rodo - Topic', 'Frio e Calculista', 1667988062.0, 0.06632466104800293).
 video('Music', 'Mc Poze do Rodo - Topic', 'To de Pé', 1667988366.0, 0.07185624741055557).
 video('Music', 'Mc Poze do Rodo - Topic', 'A Cara do Crime 4 (Acendo a Flor)', 1691661772.0, 0.08376250898157923).
@@ -15534,8 +15763,8 @@ video('Music', 'MuriloHuff', 'Murilo Huff - Perigo Pra Sociedade (Pra Ouvir Toma
 video('Music', 'Muse', 'Muse - WON\'T STAND DOWN (Official Video)', 1642086009.0, 0.09390750026328402).
 video('Music', 'Musile Records', 'Isadora Pompeo - Não Há o Que Temer (Clipe Oficial)', 1642683612.0, 0.16669986058554073).
 video('Music', 'Musile Records', 'Rachel Novaes e Paulo Cesar Baruk - O Amor de Deus (Logo Eu) - Ao Vivo', 1644498012.0, 0.11108175934486858).
-video('Music', 'Musile Records', 'Sarah Beatriz e Samuel Messias - Promessas (Maverick City - Promises) - Ao Vivo', 1654700679.0, 0.09814693992036537).
 video('Music', 'Musile Records', 'Sarah Beatriz e Samuel Messias - Promessas (Maverick City Music - Promises) - Ao Vivo', 1654700679.0, 0.06654372756067671).
+video('Music', 'Musile Records', 'Sarah Beatriz e Samuel Messias - Promessas (Maverick City - Promises) - Ao Vivo', 1654700679.0, 0.09814693992036537).
 video('Music', 'Musile Records', 'Sarah Beatriz - Quero Voltar Pra Casa (Ao Vivo)', 1659618013.0, 0.1195930892429274).
 video('Music', 'Musile Records', 'Sarah Beatriz - Eu Creio (CeCe Winans - Believe For It) - Ao Vivo', 1663246813.0, 0.09805771430593063).
 video('Music', 'Musile Records', 'Sarah Beatriz - O Medo Não Vai Me Parar (Ao Vivo)', 1667480411.0, 0.05595969653512064).
@@ -15545,6 +15774,7 @@ video('Music', 'Musile Records', 'Julia Vitoria - Nós Te Adoramos (Ao Vivo)', 1
 video('Music', 'Musile Records', 'Julia Vitória - Tua Presença (Ao Vivo)', 1679576406.0, 0.08756733917819795).
 video('Music', 'Musile Records', 'Sarah Beatriz - Esse Vento Vai Passar (Studio Session) - Ao Vivo', 1685624409.0, 0.07436295786152441).
 video('Music', 'Musile Records', 'Sarah Beatriz - Tóxico Amor (Studio Session) - Ao Vivo', 1690462810.0, 0.11363576938161851).
+video('Music', 'Musile Records', 'Julia Vitoria - Outra Vez (Clipe Oficial)', 1698325209.0, 0.08592320081997218).
 video('Music', 'Mussoumano', 'Irmãos Lemos Vs. Mussoumano - Batalha de Youtubers', 1644526813.0, 0.09285606933520364).
 video('Music', 'Mussoumano', 'Thalys Vinicius Vs. Mussoumano - Batalha de Youtubers', 1645131601.0, 0.07515554986557418).
 video('Music', 'Mussoumano', 'Vincynite Vs. Mussoumano - Batalha de Youtubers', 1646341210.0, 0.10868435669109347).
@@ -15594,8 +15824,8 @@ video('Music', 'Música Multishow', 'MILEY CYRUS, ANITTA, EMICIDA, SILVA, JÃO: 
 video('Music', 'Música Multishow', 'IRON MAIDEN, SEPULTURA e LIVING COLOUR: os melhores momentos do Dia 1 do Rock in Rio No Multishow', 1662240293.0, 0.019133979742134544).
 video('Music', 'Música Multishow', 'POST MALONE, ALOK, JASON DERULO: os melhores momentos do Dia 2 do Rock in Rio No Multishow', 1662270401.0, 0.02923460696033098).
 video('Music', 'Música Multishow', 'IZA, DEMI LOVATO E JUSTIN BIEBER: os melhores momentos do Dia 3 do Rock in Rio No Multishow', 1662351204.0, 0.026082030047841535).
-video('Music', 'Música Multishow', 'Gloria Groove - A queda, Leilão, Bonekinha e Vermelho | Prêmio Multishow 2022', 1666151763.0, 0.07103239417449299).
 video('Music', 'Música Multishow', 'Gloria Groove - A Queda, Leilão, Bonekinha e Vermelho | Prêmio Multishow | Música Multishow', 1666151763.0, 0.059830201389050194).
+video('Music', 'Música Multishow', 'Gloria Groove - A queda, Leilão, Bonekinha e Vermelho | Prêmio Multishow 2022', 1666151763.0, 0.07103239417449299).
 video('Music', 'Música Multishow', 'Gloria Groove, Luisa Sonza - Shallow (Bradley Cooper e Lady Gaga) | Música Boa Ao Vivo', 1671656430.0, 0.049185022552084574).
 video('Music', 'Música Multishow', 'Luísa Sonza e Karol Conká - A Queda (Gloria Groove) | Música Boa Ao Vivo | Música Multishow', 1671663614.0, 0.04718746921485568).
 video('Music', 'Música Multishow', 'BILLIE EILISH, LIL NAS e PEDRO SAMPAIO: melhores momentos do dia 1 (24/03) do Lolla! | Lollapalooza', 1679718030.0, 0.04167361390362793).
@@ -15609,8 +15839,8 @@ video('Music', 'NCT', 'NCT U \'Alley Oop\' Archiving Video', 1693400415.0, 0.183
 video('Music', 'NCT 127', 'Having Churrasco🍖& Wine Time in Brazil!😋🍷 | ❮Olá, ¡Hola!❯ EP.1', 1680094828.0, 0.1540425644362673).
 video('Music', 'NFVEVO', 'NF - HOPE', 1676566807.0, 0.13776121925116477).
 video('Music', 'NGC Daddy', 'NGC Daddy - Joias Cravejadas (Official Music Video)', 1675810807.0, 0.2115643694287968).
-video('Music', 'NGC Daddy', 'NGC Daddy ft Meno Tody - B*N*M* (Bala Nos Mandado) - (Official Music Video)', 1691964007.0, 0.1276902187519329).
 video('Music', 'NGC Daddy', 'NGC Daddy ft Meno Tody - Bala nos Mandado (Official Music Video)', 1691964007.0, 0.18046086618126295).
+video('Music', 'NGC Daddy', 'NGC Daddy ft Meno Tody - B*N*M* (Bala Nos Mandado) - (Official Music Video)', 1691964007.0, 0.1276902187519329).
 video('Music', 'NLE CHOPPA', 'FAST X | Angel Pt 1 (Music Video Trailer) - NLE Choppa, Kodak Black, Jimin of BTS, JVKE, & Muni Long', 1683633637.0, 0.17498593783511454).
 video('Music', 'NLE CHOPPA', 'FAST X | Angel Pt. 1 (Official Video) - NLE Choppa, Kodak Black, Jimin of BTS, JVKE, & Muni Long', 1684416074.0, 0.1936946649510192).
 video('Music', 'NOW UNITED', 'Now United - Badna Nehlam (Official Lyric Video)', 1642203407.0, 0.17044740150880133).
@@ -15685,6 +15915,7 @@ video('Music', 'Nicki Minaj', 'Nicki Minaj - Super Freaky Girl (Official Music V
 video('Music', 'Nicki Minaj', 'Nicki Minaj - Red Ruby Da Sleeze (Official Music Video)', 1684026010.0, 0.12273035607424976).
 video('Music', 'Nicki Minaj', 'Nicki Minaj & Ice Spice – Barbie World (with Aqua) [Official Music Video]', 1687494526.0, 0.0886800257376597).
 video('Music', 'Nicki Minaj', 'Nicki Minaj - Last Time I Saw You (Official Lyric Video)', 1693540809.0, 0.13101648877786998).
+video('Music', 'Nicki Minaj', 'Nicki Minaj - FOR ALL THE BARBZ ft. Drake & Chief Keef', 1697787449.0, 0.08761488207286015).
 video('Music', 'Nicki Minaj - Topic', 'Big Difference', 1694577633.0, 0.19342324361987318).
 video('Music', 'NickiMinajAtVEVO', 'Nicki Minaj ft. Lil Baby - Do We Have A Problem? (Official Music Video)', 1643950808.0, 0.08279950929491565).
 video('Music', 'NickiMinajAtVEVO', 'Nicki Minaj - Super Freaky Girl (Official Lyric Video)', 1660276806.0, 0.11178436725127781).
@@ -15806,8 +16037,8 @@ video('Music', 'PineappleStormTV', 'BANDO - Derxan, Big Bllakk, Filipe Ret, L7NN
 video('Music', 'PineappleStormTV', 'Você não ama ninguém 3 - Knust, Cesar Mc, Chris Mc, Xamã (Prod. Malak)', 1687446008.0, 0.14905526345808834).
 video('Music', 'PineappleStormTV', 'Vivência | POESIA ACÚSTICA #14 | Lançamento 20/07', 1689783283.0, 0.10613783420827738).
 video('Music', 'PineappleStormTV', 'Poesia Acústica #14- Cesar Mc, Ryan SP,Lourena, Major RD, Derxan, Wiu, Djonga,Kayblack,Gloria Groove', 1689865209.0, 0.13734996436080638).
-video('Music', 'PineappleStormTV', 'DK47 - Intro O Senhor das Armas', 1695913209.0, 0.16066942876716797).
 video('Music', 'PineappleStormTV', 'DK47 - Intro O Senhor das Armas (Prod. Hunter & Slim Beats)', 1695913209.0, 0.1304034582132565).
+video('Music', 'PineappleStormTV', 'DK47 - Intro O Senhor das Armas', 1695913209.0, 0.16066942876716797).
 video('Music', 'PineappleStormTV', 'DK47 - Festa e Luto (Prod. Tibery)', 1695915010.0, 0.1562052464284467).
 video('Music', 'Pink Floyd', 'Pink Floyd - Hey Hey Rise Up (feat. Andriy Khlyvnyuk of Boombox)', 1649356210.0, 0.0815509258258505).
 video('Music', 'PinkVEVO', 'P!NK - Never Gonna Not Dance Again (Official Video)', 1667534410.0, 0.05248583466719235).
@@ -15856,8 +16087,8 @@ video('Music', 'Problems', 'O Filme do Shrek no Minecraft!', 1655816713.0, 0.047
 video('Music', 'Problems', 'Você Consegue Descobrir a ilusão?', 1655989213.0, 0.03513799285900363).
 video('Music', 'Problems', 'Testei os Tiktoks Virais do Minecraft 1.19...', 1656075615.0, 0.03850404784643254).
 video('Music', 'Problems', 'Você Consegue Encontrar os 7 ERROS?', 1656260587.0, 0.04227021639553868).
-video('Music', 'Problems', 'E se você Virasse o Homem Aranha?', 1656334809.0, 0.038557279871951206).
 video('Music', 'Problems', 'O mundo virou FILME!', 1656334809.0, 0.03504567346344974).
+video('Music', 'Problems', 'E se você Virasse o Homem Aranha?', 1656334809.0, 0.038557279871951206).
 video('Music', 'Problems', 'Criei o Minecraft Realista usando o GOOGLE', 1656421234.0, 0.0381812971132803).
 video('Music', 'Problems', 'Transformei Youtubers Em Comida!', 1656507620.0, 0.040584347176989714).
 video('Music', 'Problems', '1 Coração VS 1 Milhão de Corações!', 1656594022.0, 0.03536857286537057).
@@ -15866,16 +16097,16 @@ video('Music', 'Problems', 'Testei 22 Bugs em 24 Horas!', 1656766836.0, 0.040238
 video('Music', 'Problems', 'Minecraft Novo X Antigo', 1656853239.0, 0.038906971697820765).
 video('Music', 'Problems', 'Se Você Souber a Curiosidade, o Vídeo Acaba...', 1657026025.0, 0.04610637875626478).
 video('Music', 'Problems', 'Você Consegue Escapar Desse Circulo?', 1657112409.0, 0.03278332989946123).
-video('Music', 'Problems', 'Eu Fiz ISSO Com o Tiktok...', 1657198824.0, 0.03545428722693491).
 video('Music', 'Problems', 'Prendi o Tiktokt nessa Prisão Impossível...', 1657198824.0, 0.03353953121238755).
+video('Music', 'Problems', 'Eu Fiz ISSO Com o Tiktok...', 1657198824.0, 0.03545428722693491).
 video('Music', 'Problems', 'Virei AR Pra Trollar Meu Amigo!', 1657285636.0, 0.03557715886330833).
 video('Music', 'Problems', 'Você Consegue Escapar Desse Desastre?', 1657371637.0, 0.046183979999606294).
 video('Music', 'Problems', 'Eu Construí isso em 3,11 Segundos...', 1657458070.0, 0.04223800139909379).
 video('Music', 'Problems', '71 Mobs Removidos do Minecraft!', 1657544476.0, 0.04734400209040389).
 video('Music', 'Problems', '19 Jeitos de Assustar Seus Amigos!', 1657630802.0, 0.04750316250014545).
 video('Music', 'Problems', 'Fui de NOOB a PRO em 24 Horas!', 1657890080.0, 0.05407043094258259).
-video('Music', 'Problems', '2000 Pessoas Numa Batalha de Construção!', 1657976441.0, 0.044473124534201006).
 video('Music', 'Problems', 'Fiz 1000 Pessoas Construírem por 1 Semana', 1657976441.0, 0.03825611739387242).
+video('Music', 'Problems', '2000 Pessoas Numa Batalha de Construção!', 1657976441.0, 0.044473124534201006).
 video('Music', 'Problems', '24 Horas pra ROUBAR o Coração dos Aplicativos!', 1658149206.0, 0.03770054649071063).
 video('Music', 'Problems', 'Ilusão de Noob VS Pro', 1658322134.0, 0.03767295547269838).
 video('Music', 'Problems', '35 coisas BANIDAS do Minecraft!', 1658408466.0, 0.044974668035765906).
@@ -15987,8 +16218,8 @@ video('Music', 'RicardoMontanerVEVO', 'Ricardo Montaner - Te Echo De Menos (Vide
 video('Music', 'Rick & Renner Oficial', 'Rick & Renner - Não é Você! | Clipe Oficial', 1685109610.0, 0.025966842787068976).
 video('Music', 'Rihanna', 'Rihanna - Lift Me Up (Live from the Oscars 2023)', 1678710436.0, 0.07355301930773629).
 video('Music', 'RihannaVEVO', 'Rihanna - Lift Me Up (Visualizer)', 1666930082.0, 0.07734011703994616).
-video('Music', 'RihannaVEVO', 'Rihanna - Lift Me Up', 1666985403.0, 0.08148522189051782).
 video('Music', 'RihannaVEVO', 'Rihanna - Lift Me Up (From Black Panther: Wakanda Forever)', 1666985403.0, 0.056082400183186464).
+video('Music', 'RihannaVEVO', 'Rihanna - Lift Me Up', 1666985403.0, 0.08148522189051782).
 video('Music', 'RinaSawayamaVEVO', 'Rina Sawayama - This Hell (Official Music Video)', 1655308811.0, 0.17754428200988856).
 video('Music', 'Rionegro & Solimões', 'Rionegro & Solimões part. Gusttavo Lima - Vida de Cão | DVD A História Continua', 1642773617.0, 0.00715098215649989).
 video('Music', 'Rionegro & Solimões', 'Rionegro & Solimões e Jorge & Mateus - Saudade De Ex | DVD A História Continua', 1647007155.0, 0.0063084853744250925).
@@ -16073,7 +16304,9 @@ video('Music', 'SMTOWN', 'aespa 에스파 \'Better Things\' MV', 1692331150.0, 0
 video('Music', 'SMTOWN', 'NCT 2023 엔시티 2023 \'Golden Age\' MV', 1692781225.0, 0.19989612173961618).
 video('Music', 'SMTOWN', 'NCT U 엔시티 유 \'Baggy Jeans\' MV', 1693213219.0, 0.04673233453464789).
 video('Music', 'SMTOWN', 'NCT 127 엔시티 127 \'Fact Check (불가사의; 不可思議)\' MV', 1696572031.0, 0.03222229653269405).
+video('Music', 'SMTOWN', 'CHANYEOL 찬열 \'그래도 돼 (Good Enough)\' MV', 1697792412.0, 0.23255914265614328).
 video('Music', 'SOM DOS STATUS', 'RADAR - MC IG, MC Joaozinho VT e MC Menor da VG (DJay W) Funk 2022', 1663077749.0, 0.01181615644855186).
+video('Music', 'SOOJIN', '수진 (SOOJIN) - BLACK FOREST', 1698224417.0, 0.1727317022285193).
 video('Music', 'STAYC Japan Official', 'STAYC（ステイシー） \'POPPY\' MV', 1668610806.0, 0.10141581985119684).
 video('Music', 'SZA', 'SZA - Shirt (Trailer)', 1666801540.0, 0.10510947067671066).
 video('Music', 'SZA - Topic', 'Kill Bill', 1681444815.0, 0.09353942637059255).
@@ -16120,6 +16353,7 @@ video('Music', 'Simone Mendes', 'Simone Mendes - AMNÉSIA DO BEIJO (DVD CINTILAN
 video('Music', 'Simone Mendes', 'Simone Mendes - OI ERRO (DVD Cintilante)', 1679667025.0, 0.013649087973956166).
 video('Music', 'Simone Mendes', 'Simone Mendes - ME ESQUECE POR ENQUANTO (DVD Cintilante)', 1684505849.0, 0.025768567994555222).
 video('Music', 'Simone Mendes', 'Simone Mendes - VOCÊ MERECEU (DVD Cintilante)', 1689343372.0, 0.010129069100124437).
+video('Music', 'Simone Mendes', 'Simone Mendes - PIOR PARTE (DVD Cintilante)', 1697810433.0, 0.03010513093843018).
 video('Music', 'Simone Mendes - Topic', 'Oi Erro (Ao Vivo)', 1679616018.0, 0.03902414075286416).
 video('Music', 'Simone e Simaria', 'Simone & Simaria, Zé Felipe - Vontade de Morder', 1642168872.0, 0.08302895106358213).
 video('Music', 'Simone e Simaria', 'Simone & Simaria – Rapariga', 1643378412.0, 0.0874102766858815).
@@ -16139,8 +16373,8 @@ video('Music', 'Sonar Produtora', 'Mc Joãozinho VT Mc Lipi - Deus é Perfeito (
 video('Music', 'Sonar Produtora', 'Mc Joãozinho VT - Espelho Espelho Meu (DJ Boy e DJ GM)', 1662069612.0, 0.05128077230032537).
 video('Music', 'Sonar Produtora', 'Mc Joãozinho VT - Espelho Espelho Meu - (DJ Boy e DJ GM)', 1662069612.0, 0.09634627137533104).
 video('Music', 'Sonar Produtora', 'DJ Boy “Boka Loka” - Mc’s Vine 7, Don Juan, Kako, Joãozinho VT, V7, Tuto, Erik, Pê Leal', 1665180009.0, 0.06426039727669124).
-video('Music', 'Sonar Produtora', 'MC Joãozinho VT - Vai Ser Melhor Só (DJ BOY) [Clipe Oficial]', 1670018408.0, 0.1032648404753054).
 video('Music', 'Sonar Produtora', 'MC Joãozinho VT - Vai Ser Melhor Só (DJ Boy) [Clipe Oficial]', 1670018408.0, 0.08894504732173827).
+video('Music', 'Sonar Produtora', 'MC Joãozinho VT - Vai Ser Melhor Só (DJ BOY) [Clipe Oficial]', 1670018408.0, 0.1032648404753054).
 video('Music', 'Sorriso Maroto', 'Sorriso Maroto, Dilsinho - Mensagem Apagada (Áudio Oficial)', 1642723203.0, 0.05730424403919283).
 video('Music', 'Sorriso Maroto', 'Sorriso Maroto, Dilsinho - Prejuízo (Clipe Oficial)', 1643896821.0, 0.07449838696986387).
 video('Music', 'Sorriso Maroto', 'Sorriso Maroto, Dilsinho - Pós-Graduado (Clipe Oficial)', 1644501604.0, 0.06799007444168735).
@@ -16152,8 +16386,8 @@ video('Music', 'Sorriso Maroto', 'Sorriso Maroto, Ludmilla -  Ninguém Merece Am
 video('Music', 'Sorriso Maroto', 'Aftermovie - Sorriso Eu Gosto No Pagode Parte 1', 1694789706.0, 0.08053893342365737).
 video('Music', 'Sorriso Maroto', 'Ela - Sorriso Maroto, Ferrugem (Sorriso Eu Gosto No Pagode)', 1694790011.0, 0.04104290548538484).
 video('Music', 'Sorriso Maroto', 'Ainda Gosto de Você/Já Era - Sorriso Maroto, Ludmilla, Belo [Sorriso Eu Gosto no Pagode]', 1695308410.0, 0.05985198793357202).
-video('Music', 'Sorriso Maroto', 'Me Espera - Sorriso Maroto, Ludmilla, Belo [Sorriso Eu Gosto No Pagode]', 1695308412.0, 0.032683259838742415).
 video('Music', 'Sorriso Maroto', 'Coração Deserto/Ninguém Merece Amar Sozinho/ A Primeira Namorada - Sorriso Maroto, Ludmilla', 1695308412.0, 0.05171686355965208).
+video('Music', 'Sorriso Maroto', 'Me Espera - Sorriso Maroto, Ludmilla, Belo [Sorriso Eu Gosto No Pagode]', 1695308412.0, 0.032683259838742415).
 video('Music', 'Sorriso Maroto', 'Lua De Mel/Clichê/Eu Nunca Amei - Sorriso Maroto, Tá Na Mente, Vitinho (Sorriso Eu Gosto No Pagode)', 1695913210.0, 0.056072287300948945).
 video('Music', 'Sorriso Maroto - Topic', 'Ninguém Merece Amar Sozinho', 1673568243.0, 0.039274458378330726).
 video('Music', 'Stella Laura', 'Stella Laura | Tá Nas Mãos De Deus [Cover Valesca Mayssa]', 1654095614.0, 0.022483984294275675).
@@ -16271,6 +16505,7 @@ video('Music', 'Taylor Swift', 'Taylor Swift - All Too Well: The Short Film (Beh
 video('Music', 'Taylor Swift', 'Taylor Swift - Snow On The Beach (Feat. More Lana Del Rey)', 1685073601.0, 0.24529507293307518).
 video('Music', 'Taylor Swift', 'Taylor Swift - Hits Different', 1685073619.0, 0.21960510250871504).
 video('Music', 'Taylor Swift', 'TAYLOR SWIFT | THE ERAS TOUR Concert Film Official Trailer', 1693484269.0, 0.12403700571434446).
+video('Music', 'Taylor Swift', 'Taylor Swift - Cruel Summer (Live from Taylor Swift | The Eras Tour)', 1697675425.0, 0.14424256149252215).
 video('Music', 'Taylor Swift - Topic', 'Anti-Hero', 1666324975.0, 0.02298485510436034).
 video('Music', 'Taylor Swift - Topic', 'Snow On The Beach', 1666336146.0, 0.0668320351530459).
 video('Music', 'Taylor Swift - Topic', 'Safe & Sound (Taylor\'s Version)', 1679025601.0, 0.09256761331382056).
@@ -16284,8 +16519,8 @@ video('Music', 'TaylorSwiftVEVO', 'Taylor Swift - Lavender Haze (Official Lyric 
 video('Music', 'TaylorSwiftVEVO', 'Taylor Swift ft. Lana del Rey - Snow On The Beach (Official Lyric Video)', 1666396839.0, 0.07395103400600178).
 video('Music', 'TaylorSwiftVEVO', 'Taylor Swift - Bejeweled (Official Music Video)', 1666670409.0, 0.09003104898234297).
 video('Music', 'TaylorSwiftVEVO', 'Taylor Swift - Bejeweled', 1666670409.0, 0.05728638912654065).
-video('Music', 'TaylorSwiftVEVO', 'Taylor Swift - Lavender Haze (Official Music Video)', 1674795607.0, 0.08072249208526901).
 video('Music', 'TaylorSwiftVEVO', 'Taylor Swift - Lavender Haze', 1674795607.0, 0.1195642627309115).
+video('Music', 'TaylorSwiftVEVO', 'Taylor Swift - Lavender Haze (Official Music Video)', 1674795607.0, 0.08072249208526901).
 video('Music', 'TaylorSwiftVEVO', 'Taylor Swift ft. Ice Spice - Karma (Official Visualizer)', 1685073609.0, 0.16350447600396245).
 video('Music', 'TaylorSwiftVEVO', 'Taylor Swift ft. Ice Spice - Karma (Official Music Video)', 1685160008.0, 0.11059441301483595).
 video('Music', 'TaylorSwiftVEVO', 'Taylor Swift - Taylor Swift The Eras Tour México', 1686968071.0, 0.12905771406083558).
@@ -16293,6 +16528,8 @@ video('Music', 'TaylorSwiftVEVO', 'Taylor Swift - Speak Now (Taylor\'s Version) 
 video('Music', 'TaylorSwiftVEVO', 'Taylor Swift - Better Than Revenge (Taylor\'s Version) (Lyric Video)', 1688702414.0, 0.07777630429090711).
 video('Music', 'TaylorSwiftVEVO', 'Taylor Swift - Enchanted (Taylor\'s Version) (Lyric Video)', 1688702421.0, 0.09662868574338918).
 video('Music', 'TaylorSwiftVEVO', 'Taylor Swift - I Can See You (Taylor’s Version) (From The Vault) (Official Video)', 1688792291.0, 0.09932380131084376).
+video('Music', 'TaylorSwiftVEVO', 'Taylor Swift - Style (Taylor\'s Version) (Lyric Video)', 1698379202.0, 0.1675656082982782).
+video('Music', 'TaylorSwiftVEVO', 'Taylor Swift - Now That We Don\'t Talk (Taylor\'s Version) (From The Vault) (Lyric Video)', 1698379236.0, 0.12373644458418909).
 video('Music', 'TayroneVEVO', 'Tayrone, Lauana Prado - Arrochadinha (Ao Vivo Em Goiânia / 2021)', 1644588003.0, 0.019975446733051426).
 video('Music', 'TayroneVEVO', 'Tayrone, Léo Santana - Aí Doeu (Ao Vivo Em Goiânia / 2021)', 1644588021.0, 0.033848925913792294).
 video('Music', 'TayroneVEVO', 'Tayrone - Só Vem Quando Lá Não Tem (Ao Vivo Em Goiânia / 2021)', 1645106406.0, 0.06447282365495163).
@@ -16310,6 +16547,7 @@ video('Music', 'ThallesRobertoVEVO', 'Thalles Roberto - Deus da Minha Vida (Ao V
 video('Music', 'Thamires Garcia Oficial', 'A TUA MESA CURA | THAMIRES GARCIA', 1654002011.0, 0.15911417322834645).
 video('Music', 'Thamires Garcia Oficial', 'Ele Vem Pra Restaurar - Thamires Garcia', 1666702807.0, 0.16169101056881605).
 video('Music', 'Thamires Garcia Oficial', 'Eu Ainda Creio - Thamires Garcia', 1691503207.0, 0.18669200726801863).
+video('Music', 'The Beatles', 'Now And Then – The Last Beatles Song (Short Film Trailer)', 1698324716.0, 0.0366591475008893).
 video('Music', 'The Rolling Stones', 'The Rolling Stones - Angry (Official Video)', 1694008808.0, 0.01926656167549547).
 video('Music', 'The Rose', 'The Rose (더로즈) – Back to Me | Official Teaser', 1689606006.0, 0.3578377893682842).
 video('Music', 'The Rose', 'The Rose (더로즈) – Back To Me | Official Video', 1689912006.0, 0.1334253336194014).
@@ -16319,6 +16557,7 @@ video('Music', 'The Weeknd', 'Dawn FM Trailer', 1641218900.0, 0.1396432801879472
 video('Music', 'The Weeknd', 'Dawn FM Tracklist', 1641391186.0, 0.1323824020504957).
 video('Music', 'The Weeknd', 'The Idol | Official Teaser | HBO', 1658071674.0, 0.13959671428419096).
 video('Music', 'The Weeknd', 'The Weeknd, JENNIE & Lily Rose Depp - One Of The Girls (Official Audio)', 1687492831.0, 0.11697752143419098).
+video('Music', 'TheKidLAROIVEVO', 'The Kid LAROI, Jung Kook, Central Cee - TOO MUCH (Official Video)', 1697756410.0, 0.22008942038535367).
 video('Music', 'TheWeekndVEVO', 'The Weeknd - Gasoline (Official Audio)', 1641531600.0, 0.06996685236539435).
 video('Music', 'TheWeekndVEVO', 'The Weeknd - How Do I Make You Love Me? (Official Audio)', 1641531605.0, 0.07257629787431112).
 video('Music', 'TheWeekndVEVO', 'The Weeknd ft. Tyler, The Creator - Here We Go… Again (Official Audio)', 1641531631.0, 0.0662809246551502).
@@ -16458,6 +16697,9 @@ video('Music', 'Tz da Coronel', 'Tz da Coronel - Se Você For Embora 💔 (Prod.
 video('Music', 'Tz da Coronel', 'Tz da Coronel - Alma (Prod. Ariel Donato)', 1685675761.0, 0.12391551839202293).
 video('Music', 'Tz da Coronel', 'Tz da Coronel - Alma (Prod. Ariel Donato) [Clipe Oficial]', 1688079013.0, 0.06240606125619679).
 video('Music', 'Tz da Coronel', 'Tz da Coronel - Nota Dó ft. Kawe & Vulgo FK (Prod. Dj DuBom) Clipe Oficial', 1692910811.0, 0.10169709547126772).
+video('Music', 'Tz da Coronel', 'Tz da Coronel - Castelo de Areia feat. Veigh & Djonga (Prod. meLLo)', 1697641620.0, 0.09959270672405673).
+video('Music', 'Tz da Coronel', 'Tz da Coronel - Ela Joga no 7 ft. MC Ryan SP & Kayblack (Prod. Dj Murillo e LT no Beat)', 1697641800.0, 0.10641566711091367).
+video('Music', 'Tz da Coronel', 'Tz da Coronel - Dacoromode (Prod. Dj Alle da Coro) Clipe Oficial', 1698267612.0, 0.10780224399392117).
 video('Music', 'UCLÃ', 'Faz o Close - Leviano, Shoy, Alee & Sueth (beat. @peunubeat) (dir. @tpiresbr)', 1659621635.0, 0.16559838070338198).
 video('Music', 'UCLÃ', 'Ela Ama, Ela Gosta - Alee, Sobs, Leviano & Duzz (Official Music Video)', 1660226421.0, 0.1682591318136121).
 video('Music', 'Unha Pintada Oficial', 'Unha Pintada - Minha Mente, Mente (Clipe Oficial)', 1654167610.0, 0.07914537727418464).
@@ -16478,16 +16720,16 @@ video('Music', 'Us Agroboy', 'Us Agroboy, Fernando & Sorocaba - Consequências D
 video('Music', 'UsherVEVO', 'USHER, Summer Walker, 21 Savage - Good Good (Official Music Video)', 1692799208.0, 0.05701406286629403).
 video('Music', 'V - Topic', 'Blue', 1694149671.0, 0.12227741414005742).
 video('Music', 'V - Topic', 'For Us', 1694149672.0, 0.13571670161672192).
-video('Music', 'VEIGH', 'VEIGH, Nagalli - Londres Freestyle 🇬🇧 (Clipe Oficial)', 1659049212.0, 0.12129216862823736).
 video('Music', 'VEIGH', 'VEIGH - Londres Freestyle (Clipe Oficial)', 1659049212.0, 0.180925198611145).
+video('Music', 'VEIGH', 'VEIGH, Nagalli - Londres Freestyle 🇬🇧 (Clipe Oficial)', 1659049212.0, 0.12129216862823736).
 video('Music', 'VEIGH', 'VEIGH - Pelo Momento ft. Borges (Clipe Oficial)', 1667000111.0, 0.1331606771717247).
 video('Music', 'VEIGH', '5. VEIGH - VIDA CHIQUE FT. KAASH PAIGE', 1668831337.0, 0.08867823180678788).
 video('Music', 'VEIGH', 'VEIGH - Vida Chique & Perdoa Por Tudo Vida (Clipe Oficial)', 1681254009.0, 0.14214515151861548).
 video('Music', 'VEIGH', 'VEIGH - Clickbait ft. Niink (Clipe Oficial)', 1682719631.0, 0.14868517127443306).
 video('Music', 'VEIGH', '1. VEIGH - NOVO BALANÇO (Dos Prédios Deluxe)', 1684518092.0, 0.06293807615172964).
 video('Music', 'VEIGH', '2.  VEIGH - ENGANA DIZENDO QUE AMA FT. TZ DA CORONEL (Dos Prédios Deluxe)', 1684518094.0, 0.05292209688669294).
-video('Music', 'VEIGH', 'VEIGH - Novo Balanço (Clipe Oficial)', 1686700809.0, 0.15783456545782643).
 video('Music', 'VEIGH', 'VEIGH - Novo Balanço (Clipe Oficial) I Ecoando Amazon Music', 1686700809.0, 0.1239383602110884).
+video('Music', 'VEIGH', 'VEIGH - Novo Balanço (Clipe Oficial)', 1686700809.0, 0.15783456545782643).
 video('Music', 'VEIGH', 'VEIGH - Invisível pt.2 (Clipe Oficial)', 1696741210.0, 0.1876512104541322).
 video('Music', 'VEIGH', 'VEIGH - Invisível Pt.2 (Clipe Oficial)', 1696741210.0, 0.10170960352680278).
 video('Music', 'VICTIN', 'VICTIN, Bia Jordão - Eu Te Amo (prod. Ajaxx) | Official Video Music', 1651244413.0, 0.111388976992705).
@@ -16505,10 +16747,11 @@ video('Music', 'Various Artists - Topic', 'Memories x Another Love - Sped Up', 1
 video('Music', 'Veigh - Topic', 'Clickbait', 1682589731.0, 0.1199958807384224).
 video('Music', 'Veigh - Topic', 'Engana Dizendo Que Ama', 1684468939.0, 0.06145402496208886).
 video('Music', 'Veigh - Topic', 'Novo Balanço', 1684469019.0, 0.07621668126806595).
+video('Music', 'Victor e Leo', 'Victor & Leo - Borboletas (Villa Country)', 1697814009.0, 0.07019539491789745).
 video('Music', 'Victoria Monét', 'Victoria Monét - Party Girls feat. Buju Banton', 1683734408.0, 0.1478019136281355).
 video('Music', 'VictoriaMonétVEVO', 'Victoria Monét - Smoke (Official Video) ft. Lucky Daye', 1679630407.0, 0.09616771941031671).
-video('Music', 'VitaoVEVO', 'Vitão - Pensei Melhor Feat. Thiaguinho & Luccas Carlos ft. Thiaguinho, Luccas Carlos', 1645142402.0, 0.11978053164317472).
 video('Music', 'VitaoVEVO', 'Vitão - Pensei Melhor ft. Thiaguinho, Luccas Carlos', 1645142402.0, 0.08779790459377519).
+video('Music', 'VitaoVEVO', 'Vitão - Pensei Melhor Feat. Thiaguinho & Luccas Carlos ft. Thiaguinho, Luccas Carlos', 1645142402.0, 0.11978053164317472).
 video('Music', 'Vitor Fernandes', 'AÍ CÊ LIGA - Vitor Fernandes (Clipe Oficial)', 1671807611.0, 0.09281259028875406).
 video('Music', 'Vitor Fernandes', 'PERDI MEU TEMPO  - Vitor Fernandes e Iguinho e Lulinha (Clipe Oficial)', 1678978811.0, 0.1010443864229765).
 video('Music', 'Vitor Fernandes', 'PARTE PRA CIMA - Vitor Fernandes (Áudio Oficial)', 1683212411.0, 0.05862776849809377).
@@ -16699,6 +16942,7 @@ video('Music', 'blink182VEVO', 'blink-182 - EDGING (Official Audio)', 1665720033
 video('Music', 'blink182VEVO', 'blink-182 - EDGING (Official Video)', 1665763207.0, 0.04010334212080025).
 video('Music', 'blink182VEVO', 'blink-182 - ONE MORE TIME (Official Video)', 1695304806.0, 0.07262158556459707).
 video('Music', 'blink182VEVO', 'blink-182 - DANCE WITH ME (Official Video)', 1696514408.0, 0.06763768054514263).
+video('Music', 'blink182VEVO', 'blink-182 - YOU DON\'T KNOW WHAT YOU\'VE GOT (Official Lyric Video)', 1697644844.0, 0.0670617308856163).
 video('Music', 'dojacatVEVO', 'Doja Cat - Get Into It (Yuh) (Trailer)', 1643389206.0, 0.1160417633030999).
 video('Music', 'dojacatVEVO', 'Doja Cat - Woman (Official Choreography Video)', 1643475601.0, 0.07884098238406037).
 video('Music', 'dojacatVEVO', 'Doja Cat - Get Into It (Yuh) (Official Video)', 1643605204.0, 0.12402727282359988).
@@ -16733,6 +16977,7 @@ video('Music', 'k a m a i t a c h i', 'K a m a i t a c h i - As Viagens Inimagin
 video('Music', 'k a m a i t a c h i', 'K a m a i t a c h i - O Limbo do Menino Sem Olhos (Ao Vivo)', 1683903624.0, 0.2515993021227101).
 video('Music', 'k a m a i t a c h i', 'K a m a i t a c h i - Oxóssi', 1694790015.0, 0.3130550359358078).
 video('Music', 'k a m a i t a c h i', 'K a m a i t a c h i - Canoa feat  @LagumOficial', 1697209201.0, 0.27204322635794714).
+video('Music', 'k a m a i t a c h i', 'FESTA', 1698184950.0, 0.3232884321621997).
 video('Music', 'leonardo goncalves', 'Leonardo Gonçalves, Kleber Lucas, Clovis - MESSIAS (Clipe Oficial)', 1666299606.0, 0.050875203832042394).
 video('Music', 'lilgiela33', 'lilgiela33 - Quando Ela Me Deixou (Video Clipe Oficial)', 1690754407.0, 0.18901378916773945).
 video('Music', 'mad tsai', 'Mad Tsai - stacy\'s brother (Official Music Video)', 1669222806.0, 0.12151092543671028).
@@ -16790,6 +17035,7 @@ video('Music', '냠냠엔터테인먼트 YAMYAM ENTERTAINMENT', '[MV] 지민(Jim
 video('Music', '딩고 뮤직 / dingo music', '엑소(EXO)의 킬링보이스를 라이브로! - 으르렁, MAMA, 나비소녀, Cream Soda, Sing For You, 전야, 중독, Monster, 첫 눈, Power |딩고뮤직', 1689069610.0, 0.13232610864999603).
 video('Music', '새소년 SE SO NEON', 'So!YoON! (황소윤) \'Smoke Sprite\' (feat. RM of BTS) Official MV', 1678784407.0, 0.21180082317075344).
 video('Music', '선미 SUNMI', '선미 (SUNMI) - \'열이올라요 (Heart Burn)\' Music Video', 1656493211.0, 0.031089745453578777).
+video('Music', '선미 SUNMI', '선미(SUNMI) \'STRANGER\' MV', 1697533206.0, 0.0333028242816658).
 video('Music', '콜드 Colde', 'Colde 콜드 - 다시는 사랑한다 말하지 마 Don’t ever say love me (Feat. RM of BTS)', 1685361612.0, 0.25337357971878943).
 video('News & Politics', 'AFP Português', 'Show de fogos em Copacabana | AFP', 1641009337.0, 0.009727012646720675).
 video('News & Politics', 'AFP Português', 'Corpos e caixas-pretas do voo que matou chefe do grupo Wagner são encontrados | AFP', 1692998992.0, 0.022855697056591042).
@@ -16814,6 +17060,7 @@ video('News & Politics', 'BBC News Brasil', 'O que é uma implosão, que pode te
 video('News & Politics', 'BBC News Brasil', 'O drama das famílias que vivem embaixo de torres de energia eólica na cidade de Lula', 1692051000.0, 0.050827982636964336).
 video('News & Politics', 'BBC News Brasil', 'A trajetória de Yevgeny Prigozhin, chefe do Grupo Wagner e ex-aliado de Putin', 1692838779.0, 0.040288931760061014).
 video('News & Politics', 'BBC News Brasil', 'O misterioso animal híbrido de \'raposa\' e cão encontrado em estrada do RS', 1696276807.0, 0.04148697327255257).
+video('News & Politics', 'BBC News Brasil', 'Israel x palestinos: como histórico da Faixa de Gaza ajuda a entender o conflito', 1697378414.0, 0.034134156941174484).
 video('News & Politics', 'Balanço Geral', 'Confira quais famosos foram eleitos neste domingo (2)', 1664826854.0, 0.022738360169038522).
 video('News & Politics', 'Balanço Geral', 'Brasileiro foragido nos EUA é visto por moradores e está armado com um rifle', 1694546808.0, 0.016319060783377977).
 video('News & Politics', 'Band Jornalismo', 'DEBATE NA BAND SÃO PAULO – GOVERNADOR | BAND JORNALISMO', 1659924734.0, 0.040370433272747794).
@@ -16831,7 +17078,10 @@ video('News & Politics', 'Band Jornalismo', 'MC Marcinho morre aos 45 anos no Ri
 video('News & Politics', 'Band Jornalismo', 'Danilo Cavalcante é detido após 14 dias de buscas | BandNews Mundo', 1694611224.0, 0.019983421959021717).
 video('News & Politics', 'Band RS', 'Rio Guaíba em 3,17 metros e a água começa a vazar pelas comportas', 1695832757.0, 0.019582681835337252).
 video('News & Politics', 'Blog da Cidade The', 'Meteoro cai no Triangulo Mineiro em Minas Gerais', 1642256570.0, 0.03080524992503402).
+video('News & Politics', 'Brasil Urgente', 'Porta-voz da Defesa de Israel fala de ataque na Faixa de Gaza | Brasil Urgente', 1697574111.0, 0.030607464738530474).
+video('News & Politics', 'Brasil Urgente', 'Bases dos Estados Unidos são atacadas fora de área da guerra em Israel | Brasil Urgente', 1697744610.0, 0.023048161899283586).
 video('News & Politics', 'Britto Jr TV', 'A FAZENDA ACABOU', 1670251042.0, 0.10445961805185106).
+video('News & Politics', 'Britto Jr TV', 'O QUE HÁ POR TRÁS DA EXPULSÃO DE RAQUEL DA FAZENDA', 1697750803.0, 0.11896866867342987).
 video('News & Politics', 'C5N', 'INTENTO de ATAQUE contra CRISTINA KIRCHNER', 1662077841.0, 0.007653238510007413).
 video('News & Politics', 'CAIXA', 'Loterias CAIXA | Mega da Virada 2022', 1672529501.0, 0.012143493410470852).
 video('News & Politics', 'CAIXA', 'Loteria Federal CAIXA | 14/06/2023', 1686781185.0, 0.01915089986155976).
@@ -16887,12 +17137,14 @@ video('News & Politics', 'Câmara dos Deputados', 'Presidente do Senado, Rodrigo
 video('News & Politics', 'Câmara dos Deputados', 'Lewis Hamilton - Sessão Solene - Título de Cidadão Honorário ao piloto de Fórmula 1 - 07/11/22', 1667843994.0, 0.03686309343816148).
 video('News & Politics', 'DCM TV', 'Bolsonaro toma vacina e vira jacaré no desfile da Rosas de Ouro', 1650805964.0, 0.06450222487037437).
 video('News & Politics', 'DW Brasil', 'Os pilares que sustentam Putin começaram a cair?', 1688061614.0, 0.05110360776053937).
+video('News & Politics', 'DailyWire+', 'Snow White and the Evil Queen, Coming to Bentkey in 2024.', 1697495406.0, 0.06719556322212104).
 video('News & Politics', 'Diário do Nordeste', 'Clarão rompe o céu e impressiona moradores de cidade em Goiás', 1642289292.0, 0.010908793767960015).
 video('News & Politics', 'Diário do Nordeste', 'Drone ucraniano destrói barcos da Rússia no Mar Negro', 1651496884.0, 0.0119434209704615).
 video('News & Politics', 'Diário do Nordeste', 'Roberto Carlos manda fã calar a boca durante show no Rio de Janeiro', 1657845600.0, 0.012152981829294092).
 video('News & Politics', 'Diário do Nordeste', 'Ibama devolve capivara Filó para Agenor Tupinambá após confronto em centro de triagem', 1682876171.0, 0.015243870453329417).
 video('News & Politics', 'Diário do Nordeste', 'Yury do Paredão: quem é o deputado expulso do PL de Bolsonaro por fazer o L de Lula', 1689970606.0, 0.045766933765493234).
 video('News & Politics', 'Diário do Nordeste', 'Eclipse solar: veja registros do fenômeno no Ceará', 1697321314.0, 0.00966693478822643).
+video('News & Politics', 'Diário do Nordeste', 'Daniel Noboa é eleito presidente do Equador', 1697459679.0, 0.04419634879280669).
 video('News & Politics', 'Estadão', 'De Pequim, a viagem cancelada de Lula à China', 1679780419.0, 0.028570725162179796).
 video('News & Politics', 'Estadão', 'Implosão de submarino: veja simulação da viagem do submersível até chegar próximo do Titanic', 1687482172.0, 0.013750686576315353).
 video('News & Politics', 'Fala Brasil', 'Desmoronamento em obra do Metrô interdita marginal Tietê', 1643721110.0, 0.017160848354842058).
@@ -16920,19 +17172,20 @@ video('News & Politics', 'HBO Brasil', 'GREG NEWS | CARTA AO LULA', 1669429809.0
 video('News & Politics', 'HBO Brasil', 'GREG NEWS | SEMIPRESIDENCIALISMO', 1691402443.0, 0.13564399554818474).
 video('News & Politics', 'InfoMoney', 'Governo anuncia desconto de até 10,79% em carros ‘populares’. Veja anúncio', 1685036087.0, 0.028692925561616768).
 video('News & Politics', 'Itatiaia', 'NARCISA CHEGA AO VELÓRIO DE GLÓRIA MARIA NO RIO DE JANEIRO: \'MELHOR AMIGA\'', 1675433825.0, 0.013335467978503154).
-video('News & Politics', 'Jair Bolsonaro', 'Coletiva para esclarecimentos e Apoio às vítimas da catástrofe de Petrópolis / RJ (18/02/2022).', 1645187950.0, 0.29078947368421054).
 video('News & Politics', 'Jair Bolsonaro', 'Petrópolis', 1645187950.0, 0.297732509096403).
+video('News & Politics', 'Jair Bolsonaro', 'Coletiva para esclarecimentos e Apoio às vítimas da catástrofe de Petrópolis / RJ (18/02/2022).', 1645187950.0, 0.29078947368421054).
 video('News & Politics', 'Jair Bolsonaro', 'Pronunciamento Presidente  21/04/2022', 1650574547.0, 0.1842381404094927).
 video('News & Politics', 'Jair Bolsonaro', '- Presidente Jair Bolsonaro (02/11/2022)', 1667428303.0, 0.2379972100708317).
 video('News & Politics', 'Jair Bolsonaro', 'Agradeço por mais essa emocionante homenagem!', 1677439622.0, 0.3085922069503388).
 video('News & Politics', 'Jornal Minas', 'Congonhas: Barragem de rejeitos tira o sono de moradores- Jornal Minas', 1642079299.0, 0.01802682240459678).
 video('News & Politics', 'Jornal Minas', 'Barragem do Carioca- Jornal Minas', 1642079850.0, 0.01781336393511032).
 video('News & Politics', 'Jornal O GLOBO', 'Temporal no Litoral Norte de São Paulo é o maior já registrado no Brasil', 1676925980.0, 0.00802790413871927).
-video('News & Politics', 'Jornal O GLOBO', 'Billie Eilish no Brasil: cantora fala em entrevista que é fã de música brasileira', 1679788759.0, 0.06950172215843857).
 video('News & Politics', 'Jornal O GLOBO', 'Billie Eilish no Brasil: cantora fala de livro, gastronomia e diz que é fã de música brasileira', 1679788759.0, 0.0621367177292342).
+video('News & Politics', 'Jornal O GLOBO', 'Billie Eilish no Brasil: cantora fala em entrevista que é fã de música brasileira', 1679788759.0, 0.06950172215843857).
 video('News & Politics', 'Jornal O Globo', 'Tsunami atinge Tonga após erupção de vulcão submarino', 1642276940.0, 0.01606992389690639).
 video('News & Politics', 'Jornal O Globo', 'Chuva forte volta a alagar Petrópolis e a deixar população em alerta', 1647808055.0, 0.010354155950543903).
 video('News & Politics', 'Jornal O Globo', 'Rita Lee: o rock brasileiro dá adeus a sua rainha', 1683641363.0, 0.04837836565618528).
+video('News & Politics', 'Jornal O Globo', 'Veja imagens dos ataques de milicianos que destruíram 35 ônibus no Rio de Janeiro', 1698159040.0, 0.01414752508445611).
 video('News & Politics', 'Jornal da Gazeta', 'Ex-assessor e amigo de Bolsonaro confirma esquema de rachadinhas à Veja, mas depois desmente', 1642805495.0, 0.023471788715486195).
 video('News & Politics', 'Jornal da Gazeta', 'Lira vai ao STF para Congresso decidir sobre cassação de deputados', 1650642446.0, 0.042039960021969906).
 video('News & Politics', 'Jornal da Gazeta', 'Bolsonaro cumprimenta Alckmin, que coordena transição de governo Lula', 1667514391.0, 0.014215428671525731).
@@ -16951,6 +17204,8 @@ video('News & Politics', 'Jovem Pan News', 'Comandante das Forças Armadas convo
 video('News & Politics', 'Jovem Pan News', 'Bolsonaro chega ao Brasil após passar três meses nos Estados Unidos', 1680172204.0, 0.05472703132461835).
 video('News & Politics', 'Jovem Pan News', 'Favalli explica como se deu o maior ataque do Hamas contra Israel da história', 1696720471.0, 0.028575990193983).
 video('News & Politics', 'Jovem Pan News', 'Governo de Israel diz ter destruído defesa do Hamas; Amanda Klein e Claudio Dantas analisam', 1697020046.0, 0.03752601348539083).
+video('News & Politics', 'Jovem Pan News', 'Israel diz que matou mais um chefe do Hamas; Conselho da ONU deve votar resolução do Brasil', 1697540961.0, 0.03923831076503912).
+video('News & Politics', 'Jovem Pan News', 'Exército de Israel e o Hamas se enfrentam em solo pela primeira vez | LINHA DE FRENTE', 1698083398.0, 0.028710808704514118).
 video('News & Politics', 'LEANDRO LS', 'Chuvas em SC: Rio Itajaí-açu transborda com forte corrente vazante', 1696864631.0, 0.027277569154638064).
 video('News & Politics', 'Litoral News', '1º TREINO DA SELEÇÃO! GOLAÇOS DE PEDRO E RAPHINHA! MILITÃO NA LATERAL, EDERSON VOANDO! NEYMAR CHEGOU', 1668446068.0, 0.02026416468935593).
 video('News & Politics', 'Litoral News', '1º TREINO DE DINIZ NA SELEÇÃO TEM NEYMAR EM CAMPO E APENAS UMA AUSÊNCIA ENTRE OS CONVOCADOS!', 1693954499.0, 0.015367615011307054).
@@ -17064,8 +17319,8 @@ video('News & Politics', 'UOL', 'Debate na Globo: Lula x Bolsonaro com análises
 video('News & Politics', 'UOL', 'Vídeo mostra momento em que Bolsonaro abandona entrevista coletiva após debate da Globo', 1667017395.0, 0.018937970631115388).
 video('News & Politics', 'UOL', 'Bolsonaristas choram, rezam e abandonam QG do Exército após discurso de Bolsonaro em live', 1672415768.0, 0.019099528306922284).
 video('News & Politics', 'UOL', 'Posse presidencial: compare a posse de Lula, em 2023, com a posse de Bolsonaro, em 2019', 1672658412.0, 0.02296333601373404).
-video('News & Politics', 'UOL', 'Óvni: EUA derrubam objeto voador não identificado que voava sobre o Alasca', 1676172386.0, 0.01434926085553255).
 video('News & Politics', 'UOL', 'Ovni: EUA derrubam objeto voador não identificado que voava sobre o Alasca', 1676172386.0, 0.01552134586055116).
+video('News & Politics', 'UOL', 'Óvni: EUA derrubam objeto voador não identificado que voava sobre o Alasca', 1676172386.0, 0.01434926085553255).
 video('News & Politics', 'UOL', 'Óvnis: O que se sabe da crise que envolve EUA e China e o que dizem os países', 1676299869.0, 0.006341734926875019).
 video('News & Politics', 'UOL', 'Madeleine McCann: jovem diz ser menina: \'quero ser um teste de DNA\'', 1676657224.0, 0.0061487251797230765).
 video('News & Politics', 'UOL', 'Submarino: americana mostra em vídeo detalhes de passeio que visitava destroços do Titanic', 1687458362.0, 0.011615107903053982).
@@ -17103,6 +17358,9 @@ video('News & Politics', 'g1', 'Daniela Lima: PF encontra ordem de Bolsonaro par
 video('News & Politics', 'g1', 'O que se sabe sobre o passado do brasileiro que fugiu de penitenciária dos EUA I FANTÁSTICO', 1694433076.0, 0.02330340291979245).
 video('News & Politics', 'g1', 'EXCLUSIVO: Imagens mostram criminosos dando treinamento de guerrilha na Maré, no Rio | Fantástico', 1695608589.0, 0.02138046921500094).
 video('News & Politics', 'g1', 'Entenda como o Hamas se preparou para ataque sem precedentes em Israel I FANTÁSTICO', 1696863322.0, 0.026147223498738593).
+video('News & Politics', 'g1', 'Pai de Alok narra ataque do Hamas a rave em Israel I FANTÁSTICO', 1697457192.0, 0.021854197844850754).
+video('News & Politics', 'g1', 'Vídeos mostram como policiais escoltavam droga até o RJ para negociar com facção I FANTÁSTICO', 1698066483.0, 0.023743212000645195).
+video('News & Politics', 'g1', 'Bandidos fazem o maior ataque ao transporte público do Rio | Jornal Nacional', 1698106121.0, 0.019149648362383143).
 video('People & Blogs', '3o Tempo', 'POLÊMICA! FOI PÊNALTI OU NÃO? EDMUNDO DESABAFA | TERCEIRO TEMPO', 1644788364.0, 0.03137821108458536).
 video('People & Blogs', '60 Segundos do Benja', '60 Segundos do Benja - Veléz Sarsfield 0 x 4 Flamengo, Flamengo já está classificado para Final', 1662000911.0, 0.10858626555645089).
 video('People & Blogs', '68 Gang', 'NÃO ACEITAMOS FAZER REMAP NESSE CARRO PORQUE... *ENTENDA OS PROBLEMAS DO REMAP*', 1692741635.0, 0.13560626998854977).
@@ -17118,8 +17376,8 @@ video('People & Blogs', 'A Noruega e Eu.', 'ESTOU GRAVIDA DE NOVO? HORA DE FALAR
 video('People & Blogs', 'AM3NlC', '🍔 Testando HACK MC DONALD’s pra ver se funciona! ‹ EduKof ›', 1641307680.0, 0.11355687382468635).
 video('People & Blogs', 'AM3NlC', 'EDUKOF VAI VOLTAR PARA O BRASIL?', 1675348200.0, 0.10263982158191602).
 video('People & Blogs', 'AM3NlC', 'COMPREI UM STORAGE DE LEILÃO NOS EUA ‹ EduKof ›', 1683636305.0, 0.11457043979084043).
-video('People & Blogs', 'AM3NlC', 'MAIS UM STORAGE ABANDONADO ‹ EduKof ›', 1684159230.0, 0.12165050189497137).
 video('People & Blogs', 'AM3NlC', 'MAIS UM STORAGE ABANDONADO II ‹ EduKof ›', 1684159230.0, 0.08000455611899064).
+video('People & Blogs', 'AM3NlC', 'MAIS UM STORAGE ABANDONADO ‹ EduKof ›', 1684159230.0, 0.12165050189497137).
 video('People & Blogs', 'AM3NlC', 'ZERANDO NOSSO STORAGE 2 PRA ENTREGAR ‹ EduKof ›', 1684413900.0, 0.10017010964259286).
 video('People & Blogs', 'AM3NlC', 'STORAGE ABANDONADO III  NO TEXAS ‹ EduKof ›', 1684673104.0, 0.09942375527745648).
 video('People & Blogs', 'AM3NlC', 'STORAGE ABANDONADO IV O MELHOR ‹ EduKof ›', 1685105104.0, 0.1059603233435702).
@@ -17141,8 +17399,8 @@ video('People & Blogs', 'Adeline Camargo', 'Descarregando a mudança + primeira 
 video('People & Blogs', 'Adeline Camargo', 'Storage de uma família rica coisas boas de marcas e de muito valor  @Adeline Camargo #23V1', 1663340422.0, 0.17530376808956039).
 video('People & Blogs', 'Adeline Camargo', 'Super dumpster é um absurdo o que essa loja faz com as coisas...não precisa fazer isso.', 1670338832.0, 0.1355405562025023).
 video('People & Blogs', 'Adeline Camargo', 'Muitos moveis e coleção de Pokémon - Storage 28 @AdelineCamargo', 1677682850.0, 0.16753280336333531).
-video('People & Blogs', 'Adeline Camargo', 'As aparências enganam e esse storage é a prova disso T:28 V:02 @AdelineCamargo', 1677769233.0, 0.17142697042954805).
 video('People & Blogs', 'Adeline Camargo', 'Encontrei uma relíquia nesse stoge abandonado T:28 V:02 @AdelineCamargo', 1677769233.0, 0.16250566123188406).
+video('People & Blogs', 'Adeline Camargo', 'As aparências enganam e esse storage é a prova disso T:28 V:02 @AdelineCamargo', 1677769233.0, 0.17142697042954805).
 video('People & Blogs', 'Adeline Camargo', 'Cai de costa com esse dumpster uma surpresa de quase 1000 dólares', 1679065237.0, 0.17580691789009822).
 video('People & Blogs', 'Adeline Camargo', 'Super dumpster muita emoção 🥰 nessa jornada de resgate do lixo das lojas 🇺🇸', 1680102031.0, 0.1534563015281714).
 video('People & Blogs', 'Adeline Camargo', 'Super dumpster dessa vez esconderam as coisas mais eu encontrei 😂', 1680793232.0, 0.17055501600661846).
@@ -17175,6 +17433,7 @@ video('People & Blogs', 'Ale Pastel estilo de vida simples', 'JÁ TEMOS QUARTOS 
 video('People & Blogs', 'Ale Pastel estilo de vida simples', 'BOLO SEM LEITE E SEM FARINHA DE TRIGO FOFINHO PARA O LANCHINHO NO SÍTIO', 1668719328.0, 0.1266296382010337).
 video('People & Blogs', 'Alessandra Santos', 'TROLLEI MEU NAMORADO NO PARKOUR VALENDO 100 REAIS NO MINECRAFT 🤣', 1646492354.0, 0.0807295071251144).
 video('People & Blogs', 'Alessandra Santos Pastel', 'ESSE VAI SER O NOSSO SÍTIO', 1644949840.0, 0.1457539824321318).
+video('People & Blogs', 'Alessandra Santos Pastel', 'REPOLHO CREMOSO', 1697929590.0, 0.08542713567839195).
 video('People & Blogs', 'Aline Rodriguês', 'TOUR PELA CASA NOVA VAZIA 🏠 * Cinco quartos *', 1654345779.0, 0.19766347141389934).
 video('People & Blogs', 'Aline Rodriguês', 'ESTOU MUITO INCHADA - 24 HORAS DO MEU PÓS PARTO - DEIXEI MINHA BEBÊ NO HOSPITAL', 1660220562.0, 0.14590144562177493).
 video('People & Blogs', 'Aline Rodriguês', 'ENCONTREI A CASA NOVA 😍VOLTAMOS ? COMO TUDO ACONTECEU', 1677938219.0, 0.162393891566779).
@@ -17204,8 +17463,8 @@ video('People & Blogs', 'Amanda Silva', 'NASCIMENTO DA NOSSA FILHA LIZ!', 166870
 video('People & Blogs', 'Ana Cecília', 'colocando os móveis na nossa casa | mostrei o que já temos ❤️', 1668639252.0, 0.1408925661276169).
 video('People & Blogs', 'Ana Cecília', 'Fomos fazer nossa primeira compra 🥰', 1668804086.0, 0.15151395678914997).
 video('People & Blogs', 'Ana Cecília', 'Nosso casamento *Foi Maravilhoso* 😍💍👫', 1668884846.0, 0.12895460238455408).
-video('People & Blogs', 'Ana Lídia Lopes', 'Baby 2 vem aí!🤰🏻Como descobri, sintomas, organizando o guarda-roupa num VLOG dos meus dias!', 1660748446.0, 0.15133659097441793).
 video('People & Blogs', 'Ana Lídia Lopes', 'Baby 2 vem aí!🤰🏻Como descobri, o que senti, organizando o guarda-roupa num VLOG dos meus dias!', 1660748446.0, 0.12910184037817246).
+video('People & Blogs', 'Ana Lídia Lopes', 'Baby 2 vem aí!🤰🏻Como descobri, sintomas, organizando o guarda-roupa num VLOG dos meus dias!', 1660748446.0, 0.15133659097441793).
 video('People & Blogs', 'Ana Paula Nascimento', 'Olha o que  da  para fazer com  essas  GARRAFAS PLÁSTICAS / DIY', 1680354038.0, 0.027487796558993083).
 video('People & Blogs', 'Ana landim', 'NUNCA VI TANTA COISA BOA NO LIXO DA VIZINHANÇA- Levei Coisa Pra Casa', 1653686193.0, 0.1398126795323057).
 video('People & Blogs', 'Ana landim', 'LIMPANDO TUDO DEPOIS DO FURACÃO IAN', 1664486728.0, 0.1041813370494185).
@@ -17244,11 +17503,12 @@ video('People & Blogs', 'Anjo Low Carb Receitas', 'ZERO CARBOIDRATOS! Pode COMER
 video('People & Blogs', 'Anjo Low Carb Receitas', 'SUBSTITUA O PÃO por essa DELÍCIA no Café da Manhã ou Lanche -  Rápido, Barato e Saudável!', 1686075720.0, 0.019490079528880818).
 video('People & Blogs', 'Anjo Low Carb Receitas', 'Eu Como a Vontade e Perco Peso Rápido! Receita para emagrecer! (Low Carb)', 1690309260.0, 0.024605831181061247).
 video('People & Blogs', 'Anjo Low Carb Receitas', 'SUBSTITUA O JANTAR! Delícia FÁCIL e SAUDÁVEL com Poucas Calorias e Carboidratos (Sem Farinha)', 1693851660.0, 0.017055372953591143).
+video('People & Blogs', 'Anjo Low Carb Receitas', 'Só 2 MIN e ZERO CARBOIDRATOS - Fofinho, Sem Trigo, Fácil, Barato e Saudável', 1698085261.0, 0.00753539477833657).
 video('People & Blogs', 'Anna Luiza Chaves', 'Pov: Todos recebem duas cores que dão habilidade, mas você recebeu três e decidiu usar a misteriosa', 1644524726.0, 0.17924947057898777).
 video('People & Blogs', 'Anna Luiza Chaves', 'Pov: Seu eu do futuro te dar conselhos para tomar decisões certas, mas vc decide se ouve ou não', 1649630554.0, 0.1911907354763278).
 video('People & Blogs', 'Anninha', 'O CHÃO É LAVA NO PARQUE AQUÁTICO!!! #shorts', 1646863219.0, 0.0657877860126367).
-video('People & Blogs', 'Apuh - Irmandade', 'PORQUE PRECISEI ME TORNAR IMORTAL', 1679176807.0, 0.07976915948215339).
 video('People & Blogs', 'Apuh - Irmandade', 'PORQUE PRECISEI ME TORNAR IMORTAL - Irmandade', 1679176807.0, 0.08658214893823502).
+video('People & Blogs', 'Apuh - Irmandade', 'PORQUE PRECISEI ME TORNAR IMORTAL', 1679176807.0, 0.07976915948215339).
 video('People & Blogs', 'Aqueles canal de casal etc', 'CONHEÇA NOSSA CASA NOVA!', 1655909593.0, 0.28749345206914617).
 video('People & Blogs', 'Aqui É Nordeste', 'Nossa Casa no sitio nos retoques finais  16/04/2023', 1681648996.0, 0.02122046123184967).
 video('People & Blogs', 'Aqui É Nordeste', '[ Começando um Sitio do zero ] Fiz Um Pequeno Resumo do Antes E Depois Do Sitio', 1682254568.0, 0.02278169450777993).
@@ -17327,8 +17587,8 @@ video('People & Blogs', 'Beca Barreto', 'DESSA VEZ RESPONDEMOS TUDO', 1659110949
 video('People & Blogs', 'Bedjine officiel', 'BEDJINE TOUT VA BIEN (OFFICIAL VIDEO)', 1656459009.0, 0.062405583097512714).
 video('People & Blogs', 'Bela Almada', 'MEU MATERIAL ESCOLAR 2022!', 1643212819.0, 0.12312773281235463).
 video('People & Blogs', 'Bela Almada', 'VOU MORAR SOZINHA? #DIARIODEMUDANÇA1', 1643641213.0, 0.15001382847660474).
-video('People & Blogs', 'Bela Almada', 'ROTINA SOZINHA EM CASA NO APARTAMENTO NOVO', 1643817614.0, 0.12758887862443008).
 video('People & Blogs', 'Bela Almada', 'ROTINA SOZINHA EM CASA NO APARTAMENTO NOVO!', 1643817614.0, 0.11723271876248645).
+video('People & Blogs', 'Bela Almada', 'ROTINA SOZINHA EM CASA NO APARTAMENTO NOVO', 1643817614.0, 0.12758887862443008).
 video('People & Blogs', 'Bella Poarch', 'Bella Poarch - Dolls (Official Music Video)', 1657857609.0, 0.15688387505555756).
 video('People & Blogs', 'Bianca Andrade', 'FIQUEI UM MÊS LONGE DAS REDES SOCIAIS!', 1682986768.0, 0.08118811881188119).
 video('People & Blogs', 'Bianca Andrade', 'COMPREI A CASA DOS MEUS SONHOS!', 1683235920.0, 0.09375522732595096).
@@ -17344,6 +17604,10 @@ video('People & Blogs', 'Bianca Ignatz', 'FIM DO MEU RELACIONAMENTO!', 166371263
 video('People & Blogs', 'Bianca Ignatz', 'PRIMEIRO VLOG MORANDO SOZINHA! 💖 FUI AO MERCADO + ORGANIZEI E LIMPEI A CASA 💕', 1663801574.0, 0.11963517619044611).
 video('People & Blogs', 'Bianca Ignatz', 'COMPRAS DO MÊS!! 🛒 FICOU MUITO CARO 😳', 1671229856.0, 0.11915179494246537).
 video('People & Blogs', 'Bianca Ignatz', 'COMPRAS DA SEMANA NO MERCADO! 🛒 + FAXINA COMPLETA NA CASA 🏠❤️', 1672956015.0, 0.11703955763504892).
+video('People & Blogs', 'Bianca Ignatz', 'VOLTEEEI!!!! CONVERSANDO COM VOCÊS, POR QUE EU SUMI DO CANAL?', 1697676348.0, 0.16060416119052914).
+video('People & Blogs', 'Bianca Ignatz', 'TOUR PELA NOSSA CASA!! MOSTREI TUDO ❤️🏠', 1697817647.0, 0.13463681770023528).
+video('People & Blogs', 'Bianca Ignatz', 'FAXINA PESADA NA CASA INTEIRA 💪🏻🧼', 1698103860.0, 0.11637418986180659).
+video('People & Blogs', 'Bianca Ignatz', 'ESTOU GRÁVIDA! 🤰🏻💙🩷', 1698271901.0, 0.12468291245929006).
 video('People & Blogs', 'Blogueira de Baixa Renda', 'E mais uma vez aconteceu comigo...', 1668122784.0, 0.19563005976348918).
 video('People & Blogs', 'Boni Two', 'Lixo na Australia - É LIXO ou É LUXO? Ep 30 (Agora em Família)', 1658350804.0, 0.1874221469864895).
 video('People & Blogs', 'Boni Two', 'É LIXO ou É LUXO - Que absurdo! Olha o que jogaram fora...', 1677355200.0, 0.09449954914337241).
@@ -17380,13 +17644,13 @@ video('People & Blogs', 'Bruna Diiniiz', 'COZINHA FINALIZADA | ESTILO PINTEREST 
 video('People & Blogs', 'Bruna Diiniiz', 'TRANSFORMEI A SALA DA MINHA MÃE| FICOU TOP', 1684881730.0, 0.16827997021593447).
 video('People & Blogs', 'Bruna Gomes', 'Oi, voltei!', 1643408970.0, 0.18896365005767649).
 video('People & Blogs', 'Bruna Gomes', 'O que aconteceu com o Pipi?', 1643807415.0, 0.16530952113366776).
-video('People & Blogs', 'Bruna Gomes', 'O QUE ACONTECEU COMIGO?!', 1655906434.0, 0.12455526301745148).
 video('People & Blogs', 'Bruna Gomes', 'Tudo o que aconteceu comigo!', 1655906434.0, 0.1469025512419557).
+video('People & Blogs', 'Bruna Gomes', 'O QUE ACONTECEU COMIGO?!', 1655906434.0, 0.12455526301745148).
 video('People & Blogs', 'Bruna Gomes', 'TUDO O QUE VOCÊS NÃO VIRAM!', 1656597611.0, 0.12609588663431848).
 video('People & Blogs', 'Bruna Gomes', 'ESTOU NAMORANDO!', 1657807476.0, 0.13298158765209758).
 video('People & Blogs', 'Bruna Gomes', 'FIZ UMA SURPRESA PARA O MEU NAMORADO!', 1659103219.0, 0.08256867555718989).
-video('People & Blogs', 'Bruna Gomes', 'SURPRESA ANIVERSÁRIO DE NAMORO! (+18)', 1659708016.0, 0.0740865563928695).
 video('People & Blogs', 'Bruna Gomes', 'SURPRESA ANIVERSÁRIO DE NAMORO!', 1659708016.0, 0.059191521414507155).
+video('People & Blogs', 'Bruna Gomes', 'SURPRESA ANIVERSÁRIO DE NAMORO! (+18)', 1659708016.0, 0.0740865563928695).
 video('People & Blogs', 'Bruna Luíza makeup', 'Tirando a make com vocês 💕', 1647801915.0, 0.0676369096406703).
 video('People & Blogs', 'Bruna Oliveira', 'VAMOS NOS MUDAR🏠/ Uma Grande novidade/ Nova etapa em nossas vidas🙏🏽', 1666740600.0, 0.15449165159401032).
 video('People & Blogs', 'Bruna Oliveira', 'VAMOS MORAR FORA DO BRASIL✈️/ Contamos toda a verdade/ O que aconteceu?', 1669752016.0, 0.1642954187272431).
@@ -17418,12 +17682,13 @@ video('People & Blogs', 'Caio Faria', 'RICOS VS POBRES DISPUTANDO FIGURINHAS NO 
 video('People & Blogs', 'Caio Faria', 'RICOS VS POBRES ABRINDO 200 FIGURINHAS DA COPA #21 QUEM CONSEGUIR A LEGEND VENCE !!', 1665090034.0, 0.027751465416178196).
 video('People & Blogs', 'Caio Faria', 'RICOS VS POBRES BATENDO BAFO COM PACOTINHOS DA COPA DO MUNDO #22 (TAPÃO)', 1665348301.0, 0.02691099826272885).
 video('People & Blogs', 'Caio Garcia', 'SURPREENDI MINHA IRMÃ NO ANIVERSÁRIO DELA E ELA CHOROU! DEU RUIM ( CAIO GARCIA )', 1694358035.0, 0.11077071454911638).
-video('People & Blogs', 'Calli Cartel Records', 'TZ da Coronel - Luneta ft. MC Marks (Visualizer)', 1650128412.0, 0.06768270871571738).
 video('People & Blogs', 'Calli Cartel Records', 'TZ da Coronel - Luneta ft. MC Marks & Victor WAO (Visualizer)', 1650128412.0, 0.057266527311501024).
+video('People & Blogs', 'Calli Cartel Records', 'TZ da Coronel - Luneta ft. MC Marks (Visualizer)', 1650128412.0, 0.06768270871571738).
 video('People & Blogs', 'Canal  Do Tiago Oreia', 'MOSTRANDO O CAMINHÃO QUE VOU TRABALHAR', 1668034802.0, 0.14915891987605134).
 video('People & Blogs', 'Canal Ana Bochi', 'OLHA COMO DEVOLVERAM A NOSSA CASA! ALUGUEL NUNCA MAIS!!!', 1648482004.0, 0.10908956836674788).
 video('People & Blogs', 'Canal Ana Bochi', 'A REFORMA DA CASA COMEÇOU DEPOIS DA DESTRUIÇÃO!!!', 1648652003.0, 0.13305855301447367).
 video('People & Blogs', 'Canal Ana Bochi', 'TOUR PELO NOSSO NOVO APÊ EM SÃO PAULO!', 1664722835.0, 0.09831553451502807).
+video('People & Blogs', 'Canal Ana Bochi', 'VAMOS EMBORA DE SÃO PAULO!!!', 1698159629.0, 0.11556284755272782).
 video('People & Blogs', 'Canal Ana Hickmann', 'COMUNICADO', 1642619625.0, 0.09671508528784648).
 video('People & Blogs', 'Canal Ana Hickmann', 'COMEMORAÇÃO DO NOSSO CASAMENTO | ANA HICKMANN', 1645484413.0, 0.09143754322349115).
 video('People & Blogs', 'Canal Ana Hickmann', 'A MINHA ROTINA MOVIMENTADA | ANA HICKMANN', 1650322801.0, 0.10183580858085808).
@@ -17648,6 +17913,7 @@ video('People & Blogs', 'Dani Souza', 'CHEGAMOS NO CEARÁ  I  DANI SOUZA', 16478
 video('People & Blogs', 'Dani Souza', 'CONHEÇA MINHA CASA NOVA | DANI SOUZA', 1648850432.0, 0.0864837976122797).
 video('People & Blogs', 'Daniel Cady', 'A SOBREMESA FAVORITA DAS CRIANÇAS - Especial Dia das Crianças', 1665612003.0, 0.04401043408467661).
 video('People & Blogs', 'Danilo e Davi', 'Danilo e Davi, Murilo Huff - Duas Certezas (Escolhas)', 1683298769.0, 0.0015962365155324843).
+video('People & Blogs', 'Danilo e Davi', 'Danilo e Davi - Tive Que Bater Palma (Clipe Oficial)', 1698245984.0, 0.03416851173776513).
 video('People & Blogs', 'Dany Carter', 'Vlog: DIA DA MUDANÇA - FINALMENTE! | Faxina sem móveis!', 1645196411.0, 0.22290822317336464).
 video('People & Blogs', 'Dany Carter', 'MINHA GELADEIRA NOVA CHEGOU! | Organizando e tour pela geladeira!', 1692284418.0, 0.13784796070090907).
 video('People & Blogs', 'Danzo', 'Danzo feat. Igão - Longe dos falsos', 1648670411.0, 0.1500726889579471).
@@ -17708,6 +17974,7 @@ video('People & Blogs', 'Dudaberud', 'esse BALDE pode DESTRUIR o seu MINECRAFT! 
 video('People & Blogs', 'Dudaberud', 'Minecraft MAS tudo que eu PENSAR eu GANHO!', 1654957804.0, 0.07764145559896404).
 video('People & Blogs', 'Dudaberud', 'FUJA do AZUL BABÃO no ROBLOX! (RAINBOW FRIENDS)', 1661265006.0, 0.0633496084905272).
 video('People & Blogs', 'Dudaberud', '24 Mods REALISTAS em 24 Horas!', 1665349216.0, 0.07513850013356407).
+video('People & Blogs', 'EHXIS', 'Igão - X6 | Quebrada Perfomance', 1697752807.0, 0.1371353293709451).
 video('People & Blogs', 'EL7Z UP', 'EL7Z UP(엘즈업) - \'CHEEKY\' MV', 1694682011.0, 0.03583171169140292).
 video('People & Blogs', 'ENHYPEN', 'ENHYPEN (엔하이픈) 2022 LOGO TRAILER', 1655130602.0, 0.27973680215943664).
 video('People & Blogs', 'ENHYPEN', '[Cover] ENHYPEN JUNGWON - I’ll Show You (Choreography: Alexander Chung)', 1666620005.0, 0.3083011464959731).
@@ -17763,9 +18030,9 @@ video('People & Blogs', 'Fabi Santina', 'TOUR PELO NOSSO NOVO APARTAMENTO', 1658
 video('People & Blogs', 'Fabi Santina', 'REFORMA NO APÊ + DIRIGI SOZINHA COM A GIGI PELA PRIMEIRA VEZ', 1659560433.0, 0.10836459259832167).
 video('People & Blogs', 'Fabi Santina', 'PISCINA, COMPRINHAS E SPOILERS DOS PARQUES #REALITYDASSANTINAS EP.2', 1672952407.0, 0.10311972771866863).
 video('People & Blogs', 'Fabi Santina', 'EP.2 - PISCINA, COMPRINHAS E SPOILERS DOS PARQUES #REALITYDASSANTINAS', 1672952407.0, 0.0856431680228242).
-video('People & Blogs', 'Fabi Santina', 'Comprinhas de Enxoval + Perrengues na Viagem e Updates do dente #REALITYDASSANTINAS EP.4', 1673125206.0, 0.09503164872526627).
 video('People & Blogs', 'Fabi Santina', 'EP.4 - COMPRINHAS DE ENXOVAL + PERRENGUES NA VIAGEM E UPDATES DO DENTE #REALITYDASSANTINAS', 1673125206.0, 0.0782981755650566).
 video('People & Blogs', 'Fabi Santina', 'COMPRINHAS DE ENXOVAL + PERRENGUES NA VIAGEM E UPDATES DO DENTE #REALITYDASSANTINAS EP.4', 1673125206.0, 0.09087418151875282).
+video('People & Blogs', 'Fabi Santina', 'Comprinhas de Enxoval + Perrengues na Viagem e Updates do dente #REALITYDASSANTINAS EP.4', 1673125206.0, 0.09503164872526627).
 video('People & Blogs', 'Fabi Santina', 'O vídeo mais difícil da minha vida', 1678276826.0, 0.11018185125180621).
 video('People & Blogs', 'Fabi Santina', 'COMO TEM SIDO OS ÚLTIMOS DIAS...', 1678828099.0, 0.08264678075980629).
 video('People & Blogs', 'Fabia Lopes', 'MAIS UMA INTEGRANTE NA FAMILIA', 1649964267.0, 0.17744123153734137).
@@ -17790,6 +18057,8 @@ video('People & Blogs', 'Fabio Fregona - BACA', 'COMO EU NÃO VI??? LIVRAMENTO D
 video('People & Blogs', 'Fabiola Melo', 'ESSA É A TERCEIRA GRAVIDEZ QUE PERDEMOS… DEUS ERROU?', 1651801506.0, 0.15584616326852016).
 video('People & Blogs', 'Fabiola Melo', 'AINDA QUERO ENGRAVIDAR? FIV, ADOÇÃO E “PROFETADAS”… uma conversa franca', 1684681149.0, 0.13047354864275806).
 video('People & Blogs', 'Fabiola Melo', 'Engravidamos antes de fazer a FIV - Fabiola Melo e Samuel', 1697034480.0, 0.1716884080018255).
+video('People & Blogs', 'Fabiola Melo', 'Eu tenho Trombofilia Rara - Fabiola Melo', 1697466480.0, 0.17616413517632837).
+video('People & Blogs', 'Fabiola Melo', 'Porque descobrimos o S3x0 do bebê antes do “chá revelação” ? 💖💙 - Fabiola Melo', 1698328835.0, 0.1345424944671975).
 video('People & Blogs', 'Família Erlania e Valentina Pontes', 'MEU PRIMEIRO DIA DE AULA NOS ESTADOS UNIDOS - Valentina UniGirl', 1644062412.0, 0.048495506057053536).
 video('People & Blogs', 'Família Erlania e Valentina Pontes', 'O novo ZAP  INVADIU a CASA no DIA do ⚠️ FURACÃO', 1664629206.0, 0.03202719371217119).
 video('People & Blogs', 'Família Gaio - dia a dia rural', 'familia gaio de carro novo', 1696779007.0, 0.12191294691355044).
@@ -17843,8 +18112,8 @@ video('People & Blogs', 'Família X', 'A espera do BEBÊ acabou - T6 Ep.50', 168
 video('People & Blogs', 'Fanatticos👑', 'TAROT REVELOU O ELIMINADO DA VEZ!!!🔮👑💛', 1665644020.0, 0.08082858101308286).
 video('People & Blogs', 'Fanatticos👑', '🚨TAROT REVELOU O ELIMINADO DA VEZ!!!', 1677495752.0, 0.0819218175203137).
 video('People & Blogs', 'Fanatticos👑', '🚨TAROT REVELOU A ELIMINADA DA VEZ!!!', 1678109856.0, 0.07551277644093045).
-video('People & Blogs', 'Faustão na Band', 'Henrique chora ao cantar parceria com Marília Mendonça | FAUSTÃO NA BAND', 1646442146.0, 0.040827618171679354).
 video('People & Blogs', 'Faustão na Band', 'Henrique chora ao cantar parceria com Marília Mendonça', 1646442146.0, 0.04616366962344252).
+video('People & Blogs', 'Faustão na Band', 'Henrique chora ao cantar parceria com Marília Mendonça | FAUSTÃO NA BAND', 1646442146.0, 0.040827618171679354).
 video('People & Blogs', 'Faustão na Band', 'Henrique conta como apresentou Marília para Maiara e Maraisa', 1646442352.0, 0.014533252128637791).
 video('People & Blogs', 'Faustão na Band', 'Henrique conta como apresentou Marília para Maiara e Maraisa | FAUSTÃO NA BAND', 1646442352.0, 0.014467389813982542).
 video('People & Blogs', 'Ferrugem', 'Ferrugem - Interessante (Clipe Oficial)', 1683903607.0, 0.03382634106415495).
@@ -17885,6 +18154,7 @@ video('People & Blogs', 'Flavio e Kairah', 'O NASCIMENTO DO NOSSO FILHO BENÍCIO
 video('People & Blogs', 'Flavio e Kairah', 'PRIMEIRA NOITE NA MATERNIDADE | DIÁRIO DO BÊE | EP.63', 1695391209.0, 0.04684267741151816).
 video('People & Blogs', 'Flavio e Kairah', 'PRIMEIRO BANHO DO BÊE | DIÁRIO DO BÊE | EP.64', 1695736809.0, 0.08042931249098476).
 video('People & Blogs', 'Flow Podcast', 'resposta ao PORTA DOS FUNDOS', 1690846810.0, 0.08676869047480609).
+video('People & Blogs', 'Flow Podcast', 'O FUTURO DO FLOW', 1697500829.0, 0.07511336204856345).
 video('People & Blogs', 'Franciny Ehlke', 'ESSA PORTUGUESA FALOU MAL DAS MINHAS MAKES!!!', 1643210268.0, 0.1426368271316301).
 video('People & Blogs', 'Franciny Ehlke', 'CORTEI O CABELO DA MINHA FÃ! (Dia de transformação)', 1643637604.0, 0.13056204484053618).
 video('People & Blogs', 'Franciny Ehlke', 'FIZ A LIMPA NO MEU GUARDA-ROUPA! *muita coisa*', 1647719269.0, 0.1309104249612086).
@@ -17945,8 +18215,8 @@ video('People & Blogs', 'Gabriely Franciscon', 'ELE VAI SER MINHA SAUDADE DIÁRI
 video('People & Blogs', 'Gabriely Franciscon', 'BUSQUEI MEU CAMINHÃO 0km NA SCANIA! dia inesquecível 🙏🙏', 1671232754.0, 0.06623529654972815).
 video('People & Blogs', 'Gaby MineGirl', 'ESCONDA MEU CELULAR AMIGA #roblox #shorts', 1646920718.0, 0.07884134939417127).
 video('People & Blogs', 'GameofThrones', 'Weeks Ahead Trailer | House of the Dragon (HBO)', 1661133605.0, 0.023869301726373957).
-video('People & Blogs', 'GameofThrones', 'Episode 3 Preview | House of the Dragon (HBO)', 1661738410.0, 0.020973939610565394).
 video('People & Blogs', 'GameofThrones', 'Season 1 Episode 3 Preview | House of the Dragon (HBO)', 1661738410.0, 0.018396704865690876).
+video('People & Blogs', 'GameofThrones', 'Episode 3 Preview | House of the Dragon (HBO)', 1661738410.0, 0.020973939610565394).
 video('People & Blogs', 'GameofThrones', 'Season 1 Episode 4 Preview | House of the Dragon (HBO)', 1662343200.0, 0.01670429720910855).
 video('People & Blogs', 'GameofThrones', 'Season 1 Episode 5 Preview | House of the Dragon (HBO)', 1662948004.0, 0.0186667655380651).
 video('People & Blogs', 'GameofThrones', 'Season 1 Episode 6 Preview | House of the Dragon (HBO)', 1663552812.0, 0.01582987184416171).
@@ -17958,8 +18228,8 @@ video('People & Blogs', 'Gebe', 'CRIEI MOBS Que a Mojang NÃO FEZ', 1686092077.0
 video('People & Blogs', 'Gebe', 'CRIEI MOBS Que a Mojang NÃO FEZ 2', 1688242283.0, 0.026328043624777895).
 video('People & Blogs', 'Gebe', 'Transformei Mobs em Dinossauro', 1690405682.0, 0.026692201431621248).
 video('People & Blogs', 'Gemeas e Vini Camilo', 'GEMEAS', 1648217313.0, 0.05520581969447614).
-video('People & Blogs', 'Gilson Castilho Reflexões de Vida', 'MENSAGEM para o DIA DAS MÃES ❤️ Linda HOMENAGEM -TE AMO MÃE', 1684042024.0, 0.02524781065776522).
 video('People & Blogs', 'Gilson Castilho Reflexões de Vida', 'MENSAGEM PARA AS MÃES ❤️ TE AMO MÃE', 1684042024.0, 0.02471615751194895).
+video('People & Blogs', 'Gilson Castilho Reflexões de Vida', 'MENSAGEM para o DIA DAS MÃES ❤️ Linda HOMENAGEM -TE AMO MÃE', 1684042024.0, 0.02524781065776522).
 video('People & Blogs', 'Gilson Castilho Reflexões de Vida', 'Bom dia MENSAGEM para o DIA DAS MÃES ❤️ Linda HOMENAGEM -TE AMO MÃE', 1684042024.0, 0.02659837582036651).
 video('People & Blogs', 'Ginho da Selva', 'Veja o TESOURO e a PEDRA que ESMAGOU o GINHO', 1649453409.0, 0.052401614683337615).
 video('People & Blogs', 'Girls On Top', 'GOT the beat \'Step Back\' Stage Video', 1641031222.0, 0.09547669783688255).
@@ -17998,6 +18268,7 @@ video('People & Blogs', 'Hoje em Dia', 'A Fazenda 14: Babi deixa sua marca e gan
 video('People & Blogs', 'Hoje em Dia', 'A Grande Conquista: Erick fica chocado ao ver justificativa de Ana Paula na votação', 1686326437.0, 0.032806105047748974).
 video('People & Blogs', 'Hoje em Dia', 'A Grande Conquista: Medrado ouve o que os outros falaram dela e se decepciona com Gabriel', 1688057185.0, 0.027113384532547396).
 video('People & Blogs', 'Hoje em Dia', 'A Fazenda 15: Saída de Cariúcha repercute na sede e pode fazer competidores reverem suas estratégias', 1697214829.0, 0.02816342005018866).
+video('People & Blogs', 'Hoje em Dia', 'Rachel comenta postura de André após sua saída e diz que Simioni é manipuladora', 1698253032.0, 0.032993319858144916).
 video('People & Blogs', 'IVE', 'IVE 아이브 \'After LIKE\' (OUT NOW ver.)', 1661169618.0, 0.09934855700186575).
 video('People & Blogs', 'Iago Lesser', 'O CARRO QUEBROU E OLHA QUEM AJUDOU', 1647194407.0, 0.05569638110184846).
 video('People & Blogs', 'Igão', 'Igão - Jeito Brasileiro 🇧🇷 (Videoclipe Oficial)', 1647550811.0, 0.20984458562869435).
@@ -18064,12 +18335,14 @@ video('People & Blogs', 'Jogo Aberto', 'Briga no Flamengo: Gerson e Varela troca
 video('People & Blogs', 'Jogo Aberto', 'Debate Jogo Aberto: As polêmicas da arbitragem em Corinthians x Grêmio', 1695141554.0, 0.023080057154989873).
 video('People & Blogs', 'Jogo Aberto', 'Debate Jogo Aberto: São Paulo campeão da Copa do Brasil', 1695657578.0, 0.03479264725534158).
 video('People & Blogs', 'Jogo Aberto', 'Cappellanes se fantasia de Renata Fan, provoca e imita a apresentadora chorando por causa do Inter', 1696521288.0, 0.051312907060129476).
+video('People & Blogs', 'Jogo Aberto', 'Debate Jogo Aberto: Palmeiras GOLEIA o São Paulo por 5 a 0 no Brasileirão; comentaristas analisam', 1698336855.0, 0.027744638222303174).
 video('People & Blogs', 'Jota Alison', 'DESCULPA! EU SOU O CHEFE DOS LADROES DO CONTEINER 😭', 1686693632.0, 0.1269885548506392).
 video('People & Blogs', 'JoutJout Prazer', 'ENCERRAMENTO MASSA', 1658581206.0, 0.1911464716119292).
 video('People & Blogs', 'JoutJout Prazer', 'AGRADECIMENTOS FINAIS', 1658667624.0, 0.18901850002841164).
 video('People & Blogs', 'Joyce Kitamura', 'TOUR PELA CASA NOVA DA FAMÍLIA KITAMURA ✨🏡 AGORA SOMOS ZN 🤣🎉', 1644085596.0, 0.12110501726589477).
 video('People & Blogs', 'Joyce Kitamura', 'QUASE TUDO PRONTO ✨ DIARIO DA MUDANÇA - 4 🏡🎉', 1646481356.0, 0.1174240656930901).
 video('People & Blogs', 'Joyce Kitamura', 'TESTEI A BASE POLÊMICA DA VIRGINIA🤣✨ Base Liquida - WE PINK', 1678653798.0, 0.1087620812478954).
+video('People & Blogs', 'João Bosco & Vinícius', 'João Bosco & Vinicius e @maiaramaraisaoficial  - Fim da Noite (DVD JBEV21InConcert)', 1697814005.0, 0.006217769484928119).
 video('People & Blogs', 'João Rezende', 'ESSE VÍDEO FOI LONGE DEMAIS!', 1646258420.0, 0.16685949662295183).
 video('People & Blogs', 'João Rezende', 'Eu e a Ana terminamos…', 1648504805.0, 0.14775197543217972).
 video('People & Blogs', 'João Rezende', 'LIGUEI PARA MINHA EX E FALEI QUE TAVA COM SAUDADE…', 1649282424.0, 0.16521278889694785).
@@ -18117,6 +18390,7 @@ video('People & Blogs', 'Karen Bachini', 'O QUE ACONTECEU COMIGO? - Karen Bachin
 video('People & Blogs', 'Karen Bachini', 'Apenas desculpas - Karen Bachini', 1669744122.0, 0.06739265248266633).
 video('People & Blogs', 'Karen Bachini', 'VIREI UMA FADA WINX - Karen Bachini', 1678652008.0, 0.10441673227846494).
 video('People & Blogs', 'Karen Bachini', 'EU SOU INTERSEXO - Karen Bachini', 1679429152.0, 0.09694442871816439).
+video('People & Blogs', 'Karen Bachini', 'TESTANDO OS PRODUTOS DA BRUNA TAVARES COM A DISNEY - Karen Bachini', 1697580305.0, 0.14733293923805452).
 video('People & Blogs', 'Karen Munhoz', 'A RECEITA QUE NINGUÉM REVELA | O MELHOR BOLO KINDER BUENO | KAREN MUNHOZ', 1646861146.0, 0.13818900647641513).
 video('People & Blogs', 'Karen Munhoz', 'UM DOS BOLOS GELADOS MAIS VENDIDOS | TODOS OS SEGREDOS | BOLO GELADO DE LEITE NINHO | KAREN MUNHOZ', 1653515106.0, 0.06638276801188413).
 video('People & Blogs', 'Karol Gomes', 'DIY| CABECEIRA FEITA COM TELHA ME SURPRENDI COM RESULTADO | FIZ UMA PAREDE DE TIJOLINHO COM ESPUMA', 1674594003.0, 0.09928712708092961).
@@ -18148,8 +18422,8 @@ video('People & Blogs', 'LORENA COUTINHO', 'ESTOU GRAVIDA !!! * Quarta Gestaçã
 video('People & Blogs', 'LORENA COUTINHO', 'VOCÊ VAI SER PAPAI / SURPRESA PARA O MARIDO *Revelando a gravidez*', 1667846808.0, 0.14802377172629952).
 video('People & Blogs', 'LOUD Coringa', 'Tour pelo novo setup! 😜', 1641855612.0, 0.2539584558103077).
 video('People & Blogs', 'LOUD Coringa', 'DE VOLTA COM A PORSCHE? Troquei de carro! 🙌', 1642814499.0, 0.21225574322309615).
-video('People & Blogs', 'LOUD Coringa', 'MOSTREI TUDO! Spoilers do BGC 3 pt.2', 1663192929.0, 0.1597630759963859).
 video('People & Blogs', 'LOUD Coringa', 'MOSTREI TUDO! Spoilers do BGC 3 👀', 1663192929.0, 0.17207695366872142).
+video('People & Blogs', 'LOUD Coringa', 'MOSTREI TUDO! Spoilers do BGC 3 pt.2', 1663192929.0, 0.1597630759963859).
 video('People & Blogs', 'LOUD Coringa', 'O Bills CRESCEU! 🐺 | Malamute do Alasca', 1683595647.0, 0.111610156074229).
 video('People & Blogs', 'LUCCAS NETO', 'PACOTE DE FIGURINHA DOURADO MAIS RARO QUE EXISTE DO ÁLBUM DA COPA', 1668002400.0, 0.04094982004716005).
 video('People & Blogs', 'LUCCAS NETO', 'ABRINDO PACOTE DE FIGURINHA HORIZONTAL !!! LANÇAMENTO RARO EM BUSCA DA BORDA COLORIDA!', 1668267006.0, 0.038167713335796084).
@@ -18331,13 +18605,13 @@ video('People & Blogs', 'Luana Brandão', '#pov quando você completa 16 anos, p
 video('People & Blogs', 'Luana Brandão', '#pov você e sua alma gêmea precisam completar desafios para se conhecerem…#drama #povs', 1646689587.0, 0.08968385736526739).
 video('People & Blogs', 'Luana Brandão', '#pov você precisa responder perguntas para descobrir o nome da sua alma gêmea…#povs #drama', 1647988100.0, 0.0930807714207477).
 video('People & Blogs', 'Luara Fonseca', 'mostrando meu MATERIAL ESCOLAR 2022 ✨', 1643246900.0, 0.11491173262451154).
-video('People & Blogs', 'LubaTV', 'conversas HILÁRIAS do TINDER', 1649887215.0, 0.2014978805112809).
 video('People & Blogs', 'LubaTV', 'conversas HILÁRIAS do TINDER | Quartas-Reddit #72', 1649887215.0, 0.17359796205467473).
+video('People & Blogs', 'LubaTV', 'conversas HILÁRIAS do TINDER', 1649887215.0, 0.2014978805112809).
 video('People & Blogs', 'LubaTV', 'Foi BABACA ou NÃO?!', 1653951840.0, 0.24185100773115253).
 video('People & Blogs', 'LubaTV', 'O PIOR NICE GUYS DE TODOS', 1657985085.0, 0.18298459473716316).
 video('People & Blogs', 'LubaTV', 'O PIOR NICE GUYS DE TODOS | Quartas-Reddit #82', 1657985085.0, 0.1561123016947743).
-video('People & Blogs', 'LubaTV', 'TENTATIVAS QUE NÃO DERAM MUITO CERTO…', 1662675406.0, 0.18736061843402113).
 video('People & Blogs', 'LubaTV', 'TENTATIVAS QUE NÃO DERAM MUITO CERTO… | Quartas-Reddit #88', 1662675406.0, 0.16724849351601928).
+video('People & Blogs', 'LubaTV', 'TENTATIVAS QUE NÃO DERAM MUITO CERTO…', 1662675406.0, 0.18736061843402113).
 video('People & Blogs', 'LubaTV', 'concordâncias maliciosas  | Quartas-Reddit #93', 1666648443.0, 0.18812864993614853).
 video('People & Blogs', 'LubaTV', 'concordâncias maliciosas', 1666648443.0, 0.2032342370241078).
 video('People & Blogs', 'LubaTV', 'você é especial (mas talvez não)', 1673992800.0, 0.16975148997931014).
@@ -18352,6 +18626,7 @@ video('People & Blogs', 'LubaTV', 'julgando babacas BRASILEIROS', 1689026423.0, 
 video('People & Blogs', 'LubaTV', 'carrossel e chiquititas são BRUTAIS', 1689631473.0, 0.21476923076923077).
 video('People & Blogs', 'LubaTV', 'traduções ERRADAS do INGLÊS', 1690841245.0, 0.20688580925922953).
 video('People & Blogs', 'LubaTV', 'ARROMBADAS, VAGAS', 1693864832.0, 0.17713674953409908).
+video('People & Blogs', 'LubaTV', '(des)Influenciadores de Conteúdo', 1697493606.0, 0.20895825321539974).
 video('People & Blogs', 'LubaTV Lives', 'Luba sobre seu TRATAMENTO para TDAH', 1660258810.0, 0.20030254734055486).
 video('People & Blogs', 'LubaTV Lives', 'A Importância de Contar Histórias (Bruno Rataque)', 1676062854.0, 0.18976242958608866).
 video('People & Blogs', 'LubaTV Lives', 'THE IDOL é PIOR do que você IMAGINA | Luba Reage (Seijinho)', 1695656002.0, 0.15023777670350424).
@@ -18501,8 +18776,8 @@ video('People & Blogs', 'Me Poupe!', 'DEU RUIM NA RENDA FIXA! 4 PASSOS PARA RESG
 video('People & Blogs', 'Me poupe!', 'ESTREIA REALITY ME POUPE! 10 cartões de crédito, MAQUININHA e 4 semanas pra sair do buraco! (EP1 T3)', 1641826811.0, 0.14331425529082922).
 video('People & Blogs', 'Me poupe!', 'DESABAFO: TAINÁ vai aguentar a pressão da família?  EP2 Reality Me Poupe!#RealityMePoupe', 1642431615.0, 0.14897502069435653).
 video('People & Blogs', 'Me poupe!', 'R$5MIL de RENDA EXTRA em 1 MÊS! / EP3 Reality Me Poupe!', 1643036411.0, 0.17365495365095007).
-video('People & Blogs', 'Me poupe!', 'Empreendedora com R$250 MIL EM DÍVIDAS! 4 semanas pra sair do buraco! EP5 T3 | Reality Me Poupe!', 1644246011.0, 0.10432892679597458).
 video('People & Blogs', 'Me poupe!', 'Empreendedora com R$250 MIL EM DÍVIDAS! 4 semanas pra sair do buraco! (Ep5 T3) | Reality Me Poupe!', 1644246011.0, 0.1301322384557961).
+video('People & Blogs', 'Me poupe!', 'Empreendedora com R$250 MIL EM DÍVIDAS! 4 semanas pra sair do buraco! EP5 T3 | Reality Me Poupe!', 1644246011.0, 0.10432892679597458).
 video('People & Blogs', 'Me poupe!', 'CASADO e com MESADA aos 29 ANOS! O fim da MAMATA DO LUCAS! | EP9 T3 | Reality Me Poupe!', 1646665214.0, 0.10941859588266345).
 video('People & Blogs', 'Me poupe!', '11 MIL REAIS E 10 TIPOS DE RENDA EXTRA EM 1 MÊS! EP10 T3 | Reality Me Poupe!', 1647270012.0, 0.10855991177700879).
 video('People & Blogs', 'Me poupe!', 'TOP 3 APPS DE RENDA EXTRA! Ganhe dinheiro sem sair de casa', 1647529212.0, 0.1455891588751979).
@@ -18581,6 +18856,7 @@ video('People & Blogs', 'Nathalie Victoria', 'VOU FAZER O EXAME DE SANGU3 PRA SA
 video('People & Blogs', 'Nathalie Victoria', 'BRIGUEI FEIO COM A TITA NA FRENTE DO LÉO!! 🤬', 1692631951.0, 0.08569890469387333).
 video('People & Blogs', 'Nerds de Negócios', 'A NETFLIX VAI FALIR? ENTENDA O QUE ESTÁ ACONTECENDO', 1650662101.0, 0.11226276051781657).
 video('People & Blogs', 'Nerds de Negócios', 'EU VOLTEI PARA OS EUA DE VEZ!', 1657487700.0, 0.18410461300718384).
+video('People & Blogs', 'Nerds de Negócios', 'CANCELAMENTO FAZ EFEITO NAS MARCAS? O BOICOTE FUNCIONA?', 1697405804.0, 0.14312147845935677).
 video('People & Blogs', 'Netto Tomaz', 'PEGADINHA O INTRUSO NO RIO DE JANEIRO', 1644010528.0, 0.05341784365590325).
 video('People & Blogs', 'Netto e Henrique', 'Netto e Henrique - Apaixonado e Alcoolizado - Nosso Sonho', 1647615544.0, 0.026625421200905927).
 video('People & Blogs', 'Netto e Henrique', 'Netto e Henrique e Hugo e Guilherme - Treta - Nosso Sonho', 1654268417.0, 0.0032574447250571688).
@@ -18592,6 +18868,7 @@ video('People & Blogs', 'Nicolas Gomes', 'TECH DECK DE R$1, R$100 ou R$ 1.000 RE
 video('People & Blogs', 'Nicolas Gomes', 'PASSEI A NOITE NA CASA DO ENALDINHO SEM ELE PERCEBER!', 1687817562.0, 0.03165918476042913).
 video('People & Blogs', 'Nicolas Gomes', 'ESCONDE ESCONDE EXTREMO CAMUFLADO!', 1690840807.0, 0.02238497607598196).
 video('People & Blogs', 'Nicolas Gomes', '24 HORAS NO CARRO DE R$1 VS R$1 MILHÃO!', 1694038325.0, 0.020042428827866544).
+video('People & Blogs', 'Nicolas Gomes', '24 HORAS NO CAMINHÃO DE R$1 VS R$1 MILHÃO !!', 1698098424.0, 0.019247189216285744).
 video('People & Blogs', 'Nilson Izaias Papinho Oficial', 'Fim dos videos. Amo todos voces meus amigos,amigas e netinhos queridos.', 1682277144.0, 0.23601465313287034).
 video('People & Blogs', 'Nilson Izaias Papinho Oficial', 'Fim dos videos. Amo todos voces meus amigos,amigas e netinhos queridos.😭', 1682277144.0, 0.20154114941502188).
 video('People & Blogs', 'Nois Pelo Mundo [Oficial]', 'CHEGAMOS EM  SAINT-GEORGES-DE-l\'OYAPOCK A PÉ! CONHEÇA A CIDADE FRANCESA MAIS PRÓXIMA DO BRASIL]', 1644141615.0, 0.05968346860812113).
@@ -18623,6 +18900,7 @@ video('People & Blogs', 'Olga Do Brasil', 'Fui INTERNADA no Brasil | COMO TUDO O
 video('People & Blogs', 'Olga Do Brasil', 'Como eu e meu AMIGO RUSSO piramos nos blocos do CARNAVAL DE RUA', 1677184901.0, 0.14302821934212814).
 video('People & Blogs', 'Olga Do Brasil', 'Decidi ME MUDAR de São Paulo! Para ONDE vou?', 1679938326.0, 0.14307263744349838).
 video('People & Blogs', 'Olga Do Brasil', 'Primeira impressão de FLORIANÓPOLIS (SC) de UMA RUSSA', 1680560629.0, 0.1441624895572264).
+video('People & Blogs', 'Olga Do Brasil', 'A VERDADE do TURISMO DE PARTO de RUSSAS no BRASIL', 1697472010.0, 0.14293675902678482).
 video('People & Blogs', 'Oli Natu', 'QUANDO VOCÊ BRIGA NA ESCOLA', 1641250123.0, 0.1713797328068224).
 video('People & Blogs', 'Oli Natu', 'QUANDO VOCÊ SUJA A CASA', 1641345965.0, 0.13707992203825525).
 video('People & Blogs', 'Oli Natu', 'QUANDO TEM CHURRASCO EM FAMILIA', 1641600563.0, 0.1456220687169838).
@@ -18682,8 +18960,8 @@ video('People & Blogs', 'POD DELAS', 'POD ENTRAR - Tour pela cobertura de + de 4
 video('People & Blogs', 'POD DELAS', 'POD ENTRAR - Tour pela casa e closet milionário de Flávia Pavanelli com Lucas Rangel', 1686582005.0, 0.07293770531936625).
 video('People & Blogs', 'POD DELAS', 'POD ENTRAR - Tour pela casa e closet milionário de Flávia Pavanelli', 1686582005.0, 0.08092488633126074).
 video('People & Blogs', 'POD DELAS', 'PodEntrar - Tour pela cobertura de Vihtube e Eliezer com Lucas Rangel', 1687791626.0, 0.08877785105740499).
-video('People & Blogs', 'POD DELAS', 'PodEntrar - TOUR PELA CASA DE 5 ANDARES DE MC DON JUAN com Lucas Rangel', 1689174031.0, 0.09351512869248613).
 video('People & Blogs', 'POD DELAS', 'POD ENTRAR -  - TOUR PELA CASA DE 5 ANDARES DE MC DON JUAN com Lucas Rangel', 1689174031.0, 0.08575896825811849).
+video('People & Blogs', 'POD DELAS', 'PodEntrar - TOUR PELA CASA DE 5 ANDARES DE MC DON JUAN com Lucas Rangel', 1689174031.0, 0.09351512869248613).
 video('People & Blogs', 'POD DELAS', 'POD ENTRAR -  - Tour pela casa de 5 andares de Mc DON JUAN com Lucas Rangel', 1689174031.0, 0.07544552622768941).
 video('People & Blogs', 'POD DELAS', 'POD ENTRAR - Tour inédito pelo duplex de Fred Desimpedidos com Lucas Rangel', 1689606037.0, 0.08551057898115448).
 video('People & Blogs', 'POD DELAS', 'MaterniDelas - Thaila Ayala com Tata e Viih Tube', 1691161202.0, 0.09285774093611321).
@@ -18695,6 +18973,7 @@ video('People & Blogs', 'POD DELAS', 'POD ENTRAR - Tour pelo apartamento super t
 video('People & Blogs', 'POD DELAS', 'POD ENTRAR - Tour pela nova mansão do Mc Daniel com Lucas Rangel', 1695049224.0, 0.07171207055978376).
 video('People & Blogs', 'POD DELAS', 'POD ENTRAR - Tour pela casa e closet excêntrico de Gkay com Lucas Rangel', 1695654027.0, 0.061636179408685064).
 video('People & Blogs', 'POD DELAS', 'POD ENTRAR - Tour pelo apartamento de luxo de Enaldinho com Lucas Rangel', 1696258840.0, 0.05694959748913671).
+video('People & Blogs', 'POD DELAS', 'MaterniDelas - Eliezer e Júlio Cocielo com Tata e Viih Tube', 1697814023.0, 0.0794570560442882).
 video('People & Blogs', 'Painzeiro', 'EXPULSAMOS ELA DE CASA', 1645480995.0, 0.04626551670749811).
 video('People & Blogs', 'Painzeiro', 'MINI PAINZEIRO ME TROLOU!', 1646086639.0, 0.041745345974750124).
 video('People & Blogs', 'Painzeiro', 'ESPIONEI O ENALDINHO!', 1652306950.0, 0.08472291938560385).
@@ -18716,8 +18995,8 @@ video('People & Blogs', 'Painzeiro', 'ULTIMO A SAIR DO CARRO GANHA $10,000!', 16
 video('People & Blogs', 'Panda Espacial', 'ALGUMAS CENAS DE POPPY PLAYTIME NO MINECRAFT NOVAMENTE', 1655232300.0, 0.024723835575730675).
 video('People & Blogs', 'Panda Espacial', 'ALGUMAS CENAS DE POPPY NO MINECRAFT NOVAMENTE', 1655232300.0, 0.02439339595585502).
 video('People & Blogs', 'Panda Espacial', 'RECRIEI CENAS DE POPPY PLAYTIME NO MINECRAFT NOVAMENTE', 1655232300.0, 0.029993069749896923).
-video('People & Blogs', 'Panda Espacial', 'EU CRIEI MOBS EVOLUÍDOS NO MINECRAFT', 1656948605.0, 0.06741474333530709).
 video('People & Blogs', 'Panda Espacial', 'EU CRIEI A VERSÃO 2.0 DOS MOBS NO MINECRAFT', 1656948605.0, 0.05581543405951785).
+video('People & Blogs', 'Panda Espacial', 'EU CRIEI MOBS EVOLUÍDOS NO MINECRAFT', 1656948605.0, 0.06741474333530709).
 video('People & Blogs', 'Panda Espacial', 'EU CRIEI MOBS EVOLUÍDOS NO MINECRAFT NOVAMENTE', 1657651501.0, 0.05003045976325).
 video('People & Blogs', 'Panda Espacial', 'CRIEI MINHA PRÓPRIA ATUALIZAÇÃO DO MINECRAFT', 1658067303.0, 0.08097188511326861).
 video('People & Blogs', 'Panda Espacial', 'EU CRIEI MOBS EVOLUÍDOS NO MINECRAFT OUTRA VEZ', 1658860224.0, 0.04933041616947266).
@@ -18731,16 +19010,16 @@ video('People & Blogs', 'Panda Espacial', 'DEIXEI OS MOBS MAIS ASSUSTADORES NO M
 video('People & Blogs', 'Panda Espacial', 'EU DEIXEI OS MOBS MAIS ASSUSTADORES NO MINECRAFT', 1667656805.0, 0.06570616000579886).
 video('People & Blogs', 'Panda Espacial', 'TRANSFORMEI OS MOBS EM BOSSES NO MINECRAFT', 1668807537.0, 0.06489035938630619).
 video('People & Blogs', 'Panda Espacial', 'TRANSFORMEI OS MOBS EM ROBLOX', 1670079001.0, 0.035207045710552706).
-video('People & Blogs', 'Panda Espacial', 'CRIEI UMA NOVA DIMENSÃO NO VOID DO MINECRAFT', 1671400666.0, 0.06624650501902186).
 video('People & Blogs', 'Panda Espacial', 'CRIEI NOVOS MOBS E UMA DIMENSÃO NO MINECRAFT', 1671400666.0, 0.05904024383223809).
-video('People & Blogs', 'Panda Espacial', 'DEI VIDA PARA AS ESTRUTURAS DO MINECRAFT', 1673300061.0, 0.03660732750708143).
+video('People & Blogs', 'Panda Espacial', 'CRIEI UMA NOVA DIMENSÃO NO VOID DO MINECRAFT', 1671400666.0, 0.06624650501902186).
 video('People & Blogs', 'Panda Espacial', 'DEI VIDA PARA TODAS ESTRUTURAS DO MINECRAFT', 1673300061.0, 0.0587206598871884).
+video('People & Blogs', 'Panda Espacial', 'DEI VIDA PARA AS ESTRUTURAS DO MINECRAFT', 1673300061.0, 0.03660732750708143).
 video('People & Blogs', 'Panda Espacial', 'TRANSFORMEI AS ESTRUTURAS DO MINECRAFT EM BOSSES', 1673300061.0, 0.03999987345816685).
 video('People & Blogs', 'Panda Espacial', 'TRANSFORMEI OS MOBS EM ENTIDADES', 1673966128.0, 0.07475484368015066).
-video('People & Blogs', 'Panda Espacial', 'TROLEI MEU AMIGO EM UMA BATALHA DE MOBS NO MINECRAFT', 1675091334.0, 0.06761096046810333).
-video('People & Blogs', 'Panda Espacial', 'TROLEI MEU AMIGO EM UMA BATALHA DE BOSSES NO MINECRAFT', 1675091334.0, 0.08951040984306913).
 video('People & Blogs', 'Panda Espacial', 'TROLEI UM YOUTUBER EM UMA BATALHA DE MOBS NO MINECRAFT', 1675091334.0, 0.0681295375742002).
+video('People & Blogs', 'Panda Espacial', 'TROLEI MEU AMIGO EM UMA BATALHA DE MOBS NO MINECRAFT', 1675091334.0, 0.06761096046810333).
 video('People & Blogs', 'Panda Espacial', 'TROLEI UM YOUTUBER EM UMA BATALHA DE BOSSES NO MINECRAFT', 1675091334.0, 0.06866911941847773).
+video('People & Blogs', 'Panda Espacial', 'TROLEI MEU AMIGO EM UMA BATALHA DE BOSSES NO MINECRAFT', 1675091334.0, 0.08951040984306913).
 video('People & Blogs', 'Panda Espacial', 'DEIXEI O MINECRAFT MAIS FOFO', 1675715337.0, 0.05199194007463563).
 video('People & Blogs', 'Panda Espacial', 'TRANSFORMEI AS ESTRUTURAS DO MINECRAFT EM BOSSES NOVAMENTE', 1676731834.0, 0.058815605031767124).
 video('People & Blogs', 'Panda Espacial', 'RECRIEI GARTEN OF BANBAN 2 NO MINECRAFT', 1679948103.0, 0.02829118470264781).
@@ -18834,6 +19113,7 @@ video('People & Blogs', 'Ramon Dino Pro', 'TUDO QUE ROLOU NA PESAGEM DO OLYMPIA 
 video('People & Blogs', 'Ramon Dino Pro', 'UM DIA ANTES DA COMPETIÇÃO | CHEGOU A HORA', 1671274298.0, 0.10630413429770515).
 video('People & Blogs', 'Ramon Dino Pro', 'CHRIS ACETO FICOU IMPRESSIONADO COM O FISICO DO RAMON', 1677593522.0, 0.11357288418091971).
 video('People & Blogs', 'Ramon Dino Pro', 'É MUITO PESO MANO!! RAMON BUGOU PACHO E RENAN 4FIT!!', 1693956601.0, 0.09300421432871764).
+video('People & Blogs', 'Ramon Dino Pro', 'CANSEI DE ESCONDER O SHAPE!', 1698188895.0, 0.14949766334692735).
 video('People & Blogs', 'Ratinho locutor', 'informação sobre a disputa profissional no parque Rufina borba', 1692617066.0, 0.037201102420191694).
 video('People & Blogs', 'Rayza Nicácio', 'O VÍDEO MAIS IMPORTANTE DESSE CANAL #maiolaranja', 1652907606.0, 0.15187852494577006).
 video('People & Blogs', 'Rayza Nicácio', 'ESTOU DE MUDANÇA! E MAIS UMA NOVIDADE...', 1656975724.0, 0.10967712162931287).
@@ -18914,8 +19194,8 @@ video('People & Blogs', 'Simone Mendes', 'CANTEI SOZINHA E DESABEI | Show no CTN
 video('People & Blogs', 'Simone Mendes', 'Simone Mendes - ERRO GOSTOSO | Guia', 1668985205.0, 0.1255808807258243).
 video('People & Blogs', 'Simone Mendes', 'DECORAÇÃO ESPECIAL  | Surpresa de natal | Parte 2', 1671404430.0, 0.08952090492255309).
 video('People & Blogs', 'Simone Mendes', 'NUNCA DIGA NUNCA | Simone responde | Parte 1', 1673823630.0, 0.09535721568894025).
-video('People & Blogs', 'Simone Mendes', 'Simone Mendes - ERRO GOSTOSO (DVD CINTILANTE)', 1674828033.0, 0.031135911642798206).
 video('People & Blogs', 'Simone Mendes', 'Simone Mendes - Erro Gostoso (DVD Cintilante)', 1674828033.0, 0.03673243022969825).
+video('People & Blogs', 'Simone Mendes', 'Simone Mendes - ERRO GOSTOSO (DVD CINTILANTE)', 1674828033.0, 0.031135911642798206).
 video('People & Blogs', 'Simone Mendes', 'ABRINDO PRESENTES DE ANIVERSÁRIO DA ZAYA | Simone Mendes', 1677798005.0, 0.036041954906977286).
 video('People & Blogs', 'Simone Mendes', 'ANIVERSÁRIO SURPRESA | Simone Mendes', 1685919606.0, 0.02530596323565264).
 video('People & Blogs', 'Simone Mendes', 'ANIVERSÁRIO DO KAKÁ + PRESENTE SURPRESA | Simone Mendes', 1694984430.0, 0.011466981713848011).
@@ -18958,8 +19238,8 @@ video('People & Blogs', 'Sthefane Matos', 'DIA DE FAXINA NA MANSÃO 😳', 16659
 video('People & Blogs', 'Stray Kids', 'Stray Kids MANIAC (Feat. STAY) Guide Video', 1647579601.0, 0.29000420937725674).
 video('People & Blogs', 'Stray Kids', 'Stray Kids 거미줄 Video', 1647961202.0, 0.2524380994903615).
 video('People & Blogs', 'Stray Kids', 'Stray Kids Lonely St. Video', 1648306821.0, 0.273882418519801).
-video('People & Blogs', 'Stray Kids', 'Stray Kids 땡(FREEZE) Video', 1648393197.0, 0.18571447044985842).
 video('People & Blogs', 'Stray Kids', 'Stray Kids 땡 Video', 1648393197.0, 0.2571352998134284).
+video('People & Blogs', 'Stray Kids', 'Stray Kids 땡(FREEZE) Video', 1648393197.0, 0.18571447044985842).
 video('People & Blogs', 'Stray Kids', 'Stray Kids SUPER BOARD Video', 1666004403.0, 0.25588023811426036).
 video('People & Blogs', 'Stray Kids', 'Stray Kids 땡(FREEZE) Dance Practice Video', 1676372407.0, 0.24649602742127477).
 video('People & Blogs', 'Stray Kids', 'Stray Kids “특 (S-Class)” Dance Practice Video', 1685966397.0, 0.20807123758440996).
@@ -19054,6 +19334,7 @@ video('People & Blogs', 'Tito Melo', 'na garrafinha de vidro! #Short', 164815201
 video('People & Blogs', 'Tito Melo', '7 novos EMOJIS! #Shorts', 1648220430.0, 0.09100357276757162).
 video('People & Blogs', 'Toguro', 'CEROL FOI NA QUEBRADA DE LARBORGHINI', 1684270410.0, 0.0711694196531084).
 video('People & Blogs', 'Tony lario', 'Seguro de 1 Milhão de reais', 1647874990.0, 0.06548320016090992).
+video('People & Blogs', 'Tour da Beleza', 'NOVIDADE EUDORA Linha NIINA SECRETS Final | PÓ SOLTO , PINCEL , BLUSH MOSAICO E MAIS', 1697413975.0, 0.16387139911963003).
 video('People & Blogs', 'Triz Pariz', 'ADOTEI UMA GATINHA!', 1644267610.0, 0.3037001633010714).
 video('People & Blogs', 'Trocadiilha', 'SÓ QUEM ASSISTIU ESSE DESENHO VAI ENTENDER ESSA PIADA - VIRAL', 1641072443.0, 0.03519982171196261).
 video('People & Blogs', 'Trocadiilha', 'E SE OS PAÍSES FOSSEM PESSOAS DE VERDADE - VIRAL', 1646688931.0, 0.0718312699470417).
@@ -19086,6 +19367,7 @@ video('People & Blogs', 'Vanessa Lino', 'Como descobri que estou grávida do nos
 video('People & Blogs', 'Vanessa Lino', 'Finalmente a obra na casa começou! Atualizações da casa e da vida ✨', 1683298814.0, 0.13984701168427247).
 video('People & Blogs', 'Vanessa Lino', 'Chá de bebê surpresa, compras para mala maternidade, treino e rotina em família', 1687359622.0, 0.14396196150320806).
 video('People & Blogs', 'Vanessa Lino', 'Nosso segundo filho nasceu, maternidade e chegando em casa | VLOGSTORIES', 1692802815.0, 0.1160917974735265).
+video('People & Blogs', 'Vanessa Lino', 'Atualizações da casa nova e precisamos falar sobre corpo pós-parto', 1698246024.0, 0.14293304994686504).
 video('People & Blogs', 'Vanessa Lopes', 'CHEGAMOS EM MIAMI E FOMOS DIRETO ÀS COMPRAS!', 1643153706.0, 0.09686724825106609).
 video('People & Blogs', 'Vanessa Lopes', 'FUI NO CHÁ DE BEBE DA MINHA AMIGA NOS ESTADOS UNIDOS E ACERTEI SE VAI SER MENINO OU MENINA!', 1643814027.0, 0.07116974560163294).
 video('People & Blogs', 'Vanessa Lopes', 'EXPLICANDO MINHA “NOVA VOZ” PARA VOCÊS!', 1681422925.0, 0.04740224959828602).
@@ -19103,6 +19385,7 @@ video('People & Blogs', 'Via Infinda', 'O Colapso Da Argentina - Dentro de um pa
 video('People & Blogs', 'Via Infinda', '7 Dias Dentro da Floresta Amazônica - Parte 1', 1676844893.0, 0.1142676147099621).
 video('People & Blogs', 'Via Infinda', '7 Dias Dentro da Floresta Amazônica - Parte 2', 1677431986.0, 0.10824930812922283).
 video('People & Blogs', 'Via Infinda', 'Portugal - O novo estado do Brasil', 1684683979.0, 0.08800841132696309).
+video('People & Blogs', 'Via Infinda', 'Suíça - O País Simplesmente Perfeito.', 1698074393.0, 0.08799301857977629).
 video('People & Blogs', 'Vibe de Dois', 'A isolada vida nas montanhas do Chile', 1653429632.0, 0.10786243088745197).
 video('People & Blogs', 'Vibe de Dois', 'Esse é o fim', 1654466411.0, 0.12447301051255515).
 video('People & Blogs', 'Vibe de Dois', 'Vivendo no carro sob forte chuva', 1654725621.0, 0.12059134758622107).
@@ -19179,8 +19462,8 @@ video('People & Blogs', 'Virgínia Fonseca', 'ARRUME-SE COMIGO PARA O CASAMENTO 
 video('People & Blogs', 'Virgínia Fonseca', 'FIZEMOS UMA SURPRESA DE DIA DOS PAIS PARA O ZÉ FELIPE!!', 1691964827.0, 0.08632744974923064).
 video('People & Blogs', 'Virgínia Fonseca', 'ESCOLHENDO OS ELETRODOMÉSTICOS DA CASA NOVA!!!', 1695940900.0, 0.06847269030443139).
 video('People & Blogs', 'Virgínia Fonseca', 'MOSTREI O CONVITE DE 1 ANO DA MARIA FLOR!!', 1696286001.0, 0.04973931127642723).
-video('People & Blogs', 'Virgínia Fonseca', 'MOSTREI COMO VAI FICAR A CASA NOVA!! (PROJETO FINAL)', 1696374030.0, 0.05689375849264595).
 video('People & Blogs', 'Virgínia Fonseca', 'MOSTREI COMO VAI FICAR O QUARTO DA MARIA FLOR NA CASA NOVA!!!', 1696374030.0, 0.055307024146756145).
+video('People & Blogs', 'Virgínia Fonseca', 'MOSTREI COMO VAI FICAR A CASA NOVA!! (PROJETO FINAL)', 1696374030.0, 0.05689375849264595).
 video('People & Blogs', 'Vitinho é Massa', 'PARA QUER MOTO ? SE EU TENHO UMA BIKE 🚲', 1647312421.0, 0.07490360139125748).
 video('People & Blogs', 'Vitória Martinello', 'Como tudo começou… ♡︎', 1686594424.0, 0.13935252251684827).
 video('People & Blogs', 'Vivi', 'VIVI - PLAYGROUND  (Clipe Oficial)', 1670712220.0, 0.13942290074097963).
@@ -19290,8 +19573,8 @@ video('Pets & Animals', 'Calopsita Autodromo Interlagos', 'Malvadão tirou sangu
 video('Pets & Animals', 'Dr. Plants Brasil', 'Minhas Lagartixas Não Param de se Clonar...', 1695470358.0, 0.0766261380825984).
 video('Pets & Animals', 'Gudan, o Husky', 'CACHORRO COME OVO? | #Shorts', 1644871011.0, 0.1234643033737781).
 video('Pets & Animals', 'Gudan, o Husky', 'GUDAN TENTA CONVERSAR COM SUA AMIGA! | #Shorts', 1646406012.0, 0.11970979443772672).
-video('Pets & Animals', 'Júlio e Eu', 'JÚLIO SE MACHUCOU !! 😰', 1651107212.0, 0.25830988794629167).
 video('Pets & Animals', 'Júlio e Eu', 'Imaginem o mine infarto que tive 🙆🏻‍♂️😰😰😰😰', 1651107212.0, 0.2495371433316887).
+video('Pets & Animals', 'Júlio e Eu', 'JÚLIO SE MACHUCOU !! 😰', 1651107212.0, 0.25830988794629167).
 video('Pets & Animals', 'Júlio e Eu', 'O veterinário que foi salvo de uma forma inesperada! 😨', 1661304405.0, 0.26264998753124436).
 video('Pets & Animals', 'Lucas Stars Show', 'EU VOU CHAMA 🤣 #shorts', 1647528169.0, 0.09807661419852233).
 video('Pets & Animals', 'Pequenos Príncipes', '#shorts O ansioso que não aguenta esperar para dar o presente', 1641848425.0, 0.09691787018018114).
@@ -19330,8 +19613,8 @@ video('Science & Technology', 'Aviões e Músicas', 'Flagrante de Pane de Motor 
 video('Science & Technology', 'Aviões e Músicas', 'LUFTHANSA 527, o Acidente Após Decolar do Galeão EP. 907', 1644764431.0, 0.14626344867694097).
 video('Science & Technology', 'Aviões e Músicas', 'LUFTHANSA 527, o Acidente Após Decolar do Galeão | EP. 907', 1644764431.0, 0.12685514458906913).
 video('Science & Technology', 'Aviões e Músicas', 'Antonov AN-225 MRIYA | A História Completa | EP. 919', 1646319522.0, 0.1263604165495438).
-video('Science & Technology', 'Aviões e Músicas', 'TAM 3054 A Maior Tragédia da Aviação Brasileira EP. 931', 1647794550.0, 0.13771952183944106).
 video('Science & Technology', 'Aviões e Músicas', 'TAM 3054 A Maior Tragédia da Aviação Brasileira | EP. 931', 1647794550.0, 0.12157721325155063).
+video('Science & Technology', 'Aviões e Músicas', 'TAM 3054 A Maior Tragédia da Aviação Brasileira EP. 931', 1647794550.0, 0.13771952183944106).
 video('Science & Technology', 'Aviões e Músicas', 'Jatinho sai da pista em Congonhas | #LiveExtra', 1665432842.0, 0.11539346328030847).
 video('Science & Technology', 'Aviões e Músicas', 'Tempestade DESTRÓI avião | #LiveExtra', 1666897314.0, 0.134480770814461).
 video('Science & Technology', 'Aviões e Músicas', 'Dois aviões COLIDEM no ar #liveextra', 1668453103.0, 0.09281181839374847).
@@ -19351,16 +19634,17 @@ video('Science & Technology', 'Ciência Todo Dia', 'Como um MOTOR DE DOBRA Funci
 video('Science & Technology', 'Ciência Todo Dia', 'A Hipótese da Floresta Negra', 1680790332.0, 0.16318203608472065).
 video('Science & Technology', 'Ciência Todo Dia', 'Uma Breve História do Estoicismo', 1684785613.0, 0.1548363786518014).
 video('Science & Technology', 'Ciência Todo Dia', 'O número MAIS MISTERIOSO do UNIVERSO', 1692648008.0, 0.13417585784313726).
+video('Science & Technology', 'Ciência Todo Dia', 'NÃO assista esse vídeo ACELERADO', 1697486408.0, 0.1823656652360515).
 video('Science & Technology', 'Clube Ligados', 'GOLAÇO DO E.T DE BICICLETA | NEYMAR DESTRÓI E SAI COMO MELHOR EM CAMPO E AINDA VÊ MESSI FAZER GOLAÇO', 1659819380.0, 0.03227494064147451).
 video('Science & Technology', 'Clube Ligados', 'DE VILÃO A HERÓI | PARAGUAIO COMETE PÊNALTI MAS SE REDIMI E MARCA SEU 1° GOL DESDE A SUA VOLTA', 1659830396.0, 0.008807569601614267).
 video('Science & Technology', 'Coisa de Nerd', 'O SMARTPHONE DO ANO? - S22 Ultra e S22 Plus', 1645135212.0, 0.14835245660488378).
 video('Science & Technology', 'Coisa de Nerd', 'Steam Deck (unboxing)', 1646435972.0, 0.15498403928572696).
 video('Science & Technology', 'Coisa de Nerd', 'Como Baixar Jogos de Graça!', 1647036538.0, 0.14849199616359596).
-video('Science & Technology', 'Coisa de Nerd', 'Nosso setup de Live ficou sensacional!', 1649375593.0, 0.15964835730788765).
 video('Science & Technology', 'Coisa de Nerd', 'Nosso novo setup de Live ficou sensacional!', 1649375593.0, 0.16948728487946102).
+video('Science & Technology', 'Coisa de Nerd', 'Nosso setup de Live ficou sensacional!', 1649375593.0, 0.15964835730788765).
 video('Science & Technology', 'Coisa de Nerd', 'Explicando pra ela o meu NOVO AMOR! - Steam Deck', 1651878926.0, 0.15619932183399676).
-video('Science & Technology', 'Coisa de Nerd', 'Eu fiz a gambiarra! - GAGA (Ep. 60)', 1658015397.0, 0.1589520739965927).
 video('Science & Technology', 'Coisa de Nerd', 'Eu fiz uma Gambiarra! - GAGA (Ep. 60)', 1658015397.0, 0.13790974098638062).
+video('Science & Technology', 'Coisa de Nerd', 'Eu fiz a gambiarra! - GAGA (Ep. 60)', 1658015397.0, 0.1589520739965927).
 video('Science & Technology', 'Coisa de Nerd', 'AGORA A NASA VEM! - Galaxy Z Flip4 | Z Fold4 5G', 1660140830.0, 0.15350274905953226).
 video('Science & Technology', 'Coisa de Nerd', 'AGORA A NASA VEM!!! - Galaxy Z Flip4 | Z Fold4 5G', 1660140830.0, 0.18580336096114364).
 video('Science & Technology', 'Coisa de Nerd', 'Os Novos Celulares Dobráveis! - Galaxy Z Flip4 | Z Fold4 5G', 1660140830.0, 0.1708772627809827).
@@ -19383,6 +19667,8 @@ video('Science & Technology', 'Cortes do Manual do Mundo', 'IMPLOSÃO FORA da Á
 video('Science & Technology', 'Cymye', 'Xiaomi 12s Ultra - ESPETACULAR!! Snapdragon 8+ Gen 1', 1656959903.0, 0.11934489267166086).
 video('Science & Technology', 'DEIXO A DICA | Alex Bassani', 'Como usar o THREADS do Instagram - O novo Aplicativo Meta, o concorrente do Twitter', 1688610673.0, 0.036220255834212095).
 video('Science & Technology', 'Daniel About Tech Brasil', 'iOS 16 - Assista a esse Vídeo ANTES de Atualizar!', 1662987630.0, 0.08645504486812995).
+video('Science & Technology', 'Drauzio Varella', 'Tirar uma soneca durante o dia é bom para o cérebro?', 1697580032.0, 0.058396978800931455).
+video('Science & Technology', 'Drauzio Varella', '8 hábitos que podem aumentar a longevidade e a qualidade de vida', 1698098413.0, 0.0277686784772604).
 video('Science & Technology', 'Emilly Vick', '24 HORAS COMENDO COMIDA BRANCA VS COMIDA PRETA *desafio de casal', 1693333802.0, 0.020343548214476828).
 video('Science & Technology', 'Emilly Vick', 'VIREI MÃE POR 24 HORAS *perdi minha filha?', 1693840320.0, 0.023880910566828402).
 video('Science & Technology', 'Emilly Vick', 'ÚLTIMO A SAIR DA BARRACA GANHA *passamos mal?', 1694106720.0, 0.0).
@@ -19400,6 +19686,10 @@ video('Science & Technology', 'Emilly Vick', 'ARRUMANDO A MINHA MALA PARA O PART
 video('Science & Technology', 'Emilly Vick', 'O DAVI NASCEU *mostramos tudo', 1696792020.0, 0.0).
 video('Science & Technology', 'Emilly Vick', 'VIDA REAL x BALAS FINI *muito nojento', 1696864860.0, 0.0).
 video('Science & Technology', 'Emilly Vick', 'DESAFIO EXTREMO DO PAUSE *muito difícil', 1697296860.0, 0.0).
+video('Science & Technology', 'Emilly Vick', 'DESAFIO EXTREMO DO PLADAR *muito nojento', 1697386380.0, 0.0).
+video('Science & Technology', 'Emilly Vick', 'DESAFIO EXTREMO DO PALADAR *muito nojento', 1697386380.0, 0.0).
+video('Science & Technology', 'Emilly Vick', 'TROQUEI DE PERSONALIDADE COM MINHA MÃE POR 24 HORAS *aguentei?', 1697469660.0, 0.0).
+video('Science & Technology', 'Emilly Vick', 'VIREI UM BEBÊ POR 24 HORAS *deu ruim', 1697649240.0, 0.0).
 video('Science & Technology', 'EscolhaSegura', 'GALAXY S23 ULTRA e S23+ HANDS-ON! // minha 🔥OPINIÃO SINCERA sobre os LANÇAMENTOS!', 1675286532.0, 0.08195784208645945).
 video('Science & Technology', 'EscolhaSegura', 'UMA DECEPÇÃO?🔥Novos IPHONE 15 e 15 PRO! // RESUMO do LANÇAMENTO e OPINIÃO SINCERA!', 1694561432.0, 0.11279890239121913).
 video('Science & Technology', 'EscolhaSegura', 'ME DESAPONTOU?!🔥NOVOS IPHONE 15 e 15 PRO! // RESUMO do LANÇAMENTO e OPINIÃO', 1694561432.0, 0.08865067211162157).
@@ -19512,6 +19802,7 @@ video('Science & Technology', 'Samsung', 'Samsung Galaxy Unpacked February 2023:
 video('Science & Technology', 'Samsung', 'Samsung Galaxy Unpacked July 2023: Official Replay', 1690374576.0, 0.0).
 video('Science & Technology', 'Samsung Brasil', 'Essa magia Só a Samsung tem', 1665768685.0, 2.3294373343435988e-05).
 video('Science & Technology', 'TecMundo', 'Como fazer o RG único e a Carteira de Identidade Digital via app – Assistência Tec #041', 1647525621.0, 0.04516420949436296).
+video('Science & Technology', 'TecnoArt', 'PC GAMER DO ALIEXPRESS JÁ ERA!? RESUMO DO REMESSA CONFORME (E O QUE VALE A PENA COMPRAR LÁ!)', 1697480102.0, 0.09375799670992506).
 video('Science & Technology', 'Top! Tech', 'Celular que os BILIONÁRIOS USAM!!! #Shorts #shorts', 1648738819.0, 0.09153504880212955).
 video('Science & Technology', 'TukEmperial', 'Chegou o iPhone XR de 1.300 REAIS do AliExpress *LACRADO*', 1657029549.0, 0.13301671954376473).
 video('Science & Technology', 'TukEmperial', 'LANÇOU! 4 novos iPhone 14! 14 PRO com novo NOTCH interativo!', 1662581788.0, 0.07046404133782774).
@@ -19538,8 +19829,8 @@ video('Sports', 'Ag. Fight', '[EXCLUSIVO]: Alex Poatan detalha sua relação com
 video('Sports', 'AlexPoatanPereira', 'FIRST STATEMENT AFTER MY FIGHT I Alex Poatan Pereira I UFC287', 1681185119.0, 0.048400938479501145).
 video('Sports', 'All Elite Wrestling', 'Rated R Superstar Adam Copeland has arrived at ALL ELITE WRESTLING! | AEW WrestleDream 10/1/23', 1696221011.0, 0.03838180732382913).
 video('Sports', 'América de Natal', 'GOLS | PRÉ-COPA DO NORDESTE 2023 | AMÉRICA 5 X 0 MOTO CLUB (05/01/2023)', 1672968037.0, 0.02640557355428768).
-video('Sports', 'André Hernan', 'BASTIDORES DA ACADEMIA DE FUTEBOL DO PALMEIRAS', 1655560800.0, 0.09588015540201067).
 video('Sports', 'André Hernan', 'ESPECIAL! BASTIDORES DA ACADEMIA DE FUTEBOL DO PALMEIRAS', 1655560800.0, 0.12933002091756907).
+video('Sports', 'André Hernan', 'BASTIDORES DA ACADEMIA DE FUTEBOL DO PALMEIRAS', 1655560800.0, 0.09588015540201067).
 video('Sports', 'André Hernan', 'GIULIANO GALOPPO ESTÁ COM MORAL NO SÃO PAULO', 1662745973.0, 0.10001596308174548).
 video('Sports', 'André Hernan', 'BASTIDORES DA CLASSIFICAÇÃO DO CORINTHIANS NA COPA DO BRASIL - O QUE VOCÊ NÃO VIU NA TRANSMISSÃO', 1663332192.0, 0.0982687679527987).
 video('Sports', 'André Hernan', 'RUMO A CÓRDOBA - TORCIDA DO SÃO PAULO PROMETE INVADIR FINAL SUL-AMERICANA', 1663764896.0, 0.09262926847728735).
@@ -19585,6 +19876,7 @@ video('Sports', 'BAROLO VÍDEOS', 'SÃO PAULO 0X2 PALMEIRAS - PÓS-JOGO COM ANÁ
 video('Sports', 'BAROLO VÍDEOS', 'SAN LORENZO 1X0 SÃO PAULO - PÓS-JOGO COM ANÁLISE E NOTAS - CONMEBOL SUDAMERICANA 2023', 1691108688.0, 0.1460230956865409).
 video('Sports', 'BAROLO VÍDEOS', 'SÃO PAULO 2X0 CORINTHIANS - ANÁLISE E NOTAS - COPA DO BRASIL 2023', 1692235814.0, 0.19158919342444286).
 video('Sports', 'BAROLO VÍDEOS', 'SÃO PAULO 1X1 FLAMENGO - CAMPEÃO DA COPA DO BRASIL - ANÁLISE E NOTAS DO BAROLO', 1695599852.0, 0.22373427362116685).
+video('Sports', 'BAROLO VÍDEOS', 'VERGONHA HISTÓRICA (mais uma!) PALMEIRAS 5X0 SÃO PAULO - CAMPEONATO BRASILEIRO 2023', 1698282910.0, 0.09813565558690053).
 video('Sports', 'BOLA NA REDE', 'Grêmio x Botafogo | Melhores Momentos | Brasileirão 2023', 1688941228.0, 0.010752010373798953).
 video('Sports', 'BOLA NA REDE', 'ALÔ FOGÃO O MELHOR TIME DO BR4S1L VOLTOU! VEIGA DESENCANTA E VERDÃO ENFIM VENCE NO BR4S1LE1RÃ0', 1690059924.0, 0.012768138380225296).
 video('Sports', 'Bambino', 'DISPUTA DE PÊNALTIS MAIS EMOCIONATE DO ANO E CLASSIFICAÇÃO HISTÓRICA DE TIME DO INTERIOR DO PARÁ', 1678928772.0, 0.01520239910000466).
@@ -19618,6 +19910,7 @@ video('Sports', 'Banheiristas', 'FEZ GOL? GANHA UM PACOTE DE FIGURINHAS DA COPA!
 video('Sports', 'Banheiristas', 'DESAFIO DA CONFIANÇA! (NÃO DEIXE O IMPOSTOR CHUTAR)', 1673904506.0, 0.0636657869036377).
 video('Sports', 'Banheiristas', 'DESAFIO DO DADO GIGANTE!! (MUITO EMOCIONANTE) *ELE QUE MANDA!', 1694640739.0, 0.11929481160148656).
 video('Sports', 'Banheiristas', 'SERÁ QUE AS CHUTEIRAS BARATAS SÃO MELHORES QUE AS PROFISSIONAIS? (R$450 - R$2000) *compramos todas!*', 1696803659.0, 0.03704773095668414).
+video('Sports', 'Banheiristas', 'GOL FEIO, GOL NORMAL e GOLAÇO!!! (VALENDO PRODUTOS DA NIKE 🤑)', 1697408145.0, 0.08445147902899942).
 video('Sports', 'BellatorMMA', 'BELLATOR 290: Bader vs. Fedor 2 Monster Energy Prelims fueled by Northgate Market INT', 1675563504.0, 0.0145574161146913).
 video('Sports', 'Bernardo Ramos', 'FLAMENGO ACERTA COM LUIS HENRIQUE, EX-ATACANTE DO BOTAFOGO. COMO ELE JOGA?', 1656875044.0, 0.11490949288379163).
 video('Sports', 'Bernardo Ramos', 'Negócio da China! Saiba os detalhes que faltam para Flamengo anunciar Claudinho', 1689794519.0, 0.1302969155376189).
@@ -19662,12 +19955,13 @@ video('Sports', 'Botafogo TV', 'Palavras de André Mazzuco, Lúcio Flávio e Joe
 video('Sports', 'Botafogo TV', 'Apresentação do novo auxiliar técnico interino do Botafogo', 1696530925.0, 0.10396865704128273).
 video('Sports', 'Botafogo TV', 'AO VIVO | Coletiva pós-jogo com Lúcio Flávio | Fluminense x Botafogo', 1696803244.0, 0.13183307653913762).
 video('Sports', 'Botafogo TV', 'Bastidores | Fluminense 0x2 Botafogo | Brasileirão', 1696892410.0, 0.1711072757672186).
+video('Sports', 'Botafogo TV', 'Bastidores | América-MG 1x2 Botafogo | Brasileirão', 1697756411.0, 0.10985319571767421).
 video('Sports', 'Bruno Formiga', 'A REINVENÇÃO DE NEYMAR', 1648050070.0, 0.12593790158769638).
 video('Sports', 'Bruno Formiga', 'O SILÊNCIO FRANCÊS SOBRE MBAPPÉ', 1660752638.0, 0.11968764416639474).
 video('Sports', 'Bruno Formiga', 'PARECIA PIADA. MAS ACONTECEU!', 1660949542.0, 0.14427495708986213).
 video('Sports', 'Bruno Formiga', 'O CAMINHO MAIS DIFÍCIL DA HISTÓRIA', 1668547165.0, 0.12901946890710936).
-video('Sports', 'Bruno Formiga', 'BRASIL AUMENTOU SEU FAVORITISMO', 1669331318.0, 0.1288280978323867).
 video('Sports', 'Bruno Formiga', 'BRASIL AUMENTOU O SEU FAVORITISMO', 1669331318.0, 0.13211563990363343).
+video('Sports', 'Bruno Formiga', 'BRASIL AUMENTOU SEU FAVORITISMO', 1669331318.0, 0.1288280978323867).
 video('Sports', 'Bruno Formiga', 'O FERROLHO BRASILEIRO!', 1669669487.0, 0.12998992976657717).
 video('Sports', 'Bruno Formiga', 'BRASIL E O JOGO COMPLETO!', 1670286016.0, 0.13541381269003308).
 video('Sports', 'Bruno Formiga', 'VAMOS FALAR SOBRE VEXAME', 1675807305.0, 0.1131918065959033).
@@ -19676,6 +19970,7 @@ video('Sports', 'Bruno Formiga', 'O CITY VIROU TIME GRANDE?', 1686691119.0, 0.16
 video('Sports', 'Bruno Formiga', 'DINIZ NA SELEÇÃO. TRANSIÇÃO DE RISCO!', 1688513917.0, 0.14022494856816783).
 video('Sports', 'Bruno Formiga', 'DINIZ TEM O MELHOR COMEÇO POSSÍVEL!', 1694264900.0, 0.10433752905574317).
 video('Sports', 'Bruno Formiga', 'NÃO FALTA MAIS NADA AO SÃO PAULO', 1695593890.0, 0.15853590802214282).
+video('Sports', 'Bruno Formiga', 'DARWIN E A TEORIA DA INVOLUÇÃO', 1697629544.0, 0.10077751886117713).
 video('Sports', 'Bundesliga', 'Mane off the mark | RB Leipzig - FC Bayern München 3-5 | Highlights | DFL-Supercup 2022', 1659216843.0, 0.024631315606708892).
 video('Sports', 'Bundesliga', 'Bayern Start Season with Goals Galore | Eintracht Frankfurt - FC Bayern München 1-6 | All Goals', 1659731583.0, 0.02229555917916227).
 video('Sports', 'Bundesliga', 'BVB Turn the Game Around | SC Freiburg - Borussia Dortmund 1-3 | All Goals | Matchday 2', 1660337004.0, 0.024742297938705738).
@@ -19693,6 +19988,8 @@ video('Sports', 'CANAL DO JF TRICOLOR', 'FRIO E CALCULISTA | BOTAFOGO 1X3 PALMEI
 video('Sports', 'CANAL DO JF TRICOLOR', 'CAMPEÃO JOGANDO BONITO | PALMEIRAS 4X0 CORITIBA | BRASILEIRÃO 2022', 1665101253.0, 0.11824285659787129).
 video('Sports', 'CANAL DO JF TRICOLOR', 'PALMEIRAS É ABSURDO! VITÓRIA INCRIVEL CALANDO A BOCA DE TODO MUNDO', 1686193470.0, 0.15497636386865976).
 video('Sports', 'CANAL DO JF TRICOLOR', 'O GALO É MUITO FREGUÊS DO PALMEIRAS! TEM JEITO NÃO.', 1691638266.0, 0.12748663101604277).
+video('Sports', 'CANAL DO JF TRICOLOR', 'PALMEIRAS 5X0 SPFC! FOI EXTREMAMENTE CONSTRAGEDORA A POSTURA DO SÃO PAULO!!!', 1698285239.0, 0.12998892229783193).
+video('Sports', 'CANAL DO NILSON CESAR [Rádio De Pai pra Filho]', 'NILSON CESAR DETONA SELEÇÃO BRASILEIRA! | Cortes Rádio de Pai pra Filho', 1697598199.0, 0.049562917883991364).
 video('Sports', 'CANHOTINHA 70', 'ARRASCA INFERNIZA NO MARACA! PARTIUUUU QUARTAS DE FINAL! FLA 2x0 ATLÉTICO-MG - SORTEIO CAMISA RETRÔ', 1657769229.0, 0.16410166724962108).
 video('Sports', 'CANHOTINHA 70', 'ÔÔ PEDRO, DÁ LOGO UM BICO NO SAMPAOLI, PÔ!!! FLA ELIMINADO VERGONHOSAMENTE DA LIBERTADORES!', 1691722638.0, 0.0823820462979325).
 video('Sports', 'CARLETI SPORTS', 'HOLANDA X EQUADOR AO VIVO COM IMAGEM  - JOGO DA COPA DO MUNDO QATAR  - ASSISTA AQUI!', 1669391541.0, 0.004998834770449778).
@@ -19704,6 +20001,7 @@ video('Sports', 'CONMEBOL', 'ARGENTINA vs. BRASIL [1-3] | RESUMEN | CONMEBOL SUB
 video('Sports', 'CONMEBOL', 'ARGENTINA vs. ECUADOR [1-0] | RESUMEN | ELIMINATORIAS SUDAMERICANAS | FECHA 1', 1694142552.0, 0.0).
 video('Sports', 'CONMEBOL', 'URUGUAY vs. CHILE [3-1] | RESUMEN | ELIMINATORIAS SUDAMERICANAS | FECHA 1', 1694224085.0, 0.0).
 video('Sports', 'CONMEBOL', 'ARGENTINA vs. PARAGUAY [1-0] | RESUMEN | ELIMINATORIAS SUDAMERICANAS | FECHA 3', 1697169255.0, 0.0).
+video('Sports', 'CONMEBOL', 'PERÚ vs. ARGENTINA [0-2] | RESUMEN | ELIMINATORIAS SUDAMERICANAS | FECHA 3', 1697603816.0, 0.0).
 video('Sports', 'CONMEBOL Libertadores', 'Melhores momentos | Fluminense 2 x 0 Millonarios | CONMEBOL Libertadores 2022', 1646190767.0, 0.022954388047887603).
 video('Sports', 'CONMEBOL Libertadores', 'Melhores momentos | Guaraní 2 (4) - (5) 3 América MG | CONMEBOL Libertadores 2022', 1646271220.0, 0.02334435606399142).
 video('Sports', 'CONMEBOL Libertadores', 'Melhores momentos | Palmeiras 2 x 0 Athletico | CONMEBOL Recopa 2022', 1646279994.0, 0.03231192100173063).
@@ -19775,26 +20073,27 @@ video('Sports', 'Canal GB', 'LIBERTADORES NO CANAL GB!', 1680289207.0, 0.1454492
 video('Sports', 'Canal GB', 'O CASO DE RACISMO MAIS EMBLEMÁTICO DO FUTEBOL MUNDIAL', 1684800087.0, 0.1119423023220845).
 video('Sports', 'Canal GB', 'ANCELOTTI VAI DAR CERTO NA SELEÇÃO? - GALVÃO COMENTA', 1687207500.0, 0.11519911623646063).
 video('Sports', 'Canal GB', 'NÃO CONSIGO ENTENDER! - GALVÃO ANALISA FERNANDO DINIZ NA SELEÇÃO', 1688520061.0, 0.16447433325660166).
-video('Sports', 'Canal GB', 'SÃO PAULO CAMPEÃO DA COPA DO BRASIL! E SAMPAOLI NO FIM DA LINHA.', 1695596123.0, 0.07058498302950256).
 video('Sports', 'Canal GB', 'SÃO PAULO CAMPEÃO DA COPA DO BRASIL! E O SAMPAOLI, COMO FICA?', 1695596123.0, 0.08508759253014757).
+video('Sports', 'Canal GB', 'SÃO PAULO CAMPEÃO DA COPA DO BRASIL! E SAMPAOLI NO FIM DA LINHA.', 1695596123.0, 0.07058498302950256).
 video('Sports', 'Canal GB', 'TITE NO FLA! DEPOIS DE MUITOS ERROS, O FLAMENGO ACERTA!', 1696896000.0, 0.13105689554261776).
+video('Sports', 'Canal GB', 'NÃO TEMOS UM TIME! - Galvão comenta o jogo da Seleção', 1697602939.0, 0.12411731718869948).
 video('Sports', 'Canal GOAT', 'AO VIVO E COM IMAGENS | PSG X INTER DE MILÃO | EXCLUSIVO', 1689902484.0, 0.25539039344781556).
 video('Sports', 'Canal GOAT', 'AO VIVO E COM IMAGENS | BAYERN DE MUNIQUE (ALE) X MANCHESTER CITY (ING)', 1690375853.0, 0.08051863222182305).
 video('Sports', 'Canal GOAT', 'JOGO COMPLETO | BAYERN DE MUNIQUE (ALE) X MANCHESTER CITY (ING) | AMISTOSO INTERNACIONAL', 1690375853.0, 0.07873608613038197).
 video('Sports', 'Canal GOAT', 'JOGO COMPLETO | INTER DE MILÃO (ITA) X AL-NASSR (KSA) | AMISTOSO EXCLUSIVO', 1690462222.0, 0.06828628215271211).
 video('Sports', 'Canal GOAT', 'JOGO COMPLETO E EXCLUSIVO | PARIS SAINT-GERMAIN (FRA) X CEREZO OSAKA (JAP) | AMISTOSO', 1690548084.0, 0.06394475064351257).
 video('Sports', 'Canal GOAT', 'JOGO COMPLETO | REMO X YPIRANGA | BRASILEIRÃO SÉRIE C', 1690676544.0, 0.0475343250853455).
-video('Sports', 'Canal GOAT', 'JOGO COMPLETO | BRUSQUE x SÃO BERNARDO | BRASILEIRÃO SÉRIE C', 1690852951.0, 0.04872484719243215).
 video('Sports', 'Canal GOAT', 'JOGO COMPLETO | BRUSQUE 0 x 0 SÃO BERNARDO | BRASILEIRÃO SÉRIE C', 1690852951.0, 0.04857505765128066).
 video('Sports', 'Canal GOAT', 'AO VIVO E COM IMAGENS | BRUSQUE x SÃO BERNARDO | BRASILEIRÃO SÉRIE C', 1690852951.0, 0.049214449613180694).
+video('Sports', 'Canal GOAT', 'JOGO COMPLETO | BRUSQUE x SÃO BERNARDO | BRASILEIRÃO SÉRIE C', 1690852951.0, 0.04872484719243215).
 video('Sports', 'Canal GOAT', 'JOGO COMPLETO | PSG X INTER DE MILÃO | EXCLUSIVO E COM IMAGENS', 1690894011.0, 0.05974253322934693).
 video('Sports', 'Canal GOAT', 'JOGO COMPLETO | PSG 1 X 2 INTER DE MILÃO | EXCLUSIVO E COM IMAGENS', 1690894011.0, 0.05955893500647253).
-video('Sports', 'Canal GOAT', 'JOGO COMPLETO E EXCLUSIVO | GALATASARAY (TUR) X ZALGIRIS (LTU) | PLAYOFFS CHAMPIONS LEAGUE', 1691009331.0, 0.04539045464233601).
-video('Sports', 'Canal GOAT', 'JOGO COMPLETO E EXCLUSIVO | GALATASARAY (TUR) 1 X 0 ZALGIRIS (LTU) | PLAYOFFS CHAMPIONS LEAGUE', 1691009331.0, 0.045372755899071686).
 video('Sports', 'Canal GOAT', 'AO VIVO E COM IMAGENS | GALATASARAY (TUR) X ZALGIRIS (LTU) | PLAYOFFS CHAMPIONS LEAGUE | EXCLUSIVO', 1691009331.0, 0.04561961618707265).
+video('Sports', 'Canal GOAT', 'JOGO COMPLETO E EXCLUSIVO | GALATASARAY (TUR) 1 X 0 ZALGIRIS (LTU) | PLAYOFFS CHAMPIONS LEAGUE', 1691009331.0, 0.045372755899071686).
+video('Sports', 'Canal GOAT', 'JOGO COMPLETO E EXCLUSIVO | GALATASARAY (TUR) X ZALGIRIS (LTU) | PLAYOFFS CHAMPIONS LEAGUE', 1691009331.0, 0.04539045464233601).
 video('Sports', 'Canal GOAT', 'JOGO COMPLETO | PAYSANDU 4 x 2 NÁUTICO | BRASILEIRÃO SÉRIE C | EXCLUSIVO', 1691962023.0, 0.04792221061968763).
-video('Sports', 'Canal GOAT', 'AO VIVO E COM IMAGENS | AL-RAED x AL-ITTIHAD | LIGA SAUDITA', 1692033764.0, 0.06777774631134774).
 video('Sports', 'Canal GOAT', 'JOGO COMPLETO | AL-RAED x AL-ITTIHAD | LIGA SAUDITA', 1692033764.0, 0.0664680671989723).
+video('Sports', 'Canal GOAT', 'AO VIVO E COM IMAGENS | AL-RAED x AL-ITTIHAD | LIGA SAUDITA', 1692033764.0, 0.06777774631134774).
 video('Sports', 'Canal GOAT', 'JOGO COMPLETO | AL-ETTIFAQ 2x1AL-NASSR | LIGA SAUDITA', 1692046068.0, 0.06316619362976979).
 video('Sports', 'Canal GOAT', 'JOGO COMPLETO | NK MARIBOR x FENERBAHÇE | PLAYOFFS CONFERENCE LEAGUE | EXCLUSIVO', 1692306415.0, 0.05319615964574068).
 video('Sports', 'Canal GOAT', 'AO VIVO E COM IMAGENS | AL-NASSR X AL-TAAWOUN | LIGA SAUDITA', 1692402043.0, 0.03696703670602437).
@@ -19820,8 +20119,15 @@ video('Sports', 'Canal GOAT', 'MELHORES MOMENTOS: AL-HILAL 2 X 0 AL-SHABAB | LIG
 video('Sports', 'Canal GOAT', 'JOGO COMPLETO | AL-NASSR 2 X 2 ABHA | LIGA SAUDITA', 1696612722.0, 0.05926277483613814).
 video('Sports', 'Canal GOAT', 'JOGO COMPLETO | AL-ITTIHAD 0 X 1 AL-AHLI | LIGA SAUDITA', 1696624132.0, 0.0505970987464635).
 video('Sports', 'Canal GOAT', 'JOGO COMPLETO | NACIONAL 0 X 3 INTERNACIONAL | LIBERTADORES FEMININA', 1696630022.0, 0.025286996778128814).
-video('Sports', 'Canal GOAT', 'JOGO COMPLETO | CORINTHIANS 6 X 0 ALWAYS READY | LIBERTADORES FEMININA', 1696898537.0, 0.05253873701379286).
 video('Sports', 'Canal GOAT', 'AO VIVO E COM IMAGENS | CORINTHIANS X ALWAYS READY | LIBERTADORES FEMININA', 1696898537.0, 0.056152801423188015).
+video('Sports', 'Canal GOAT', 'JOGO COMPLETO | CORINTHIANS 6 X 0 ALWAYS READY | LIBERTADORES FEMININA', 1696898537.0, 0.05253873701379286).
+video('Sports', 'Canal GOAT', 'JOGO COMPLETO | INTERNACIONAL X COLO-COLO | LIBERTADORES FEMININA', 1697420612.0, 0.047466857203549394).
+video('Sports', 'Canal GOAT', 'JOGO COMPLETO | TALLERES X BOCA JUNIORS | COPA ARGENTINA', 1697423609.0, 0.04966752612294748).
+video('Sports', 'Canal GOAT', 'MELHORES MOMENTOS | CORINTHIANS 1 (4) X (3) 1 INTERNACIONAL | SEMIFINAL LIBERTADORES FEMININA', 1697684728.0, 0.020836291740854423).
+video('Sports', 'Canal GOAT', 'AO VIVO E COM IMAGENS | AL-NASSR X DAMAC | LIGA SAUDITA', 1697908537.0, 0.08122566913470537).
+video('Sports', 'Canal GOAT', 'JOGO COMPLETO | AL-NASSR 2 X 1 DAMAC | LIGA SAUDITA', 1697908537.0, 0.08093622423990302).
+video('Sports', 'Canal GOAT', 'AO VIVO E COM IMAGENS | PALMEIRAS X CORINTHIANS | FINAL LIBERTADORES FEMININA', 1697941022.0, 0.04242568406442973).
+video('Sports', 'Canal GOAT', 'JOGO COMPLETO | PALMEIRAS 0 X 1 CORINTHIANS | FINAL LIBERTADORES FEMININA', 1697941022.0, 0.0419035620234508).
 video('Sports', 'Canal Matheus Tcheco', 'Efeito na bola #shorts', 1648047604.0, 0.048931787361634435).
 video('Sports', 'Canal Rivalidade FC', 'React São Paulo 2x1 Corinthians | Melhores momentos | semifinal Paulistão 2022', 1648429226.0, 0.1296141329614133).
 video('Sports', 'Canal Rivalidade FC', 'React Palmeiras 4x0 Agua Santa | Melhores momentos | Gols | Palmeiras Campeão Paulista', 1681081212.0, 0.11782173475741176).
@@ -19853,8 +20159,8 @@ video('Sports', 'Cariocão TV', 'FLAMENGO X RESENDE - AO VIVO E COM IMAGENS', 16
 video('Sports', 'Cariocão TV', 'FLAMENGO X VASCO - AO VIVO E COM IMAGENS', 1646602814.0, 0.03497948093759368).
 video('Sports', 'Cariocão TV', 'JOGO COMPLETO: FLUMINENSE X BOTAFOGO - SEMIFINAL', 1648416717.0, 0.02287547727263845).
 video('Sports', 'Cariocão TV', 'FLUMINENSE X BOTAFOGO - AO VIVO E COM IMAGENS - SEMIFINAL', 1648416717.0, 0.023725016165102326).
-video('Sports', 'Cariocão TV', 'JOGO COMPLETO: FLAMENGO X FLUMINENSE - 1º JOGO DA FINAL', 1648695923.0, 0.03202761313740832).
 video('Sports', 'Cariocão TV', 'AO VIVO E COM IMAGENS: FLAMENGO X FLUMINENSE - 1º JOGO DA FINAL', 1648695923.0, 0.03394552043935223).
+video('Sports', 'Cariocão TV', 'JOGO COMPLETO: FLAMENGO X FLUMINENSE - 1º JOGO DA FINAL', 1648695923.0, 0.03202761313740832).
 video('Sports', 'Cariocão TV', 'AO VIVO E COM IMAGENS: FLUMINENSE X FLAMENGO - 2º JOGO DA FINAL', 1648943110.0, 0.027477338641098293).
 video('Sports', 'Carlos Figueira MMA', 'CHARLES DO BRONX ESTÁ FORA DO UFC 294!', 1696999133.0, 0.03709689267611842).
 video('Sports', 'Carol Borba', 'Uma GRANDE mas pequenininha REVELAÇÃO para vocês! - Carol Borba', 1644494406.0, 0.2602678471616697).
@@ -19962,8 +20268,8 @@ video('Sports', 'CazéTV', 'AO VIVO E COM IMAGENS: ARGENTINA X NIGÉRIA | OITAVA
 video('Sports', 'CazéTV', 'JOGO COMPLETO: BRASIL X TUNÍSIA | OITAVAS DE FINAL | COPA DO MUNDO FIFA SUB-20 2023', 1685575480.0, 0.04427748646362562).
 video('Sports', 'CazéTV', 'BRASIL 2 X 3 ISRAEL | MELHORES MOMENTOS | QUARTAS DE FINAL | COPA DO MUNDO SUB-20 FIFA 2023', 1685824299.0, 0.027894620323223377).
 video('Sports', 'CazéTV', 'JOGO COMPLETO: BRASIL X ISRAEL | QUARTAS DE FINAL | COPA DO MUNDO FIFA SUB-20 2023', 1685838131.0, 0.04012427301478574).
-video('Sports', 'CazéTV', 'JOGO COMPLETO: URUGUAI X ITÁLIA | FINAL | COPA DO MUNDO FIFA™ SUB-20 2023', 1686528382.0, 0.0352997479501005).
 video('Sports', 'CazéTV', 'AO VIVO E COM IMAGENS: URUGUAI X ITÁLIA | FINAL | COPA DO MUNDO FIFA™ SUB-20 2023', 1686528382.0, 0.03594642214597964).
+video('Sports', 'CazéTV', 'JOGO COMPLETO: URUGUAI X ITÁLIA | FINAL | COPA DO MUNDO FIFA™ SUB-20 2023', 1686528382.0, 0.0352997479501005).
 video('Sports', 'CazéTV', 'CAZÉTV APRESENTA: LEILÃO DO INSTITUTO NEYMAR JR. AO VIVO', 1687492571.0, 0.02641409155044126).
 video('Sports', 'CazéTV', 'ATHLETICO 1 X 0 CORINTHIANS | MELHORES MOMENTOS | 12ª RODADA | BRASILEIRÃO 2023', 1687640635.0, 0.01969383806355425).
 video('Sports', 'CazéTV', 'ATHLETICO 2 X 2 PALMEIRAS | MELHORES MOMENTOS | 13ª RODADA | BRASILEIRÃO 2023', 1688331962.0, 0.025186587488531195).
@@ -20025,11 +20331,21 @@ video('Sports', 'CazéTV', 'JOGO COMPLETO: FREIBURG x BORUSSIA DORTMUND | RODADA
 video('Sports', 'CazéTV', 'RUMO AO G4! | ATHLETICO 2 X 1 INTERNACIONAL | MELHORES MOMENTOS | 24ª RODADA | BRASILEIRÃO 2023', 1695343242.0, 0.017356820878975977).
 video('Sports', 'CazéTV', 'ATROPELO HISTÓRICO! | BAYERN DE MUNIQUE 7 X 0 BOCHUM | MELHORES MOMENTOS | BUNDESLIGA 23/24', 1695483085.0, 0.04742639436035662).
 video('Sports', 'CazéTV', 'MESSI NA CAZÉTV | JOGO COMPLETO: INTER MIAMI X HOUSTON DYNAMO | FINAL DA U.S. OPEN CUP', 1695873248.0, 0.04102324869433379).
-video('Sports', 'CazéTV', 'TODAS AS APRESENTAÇÕES DA EQUIPE BRASILEIRA, PRATA POR EQUIPES NO MUNDIAL DE GINÁSTICA ARTÍSTICA', 1696452253.0, 0.041443823080833754).
 video('Sports', 'CazéTV', 'TODAS AS APRESENTAÇÕES DO BRASIL, PRATA POR EQUIPES NO MUNDIAL DE GINÁSTICA ARTÍSTICA', 1696452253.0, 0.03451140863938158).
+video('Sports', 'CazéTV', 'TODAS AS APRESENTAÇÕES DA EQUIPE BRASILEIRA, PRATA POR EQUIPES NO MUNDIAL DE GINÁSTICA ARTÍSTICA', 1696452253.0, 0.041443823080833754).
 video('Sports', 'CazéTV', 'AO VIVO E COM IMAGENS: MUNDIAL DE GINÁSTICA ARTÍSTICA NA CAZÉTV  | REBECCA ANDRADE E SIMONE BILES', 1696623634.0, 0.06203752049459741).
 video('Sports', 'CazéTV', 'HISTÓRICO! REBECA ANDRADE DERROTA SIMONE BILES E É CAMPEÃ MUNDIAL DE SALTO! É OURO PRO BRASIL!', 1696688794.0, 0.05690210971927573).
 video('Sports', 'CazéTV', 'HISTÓRICO! AS APRESENTAÇÕES DE FLAVIA SARAIVA E REBECA ANDRADE QUE GARANTIRAM DUAS MEDALHAS NO SOLO!', 1696779896.0, 0.032351902915983964).
+video('Sports', 'CazéTV', 'AO VIVO E COM IMAGENS: CAZÉTV FC X SINTONIA ESPORTIVA | FINAL| COPA ACERJ', 1697512407.0, 0.06521553843632191).
+video('Sports', 'CazéTV', 'JOGO COMPLETO: CAZÉTV FC X SINTONIA ESPORTIVA | FINAL| COPA ACERJ', 1697512407.0, 0.06477519860092025).
+video('Sports', 'CazéTV', 'SUPERLIVE: BOXE, TAEKWONDO, TÊNIS, ESCALADA E MAIS ESPORTES | PAN-AMERICANO 2023 NA CAZÉTV', 1698075892.0, 0.060653692541874714).
+video('Sports', 'CazéTV', 'AO VIVO: BRASIL X EUA NO FUTEBOL MASCULINO | FASE DE GRUPOS | PAN-AMERICANO 2023 NA CAZÉTV', 1698102514.0, 0.034163820759598465).
+video('Sports', 'CazéTV', 'SUPERLIVE: TÊNIS, TAEKWONDO, CICLISMO E MAIS ESPORTES | PAN-AMERICANO 2023 NA CAZÉTV', 1698161605.0, 0.046011727938334454).
+video('Sports', 'CazéTV', 'SUPERLIVE: GINÁSTICA ARTÍSTICA, TÊNIS, SALTOS ORNAMENTAIS E MAIS | PAN-AMERICANO 2023 NA CAZÉTV', 1698191697.0, 0.037669495416642204).
+video('Sports', 'CazéTV', 'AO VIVO: BRASIL X URUGUAI | HANDEBOL FEMININO | PAN-AMERICANO 2023 NA CAZÉTV', 1698244395.0, 0.046146674256924244).
+video('Sports', 'CazéTV', 'AO VIVO E COM IMAGENS: BRASIL X MÉXICO | VÔLEI FEMININO | SEMIFINAL | PAN-AMERICANO 2023 NA CAZÉTV', 1698287041.0, 0.058690911363139316).
+video('Sports', 'CazéTV', 'BRASIL X VENEZUELA | BASQUETE FEMININO | PRELIMINARES| PAN-AMERICANO 2023 NA CAZÉTV', 1698334608.0, 0.03014459143695427).
+video('Sports', 'CazéTV', 'BRASIL X COLÔMBIA | FUTEBOL MASCULINO | FASE DE GRUPOS | PAN-AMERICANO 2023 NA CAZÉTV', 1698368548.0, 0.029171022341573427).
 video('Sports', 'Central do Mercado VIP', '💣💼BOMBANDO ! MERCADO DA BOLA DO FLAMENGO, ATLÉTICO MG, FLUMINENSE,SANTOS,VASCO, CEARÁ E AMÉRICA MG.', 1641139694.0, 0.043206189765169).
 video('Sports', 'Clube Ligados', 'ESSE FOI O GOL MAIS PERDIDO DA HISTÓRIA DO FUTEBOL', 1660088178.0, 0.011901536678028466).
 video('Sports', 'Clube Ligados Shorts', 'OS BR DECIDEM | RAYO MARCA, V1N1 SOFRE PÊNALTI MAS AMBOS SÃO ANULADOS E GOL DE M1L1TÃO DECIDE JOGO', 1665262475.0, 0.031930592306126604).
@@ -20216,6 +20532,8 @@ video('Sports', 'Cruzeiro Esporte Clube', '🦊🎙AO VIVO - ENTREVISTA | PEPA |
 video('Sports', 'Cruzeiro Esporte Clube', '🦊💙 BASTIDORES | Goleada!!! 4 x 0 Cruzeiro pra cima do América-MG', 1684177145.0, 0.13640236841530293).
 video('Sports', 'Cruzeiro Esporte Clube', '🦊🎙 ENTREVISTA | ZÉ RICARDO | Santos 0 x 3 Cruzeiro', 1694741454.0, 0.09103330091241721).
 video('Sports', 'Cruzeiro Esporte Clube', '🦊💙 BASTIDORES | Vitória do Cruzeiro sobre o Santos na Vila Belmiro!', 1694820171.0, 0.12561527859814925).
+video('Sports', 'Cruzeiro Esporte Clube', '🦊💙 BASTIDORES | Cruzeiro vence o primeiro clássico na Arena MRV!', 1698099668.0, 0.13827974336647203).
+video('Sports', 'Cruzeiro Sports', '🔥 RESPOSTA DO DIOGO MEDEIROS AO RONALDO PELAS BESTEIRAS DITAS EM COLETIVA APÓS MAIS UM VEXAME', 1697770915.0, 0.07218954199943695).
 video('Sports', 'DAZN BRASIL', 'Chocolate do Sport pra cima do Íbis! Melhores Momentos - Sport 5 x 0 Íbis', 1677722264.0, 0.02602159953298307).
 video('Sports', 'DAZN BRASIL', 'Baile do Íbis no Arruda! - Melhores Momentos - Santa Cruz 1 x 3 Íbis', 1680057211.0, 0.023909816180464196).
 video('Sports', 'DAZN BRASIL', 'REMO VENCE FORA DE CASA! - Melhores Momentos - Aparecidense 0 x 2 Remo', 1686524687.0, 0.03202504213821334).
@@ -20238,8 +20556,10 @@ video('Sports', 'De Placa', 'VINI JR NOVAMENTE SOFRE COM RACISMO NA ESPANHA | De
 video('Sports', 'De Placa', 'BENZEMA NA ARÁBIA SAUDITA; FUTURO DE MESSI; JOGOS DE VOLTA DA COPA DO BRASIL | De Placa (31/05/23)', 1685546144.0, 0.0829880728185813).
 video('Sports', 'De Placa', 'MESSI VAI VOLTAR PRO BARCELONA? BENZEMA SE DESPEDE DO REAL MADRID | De Placa (05/06/23)', 1685978189.0, 0.08665291426960678).
 video('Sports', 'De Placa', 'É UMA LOUCURA O VAR CHAMAR NOS GOLS E NÃO CHAMAR NO PÊNALTI NO ARRASCAETA', 1689617193.0, 0.027250681806733876).
+video('Sports', 'De Placa', 'SE CAIR, VAI LEVAR UNS 3 OU 4 ANOS PARA O SANTOS VOLTAR RICARDINHO FICOU MALUCO COM O SANTOS!', 1698086203.0, 0.055402983447251315).
 video('Sports', 'De Sola', 'CRAVAMOS QUEM VAI PARA A COPA DO MUNDO E DEU MUITA TRETA! | CORTES TNT SPORTS', 1664460024.0, 0.08507705184382847).
 video('Sports', 'De Sola', 'CERTEZAS DESABAFA SOBRE SITUAÇÃO DE LUÍS CASTRO NO BOTAFOGO! | CORTES TNT SPORTS', 1688070603.0, 0.10136134196706266).
+video('Sports', 'Debate Raiz', 'GURIS DO GRÊMIO RESOLVEM | INTER ENFRENTA O VASCO | DEBATE RAIZ KTO AO VIVO | 26/10/23 #14', 1698336980.0, 0.0820045133255003).
 video('Sports', 'Deixa o Palmeirense Falar', 'FLAMENGO LIQUIDA ATLÉTICO GO EM GOLEADA DE 4X1 NO MARACANÃ LOTADO, DA SHOW E ENCOSTA NO TOPO', 1659236114.0, 0.14397334476442852).
 video('Sports', 'Desafio 1PRA1', 'DESAFIO 1x1 - PAÇOCA vs MARIVÂNIO  - F12.BET', 1678756971.0, 0.03511093591620678).
 video('Sports', 'Desafio 1PRA1', 'DESAFIO 1x1 - BOLT vs PAÇOCA  - F12.BET', 1680052886.0, 0.048417241404583734).
@@ -20789,6 +21109,12 @@ video('Sports', 'ESPN Brasil', 'Lamine Yamal FAZ HISTÓRIA, mas Barcelona SOFRE 
 video('Sports', 'ESPN Brasil', 'Morata decide, ESPANHA aproveita FALHA GROTESCA e vence a ESCÓCIA nas eliminatórias da EURO', 1697145141.0, 0.043022141524184196).
 video('Sports', 'ESPN Brasil', 'MBAPPÉ DESTRÓI COM DIREITO A GOLAÇO ABSURDO, FRANÇA VENCE A HOLANDA E SE CLASSIFICA PARA A EURO 2024', 1697231102.0, 0.04788288168732471).
 video('Sports', 'ESPN Brasil', 'Lukaku marca, Bélgica vence a Áustria em JOGAÇO de 5 gols e se classifica para a Euro 2024', 1697233065.0, 0.032209699627721966).
+video('Sports', 'ESPN Brasil', 'Em jogo de golaços, Chelsea abre 2 a 0, mas cede empate ao Arsenal pela Premier League', 1697913762.0, 0.04177955765830659).
+video('Sports', 'ESPN Brasil', 'Real Madrid e Sevilla só empatam em LALIGA na partida de reencontro com Sergio Ramos', 1697919774.0, 0.04122596130711205).
+video('Sports', 'ESPN Brasil', 'DIOGO DALOT FAZ PINTURA, E MANCHESTER UNITED BATE O SHEFFIELD UNITED | Melhores Momentos', 1697923447.0, 0.047840631547267656).
+video('Sports', 'ESPN Brasil', 'CR7 TEM ATUAÇÃO EXUBERANTE E COMANDA GOLEADA DO AL NASSR NA CHAMPIONS ASIÁTICA | MELHORES MOMENTOS', 1698179737.0, 0.0663657749946461).
+video('Sports', 'ESPN Brasil', 'Paquetá faz GOLAÇO ABSURDO, mas Olympiacos vence West Ham com gol de Rodinei na Europa League', 1698349870.0, 0.03509653794131717).
+video('Sports', 'ESPN Brasil', 'Liverpool goleia Toulouse na Europa League com BIZARRICE de Darwin Núñez e GOLAÇO de Salah', 1698355641.0, 0.05203213610586011).
 video('Sports', 'ESPN College Football', 'Peach Bowl: Ohio State Buckeyes vs. Georgia Bulldogs | Full Game Highlights', 1672549975.0, 0.006906314864413825).
 video('Sports', 'ESPN Deportes', 'CONMOVEDOR HASTA LAS LÁGRIMAS Así fue la emotiva despedida de Casemiro del Real Madrid | La Liga', 1661184334.0, 0.02357934304596713).
 video('Sports', 'ESPN FC', 'LAFC vs. Philadelphia Union | MLS Cup Highlights | ESPN FC', 1667690057.0, 0.01434289139387846).
@@ -20810,8 +21136,8 @@ video('Sports', 'Esporte na Band', 'Fernandinho e Sormani discutem após fala so
 video('Sports', 'Esporte na Band', 'Carlos Alberto chora por morte de Dinamite: Estou despedaçado', 1673196791.0, 0.037538230401888716).
 video('Sports', 'Esporte na Band', 'Sormani: Corinthians é o único que pode parar o Palmeiras', 1675648335.0, 0.038903909389842894).
 video('Sports', 'Esporte na Band', 'NOVA IGUAÇU 0 X 2 VASCO | CAMPEONATO CARIOCA | MELHORES MOMENTOS', 1675829058.0, 0.028379700824828744).
-video('Sports', 'Esporte na Band', 'Gabigol lamenta derrota para o Vasco no Carioca: Só falar não basta', 1678058585.0, 0.026998208649663055).
 video('Sports', 'Esporte na Band', 'Gabigol lamenta derrota para o Vasco no Carioca: Só falar não basta | #CariocaNaBand', 1678058585.0, 0.020171375427761373).
+video('Sports', 'Esporte na Band', 'Gabigol lamenta derrota para o Vasco no Carioca: Só falar não basta', 1678058585.0, 0.026998208649663055).
 video('Sports', 'Esporte na Band', 'BAYERN 4X2 BORUSSIA DORTMUND | MELHORES MOMENTOS BUNDESLIGA | #AlemãoNaBand', 1680377405.0, 0.04213265890141847).
 video('Sports', 'Esporte na Band', 'Presidente do Corinthians explica saída de Cuca e busca por novo treinador', 1682571644.0, 0.02176975735958042).
 video('Sports', 'Esporte na Band', 'Elia Jr revela: Tite pode ser o novo técnico do Corinthians', 1682870029.0, 0.028039449073286857).
@@ -20826,8 +21152,8 @@ video('Sports', 'Esporte na Band', 'Ismael Bonfim relembra vitória em estreia n
 video('Sports', 'Esporte na Band', 'ARENA UFC BAND com Mi Moschella - 30/06/2023 - PROGRAMA COMPLETO', 1688142435.0, 0.0019107372023385142).
 video('Sports', 'Esporte na Band', 'ARENA UFC BAND com Mi Moschella - 14/07/2023 - PROGRAMA COMPLETO', 1689352242.0, 0.0016356174455857085).
 video('Sports', 'Esporte na Band', 'Renato Augusto diz que cobrou Luciano por comemoração de gol chutando bandeira do Corinthians', 1690348034.0, 0.03333674648567207).
-video('Sports', 'Esporte na Band', 'QUEIMANDO A LARGADA revela fliperama RARO que teve ajuda de SENNA no desenvolvimento | #F1naBand', 1690473611.0, 0.0020834056738081182).
 video('Sports', 'Esporte na Band', 'QUEIMANDO A LARGADA visita Casa do Videogame e revela jogo raro de Senna | #F1naBand', 1690473611.0, 0.0027413486758609018).
+video('Sports', 'Esporte na Band', 'QUEIMANDO A LARGADA revela fliperama RARO que teve ajuda de SENNA no desenvolvimento | #F1naBand', 1690473611.0, 0.0020834056738081182).
 video('Sports', 'Esporte na Band', 'O MELHOR DO UFC - ESQUENTA PRO UFC 291 - 28/07/2023 - PROGRAMA COMPLETO | #UFCNABAND', 1690560008.0, 0.0019973651778504953).
 video('Sports', 'Esporte na Band', 'UFC 291 MELHORES MOMENTOS | Vitórias de Gaethje, Alex Poatan e Gabriel Bonfim', 1690716201.0, 0.0316920290286831).
 video('Sports', 'Esporte na Band', 'O MELHOR DO UFC - 04/08/2023 - PROGRAMA COMPLETO | #UFCNABAND', 1691164809.0, 0.0016397507578848015).
@@ -20851,8 +21177,8 @@ video('Sports', 'F7 TV PLAY', 'DANIEL CORINGA X KAKÁ - X1 BRASIL', 1679358987.0
 video('Sports', 'FC Barcelona', 'HIGHLIGHTS | A-LEAGUE ALL STARS 2-3 BARÇA 🔵🔴', 1653483865.0, 0.05631491158602951).
 video('Sports', 'FC Barcelona', '💥 HIGHLIGHTS: INTER MIAMI 0-6 BARÇA 💥', 1658289164.0, 0.03694863121414499).
 video('Sports', 'FC Barcelona', '🚨 HIGHLIGHTS EL CLÁSICO: REAL MADRID 0 - 1 BARÇA 🚨', 1658641789.0, 0.03910833103925708).
-video('Sports', 'FC Bayern München', 'Kimmich vs. Gnabry | Copy the Penalty Challenge ft. Thomas Müller, Luva de Pedreiro, Ali471 & more!', 1647781149.0, 0.056734016887816645).
 video('Sports', 'FC Bayern München', 'Kimmich vs. Gnabry | Copy the Penalty Challenge ft. Thomas Müller, Ali471, Miao Kun & more!', 1647781149.0, 0.07148315925880802).
+video('Sports', 'FC Bayern München', 'Kimmich vs. Gnabry | Copy the Penalty Challenge ft. Thomas Müller, Luva de Pedreiro, Ali471 & more!', 1647781149.0, 0.056734016887816645).
 video('Sports', 'FC Bayern München', '27-0 win | All Goals & Highlights | FC Rottach-Egern - FC Bayern', 1689711447.0, 0.018931147689265224).
 video('Sports', 'FIBA - The Basketball Channel', 'Iran 🇮🇷 vs Brazil 🇧🇷 | J9 Highlights | FIBA Basketball World Cup 2023', 1693051554.0, 0.010951027264504459).
 video('Sports', 'FIBA - The Basketball Channel', 'Absolute Thriller in Jakarta as Brazil Beat Canada | J9 Highlights | FIBA Basketball World Cup 2023', 1693583595.0, 0.010897315906376097).
@@ -20915,6 +21241,7 @@ video('Sports', 'FLA TV', 'Bastidores | Botafogo 1x2 Flamengo', 1693792661.0, 0.
 video('Sports', 'FLA TV', 'Tite concede entrevista exclusiva e Braz e Spindel falam sobre a negociação', 1696969415.0, 0.10231807023006902).
 video('Sports', 'FLA TV', 'Tour no CT, entrevista e treino: o primeiro dia de Tite no Flamengo', 1696989280.0, 0.1570714791752116).
 video('Sports', 'FLA TV', 'Tite comanda segundo treino no Fla: Consegue deixar todos motivados', 1697070768.0, 0.09222301403417046).
+video('Sports', 'FLA TV', 'Apresentação do técnico Tite', 1697479758.0, 0.09455510897864514).
 video('Sports', 'FLAMÍLIA DA NAÇÃO', 'PAULO SOUSA PODE CAIR A QUALQUER MOMENTO   DIRETORIA FAZ CONTATO COM TREINADOR SAIBA QUEM É.', 1652615902.0, 0.12755665503379424).
 video('Sports', 'FLAMÍLIA DA NAÇÃO', '🚨 EXCLUSIVO 🚨  -  FALAMOS COM JORGE JESUS QUE DISSE : “VOU VOLTAR A TREINAR O FLAMENGO”', 1668767410.0, 0.10127192395233632).
 video('Sports', 'FLAZOEIRO', 'PACOTÃO DE REFORÇOS NO FLAMENGO! PAULO SOUSA MONTA PLANEJAMENTO! MENGÃO AGITA O MERCADO NA EUROPA E+', 1641127057.0, 0.12349383184483478).
@@ -20973,8 +21300,8 @@ video('Sports', 'FLAZOEIRO', 'MAIS UM JOGADOR SAINDO DO FLAMENGO! QUINTERO DECID
 video('Sports', 'FLAZOEIRO', 'VERGONHA GERAL! FLAMENGO FAZ MAIOR VEXAME DA HISTÓRIA! PÓS JOGO ELIMINAÇÃO DO MENGÃO NO MUNDIAL!', 1675805629.0, 0.15989456199542412).
 video('Sports', 'FLAZOEIRO', 'JORGE JESUS PEDE PARA VOLTAR PARA O FLAMENGO? A VERDADE! REVIRAVOLTA EM JOGO DO MENGÃO! DESABAFO', 1675945449.0, 0.11273940673628922).
 video('Sports', 'FLAZOEIRO', 'PROPOSTA DE 222 MILHÕES NA MESA DO FLAMENGO! JORGE JESUS FALA EM VOLTAR PARA O MENGÃO! VIDAL SAINDO?', 1676322907.0, 0.12408710728623476).
-video('Sports', 'FLAZOEIRO', 'REFORÇO DE PESO! FLAMENGO TEM CHANCE DE CONTRATAR? VITOR PEREIRA INSISTE POR FAUSTO VERA! E+', 1676894899.0, 0.11359918106954511).
 video('Sports', 'FLAZOEIRO', 'REFORÇO DE PESO! FLAMENGO TEM CHANCE DE CONTRATAR MARCELO? VITOR PEREIRA INSISTE POR FAUSTO VERA! E+', 1676894899.0, 0.12027729293268921).
+video('Sports', 'FLAZOEIRO', 'REFORÇO DE PESO! FLAMENGO TEM CHANCE DE CONTRATAR? VITOR PEREIRA INSISTE POR FAUSTO VERA! E+', 1676894899.0, 0.11359918106954511).
 video('Sports', 'FLAZOEIRO', 'PESOU O CLIMA! VITOR PEREIRA VAI CAIR? TORCIDA FLAMENGO FARÁ PROTESTO POR DEMISSÃO! ACORDO NO MENGÃO', 1678366920.0, 0.12073130265068667).
 video('Sports', 'FLAZOEIRO', 'FLAMENGO NEGOCIA A VOLTA DE JORGE JESUS? A VERDADE! FIM DA NOVELA ÂNGELO E MENGÃO! VAMOS RIR! E+', 1678534189.0, 0.11880114938347944).
 video('Sports', 'FLAZOEIRO', 'FUTURO DEFINIDO! DIRIGENTE GARANTE SAÍDA DE JOGADOR! EXCELENTE NOTÍCIA NO FLAMENGO! PRESSÃO POR JJ!', 1678967719.0, 0.12186111324904907).
@@ -21007,6 +21334,7 @@ video('Sports', 'FLAZOEIRO', 'FLAMENGO PROCURA BRUNO HENRIQUE PARA RENOVAÇÃO! 
 video('Sports', 'FLAZOEIRO', 'PROBLEMA RESOLVIDO! FLAMENGO ENCONTRA RESERVA PARA ARRASCAETA! FUTURO DE PEDRO DEFINIDO NO MENGÃO E+', 1690888121.0, 0.1289543976265968).
 video('Sports', 'FLAZOEIRO', 'PONTO FINAL NO CASO PEDRO NO FLAMENGO! MENGÃO VENDE JOGADOR PARA GRUPO CITY! NOVO MUSEU!', 1691146606.0, 0.16341850220264317).
 video('Sports', 'FLAZOEIRO', 'SAMPAOLI SE DESPEDE DOS JOGADORES DO FLAMENGO! PROCESSO PARA TIRAR LANDIM DO MENGÃO! MAIS UM ABSURDO', 1695640101.0, 0.14359391594702253).
+video('Sports', 'FLAZOEIRO', 'FLAMENGO ACERTA RENOVAÇÃO DE EVERTON RIBEIRO! BRUNO HENRIQUE TOMA DECISÃO! INVESTIGAÇÃO NO MENGÃO!', 1697448901.0, 0.14434438055498303).
 video('Sports', 'FOOTURE', 'COMO JOGA JAMES RODRÍGUEZ | O ESTILO DO NOVO 10 DO SÃO PAULO', 1690488010.0, 0.051289289918450616).
 video('Sports', 'FOOTURE', 'COMO JOGA PAYET | O ESTILO DO NOVO 10 DO VASCO', 1691863205.0, 0.03567986086373447).
 video('Sports', 'FORMULA 1', 'F1 2022 Pre-Season Day 1: The Best Bits', 1645650085.0, 0.03206228219288805).
@@ -21097,6 +21425,8 @@ video('Sports', 'Flow Sport Club', 'CEARÁ x PONTE PRETA - AO VIVO E COM IMAGENS
 video('Sports', 'Flow Sport Club', 'ATLÉTICO-GO x JUVENTUDE - AO VIVO E COM IMAGENS - Brasileirão Série B 23', 1694379605.0, 0.03975753455699071).
 video('Sports', 'Flow Sport Club', 'CRB x VITÓRIA - AO VIVO E COM IMAGENS - Brasileirão Série B 23', 1694388463.0, 0.047960654373634865).
 video('Sports', 'Flow Sport Club', 'CEARÁ x ATLÉTICO-GO - AO VIVO E COM IMAGENS - Brasileirão Série B 23', 1696202154.0, 0.03057993220968566).
+video('Sports', 'Flow Sport Club', 'VITÓRIA x GUARANI - AO VIVO E COM IMAGENS - Brasileirão Série B 23', 1697411912.0, 0.04289082252200712).
+video('Sports', 'Flow Sport Club', 'AVAÍ X CEARÁ - AO VIVO E COM IMAGENS - Brasileirão Série B 23', 1698017011.0, 0.034341068619774526).
 video('Sports', 'Fluminense Football Club', 'BASTIDORES - FLAMENGO 0 X 1 FLUMINENSE - CAMPEONATO CARIOCA 2022', 1644323409.0, 0.1355171840850705).
 video('Sports', 'Fluminense Football Club', 'BASTIDORES - FLUMINENSE 2 X 0 MILLONARIOS-COL - LIBERTADORES 2022', 1646322311.0, 0.1462569849602069).
 video('Sports', 'Fluminense Football Club', 'BASTIDORES - FLAMENGO 0 X 2 FLUMINENSE - JOGO DE IDA - CAMPEONATO CARIOCA 2022', 1649121312.0, 0.14009977212539262).
@@ -21198,6 +21528,8 @@ video('Sports', 'Futebol Paulista', 'JOGO COMPLETO: MARÍLIA X SÃO JOSÉ EC | Q
 video('Sports', 'Futebol Paulista', 'JOGO COMPLETO: NOROESTE X AA PORTUGUESA | QUARTAS | IDA | COPA PAULISTA 2023', 1694384043.0, 0.022567077592458303).
 video('Sports', 'Futebol Paulista', 'JOGO COMPLETO: XV PIRACICABA X JUVENTUS | QUARTAS | VOLTA | COPA PAULISTA 2023', 1694826415.0, 0.029310653180454265).
 video('Sports', 'Futebol Paulista', 'JOGO COMPLETO: SÃO JOSÉ EC X GRÊMIO PRUDENTE | SEMI | VOLTA | COPA PAULISTA 2023', 1696120253.0, 0.02842412015243219).
+video('Sports', 'Futebol Paulista', 'JOGO COMPLETO: CORINTHIANS X RED BULL BRAGANTINO | SEMIFINAL | VOLTA | PAULISTA SUB-17 2023', 1698193199.0, 0.020395162396848108).
+video('Sports', 'Futebol Paulista', 'JOGO COMPLETO X SÃO PAULO | SEMIFINAL | VOLTA | PAULISTA SUB-17 2023', 1698196749.0, 0.019524117522480497).
 video('Sports', 'Futebol pelo Mundo', 'DISPUTA DE PÊNALTIS MAIS BIZARRA QUE JÁ VI - SUPERCOPA/ Atlético-MG 2(8)x (7)2 Flamengo', 1645456812.0, 0.10328004203257525).
 video('Sports', 'Futebol pelo Mundo', 'CORINTHIANS 0 x 2 FLAMENGO DENTRO DA ARENA CORINTHIANS/ Corinthians x Flamengo', 1659531610.0, 0.1391620611183355).
 video('Sports', 'Futebol pelo Mundo', 'ESSA REAÇÃO DA TORCIDA FEZ O FLAMENGO SER CAMPEÃO DA COPA DO BRASIL/ Flamengo 1 x 1 Corinthians', 1666302968.0, 0.1233976720200383).
@@ -21241,9 +21573,9 @@ video('Sports', 'Gazeta Esportiva', 'O Cuéllar vai SUBIR O NÍVEL do Corinthian
 video('Sports', 'Gazeta Esportiva', 'James e Lucas Moura: o São Paulo volta a ter um PROTAGONISMO MUITO GRANDE, diz Muller (01/08/23)', 1690926525.0, 0.031404775739464874).
 video('Sports', 'Gazeta Esportiva', 'HORA DO ADEUS! Róger Guedes vai receber R$ 4 milhões livre de impostos (01/08/23)', 1690927071.0, 0.01303395399780942).
 video('Sports', 'German Football', 'First defeat under Flick | Germany vs. Hungary 0:1 | Highlights | Men Nations League', 1663970415.0, 0.014053213849536686).
-video('Sports', 'Gi Helena', 'NÃO ACREDITO QUE PARTE DA MÚSICA ACABOU! PALMEIRAS 4 x 0 SANTOS', 1643135622.0, 0.09521992904284134).
-video('Sports', 'Gi Helena', 'A MÚSICA JÁ ERA!!!! PALMEIRAS 4 x 0 SANTOS', 1643135622.0, 0.09137839452891575).
 video('Sports', 'Gi Helena', 'FINAL DA COPINHA, ACABOU A MÚSICA ??? PALMEIRAS 4 x 0 SANTOS', 1643135622.0, 0.09287947447922155).
+video('Sports', 'Gi Helena', 'A MÚSICA JÁ ERA!!!! PALMEIRAS 4 x 0 SANTOS', 1643135622.0, 0.09137839452891575).
+video('Sports', 'Gi Helena', 'NÃO ACREDITO QUE PARTE DA MÚSICA ACABOU! PALMEIRAS 4 x 0 SANTOS', 1643135622.0, 0.09521992904284134).
 video('Sports', 'Gi Helena', 'EM PLENA PÁSCOA OUTRO CHOCOLATE - REACT- FLAMENGO 3 x 1 SÃO PAULO', 1650252005.0, 0.11962170996127779).
 video('Sports', 'Gi Helena', 'REACT DO SORTEIO MAIS DOIDO DAS OITAVAS DE FINAL DA  COPA DO BRASIL-', 1654641585.0, 0.10353694374475231).
 video('Sports', 'Gi Helena', 'INACREDITÁVEL PERDER MAIS UMA VEZ EM CASA!!!!!! SÃO PAULO 0 x 2 FLAMENGO', 1659864892.0, 0.10351692499634368).
@@ -21253,8 +21585,8 @@ video('Sports', 'Goiás Esporte Clube', 'GOIÁS X CUIABÁ - SEMIFINAL COPA VERDE
 video('Sports', 'Goleiro De Capacete', 'Luva de 600 reais VS luva de 30 reais', 1646580338.0, 0.05300667070952092).
 video('Sports', 'Goleiro De Capacete', 'o trouxa como você deixou ele sair (goleiro)', 1646833901.0, 0.0737034563548977).
 video('Sports', 'Gonze Neles', 'MANCHESTER CITY CAMPEÃO DA PREMIER LEAGUE E EU TAVA LÁ!! ( Man City 3-2 Aston Villa )', 1653340666.0, 0.06362816190586017).
-video('Sports', 'Gonze Neles', 'EU FUI NA FINAL DA CHAMPIONS LEAGUE 2022!! REAL MADRID CAMPEÃO!! ( Real Madrid 1 x 0 Liverpool )', 1653925527.0, 0.06262077332449487).
 video('Sports', 'Gonze Neles', 'REAL MADRID CAMPEÃO DA CHAMPIONS LEAGUE E EU TAVA LÁ!! ( Real Madrid 1 x 0 Liverpool )', 1653925527.0, 0.06906128020817781).
+video('Sports', 'Gonze Neles', 'EU FUI NA FINAL DA CHAMPIONS LEAGUE 2022!! REAL MADRID CAMPEÃO!! ( Real Madrid 1 x 0 Liverpool )', 1653925527.0, 0.06262077332449487).
 video('Sports', 'Gonze Neles', 'FUI NA ABERTURA DA COPA DO MUNDO 2022!! QUASE DEU RUIM!!', 1669043953.0, 0.0410069595476294).
 video('Sports', 'Gonze Neles', 'BRASIL ELIMINADO: O DIA MAIS TRISTE DA MINHA VIDA!! Brasil x Croácia', 1670631540.0, 0.031215147949355267).
 video('Sports', 'Gonze Neles', 'VASCO VENCE O CLÁSSICO COM FESTA ABSURDA DA TORCIDA!! VASCO X FLAMENGO', 1678119052.0, 0.06631289592087318).
@@ -21314,6 +21646,7 @@ video('Sports', 'Gustavo Henrique Dando Choque', 'ATENÇÃO: O ANÚNCIO DE CLAUD
 video('Sports', 'HUNTERS MAROMBA', 'A GRANDE DECISÃO!!! RENATO x LEO - Quem ganhou o Desafio 120 dias? 💪🏻', 1667307610.0, 0.11488348999263787).
 video('Sports', 'Hariston', 'O RIKINHO ME EXPULSOU DO TIME INTERCLASSE! FIZ ALGO INSANO ‹ Hariston ›', 1694179804.0, 0.03521067533851027).
 video('Sports', 'Henrique Avancini', 'O Meu Motivo / My Reason | Henrique Avancini', 1692732764.0, 0.12193590559578897).
+video('Sports', 'Heverton Guimarães', 'ATLÉTICO ARMOU ARAPUCA, CRUZEIRO CAIU… MATANDO!!', 1698022458.0, 0.07945194807724143).
 video('Sports', 'Hospício 1910', 'FOI HISTÓRICO! Torcida do CORINTHIANS DETONA contra o BOCA na LIBERTADORES | Corinthians x Boca Jrs', 1651064412.0, 0.05829261751227305).
 video('Sports', 'Hugão Corintiano', 'CORINTIANO REAGINDO (REACT) PALMEIRAS 4X0 ÁGUA SANTA | PALMEIRAS CAMPEÃO PAULISTA 2023', 1681080182.0, 0.1402705565770088).
 video('Sports', 'HyundaiWorldwide', 'Goal of the Century x BTS | Yet To Come (Hyundai Ver.) Music Video Preview', 1663801142.0, 0.10715964838280137).
@@ -21334,6 +21667,7 @@ video('Sports', 'Itatiaia', 'HULK LAMENTA DERROTA E MANDA RECADO PARA SASSÁ: �
 video('Sports', 'Itatiaia', 'CRUZEIRÔÔÔ! RICHARD FAZ O GOL DA CLASSIFICAÇÃO DO CRUZEIRO E PEQUETITO CHORA NA NARRAÇÃO', 1682467428.0, 0.04569899737859093).
 video('Sports', 'Itatiaia', 'FÁBIO FALA SOBRE VOLTA AO CRUZEIRO E RASGA ELOGIOS À TORCIDA CRUZEIRENSE! CONFIRA!', 1683810129.0, 0.034489746804980306).
 video('Sports', 'Itatiaia Esporte', 'MATHEUS PEREIRA JÁ ESTÁ EM BH PARA ASSINAR COM CRUZEIRO!', 1690058259.0, 0.04730515703761148).
+video('Sports', 'Itatiaia Esporte', '\'FALARAM MUITA BESTEIRA!\' MATHEUS PEREIRA PROVOCA ATLÉTICO APÓS VITÓRIA DO CRUZEIRO!', 1698012206.0, 0.05304076789572486).
 video('Sports', 'JB Filho Repórter', '🔴 COUDET APARECEU DESTROÇADO, PRESIDENTE APARECEU E JOGADORES FALANDO EM PIOR ELIMINAÇÃO', 1696496418.0, 0.04710544452101999).
 video('Sports', 'JOYCE PALMEIRENSE JP', 'NÃO VOLTA P O VERDÃO | LUCAS ESTEVES RENOVA COM COLORADO RAPIDS E PODE SER VENDIDO', 1656553025.0, 0.025430098330404674).
 video('Sports', 'Jaeci Carvalho', 'Galo envergonha sua torcida e perde em casa para o Goiás! Eu avisei que o problema não é treinador.', 1661034440.0, 0.06593256741553881).
@@ -21604,6 +21938,13 @@ video('Sports', 'Jovem Pan Esportes', 'EU FALO! É INFORMAÇÃO de DENTRO do Cor
 video('Sports', 'Jovem Pan Esportes', 'O Abel ERROU REDONDAMENTE! A MAIOR RESPONSABILIDADE pela ELIMINAÇÃO do Palmeiras pro Boca é DELE!', 1696562118.0, 0.031976816986566015).
 video('Sports', 'Jovem Pan Esportes', 'ISSO É MUITA TEIMOSIA, cara! NÃO TEM O MENOR SENTIDO o Abel... Palmeiras ELIMINADO gera DEBATE!', 1696563710.0, 0.030572078992994377).
 video('Sports', 'Jovem Pan Esportes', 'MEU DEUS! OLHA ISSO que o Renato Gaúcho FEZ, cara! O presidente do Grêmio FICOU PU** e...', 1696804226.0, 0.02721442282557897).
+video('Sports', 'Jovem Pan Esportes', 'PEGOU FOGO! NÃO! O Neymar NÃO é o Ronaldo Fenômeno, cara! Ele... LESÃO GRAVE PROVOCA DEBATE!', 1697686747.0, 0.029898492987011166).
+video('Sports', 'Jovem Pan Esportes', 'JÁ FOI OUTRO FLAMENGO, gente! E é IMPRESSIONANTE como o Tite... Pilhado ELOGIA 2 a 0 no Cruzeiro!', 1697772628.0, 0.03906738377495565).
+video('Sports', 'Jovem Pan Esportes', 'FOI UMA BOA ESTREIA! O Flamengo com o Tite foi UM TIME MUITO MAIS... Mauro Cezar ANALISA VITÓRIA!', 1697819942.0, 0.03979257377516806).
+video('Sports', 'Jovem Pan Esportes', 'CADÊ O \'PLANO\' NESSE ANO?? POUCO SE FALA DISSO, mas o Palmeiras está... Mauro Cezar ANALISA CRISE!', 1697821788.0, 0.03456626771716686).
+video('Sports', 'Jovem Pan Esportes', 'SEM CLUBISMO! EU ACREDITO SIM que o Flamengo PODE SER CAMPEÃO! Ganhou do Vasco e... Pilhado ELOGIA', 1698009990.0, 0.04129795907311854).
+video('Sports', 'Jovem Pan Esportes', '5 A 0? ISSO NÃO EXISTE! O São Paulo foi ABSOLUTAMENTE RIDÍCULO! E o Palmeiras... Mauro Cezar FALA!', 1698334276.0, 0.03821073319126827).
+video('Sports', 'Jovem Pan Esportes', 'ISSO É VERGONHOSO e ACONTECEU DE NOVO! O Flamengo... Mauro Cezar CRITICA DERROTA para o Grêmio!', 1698338055.0, 0.03899117725692897).
 video('Sports', 'KRAV MAGA CAVEIRA - MESTRE WESLEY GIMENEZ', 'Defesa Derrubando o Inimigo de Costas no Chão', 1643410860.0, 0.10320233704042674).
 video('Sports', 'KRAV MAGA CAVEIRA - MESTRE WESLEY GIMENEZ', 'Mata Leão | 03 Defesas que NÃO funcionam', 1647687495.0, 0.05640941792020929).
 video('Sports', 'LALIGA EA Sports', 'Resumen de Athletic Club vs Real Madrid (0-2)', 1691876834.0, 0.017118066763983596).
@@ -21703,6 +22044,7 @@ video('Sports', 'Melhor Futebol do Mundo - TNT Sports Brasil', 'SEVILLA FICA NO 
 video('Sports', 'Melhor Futebol do Mundo - TNT Sports Brasil', 'NAPOLI VENCE COM GOL CONTRA HORRÍVEL DO ZAGUEIRÃO DO BRAGA | BRAGA 1 X 2 NAPOLI | CHAMPIONS LEAGUE', 1695248365.0, 0.04156199339166161).
 video('Sports', 'Melhor Futebol do Mundo - TNT Sports Brasil', 'VOLEIO ACROBÁTICO E GOL SALVADOR NOS SEGUNDOS FINAIS | PSV 2X2 SEVILLA | CHAMPIONS LEAGUE 23/24', 1696369542.0, 0.03839295830923089).
 video('Sports', 'Melhor Futebol do Mundo - TNT Sports Brasil', 'ERROS BIZARROS DO GOLEIRO, PÊNALTI PERDIDO NO ÚLTIMO LANCE E A VIRADA DO SHAKHTAR NA CHAMPIONS!', 1696446318.0, 0.03631748242776368).
+video('Sports', 'Melhor Futebol do Mundo - TNT Sports Brasil', 'REAL SOCIEDAD VENCE E AFUNDA O BENFICA NO GRUPO D! BENFICA 0 X 1 REAL SOCIEDAD | CHAMPIONS', 1698182233.0, 0.03790198334535952).
 video('Sports', 'Mercedes-AMG Petronas Formula One Team', '2022 Mercedes-AMG PETRONAS F1 Team Car Launch | Meet the F1 W13', 1645178066.0, 0.03415885510807305).
 video('Sports', 'Mercedes-AMG Petronas Formula One Team', '2023 Mercedes-AMG PETRONAS F1 Team Car Launch | Meet the F1 W14', 1676454317.0, 0.03199189383884255).
 video('Sports', 'Mesa Redonda', 'Corinthians está no CAMINHO CERTO, opina Muller | INT 2 x 2 COR (15/05/22)', 1652725382.0, 0.037813406106089034).
@@ -21733,6 +22075,7 @@ video('Sports', 'Monster Energy Supercross', '450 Main Event Highlights - Anahei
 video('Sports', 'Motion Station', 'Game Recap: Kings 114, Warriors 106', 1681798937.0, 0.014387639709522273).
 video('Sports', 'Motion Station', 'Game Recap: Lakers 104, Warriors 101', 1683612984.0, 0.024723809880169503).
 video('Sports', 'Motion Station', 'Game Recap: Nuggets 94, Heat 89', 1686633646.0, 0.01627655986509275).
+video('Sports', 'Motion Station', 'Game Recap:  Suns 108, Warriors 104', 1698215085.0, 0.01608186281091115).
 video('Sports', 'NBA', 'Final 4:32 WILD ENDING Warriors vs Celtics - Game 4 NBA Finals 🔥', 1654918603.0, 0.014416430663428174).
 video('Sports', 'NBA', 'Golden State Warriors 2021-22 NBA Championship Celebration 🏆', 1655440297.0, 0.0204315380273591).
 video('Sports', 'NBA', 'Team Dwyane vs Team Ryan | #RufflesCelebGame | 2023 #NBAAllStar', 1676687200.0, 0.01247253659581329).
@@ -21747,6 +22090,8 @@ video('Sports', 'NBA Brasil', 'Jimmy Butler e o Miami Heat eliminam os Bucks e A
 video('Sports', 'NBA Brasil', 'Lakers VENCEM a primeira contra os Warriors em jogo INSANO! - Rodada NBA 02/05', 1683115787.0, 0.0756425989464633).
 video('Sports', 'NBA Brasil', 'Lakers VENCEM Warriors em um JOGAÇO de basquete! - Rodada NBA 08/05', 1683634547.0, 0.07001254498035721).
 video('Sports', 'NBA Brasil', 'Neymar EXCLUSIVO - Amizade com Jimmy Butler e pedido especial: “NÃO TEM COMO DIZER NÃO”', 1686319209.0, 0.09333721480295477).
+video('Sports', 'NBA Brasil', 'Nuggets estreiam com anel de campeão e VITÓRIA contra os Lakers! - Rodada NBA 24/10', 1698238200.0, 0.1187701970779664).
+video('Sports', 'NBA Brasil', 'Luka Doncic BRILHA com TRIPLO-DUPLO na estreia de Victor Wembanyama! - Rodada NBA 25/10', 1698324302.0, 0.10979049612156229).
 video('Sports', 'NFL', '49ers vs. Packers Divisional Round Highlights | NFL 2021', 1642912180.0, 0.01172135066660986).
 video('Sports', 'NFL', 'Bills vs. Chiefs Divisional Round Highlights | NFL 2021', 1642994481.0, 0.015606036659226889).
 video('Sports', 'NFL', 'Dr. Dre, Snoop Dogg, Eminem, Mary J. Blige & Kendrick Lamar FULL Pepsi Super Bowl LVI Halftime Show', 1644802623.0, 0.053108456418130785).
@@ -21802,6 +22147,7 @@ video('Sports', 'Os Donos da Bola', '“Vexame”, diz Neto sobre eliminação d
 video('Sports', 'Os Donos da Bola', 'Neto exalta São Paulo após conquista da Copa do Brasil: sempre foi melhor que os outros', 1695659841.0, 0.04984889465647778).
 video('Sports', 'Os Donos da Bola', 'Neto detona “novela” para escolha de novo treinador do Corinthians e questiona Tite', 1695919978.0, 0.030874465604352894).
 video('Sports', 'Os Donos da Bola', 'Neto detona elenco do Corinthians e aconselha Mano Menezes: “Tem que mandar embora”', 1696524929.0, 0.04173610234668988).
+video('Sports', 'Os Donos da Bola', 'Neto detona São Paulo por goleada para o Palmeiras, critica grama sintética e pede hino do Timão', 1698339507.0, 0.03354712287957888).
 video('Sports', 'Os Donos da Bola RJ', 'DEU TRETA! CARLOS ALBERTO ESCOLHEU ARRASCAETA NO MANO A MANO?', 1674841309.0, 0.03445641726109172).
 video('Sports', 'Os Donos da Bola RJ', 'PRESIDENTE do FLU fala sobre a PRELEÇÃO de FERNANDO DINIZ', 1681158910.0, 0.05507246376811594).
 video('Sports', 'Os Donos da Bola RJ', 'VASCO ESTÁ SENDO FAVORECIDO PARA FUGIR DO Z4?', 1695749264.0, 0.05726125763371586).
@@ -21935,8 +22281,8 @@ video('Sports', 'Paulistão', 'CORINTHIANS 2 X 2 PALMEIRAS | MELHORES MOMENTOS |
 video('Sports', 'Paulistão', 'SANTOS 4 X 0 PORTUGUESA-SP | MELHORES MOMENTOS | 10ª RODADA | FASE DE GRUPOS | PAULISTÃO 2023', 1676840410.0, 0.026137361171364386).
 video('Sports', 'Paulistão', 'CORINTHIANS 3 X 0 MIRASSOL| MELHORES MOMENTOS | 10ª RODADA | FASE DE GRUPOS | PAULISTÃO 2023', 1676849571.0, 0.02610703874815526).
 video('Sports', 'Paulistão', 'SÃO BENTO 0 X 3 SÃO PAULO | MELHORES MOMENTOS | 10ª RODADA | FASE DE GRUPOS | PAULISTÃO 2023', 1677027741.0, 0.02320206240554716).
-video('Sports', 'Paulistão', 'PALMEIRAS 2 X 0 RED BULL BRAGANTINO | MELHORES MOMENTOS | 10ª RODADA | PAULISTÃO 2023', 1677120115.0, 0.027480312985905603).
 video('Sports', 'Paulistão', 'PALMEIRAS 2 X 0 RB BRAGANTINO | MELHORES MOMENTOS | 10ª RODADA | FASE DE GRUPOS | PAULISTÃO 2023', 1677120115.0, 0.04357675531166456).
+video('Sports', 'Paulistão', 'PALMEIRAS 2 X 0 RED BULL BRAGANTINO | MELHORES MOMENTOS | 10ª RODADA | PAULISTÃO 2023', 1677120115.0, 0.027480312985905603).
 video('Sports', 'Paulistão', 'SANTOS 2 X 2 CORINTHIANS | MELHORES MOMENTOS | 11ª RODADA | FASE DE GRUPOS | PAULISTÃO 2023', 1677446064.0, 0.029098295982546533).
 video('Sports', 'Paulistão', 'PALMEIRAS 2 X 1 FERROVIÁRIA | MELHORES MOMENTOS | 11ª RODADA | FASE DE GRUPOS | PAULISTÃO 2023', 1677454390.0, 0.0324867533755552).
 video('Sports', 'Paulistão', 'JOGO COMPLETO: CORINTHIANS X SANTO ANDRÉ | RODADA 12 | PAULISTÃO 2023', 1677975782.0, 0.033609618560113366).
@@ -21962,6 +22308,7 @@ video('Sports', 'Pilhado', 'TRETEI COM O MAURO CÉZAR SOBRE O PAULO SOUSA! 😱 
 video('Sports', 'Pilhado', 'BENJA AFIRMA QUE FLAMENGO VAI CONTRATAR OUTROS NOMES DE PESO! 😱', 1656864312.0, 0.11363723205074319).
 video('Sports', 'Pilhado', 'LUÍS HENRIQUE FECHOU COM O FLAMENGO! ATACANTE É O NOVO REFORÇO DO CLUBE!', 1656949320.0, 0.11297524602245632).
 video('Sports', 'Placar TV', 'O ELENCO É RUIM, VAG4B#NDO...PREGUIÇOSO! [Cortes do Opinião Placar]', 1694815201.0, 0.038102762540064464).
+video('Sports', 'Placar TV', 'PÓS-JOGO: INTER HUMILHA O SANTOS NOS 7-1 DO BEIRA-RIO', 1698011203.0, 0.09076873070047131).
 video('Sports', 'Plantão do Paulinho', 'Adversários tropeçam | Bahia, Grêmio e Vasco estão quase na elite', 1666478499.0, 0.03941620499774047).
 video('Sports', 'Play Sports', 'C0L0R4D0 BUSCOU EMPATE | NO APAGAR DAS LUZES, O ARTILHEIRO DO INT3R SALVOU COM GOL NO FINALZINHO', 1691278876.0, 0.010313670940010277).
 video('Sports', 'RECORD TV', 'Cleber Machado fala sobre narrar final do Paulistão: “Muito feliz de contar essa história”', 1680463245.0, 0.047319287427201095).
@@ -21969,8 +22316,8 @@ video('Sports', 'RaFla Mello', 'SAMPAOLI TOMA PRIMEIRA DECISÃO COMO TREINADOR D
 video('Sports', 'RaFla Mello', 'TITE DIZ SIM AO FLAMENGO! SAMPAOLI AGUARDA DEMISSÃO E REPETE PAULO SOUSA! JOGADORES INSATISFEITOS!', 1695737880.0, 0.1503891150852961).
 video('Sports', 'Rafael Brandão', 'NOVO COACH - INICIANDO O PRIMEIRO PROTOCOLO', 1685480404.0, 0.10571963733101689).
 video('Sports', 'Rafael Oliveira', 'Jogo de abertura da Copa do Mundo foi uma grande decepção, mas o Equador fez sua parte', 1668971426.0, 0.13990046838407494).
-video('Sports', 'Raiz Tricolor', 'ISSO É TER ELENCO!!! | 🇨🇴 MILLONARIOS 1x2 FLUMINENSE 🇧🇷 | ANÁLISE POCKET | LIBERTADORES 2022', 1645588111.0, 0.11544697870500487).
 video('Sports', 'Raiz Tricolor', 'ISSO É TER ELENCO!!! | MILLONARIOS (COL) 1x2 FLUMINENSE | ANÁLISE POCKET | LIBERTADORES 2022', 1645588111.0, 0.11798315586391125).
+video('Sports', 'Raiz Tricolor', 'ISSO É TER ELENCO!!! | 🇨🇴 MILLONARIOS 1x2 FLUMINENSE 🇧🇷 | ANÁLISE POCKET | LIBERTADORES 2022', 1645588111.0, 0.11544697870500487).
 video('Sports', 'Raiz Tricolor', 'PIPOCADA! FLU ELIMINADO! | 🇵🇾 OLIMPIA 2x0 FLUMINENSE 🇧🇷 | ANÁLISE POCKET|DIRETO DEFENSORES DEL CHACO', 1647488051.0, 0.07717205221485127).
 video('Sports', 'Raiz Tricolor', 'FAÇA O \'L\'! CANO DESTROI E O FLU GANHA | FLAMENGO 0x2 FLUMINENSE | ANÁLISE POCKET|DIRETO DO MARACANÃ', 1648698954.0, 0.16158098396904366).
 video('Sports', 'Raiz Tricolor', 'HISTÓRICO! VENCEMOS E FOMOS MUITO SUPERIORES! | FLUMINENSE 5x3 ATLÉTICO-MG | ANÁLISE POCKET', 1654748476.0, 0.16264523487062513).
@@ -22024,13 +22371,14 @@ video('Sports', 'Renato Cariani', 'COMUNICADO OFICIAL DE FECHAMENTO DO CT - ENTE
 video('Sports', 'Renato Cariani', 'CARIANI APRESENTA O NOVO CT IRONBERG', 1656608487.0, 0.13416646164088167).
 video('Sports', 'Renato Cariani', 'RAMON DINO ABRIU O JOGO - PARTIU LAS VEGAS', 1670533327.0, 0.11464440008027801).
 video('Sports', 'Renato Cariani', 'RAMON NÃO BATEU O PESO ? FOI DESCLASSIFICADO ? ENTENDA TUDO O QUE ACONTECEU', 1671126296.0, 0.10590723224277393).
-video('Sports', 'Renato Cariani', 'CARIANI FICOU FURIOSO NO PRIMEIRO TREINO DO PROJETO 60 DIAS FLOW #EP2', 1688581111.0, 0.07762349861275912).
 video('Sports', 'Renato Cariani', 'CARIANI FICOU FURIOSO NO PRIMEIRO TREINO DO PROJETO 60 DIAS FLOW', 1688581111.0, 0.09953989185086803).
+video('Sports', 'Renato Cariani', 'CARIANI FICOU FURIOSO NO PRIMEIRO TREINO DO PROJETO 60 DIAS FLOW #EP2', 1688581111.0, 0.07762349861275912).
 video('Sports', 'Renato Cariani', '🚨 NOVO PROJETO - SERJÃO DOS FOGUETES PESANDO 160KG', 1689010339.0, 0.1541692964994902).
 video('Sports', 'Renato Cariani', '🚨 IGOR NÃO AGUENTOU O TREINO - PROJETO FLOW 60 DIAS #EP5', 1689098474.0, 0.09951496306698095).
 video('Sports', 'Renato Cariani', '🚨 IGOR NÃO AGUENTOU O TREINO - PROJETO FLOW 60 DIAS', 1689098474.0, 0.10161128648127438).
 video('Sports', 'Renato Cariani', 'SERJÃO EMOCIONADO, NEM ELE ESPERAVA POR ISSO - EVOLUÇÃO EM 14 DIAS - PROJETO SERJÃO DOS FOGUETES', 1692381515.0, 0.11832085675221518).
 video('Sports', 'Renato Cariani', 'COMUNICADO OFICIAL - FIM DO PROJETO FLOW !', 1695402505.0, 0.09195062539343679).
+video('Sports', 'Renato Cariani', 'DANILO GENTILI E IGOR GUIMARÃES JUNTOS NO CT - PROJETO AVENGER 90 DIAS #EP06', 1698084403.0, 0.08268551734831239).
 video('Sports', 'Resenha Rubro-Negra', 'REUNIÃO DE DE LA CRUZ COM RIVER PLATE | LUCAS VERÍSSIMO NO FLAMENGO | FLA SE ACERTA POR ALLAN E+', 1688138109.0, 0.1413966571104019).
 video('Sports', 'Reversão', 'ENCHENDO O IGÃO DE BICUDA NA VOLTA DO REVERSÃO!!', 1648677715.0, 0.24526681354792934).
 video('Sports', 'Reversão', 'DESAFIOS DE PEDREIRO - BOLA NA BETONEIRA 🎯', 1649194643.0, 0.16804512579160466).
@@ -22046,6 +22394,7 @@ video('Sports', 'Reversão', 'COMPRAMOS A CHUTEIRA MAIS CARA DE CADA MARCA 💸 
 video('Sports', 'Reversão', 'SE NÃO FIZER O GOL O BEXIGÃO ESTOURA! 🎈💦', 1689192005.0, 0.10659482111024936).
 video('Sports', 'Reversão', 'COMPRAMOS UM GOL PROFISSIONAL GIGANTESCO! 😨🥅', 1696453219.0, 0.1042947265089287).
 video('Sports', 'Reversão', 'AMARELINHA ENSABOADA 😂🧼', 1696971618.0, 0.12197624117749474).
+video('Sports', 'Reversão', 'COMPRAMOS E TESTAMOS UMA CHUTEIRA JORDAN!! (vale a pena?)', 1697637633.0, 0.10303808368644624).
 video('Sports', 'Rikinho', 'DESAFIO VALENDO FIGURINHAS DA COPA NO ESTÁDIO PROFISSIONAL! PARTE 9 ‹ Rikinho ›', 1666108930.0, 0.03256231143486179).
 video('Sports', 'Rikinho', 'A GRANDE FINAL DO INTERCLASSE VALENDO MEDALHA DE OURO! ‹ Rikinho ›', 1693234236.0, 0.02185253417921405).
 video('Sports', 'Rikinho', 'A MAIOR TRETA DO INTERCLASSE ACONTECEU! ‹ Rikinho ›', 1693402207.0, 0.029408198674666052).
@@ -22061,10 +22410,10 @@ video('Sports', 'RonaldoTV', 'ANTONY RECEBE ISA PAGLIARI EM SUA MANSÃO - ARRUMA
 video('Sports', 'RonaldoTV', 'ISA PAGLIARI passou o DIA OFF com o RICHARLISON | RonaldoTV', 1668459386.0, 0.08774861321362534).
 video('Sports', 'RonaldoTV', 'ANTONY E ISA PAGLIARI PASSARAM O DIA OFF | RonaldoTV', 1668632209.0, 0.08357296443097328).
 video('Sports', 'RonaldoTV', 'RODRYGO SERÁ TÍTULAR NA SELEÇÃO?! | ENTREVISTA PÓS-JOGO: BRASIL 1 x 0 SUÍÇA | RonaldoTV', 1669665911.0, 0.06912735642625145).
-video('Sports', 'RonaldoTV', 'CASEMIRO SE EMOCIONA COM RONALDO EM ENTREVISTA PÓS-JOGO | BRASIL 1 x 0 SUÍÇA | RonaldoTV', 1669667383.0, 0.054338648102402874).
 video('Sports', 'RonaldoTV', 'RONALDO FENÔMENO ENTREVISTA CASEMIRO | PÓS JOGO BRASIL 1 x 0 SUÍÇA | RonaldoTV', 1669667383.0, 0.0489136701274682).
-video('Sports', 'RonaldoTV', 'RONALDO FENÔMENO ENTREVISTA RICHARLISON | BRASIL 4 X 1 COREIA DO SUL | RonaldoTv', 1670284445.0, 0.08621521209144785).
+video('Sports', 'RonaldoTV', 'CASEMIRO SE EMOCIONA COM RONALDO EM ENTREVISTA PÓS-JOGO | BRASIL 1 x 0 SUÍÇA | RonaldoTV', 1669667383.0, 0.054338648102402874).
 video('Sports', 'RonaldoTV', 'RICHARLISON SE EMOCIONA COM RONALDO EM ENTREVISTA PÓS-JOGO | BRASIL 4 x 1 COREIA DO SUL | RonaldoTV', 1670284445.0, 0.0596075057754964).
+video('Sports', 'RonaldoTV', 'RONALDO FENÔMENO ENTREVISTA RICHARLISON | BRASIL 4 X 1 COREIA DO SUL | RonaldoTv', 1670284445.0, 0.08621521209144785).
 video('Sports', 'Rubro News Futebol Clube', 'ARÃO BARRADO? DIEGO ALVES TITULAR? PS  PROMOVERÁ MUDANÇAS! TREINADORES PROCURADOS! BH DE SAÍDA E+.', 1654684519.0, 0.1002592526372251).
 video('Sports', 'Rádio Arena Futebol', 'Flamengo bate Altos e avança na Copa do Brasil', 1652334609.0, 0.008277347114556417).
 video('Sports', 'Rádio Arena Futebol', 'Cuiabá e Ceará empatam na Arena Pantanal', 1655602209.0, 0.008744886464694374).
@@ -22149,8 +22498,8 @@ video('Sports', 'Santos Futebol Clube', 'LUAN E NATHAN TREINAM NO CT REI PELÉ',
 video('Sports', 'Santos Futebol Clube', 'LISCA | COLETIVA (08/08/22)', 1660017426.0, 0.0856365382563227).
 video('Sports', 'Santos Futebol Clube', 'SOTELDO ESTÁ DE VOLTA #OPequenoGigante', 1660226403.0, 0.14136479392962945).
 video('Sports', 'Santos Futebol Clube', 'SOTELDO E CARABAJAL | APRESENTAÇÃO (17/08/22)', 1660751569.0, 0.10199526363067207).
-video('Sports', 'Santos Futebol Clube', 'SANTOS 2 x 0 ATHLETICO-PR | COLETIVA (27/09/22)', 1664333889.0, 0.09031979256698358).
 video('Sports', 'Santos Futebol Clube', 'SANTOS 2 x 0 ATLHETICO-PR | COLETIVA (27/09/22)', 1664333889.0, 0.14142923386058015).
+video('Sports', 'Santos Futebol Clube', 'SANTOS 2 x 0 ATHLETICO-PR | COLETIVA (27/09/22)', 1664333889.0, 0.09031979256698358).
 video('Sports', 'Santos Futebol Clube', 'RB BRAGANTINO 0 X 2 SANTOS | BASTIDORES | BRASILEIRÃO (17/10/22)', 1666130418.0, 0.14538316582914573).
 video('Sports', 'Santos Futebol Clube', 'PELÉ ETERNO 👑', 1672346171.0, 0.21930878035761942).
 video('Sports', 'Santos Futebol Clube', 'ODAIR HELLMANN | COLETIVA (08/02/23)', 1675913164.0, 0.11279184478789872).
@@ -22233,8 +22582,8 @@ video('Sports', 'São Paulo FC', 'BEM-VINDO, WELLINGTON RATO | SPFC PLAY', 16712
 video('Sports', 'São Paulo FC', 'BEM-VINDO, MARCOS PAULO! | SPFC PLAY', 1672273516.0, 0.18729959570612018).
 video('Sports', 'São Paulo FC', 'DIRETO DO CT: 02/01/2023 | SPFC PLAY', 1672710168.0, 0.10447828168002872).
 video('Sports', 'São Paulo FC', 'DIRETO DO CT: 05/01/2023 | SPFC PLAY', 1672961008.0, 0.1260258728613159).
-video('Sports', 'São Paulo FC', 'COLETIVA DE APRESENTAÇÃO: WELLINGTON RATO | SPFC PLAY', 1673025033.0, 0.09578072066522944).
 video('Sports', 'São Paulo FC', 'COLETIVA DE APRESENTAÇÃO: WELLINGTON RATO | SPFCTV', 1673025033.0, 0.1073368829528021).
+video('Sports', 'São Paulo FC', 'COLETIVA DE APRESENTAÇÃO: WELLINGTON RATO | SPFC PLAY', 1673025033.0, 0.09578072066522944).
 video('Sports', 'São Paulo FC', 'DIRETO DO CT: JOGO-TREINO CONTRA O GUARANI | SPFC PLAY', 1673116392.0, 0.07695995883618674).
 video('Sports', 'São Paulo FC', 'COLETIVA: ROGÉRIO CENI | SPFC PLAY', 1673628404.0, 0.10476499321023937).
 video('Sports', 'São Paulo FC', 'COLETIVA PÓS-JOGO: SÃO PAULO x INTER DE LIMEIRA | SPFC PLAY', 1676520099.0, 0.08674442884400763).
@@ -22419,6 +22768,12 @@ video('Sports', 'TNT Sports Brasil', 'ICARDI FAZ GOLAÇO, CASEMIRO É EXPULSO E 
 video('Sports', 'TNT Sports Brasil', 'LEWANDOWSKI SAI LESIONADO MAS BARÇA VENCE NO DRAGÃO! PORTO 0 X 1 BARCELONA | CHAMPIONS 23/24', 1696453966.0, 0.051880301505473514).
 video('Sports', 'TNT Sports Brasil', 'PSG É HUMILHADO PELO NEWCASTLE E TOMA GOLEADA NA CHAMPIONS LEAGUE | NEWCASTLE 4 X 1 PSG', 1696454415.0, 0.06009270589153466).
 video('Sports', 'TNT Sports Brasil', 'JULIÁN ÁLVAREZ DESTRÓI DE NOVO, DOKU MARCA E CITY VENCE NA CHAMPIONS | LEIPZIG 1 X 3 MANCHESTER CITY', 1696454746.0, 0.051674183254022975).
+video('Sports', 'TNT Sports Brasil', 'JESUS JOGA MUITO, FAZ GOLAÇO E DÁ ASSISTÊNCIA PARA MARTINELLI! SEVILLA 1 X 2 ARSENAL | CHAMPIONS', 1698181902.0, 0.05042944932258412).
+video('Sports', 'TNT Sports Brasil', 'BELLINGHAM E VINI JR BRILHAM DE NOVO E RODRYGO CRAVA! BRAGA 1 X 2 REAL MADRID | CHAMPIONS 23/24', 1698183290.0, 0.0508240087187279).
+video('Sports', 'TNT Sports Brasil', 'ONANA DEFENDE PÊNALTI NO ÚLTIMO SEGUNDO E MAGUIRE FAZ GOL SALVADOR! MANCHESTER UNITED 1X0 COPENHAGUE', 1698183332.0, 0.05572222229378372).
+video('Sports', 'TNT Sports Brasil', 'GAROTADA DECIDE E BARÇA VENCE MESMO COM GOLS ANULADOS! BARCELONA 2 X 1 SHAKHTAR DONETSK | CHAMPIONS', 1698259874.0, 0.051837815268709654).
+video('Sports', 'TNT Sports Brasil', 'HAALAND CRAVA DUAS VEZES E SALVA O MANCHESTER CITY NA CHAMPIONS! YOUNG BOYS 1 X 3 MANCHESTER CITY', 1698268235.0, 0.0546751968503937).
+video('Sports', 'TNT Sports Brasil', 'MBAPPÉ MARCA GOLAÇO E PSG ASSUME A LIDERANÇA DO GRUPO! PSG 3 X 0 MILAN | CHAMPIONS 23/24', 1698268384.0, 0.04941329951078094).
 video('Sports', 'TNT Sports Entrevistas', 'ABEL FERREIRA DEU ESSA RESPOSTA PRO DIEGO RIBAS SOBRE O ENDRICK! | TNT Sports Entrevistas', 1677460140.0, 0.03667663223196432).
 video('Sports', 'TROPA RUBRO-NEGRA!', 'MENGÃO RESSURGE E JOGADORES SELAM A UNIÃO NO VESTIÁRIO! LUÍS ARAÚJO VAI ARREBENTAR!', 1692320292.0, 0.037267080745341616).
 video('Sports', 'TV BAHÊA', 'JOGO AO VIVO - Bahia x Juazeirense - Estreia 2023!', 1673483804.0, 0.0305376634396575).
@@ -22429,6 +22784,7 @@ video('Sports', 'TV BAHÊA', 'JOGO AO VIVO - Barcelona X Bahia', 1675305667.0, 0
 video('Sports', 'TV BAHÊA', 'JOGO AO VIVO - Bahia x Bahia de Feira', 1675912871.0, 0.025612185970290954).
 video('Sports', 'TV BAHÊA', '🎙 Entrevista Coletiva - Renato Paiva', 1692568577.0, 0.09246349763969701).
 video('Sports', 'TV BAHÊA', '🎙️ Apresentação - Rogério Ceni', 1694462662.0, 0.09045843787775668).
+video('Sports', 'TV BAHÊA', '🎙 Entrevista Coletiva - Rogério Ceni', 1697687347.0, 0.062244816267712756).
 video('Sports', 'TV BAHÊA SMART AUDIUS', '🎬 Bastidores Bahia 1x0 CSA - COMPLETO!', 1659918969.0, 0.09101311749930226).
 video('Sports', 'TV Cultura Litoral', 'RESENHA  SANTISTA - 01/08/2023', 1690898964.0, 0.09589851099285061).
 video('Sports', 'TV Futsal', 'Brasil X Argentina | FINAL | Sul-Americano Sub-17 de Futsal 2023 (25/06/2023)', 1687813224.0, 0.020405400177942828).
@@ -22498,7 +22854,9 @@ video('Sports', 'TV Palmeiras/FAM', 'JOGADORES DO PALMEIRAS MANDAM MENSAGEM PARA
 video('Sports', 'TV Palmeiras/FAM', 'COLETIVA | ABEL FERREIRA | PALMEIRAS 1 X 0 GOIÁS', 1694834715.0, 0.06464033212988332).
 video('Sports', 'TV Palmeiras/FAM', 'COLETIVA ABEL FERREIRA E MAYKE | PALMEIRAS X BOCA JUNIORS | LIBERTADORES 2023', 1696567857.0, 0.036454323838850396).
 video('Sports', 'TV Palmeiras/FAM', 'COLETIVA | ABEL FERREIRA | PALMEIRAS X SANTOS', 1696802974.0, 0.07977352237157061).
+video('Sports', 'TV Palmeiras/FAM', 'AO VIVO | COLETIVA ABEL FERREIRA | PALMEIRAS X SÃO PAULO', 1698284789.0, 0.08241899037901554).
 video('Sports', 'TV Sport Betnacional', 'COLETIVA DE ENDERSON MOREIRA (ABC x SPORT)', 1694838587.0, 0.04368891603731675).
+video('Sports', 'TV Sport Betnacional', 'COLETIVA DE ENDERSON MOREIRA (JUVENTUDE x SPORT)', 1697514957.0, 0.0300186185636236).
 video('Sports', 'TV Sport Recife', 'Recado de Lisca para a torcida do Sport', 1656368939.0, 0.16347388698630136).
 video('Sports', 'TV Sport Recife', 'Coletiva do treinador Lisca (Vasco x Sport)', 1656888461.0, 0.06619224641529474).
 video('Sports', 'TV Sport Recife', 'Coletiva do técnico Lisca (Sport x Londrina)', 1657409636.0, 0.08634308827028313).
@@ -22516,6 +22874,7 @@ video('Sports', 'The Emirates FA Cup', 'GOAL | İlkay Gündoğan | Manchester Ci
 video('Sports', 'Time Brasil', 'MUNDIAL DE GINÁSTICA 2022 – Rebeca Andrade no solo, com Baile de Favela - final individual geral', 1667511051.0, 0.03265211875032588).
 video('Sports', 'Time Brasil', 'Mundial de Ginástica Artística Antuérpia 2023 - Final por Equipes | Rebeca Andrade no solo', 1696447491.0, 0.0186952873945323).
 video('Sports', 'Time Brasil', 'Mundial de Ginástica Artística Antuérpia 2023 - Final Individual Geral | Rebeca Andrade no solo', 1696622122.0, 0.03336887777614355).
+video('Sports', 'Time Brasil', 'JOGOS PAN-AMERICANOS | REBECA ANDRADE É OURO NO SALTO', 1698186022.0, 0.02328540228368732).
 video('Sports', 'Tode', 'REAL acerta com MBAPPÉ l FLA vai a PORTUGAL por CEBOLINHA l VAN DE BEEK é do EVERTON', 1643662813.0, 0.17165565648224607).
 video('Sports', 'Tode', 'REAL MADRID quer retorno de CR7 l WALLACE no PALMEIRAS l HAALAND homenageia RAIOLA', 1651503601.0, 0.15704863121329915).
 video('Sports', 'Tode', 'CASEMIRO é do MANCHESTER UNITED l ROONEY MBAPPÉ pensa que é quem? l FOYTH acerta com BARÇA e +', 1660921239.0, 0.1617043268540584).
@@ -22620,6 +22979,9 @@ video('Sports', 'UOL Esporte', '🔴 PALMEIRAS LARGOU O BRASILEIRO? SÃO PAULO V
 video('Sports', 'UOL Esporte', '🔴 PALMEIRAS É ELIMINADO E BOCA ENCARA O FLUMINENSE NA FINAL DA LIBERTADORES. ABEL ERROU?', 1696597900.0, 0.11861252386529544).
 video('Sports', 'UOL Esporte', '🔴 FLAMENGO ACERTA A CHEGADA DE TITE. O QUE MUDA COM ELE? BOTAFOGO SEM BRUNO LAGE AUMENTA VANTAGEM', 1696856886.0, 0.1006791255638725).
 video('Sports', 'UOL Esporte', '🔴 SELEÇÃO EMPATA COM A VENEZUELA, PIPOCA NO NEYMAR E LEILA PEREIRA IRRITA PALMEIRENSES', 1697203004.0, 0.12024937057906726).
+video('Sports', 'UOL Esporte', '🔴 NEYMAR AINDA É ÚTIL PARA A SELEÇÃO BRASILEIRA? O QUE SERÁ DO CORINTHIANS COM AS ELEIÇÕES?', 1697461509.0, 0.07889361885104919).
+video('Sports', 'UOL Esporte', '🔴 PALMEIRAS NA MAIOR CRISE NA ERA ABEL; FLAMENGO COM TITE ANIMOU?  CORINTHIANS MELHOROU?', 1697807473.0, 0.06909144478732147).
+video('Sports', 'UOL Esporte', '🔴 BOTAFOGO DÁ ESPERANÇA PARA BRAGANTINO E FLAMENGO? CORINTHIANS EM PERIGO? SANTOS LEVA 7', 1698066544.0, 0.08864990247245506).
 video('Sports', 'US Open Tennis Championships', 'Daniil Medvedev vs. Nick Kyrgios Highlights | 2022 US Open Round 4', 1662348614.0, 0.011084338651573215).
 video('Sports', 'US Open Tennis Championships', 'Carlos Alcaraz vs. Jannik Sinner Highlights | 2022 US Open Quarterfinal', 1662624016.0, 0.012829589853406629).
 video('Sports', 'US Open Tennis Championships', 'Alexandre Muller vs. Novak Djokovic Highlights | 2023 US Open Round 1', 1693287900.0, 0.011394474738717776).
@@ -22674,6 +23036,7 @@ video('Sports', 'VascoTV', 'BASTIDORES VASCO 4 X 2 FLUMINENSE | VASCOTV', 169499
 video('Sports', 'VascoTV', 'ENTREVISTA COLETIVA RAMÓN DÍAZ - VASCO X CORITIBA | AO VIVO - VASCOTV', 1695343237.0, 0.11748554069054157).
 video('Sports', 'VascoTV', 'BASTIDORES | VASCO 5 X 1 CORITIBA | VASCOTV', 1695432607.0, 0.12161273668371422).
 video('Sports', 'VascoTV', 'BASTIDORES | AMÉRICA MG 0 X 1 VASCO | VASCOTV', 1695772809.0, 0.12134280084761516).
+video('Sports', 'VascoTV', 'BASTIDORES VASCO 1 X 0 FORTALEZA | VASCOTV', 1697763011.0, 0.12498821695878135).
 video('Sports', 'Venê Casagrande', 'O meu esclarecimento sobre a atitude de Diego Ribas | David Luiz pode desfalcar o Flamengo', 1651012708.0, 0.14585138852255172).
 video('Sports', 'Venê Casagrande', 'PAULO SOUSA PODE SER DEMITIDO? | FLAMENGO TEM O PIOR INÍCIO DESDE 2015 | HUGO SOUSA SE MANIFESTOU', 1652619276.0, 0.12915035980305517).
 video('Sports', 'Venê Casagrande', 'BASTIDORES: Paulo Sousa será DEMITIDO, mas o PROBLEMA no Flamengo vai além da TROCA DE TREINADOR', 1654519273.0, 0.13617008866075594).
@@ -22801,8 +23164,8 @@ video('Sports', 'ge', 'SÃO PAULO 2 X 1 CUIABÁ | MELHORES MOMENTOS | 6ª RODADA
 video('Sports', 'ge', 'BOTAFOGO 3 X 1 FORTALEZA | MELHORES MOMENTOS | 6ª RODADA BRASILEIRÃO 2022 | ge.globo', 1652657364.0, 0.042767137180298745).
 video('Sports', 'ge', 'FLAMENGO 1 X 0 GOIÁS | MELHORES MOMENTOS | 7ª RODADA BRASILEIRÃO 2022 | ge.globo', 1653169145.0, 0.03938135556960641).
 video('Sports', 'ge', 'JUVENTUDE 0 x 3 PALMEIRAS | MELHORES MOMENTOS | 7ª RODADA BRASILEIRÃO 2022 | ge.globo', 1653178022.0, 0.03680208281310053).
-video('Sports', 'ge', 'CRUZEIRO 2 X 0 SAMPAIO CORRÊA | MELHORES MOMENTOS | 8ª RODADA BRASILEIRÃO SÉRIE B 2022 | ge.globo', 1653236042.0, 0.044799539446367664).
 video('Sports', 'ge', 'CRUZEIRO 2 X 0 SAMPAIO CORRÊA | MELHORES MOMENTOS | 8ª RODADA SÉRIE B 2022 | ge.globo', 1653236042.0, 0.049112681793729226).
+video('Sports', 'ge', 'CRUZEIRO 2 X 0 SAMPAIO CORRÊA | MELHORES MOMENTOS | 8ª RODADA BRASILEIRÃO SÉRIE B 2022 | ge.globo', 1653236042.0, 0.044799539446367664).
 video('Sports', 'ge', 'VASCO 2 X 0 BRUSQUE | MELHORES MOMENTOS | 9ª RODADA BRASILEIRÃO SÉRIE B 2022 | ge.globo', 1653609766.0, 0.04413467533624298).
 video('Sports', 'ge', 'CRICIÚMA 0 X 1 CRUZEIRO | MELHORES MOMENTOS | 9ª RODADA BRASILEIRÃO SÉRIE B 2022 | ge.globo', 1653705902.0, 0.03797762480757704).
 video('Sports', 'ge', 'SÃO PAULO 2 X 2 CEARÁ | MELHORES MOMENTOS | 8ª RODADA BRASILEIRÃO 2022 | ge.globo', 1653783256.0, 0.03703083087811333).
@@ -23000,8 +23363,8 @@ video('Sports', 'ge', 'ITUANO 0 X 1 VASCO | MELHORES MOMENTOS | 38ª RODADA BRAS
 video('Sports', 'ge', 'VILA NOVA 0 X 0 SPORT | MELHORES MOMENTOS | 38ª RODADA BRASILEIRÃO SÉRIE B 2022 | ge.globo', 1667778843.0, 0.03328586213301961).
 video('Sports', 'ge', 'ATLÉTICO-MG 0 X 2 BOTAFOGO | MELHORES MOMENTOS | 36ª RODADA BRASILEIRÃO 2022 | ge.globo', 1667870104.0, 0.03476203301142703).
 video('Sports', 'ge', 'SÃO PAULO 0 X 1 INTERNACIONAL |  MELHORES MOMENTOS | 37ª RODADA BRASILEIRÃO 2022 | ge.globo', 1667961818.0, 0.027166815946624536).
-video('Sports', 'ge', 'JUVENTUDE 2 X 2 FLAMENGO | MELHORES MOMENTOS | 37ª RODADA BRASILEIRÃO 2022 | ge.globo', 1668048827.0, 0.033297458328807816).
 video('Sports', 'ge', 'JUVENTUDE 2 X 2 FLAMENGO| MELHORES MOMENTOS | 37ª RODADA BRASILEIRÃO 2022 | ge.globo', 1668048827.0, 0.03371780466916714).
+video('Sports', 'ge', 'JUVENTUDE 2 X 2 FLAMENGO | MELHORES MOMENTOS | 37ª RODADA BRASILEIRÃO 2022 | ge.globo', 1668048827.0, 0.033297458328807816).
 video('Sports', 'ge', 'ATLÉTICO-MG 3 X 0 CUIABÁ | MELHORES MOMENTOS | 37ª RODADA BRASILEIRÃO 2022 | ge.globo', 1668128760.0, 0.04956428961595205).
 video('Sports', 'ge', 'BOTAFOGO 3 X 0 SANTOS | MELHORES MOMENTOS | 37ª RODADA BRASILEIRÃO 2022 | ge.globo', 1668129022.0, 0.046373507310150455).
 video('Sports', 'ge', 'GOIÁS 0 X 4 SÃO PAULO | MELHORES MOMENTOS | 38ª RODADA BRASILEIRÃO 2022 | ge.globo', 1668373999.0, 0.03704671770800434).
@@ -23222,8 +23585,23 @@ video('Sports', 'ge', 'INTERNACIONAL 3 X 2 GRÊMIO | MELHORES MOMENTOS | 26ª RO
 video('Sports', 'ge', 'COLÔMBIA 2 X 2 URUGUAI | MELHORES MOMENTOS | ELIMINATÓRIAS DA COPA DO MUNDO 2026 | sportv', 1697152026.0, 0.0282110492662956).
 video('Sports', 'ge', 'BRASIL 1 X 1 VENEZUELA | MELHORES MOMENTOS | ELIMINATÓRIAS DA COPA DO MUNDO 2026 | ge.globo', 1697165325.0, 0.02027490751777932).
 video('Sports', 'ge', 'PORTUGAL 3 X 2 ESLOVÁQUIA | MELHORES MOMENTOS | ELIMINATÓRIAS DA EUROCOPA 2024 | sportv', 1697231486.0, 0.043322939165510436).
+video('Sports', 'ge', 'INGLATERRA 3 X 1 ITÁLIA | MELHORES MOMENTOS | ELIMINATÓRIAS DA EUROCOPA 2024 | sportv', 1697577897.0, 0.03651738340919737).
+video('Sports', 'ge', 'URUGUAI 2 X 0 BRASIL | MELHORES MOMENTOS | ELIMINATÓRIAS DA COPA DO MUNDO 2026 |  sportv', 1697594976.0, 0.03505117836568617).
+video('Sports', 'ge', 'CRUZEIRO 0 X 2 FLAMENGO | MELHORES MOMENTOS | 27ª RODADA BRASILEIRÃO 2023 | ge.globo', 1697761670.0, 0.04909943841944368).
+video('Sports', 'ge', 'PALMEIRAS 0 X 2 ATLÉTICO-MG | MELHORES MOMENTOS | 27ª RODADA BRASILEIRÃO 2023 | ge.globo', 1697762940.0, 0.04364260777602147).
+video('Sports', 'ge', 'FLUMINENSE 3 X 3 CORINTHIANS | MELHORES MOMENTOS | 27ª RODADA BRASILEIRÃO 2023 | ge.globo', 1697769792.0, 0.04611508598539007).
+video('Sports', 'ge', 'INTERNACIONAL 7 X 1 SANTOS | MELHORES MOMENTOS | 28ª RODADA DO BRASILEIRÃO 2023 | ge.globo', 1698008242.0, 0.034744173586927406).
+video('Sports', 'ge', 'FLAMENGO 1 X 0 VASCO | MELHORES MOMENTOS | 28ª RODADA BRASILEIRÃO 2023 | ge.globo', 1698008451.0, 0.03522985331123796).
+video('Sports', 'ge', 'ATLÉTICO-MG 0 X 1 CRUZEIRO | MELHORES MOMENTOS | 28ª RODADA BRASILEIRÃO 2023 | ge.globo', 1698008940.0, 0.03573136466733629).
+video('Sports', 'ge', 'CORINTHIANS 1 X 1 AMÉRICA-MG | MELHORES MOMENTOS | 28ª RODADA DO BRASILEIRÃO 2023 | ge.globo', 1698018336.0, 0.0282450135802814).
+video('Sports', 'ge', 'PALMEIRAS 5 X 0 SÃO PAULO | MELHORES MOMENTOS | 29ª RODADA DO BRASILEIRÃO 2023 | ge.globo', 1698284649.0, 0.045765643802647415).
+video('Sports', 'ge', 'CUIABÁ 0 X 1 CORINTHIANS | MELHORES MOMENTOS | 29ª RODADA DO BRASILEIRÃO 2023 | ge.globo', 1698288392.0, 0.04033841837629318).
+video('Sports', 'ge', 'GRÊMIO 3 X 2 FLAMENGO | MELHORES MOMENTOS | 29ª RODADA DO BRASILEIRÃO 2023 | ge.globo', 1698288738.0, 0.0395734412465443).
+video('Sports', 'ge', 'VASCO 1 X 2 INTERNACIONAL | MELHORES MOMENTOS | 29ª RODADA DO BRASILEIRÃO 2023 | ge.globo', 1698366836.0, 0.02867240101546855).
+video('Sports', 'ge', 'SANTOS 2 X 1 CORITIBA | MELHORES MOMENTOS | 29ª RODADA DO BRASILEIRÃO SÉRIE A 2023 | ge.globo', 1698376349.0, 0.04666088654048542).
 video('Sports', 'الدوري السعودي للمحترفين - Saudi Pro League', 'ملخص مباراة الوحدة و النصر | RSL MD16 AlWehda X AlNassr 22/23 | CR7 super hat trick', 1675974094.0, 0.013850490047693042).
 video('Travel & Events', 'Baita Rolê', 'ÁFRICA DE MOTO 02| Maior TRAGÉDIA NATURAL dos últimos tempos', 1688306820.0, 0.09149639423076923).
+video('Travel & Events', 'Casal da Lavanda', 'Nossa KOMBI PEGOU FOGO e levamos ELA de VOLTA PRO BRASIL', 1697576433.0, 0.14165451411905078).
 video('Travel & Events', 'Deixando o Amor Guiar', 'DESABAFO: A VERDADE SOBRE MEUS 6 MESES SOZINHA NA ESTRADA | Florianópolis | T3 EP1', 1650840086.0, 0.1372699766876643).
 video('Travel & Events', 'Desbrava Trip', 'NOSSA VIAGEM DE KOMBI CHEGOU AO FIM!! T.6 EP.45', 1682465406.0, 0.11286331323674975).
 video('Travel & Events', 'Desbrava Trip', 'O QUE VAI ACONTECER COM A KOMBI AGORA?? T.6 EP.46', 1683502284.0, 0.10797932686247322).
@@ -23249,8 +23627,8 @@ video('Travel & Events', 'Mundo Sem Fim', 'PRIMEIRAS IMPRESSÕES DE LAS VEGAS | 
 video('Travel & Events', 'Mundo Sem Fim', 'FOMOS ATÉ A AREA 51 - A base secreta dos EUA', 1646146826.0, 0.12429885470014679).
 video('Travel & Events', 'Mundo Sem Fim', 'PROVANDO COMIDAS DA ARGENTINA', 1650380417.0, 0.10281772250291489).
 video('Travel & Events', 'Mundo Sem Fim', 'VISITANDO UM SUPERMERCADO NA ARGENTINA', 1650718819.0, 0.08807749421873635).
-video('Travel & Events', 'Mundo Sem Fim', 'VOLTAMOS A VIAJAR (e agora é pra valer)', 1654614022.0, 0.14699038456347213).
 video('Travel & Events', 'Mundo Sem Fim', 'CRUZANDO A FRONTEIRA DA BOLÍVIA', 1654614022.0, 0.13431447596941337).
+video('Travel & Events', 'Mundo Sem Fim', 'VOLTAMOS A VIAJAR (e agora é pra valer)', 1654614022.0, 0.14699038456347213).
 video('Travel & Events', 'Mundo Sem Fim', 'PRIMEIRAS IMPRESSÕES NA BOLÍVIA', 1654952451.0, 0.1214191495795226).
 video('Travel & Events', 'Mundo Sem Fim', 'CONHECENDO A CAPITAL DA BOLÍVIA | Sucre', 1655557222.0, 0.10205372785672572).
 video('Travel & Events', 'Mundo Sem Fim', 'CHEGAMOS À JAMAICA', 1662476432.0, 0.13630745756246423).
@@ -23300,6 +23678,9 @@ video('Travel & Events', 'Shurastey or Shuraigow?', 'LUGARES HISTORICOS NA ROUTE
 video('Travel & Events', 'Sou Mochileiro', 'SOFRI UM ACIDENTE GRAVE NA INDIA 😢', 1690995605.0, 0.13975135188617138).
 video('Travel & Events', 'Traveleiros', 'TOUR MOTORHOME ANTIGO X NOVO', 1657753800.0, 0.11002747540846075).
 video('Travel & Events', 'Turistando SP', '3 SORVETERIAS INDISPENSÁVEIS EM SP', 1644532202.0, 0.07549395242525696).
+video('Travel & Events', 'Vem a mim língua russa', 'Cheguei em Moscou 🇷🇺 | Vlog viajando para Rússia pela primeira vez! Voo, hotel e cidade incrível #1', 1697826900.0, 0.1119426408956043).
+video('Travel & Events', 'Vem a mim língua russa', 'Cheguei em Moscou 🇷🇺 | Vlog viajando para Rússia pela primeira vez! Voo, hotel e cidade incrível', 1697826900.0, 0.12228188221302198).
+video('Travel & Events', 'Vem a mim língua russa', 'Conhecendo o maior shopping da Rússia e Europa | Moscou, preços e sanções #2', 1698159619.0, 0.134280416541804).
 video('Travel & Events', 'Viajante Explorador', 'TUDO PARADO de NOVO no MAIOR PERRENGUE DA VIAGEM ATÉ AGORA | SP a NATAL de G8 LD DA CATEDRAL (Ep 4)', 1672605009.0, 0.03564264580512512).
 video('Travel & Events', 'Vivendo Mundo Afora', 'PRECISAMOS NOS DESCONECTAR! T4.ep145', 1641250812.0, 0.1289489255458862).
 video('Travel & Events', 'Vivendo Mundo Afora', 'REALMENTE É GRAVE O PROBLEMA, VAMOS TER QUE PARAR! T4.ep161', 1643151610.0, 0.12925585117023405).
