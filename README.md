@@ -25,6 +25,7 @@
 ![](assets/img2.png)
 ![](assets/img3.png)
 ![](assets/img4.png)
+![](assets/projeto_rodando.gif)
 
 ## Instalação 
 **Linguagens**: Prolog<br>
@@ -40,26 +41,53 @@ sudo apt-get update
 sudo apt-get install swi-prolog
 ```
 
-## Uso 
-&emsp;&emsp; Para rodar nosso arquivo main.pl, você deve fazer os seguintes passos, contando que já tenha feito a instalação citada acima do Prolog:
+O `swi-prolog` também está empacotado no Debian. Para instalar direto do
+repositório oficial:
 
+```bash
+sudo apt install swi-prolog-full
+```
+
+É importante instalar o pacote `-full` para obter também a biblioteca gráfica
+utilizada pelo projeto (XPCE).
+
+## Uso 
+Para rodar nosso projeto você deve fazer os seguintes passos após realizar a
+instalação explicada acima.
+
+1. Clona o repositório e entra no diretório do projeto.
+```bash
+git clone https://github.com/UnBParadigmas2023-2/2023.2_G2_Logico_YouTubeRecommendation.git \
+    && cd 2023.2_G2_Logico_YouTubeRecommendation
+```
+
+2. Carrega o arquivo que contém o ponto de entrada principal do projeto dentro de uma REPL do `swi-prolog`.
 ```bash
 swipl -s src/main.pl
 ```
 
+3. Executa o ponto de entrada principal do projeto, abrindo o menu principal.
 ```bash
 main.
 ```
 
+A imagem a seguir ilustra os passos descritos acima:
+
+![](assets/manual1.png)
+
 Também é possível executar o projeto com o docker, utilizando o X11Forwarding. Segue comandos de execução com docker: 
+
+1. Constrói a imagem Docker contendo os requisitos necessários para executar o projeto.
 ```bash 
 make build 
 ```
 
+2. Cria um novo container Docker com base na imagem construida acima, e carrega o projeto em uma REPL do `swi-prolog`.
 ```bash
 make run
 ```
 
+3. Executa o ponto de entrada principal do projeto, abrindo o menu principal.
 ```bash
 main. 
 ```
@@ -108,3 +136,5 @@ O vídeo de apresentação está disponível em:
 - Inspirado em: https://github.com/UnBParadigmas2022-1/2022.1_G5_Logico_SpotifyRecommendation;
 - Interface gráfica(XPCE): https://eu.swi-prolog.org/packages/xpce/UserGuide/sec-A.1.html;
 - Marca uma ação para todas as ligações alternativas: https://www.swi-prolog.org/pldoc/man?predicate=forall/2
+- Notes about findall/3: https://github.com/dtonhofer/prolog_notes/blob/master/swipl_notes/about_findall/README.md
+- prolog_notes: https://github.com/dtonhofer/prolog_notes/tree/master/swipl_notes

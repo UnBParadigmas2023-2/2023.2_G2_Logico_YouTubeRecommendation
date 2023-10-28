@@ -9,7 +9,7 @@ menu :-
 menu_inicial(Dialog) :-
 	send(Dialog, clear),
   send(Dialog, append, new(BTS, dialog_group(buttons, group))),
-	new(Title, text('Bem-vindo a recomendacao do YouTube!\nEscolha o modo de recomendação:')),
+	new(Title, text('Bem-vindo a recomendação do YouTube!\nEscolha o modo de recomendação:')),
 	new(F, font(screen, bold, 20)),
 	send(Title, font(F)),
 	send(Dialog, size, size(800, 800)),
