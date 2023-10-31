@@ -95,8 +95,8 @@ main.
 ## Vídeo
 O vídeo de apresentação está disponível em:
 
-- Youtube: [ACESSO]()
-- GitHub: [ACESSO]()
+- Youtube: [ACESSO](https://youtu.be/E8mlnbpMwGY?si=RxZa6h3S-zWhzuo4)
+- GitHub: [ACESSO](assets/videoApresentacao.mp4)
 
 ## Participações
 |Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
